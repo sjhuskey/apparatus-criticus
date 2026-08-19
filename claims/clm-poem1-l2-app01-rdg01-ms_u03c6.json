@@ -1,0 +1,58 @@
+{
+  "id": "clm-poem1-l2-app01-rdg01-ms_u03c6",
+  "type": "attests_reading",
+  "target": {
+    "work": {
+      "id": "W_CALPURNIUS_POC"
+    },
+    "passage": {
+      "fallback": "1.2",
+      "local": "poem1-l2-app01"
+    }
+  },
+  "agent": {
+    "id": "MS_u03c6",
+    "name": "Witness φ"
+  },
+  "source": {
+    "id": "SRC_GIARRATANO_TEI",
+    "citation": "Giarratano (TEI-encoded apparatus), Calpurnius Siculus",
+    "locator": "1.2",
+    "tei_app": "poem1-l2-app01"
+  },
+  "created": "2026-01-13",
+  "updated": "2026-01-13",
+  "assertion": {
+    "reading": "quatinus",
+    "note": null
+  },
+  "evidence": [
+    {
+      "type": "witness_support",
+      "witnesses": [
+        "φ"
+      ]
+    },
+    {
+      "type": "taxonomy_tags",
+      "tags": [
+        "lexical"
+      ]
+    }
+  ],
+  "relations": [],
+  "provenance": {
+    "derived_from": {
+      "agent": {
+        "id": "A_GIARRATANO",
+        "name": "Giarratano, Cesar"
+      },
+      "source": {
+        "id": "SRC_GIARRATANO_TEI",
+        "citation": "Giarratano (TEI-encoded apparatus)"
+      },
+      "tei_app": "poem1-l2-app01",
+      "locator": "1.2"
+    }
+  }
+}

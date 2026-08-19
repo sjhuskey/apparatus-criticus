@@ -1,0 +1,52 @@
+{
+  "id": "clm-poem1-l13-app04-lem-ms_n",
+  "type": "attests_reading",
+  "target": {
+    "work": {
+      "id": "W_CALPURNIUS_POC"
+    },
+    "passage": {
+      "fallback": "1.13",
+      "local": "poem1-l13-app04"
+    }
+  },
+  "agent": {
+    "id": "MS_N",
+    "name": "Witness N"
+  },
+  "source": {
+    "id": "SRC_GIARRATANO_TEI",
+    "citation": "Giarratano (TEI-encoded apparatus), Calpurnius Siculus",
+    "locator": "1.13",
+    "tei_app": "poem1-l13-app04"
+  },
+  "created": "2026-01-13",
+  "updated": "2026-01-13",
+  "assertion": {
+    "reading": "Leuce",
+    "note": "Lemma."
+  },
+  "evidence": [
+    {
+      "type": "witness_support",
+      "witnesses": [
+        "N"
+      ]
+    }
+  ],
+  "relations": [],
+  "provenance": {
+    "derived_from": {
+      "agent": {
+        "id": "A_GIARRATANO",
+        "name": "Giarratano, Cesar"
+      },
+      "source": {
+        "id": "SRC_GIARRATANO_TEI",
+        "citation": "Giarratano (TEI-encoded apparatus)"
+      },
+      "tei_app": "poem1-l13-app04",
+      "locator": "1.13"
+    }
+  }
+}
