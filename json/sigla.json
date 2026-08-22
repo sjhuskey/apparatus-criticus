@@ -1,0 +1,750 @@
+[
+    {
+        "id": "N",
+        "siglum": {
+            "base": "N",
+            "superscript": null,
+            "display": "N"
+        },
+        "title": "Codex Neapolitanus V A 8",
+        "parent": null,
+        "group": "mss-first-family"
+    },
+    {
+        "id": "N1",
+        "siglum": {
+            "base": "N",
+            "superscript": "1",
+            "display": "N1"
+        },
+        "title": null,
+        "parent": "N",
+        "group": "mss-first-family"
+    },
+    {
+        "id": "N2",
+        "siglum": {
+            "base": "N",
+            "superscript": "2",
+            "display": "N2"
+        },
+        "title": null,
+        "parent": "N",
+        "group": "mss-first-family"
+    },
+    {
+        "id": "N3",
+        "siglum": {
+            "base": "N",
+            "superscript": "3",
+            "display": "N3"
+        },
+        "title": null,
+        "parent": "N",
+        "group": "mss-first-family"
+    },
+    {
+        "id": "G",
+        "siglum": {
+            "base": "G",
+            "superscript": null,
+            "display": "G"
+        },
+        "title": "Codex Gaddianus pl. 90, 12 inf.",
+        "parent": null,
+        "group": "mss-first-family"
+    },
+    {
+        "id": "G1",
+        "siglum": {
+            "base": "G",
+            "superscript": "1",
+            "display": "G1"
+        },
+        "title": null,
+        "parent": "G",
+        "group": "mss-first-family"
+    },
+    {
+        "id": "G2",
+        "siglum": {
+            "base": "G",
+            "superscript": "2",
+            "display": "G2"
+        },
+        "title": null,
+        "parent": "G",
+        "group": "mss-first-family"
+    },
+    {
+        "id": "V",
+        "siglum": {
+            "base": "V",
+            "superscript": null,
+            "display": "V"
+        },
+        "title": "Consensus of the second family mss.",
+        "parent": null,
+        "group": "mss-second-family"
+    },
+    {
+        "id": "α",
+        "siglum": {
+            "base": "α",
+            "superscript": null,
+            "display": "α"
+        },
+        "title": "Codex Ambrosianus O.74 sup.",
+        "parent": "V",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "α1",
+        "siglum": {
+            "base": "α",
+            "superscript": "1",
+            "display": "α1"
+        },
+        "title": null,
+        "parent": "α",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "α2",
+        "siglum": {
+            "base": "α",
+            "superscript": "2",
+            "display": "α2"
+        },
+        "title": null,
+        "parent": "α",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "β",
+        "siglum": {
+            "base": "β",
+            "superscript": null,
+            "display": "β"
+        },
+        "title": "Codex Ambrosianus I.26 sup.",
+        "parent": "V",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "β1",
+        "siglum": {
+            "base": "β",
+            "superscript": "1",
+            "display": "β1"
+        },
+        "title": null,
+        "parent": "β",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "β2",
+        "siglum": {
+            "base": "β",
+            "superscript": "2",
+            "display": "β2"
+        },
+        "title": null,
+        "parent": "β",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "δ",
+        "siglum": {
+            "base": "δ",
+            "superscript": null,
+            "display": "δ"
+        },
+        "title": "Codex Vratislaviensis Rehdigeranus 1.4.11",
+        "parent": "V",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "δ1",
+        "siglum": {
+            "base": "δ",
+            "superscript": "1",
+            "display": "δ1"
+        },
+        "title": null,
+        "parent": "δ",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "δ2",
+        "siglum": {
+            "base": "δ",
+            "superscript": "2",
+            "display": "δ2"
+        },
+        "title": null,
+        "parent": "δ",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "γ",
+        "siglum": {
+            "base": "γ",
+            "superscript": null,
+            "display": "γ"
+        },
+        "title": "Codex Vaticanus 3152",
+        "parent": "V",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "γ1",
+        "siglum": {
+            "base": "γ",
+            "superscript": "1",
+            "display": "γ1"
+        },
+        "title": null,
+        "parent": "γ",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "γ2",
+        "siglum": {
+            "base": "γ",
+            "superscript": "2",
+            "display": "γ2"
+        },
+        "title": null,
+        "parent": "γ",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "λ",
+        "siglum": {
+            "base": "λ",
+            "superscript": null,
+            "display": "λ"
+        },
+        "title": "Codex Laurentianus bibl. Aed. 203",
+        "parent": "V",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "λ1",
+        "siglum": {
+            "base": "λ",
+            "superscript": "1",
+            "display": "λ1"
+        },
+        "title": null,
+        "parent": "λ",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "λ2",
+        "siglum": {
+            "base": "λ",
+            "superscript": "2",
+            "display": "λ2"
+        },
+        "title": null,
+        "parent": "λ",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "ε",
+        "siglum": {
+            "base": "ε",
+            "superscript": null,
+            "display": "ε"
+        },
+        "title": "Codex Vaticanus Urbinas 353.",
+        "parent": "V",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "ε1",
+        "siglum": {
+            "base": "ε",
+            "superscript": "1",
+            "display": "ε1"
+        },
+        "title": null,
+        "parent": "ε",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "ε2",
+        "siglum": {
+            "base": "ε",
+            "superscript": "2",
+            "display": "ε2"
+        },
+        "title": null,
+        "parent": "ε",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "μ",
+        "siglum": {
+            "base": "μ",
+            "superscript": null,
+            "display": "μ"
+        },
+        "title": "Codex Vaticanus 2110",
+        "parent": "V",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "μ1",
+        "siglum": {
+            "base": "μ",
+            "superscript": "1",
+            "display": "μ1"
+        },
+        "title": null,
+        "parent": "μ",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "μ2",
+        "siglum": {
+            "base": "μ",
+            "superscript": "2",
+            "display": "μ2"
+        },
+        "title": null,
+        "parent": "μ",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "κ",
+        "siglum": {
+            "base": "κ",
+            "superscript": null,
+            "display": "κ"
+        },
+        "title": "Codex Riccardianus 724",
+        "parent": "V",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "κ1",
+        "siglum": {
+            "base": "κ",
+            "superscript": "1",
+            "display": "κ1"
+        },
+        "title": null,
+        "parent": "κ",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "κ2",
+        "siglum": {
+            "base": "κ",
+            "superscript": "2",
+            "display": "κ2"
+        },
+        "title": null,
+        "parent": "κ",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "φ",
+        "siglum": {
+            "base": "φ",
+            "superscript": null,
+            "display": "φ"
+        },
+        "title": "Codex Vaticanus Ottobonianus 1466",
+        "parent": "V",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "φ1",
+        "siglum": {
+            "base": "φ",
+            "superscript": "1",
+            "display": "φ1"
+        },
+        "title": null,
+        "parent": "φ",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "φ2",
+        "siglum": {
+            "base": "φ",
+            "superscript": "2",
+            "display": "φ2"
+        },
+        "title": null,
+        "parent": "φ",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "χ",
+        "siglum": {
+            "base": "χ",
+            "superscript": null,
+            "display": "χ"
+        },
+        "title": "Codex Vaticanus Reginensis 1759",
+        "parent": "V",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "χ1",
+        "siglum": {
+            "base": "χ",
+            "superscript": "1",
+            "display": "χ1"
+        },
+        "title": null,
+        "parent": "χ",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "χ2",
+        "siglum": {
+            "base": "χ",
+            "superscript": "2",
+            "display": "χ2"
+        },
+        "title": null,
+        "parent": "χ",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "ν",
+        "siglum": {
+            "base": "ν",
+            "superscript": null,
+            "display": "ν"
+        },
+        "title": "Codex Laurentianus pl. 37.14",
+        "parent": "V",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "ν1",
+        "siglum": {
+            "base": "ν",
+            "superscript": "1",
+            "display": "ν1"
+        },
+        "title": null,
+        "parent": "ν",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "ν2",
+        "siglum": {
+            "base": "ν",
+            "superscript": "2",
+            "display": "ν2"
+        },
+        "title": null,
+        "parent": "ν",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "π",
+        "siglum": {
+            "base": "π",
+            "superscript": null,
+            "display": "π"
+        },
+        "title": "Codex Vaticanus Palatinus 1652",
+        "parent": "V",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "π1",
+        "siglum": {
+            "base": "π",
+            "superscript": "1",
+            "display": "π1"
+        },
+        "title": null,
+        "parent": "π",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "π2",
+        "siglum": {
+            "base": "π",
+            "superscript": "2",
+            "display": "π2"
+        },
+        "title": null,
+        "parent": "π",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "η",
+        "siglum": {
+            "base": "η",
+            "superscript": null,
+            "display": "η"
+        },
+        "title": "Codex Vratislaviensis Rehdigeranus 1.4.10",
+        "parent": "V",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "η1",
+        "siglum": {
+            "base": "η",
+            "superscript": "1",
+            "display": "η1"
+        },
+        "title": null,
+        "parent": "η",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "η2",
+        "siglum": {
+            "base": "η",
+            "superscript": "2",
+            "display": "η2"
+        },
+        "title": null,
+        "parent": "η",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "ρ",
+        "siglum": {
+            "base": "ρ",
+            "superscript": null,
+            "display": "ρ"
+        },
+        "title": "Codex Riccardianus 636",
+        "parent": "V",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "ρ1",
+        "siglum": {
+            "base": "ρ",
+            "superscript": "1",
+            "display": "ρ1"
+        },
+        "title": null,
+        "parent": "ρ",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "ρ2",
+        "siglum": {
+            "base": "ρ",
+            "superscript": "2",
+            "display": "ρ2"
+        },
+        "title": null,
+        "parent": "ρ",
+        "group": "mss-second-family"
+    },
+    {
+        "id": null,
+        "siglum": {
+            "base": "A",
+            "superscript": null,
+            "display": "A"
+        },
+        "title": null,
+        "parent": "ρ",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "θ",
+        "siglum": {
+            "base": "θ",
+            "superscript": null,
+            "display": "θ"
+        },
+        "title": "Codex Gothanus 55",
+        "parent": "V",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "ζ",
+        "siglum": {
+            "base": "ζ",
+            "superscript": null,
+            "display": "ζ"
+        },
+        "title": "Codex Riccardianus 974",
+        "parent": "V",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "ζ1",
+        "siglum": {
+            "base": "ζ",
+            "superscript": "1",
+            "display": "ζ1"
+        },
+        "title": null,
+        "parent": "ζ",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "ζ2",
+        "siglum": {
+            "base": "ζ",
+            "superscript": "2",
+            "display": "ζ2"
+        },
+        "title": null,
+        "parent": "ζ",
+        "group": "mss-second-family"
+    },
+    {
+        "id": "P",
+        "siglum": {
+            "base": "P",
+            "superscript": null,
+            "display": "P"
+        },
+        "title": "Codex Parisinus 8049",
+        "parent": null,
+        "group": "mss-third-family"
+    },
+    {
+        "id": "P1",
+        "siglum": {
+            "base": "P",
+            "superscript": "1",
+            "display": "P1"
+        },
+        "title": null,
+        "parent": "P",
+        "group": "mss-third-family"
+    },
+    {
+        "id": "P2",
+        "siglum": {
+            "base": "P",
+            "superscript": "2",
+            "display": "P2"
+        },
+        "title": null,
+        "parent": "P",
+        "group": "mss-third-family"
+    },
+    {
+        "id": "A",
+        "siglum": {
+            "base": "A",
+            "superscript": null,
+            "display": "A"
+        },
+        "title": "cod. Germanicus Th. Ugoleti",
+        "parent": null,
+        "group": "mss-other-codices"
+    },
+    {
+        "id": "H",
+        "siglum": {
+            "base": "H",
+            "superscript": null,
+            "display": "H"
+        },
+        "title": "Readings in cod. Harleiani 2578 that appear to go back to the manuscript of Boccaccio or Th. Ugoletus (Taddeo Ugoleto)",
+        "parent": null,
+        "group": "mss-other-codices"
+    },
+    {
+        "id": "H1",
+        "siglum": {
+            "base": "H",
+            "superscript": "1",
+            "display": "H1"
+        },
+        "title": null,
+        "parent": "H",
+        "group": "mss-other-codices"
+    },
+    {
+        "id": "H2",
+        "siglum": {
+            "base": "H",
+            "superscript": "2",
+            "display": "H2"
+        },
+        "title": null,
+        "parent": "H",
+        "group": "mss-other-codices"
+    },
+    {
+        "id": "codVind",
+        "siglum": {
+            "base": "cod. Vindob.",
+            "superscript": null,
+            "display": "cod. Vindob."
+        },
+        "title": null,
+        "parent": null,
+        "group": "mss-other-codices"
+    },
+    {
+        "id": "ExcPar",
+        "siglum": {
+            "base": "Exc. Par.",
+            "superscript": null,
+            "display": "Exc. Par."
+        },
+        "title": "Combination of Exc. Par. Prior and Exc. Par. Alter (below)",
+        "parent": null,
+        "group": "mss-excerpts"
+    },
+    {
+        "id": "ExcParPrior",
+        "siglum": {
+            "base": "Exc. Par. Prior",
+            "superscript": null,
+            "display": "Exc. Par. Prior"
+        },
+        "title": "Thuaneus 7647",
+        "parent": "ExcPar",
+        "group": "mss-excerpts"
+    },
+    {
+        "id": "ExcParAlter",
+        "siglum": {
+            "base": "Exc. Par. Alter",
+            "superscript": null,
+            "display": "Exc. Par. Alter"
+        },
+        "title": "Nostradamensis 17903",
+        "parent": "ExcPar",
+        "group": "mss-excerpts"
+    },
+    {
+        "id": "ExcBon",
+        "siglum": {
+            "base": "Exc. Bon.",
+            "superscript": null,
+            "display": "Exc. Bon."
+        },
+        "title": "52 Busta II, n. 1",
+        "parent": null,
+        "group": "mss-excerpts"
+    },
+    {
+        "id": "ω",
+        "siglum": {
+            "base": "ω",
+            "superscript": null,
+            "display": "ω"
+        },
+        "title": "Consensus of all of the manuscripts",
+        "parent": null,
+        "group": "mss-consensus"
+    }
+]

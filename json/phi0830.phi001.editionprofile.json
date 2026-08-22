@@ -1,0 +1,55 @@
+{ 
+    "metadata": 
+    {
+        "id": "phi0830.phi001", 
+        "title": "Bucolica", 
+        "author": "Calpurnius Siculus", 
+        "editor": "Giarratano, Caesar", 
+        "publisher": "Detken et Rocholl", 
+        "year": "1910", 
+        "place": "Naples", 
+        "source": "https://hdl.handle.net/2027/uc1.b4506984"
+    },
+    "sigla": [
+        {"N": "codex Neapolitanus VA 8"},
+        {"G": "codex Gaddianus pl. 90, 12 inf."},
+        {"α": "codex Ambrosianus O.74 sup."},
+        {"β": "codex Ambrosianus I.26 sup."},
+        {"γ": "codex Vaticanus 3152"},
+        {"δ": "codex Vratislaviensis Rehdigeranus 1.4.11"},
+        {"ε": "codex Vaticanus Urbinas 353"},
+        {"ζ": "codex Riccardianus 974"},
+        {"η": "codex Vratislaviensis Rehdigeranus 1.4.10"},
+        {"θ": "codex Gothanus 55"},
+        {"κ": "codex Riccardianus 724"},
+        {"λ": "codex Laurentianus bibl. Aed. 203"},
+        {"μ": "codex Vaticanus 2110"},
+        {"ν": "codex Laurentianus p. 37.14"},
+        {"π": "codex Vaticanus Palatinus 1652"},
+        {"ρ": "codex Riccardianus 636"},
+        {"χ": "codex Vaticanus Reginensis 1759"},
+        {"φ": "codex Vaticanus Ottobonianus 1466"},
+        {"P": "codex Parisinus 8049"},
+        {"A": "cod. Germanicus Th. Ugoleti"},
+        {"H": "codex Harleiani 2578"},
+        {"cod. Vindob.": "codex Vindobonensis 305"},
+        {"Exc. Par. Prior": "Thuaneus 7647"},
+        {"Exc. Par. Alter": "Nostradamensis 17903"},
+        {"Exc. Par.": "Combination of Exc. Par. Prior and Exc. Par. Alter"},
+        {"Exc. Bon.": "52 Busta II, n. 1"},
+        {"V": "consensus of α, β, γ, δ, ε, ζ, η, θ, κ, λ, μ, ν, π, ρ, χ, φ"},
+        {"ω": "consensus of all of the manuscripts"}
+    ],
+    "conventions": [
+        {
+            "scope": "manuscripts",
+            "notation": "superscript numeral",
+            "meaning": "chronological order of readings recorded in a manuscript"
+    },
+    {
+        "scope": "editions",
+        "notation": "superscript numeral",
+        "meaning": "the ordinal number of the edition if there are multiple editions (e.g., first, second, third)"
+    }
+    ]
+}
