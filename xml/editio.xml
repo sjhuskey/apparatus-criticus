@@ -3312,8 +3312,8 @@
 
                         <bibl xml:id="Tig."><abbr type="siglum">Tig.</abbr> =
                                 <editor>Anonymous</editor>. <title>editio Tigurina</title>
-                            <pubPlace>Tiguri</pubPlace>: <pubPlace>apud Christophorum
-                                Froschouerum</pubPlace>, <date>1537</date>. URL: <ptr
+                            <pubPlace>Tiguri</pubPlace>: <publisher>apud Christophorum
+                                Froschouerum</publisher>, <date>1537</date>. URL: <ptr
                                 target="http://reader.digitale-sammlungen.de/resolve/display/bsb11088503.html"
                             />.</bibl>
 
@@ -3391,8 +3391,8 @@
                         <bibl xml:id="Wernsd."><abbr type="siglum">Wernsd.</abbr><title>ed.
                                 Wernsdorfii</title><editor>Wernsdorf, Iohannes Christianus.</editor>
                             <title>Poetae Latini Minores, Tomus Secundus</title>.
-                                <pubPlace>Altenburgi</pubPlace>: <pubPlace>ex officina
-                                Richteria</pubPlace>, <date>1780</date>. URL: <ptr
+                                <pubPlace>Altenburgi</pubPlace>: <publisher>ex officina
+                                Richteria</publisher>, <date>1780</date>. URL: <ptr
                                 target="https://books.google.ie/books?id=XohHAAAAYAAJ&amp;pg=PR1#v=onepage&amp;q&amp;f=false"
                             /></bibl>
 
@@ -3414,7 +3414,7 @@
                         <bibl xml:id="Baehr."><abbr type="siglum">Baehr.</abbr>ed. Baehrensii =
                                 <editor>Baehrens, Aemilius</editor>. <title>Poetae Latini Minores,
                                 Volumen III</title>. <pubPlace>Lipsiae</pubPlace>: <publisher>in
-                                aedibus B. G. Teubneri</publisher>, 1881. URL: <ptr
+                                aedibus B. G. Teubneri</publisher>, <date>1881</date>. URL: <ptr
                                 target="https://books.google.com/books?id=CjUOAAAAYAAJ&amp;pg=PA1#v=onepage&amp;q&amp;f=false"
                             /></bibl>
 
@@ -3442,7 +3442,7 @@
                         <bibl xml:id="Keene"><abbr type="siglum">Keene</abbr><editor>Keene, Charles
                                 Haines</editor>. <title>The Eclogues of Calpurnius Siculus and M.
                                 Aurelius Olympius Nemesianus</title>. <pubPlace>London</pubPlace>:
-                                <publisher>Bell</publisher>, 1887. URL: <ptr
+                                <publisher>Bell</publisher>, <date>1887</date>. URL: <ptr
                                 target="https://archive.org/details/ecloguesofcalpur00calpuoft"
                             /></bibl>
 
