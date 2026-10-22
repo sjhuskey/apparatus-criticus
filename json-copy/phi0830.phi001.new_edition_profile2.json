@@ -1,0 +1,1824 @@
+{
+    "metadata": {
+        "id": "'9c68a9c7-1ffe-4728-a503-def595776d9d'",
+        "work_id": "phi0830.phi001",
+        "work_title": "Bucolica",
+        "author": "Calpurnius Siculus",
+        "edition": {
+            "id": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
+            "editor": "Giarratano, Caesar",
+            "title": "Calpurnii et Nemesiani Bucolica",
+            "publisher": "Detken et Rocholl",
+            "year": "1910",
+            "place": "Naples",
+            "uri": "https://hdl.handle.net/2027/uc1.b4506984"
+        }
+    },
+    "sigla": [
+        {
+            "siglum": "N",
+            "name": "codex Neapolitanus VA 8",
+            "type": "manuscript",
+            "uuid": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
+            "label": "N",
+            "id": "N"
+        },
+        {
+            "siglum": "G",
+            "name": "codex Gaddianus pl. 90, 12 inf.",
+            "type": "manuscript",
+            "uuid": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
+            "label": "G",
+            "id": "G"
+        },
+        {
+            "siglum": "α",
+            "name": "codex Ambrosianus O.74 sup.",
+            "type": "manuscript",
+            "uuid": "urn:uuid:c295fc9f-988d-46e9-a43b-1d880157ca45",
+            "label": "α",
+            "id": "α"
+        },
+        {
+            "siglum": "β",
+            "name": "codex Ambrosianus I.26 sup.",
+            "type": "manuscript",
+            "uuid": "urn:uuid:1fb5c6d7-e0fa-4f9b-a33b-0e35bb675a93",
+            "label": "β",
+            "id": "β"
+        },
+        {
+            "siglum": "γ",
+            "name": "codex Vaticanus 3152",
+            "type": "manuscript",
+            "uuid": "urn:uuid:20c28232-5ab8-4e06-a4f1-1d672e5d692a",
+            "label": "γ",
+            "id": "γ"
+        },
+        {
+            "siglum": "δ",
+            "name": "codex Vratislaviensis Rehdigeranus 1.4.11",
+            "type": "manuscript",
+            "uuid": "urn:uuid:2e6148f0-40e8-49a7-9f3c-70d4091a2ac9",
+            "label": "δ",
+            "id": "δ"
+        },
+        {
+            "siglum": "ε",
+            "name": "codex Vaticanus Urbinas 353",
+            "type": "manuscript",
+            "uuid": "urn:uuid:ef896838-a18f-415d-9e5e-fb44ba27abd2",
+            "label": "ε",
+            "id": "ε"
+        },
+        {
+            "siglum": "ζ",
+            "name": "codex Riccardianus 974",
+            "type": "manuscript",
+            "uuid": "urn:uuid:d3ba44eb-f80a-48a9-b34e-48cb043f8731",
+            "label": "ζ",
+            "id": "ζ"
+        },
+        {
+            "siglum": "η",
+            "name": "codex Vratislaviensis Rehdigeranus 1.4.10",
+            "type": "manuscript",
+            "uuid": "urn:uuid:b2fbaa1c-8850-450d-83f2-c25d30a4cbe2",
+            "label": "η",
+            "id": "η"
+        },
+        {
+            "siglum": "θ",
+            "name": "codex Gothanus 55",
+            "type": "manuscript",
+            "uuid": "urn:uuid:6fa82def-c4c9-43b5-a271-f417a8343585",
+            "label": "θ",
+            "id": "θ"
+        },
+        {
+            "siglum": "κ",
+            "name": "codex Riccardianus 724",
+            "type": "manuscript",
+            "uuid": "urn:uuid:52fb95de-bce4-4c15-9e6d-b20967e32933",
+            "label": "κ",
+            "id": "κ"
+        },
+        {
+            "siglum": "λ",
+            "name": "codex Laurentianus bibl. Aed. 203",
+            "type": "manuscript",
+            "uuid": "urn:uuid:11aa79cd-2dd4-4660-a32f-51307fcbbb18",
+            "label": "λ",
+            "id": "λ"
+        },
+        {
+            "siglum": "μ",
+            "name": "codex Vaticanus 2110",
+            "type": "manuscript",
+            "uuid": "urn:uuid:1a46fa97-d0c9-40e3-9e01-b2f702c29731",
+            "label": "μ",
+            "id": "μ"
+        },
+        {
+            "siglum": "ν",
+            "name": "codex Laurentianus p. 37.14",
+            "type": "manuscript",
+            "uuid": "urn:uuid:f7d607ac-4fd1-4f8e-8b0a-ae2796af141f",
+            "label": "ν",
+            "id": "ν"
+        },
+        {
+            "siglum": "π",
+            "name": "codex Vaticanus Palatinus 1652",
+            "type": "manuscript",
+            "uuid": "urn:uuid:87709584-1c61-421f-bbee-d76a8c94638e",
+            "label": "π",
+            "id": "π"
+        },
+        {
+            "siglum": "ρ",
+            "name": "codex Riccardianus 636",
+            "type": "manuscript",
+            "uuid": "urn:uuid:82f7ff13-d777-4606-a48f-a6b0a023298b",
+            "label": "ρ",
+            "id": "ρ"
+        },
+        {
+            "siglum": "χ",
+            "name": "codex Vaticanus Reginensis 1759",
+            "type": "manuscript",
+            "uuid": "urn:uuid:8470035d-4a05-4b42-8cbc-98a14fa3f41d",
+            "label": "χ",
+            "id": "χ"
+        },
+        {
+            "siglum": "φ",
+            "name": "codex Vaticanus Ottobonianus 1466",
+            "type": "manuscript",
+            "uuid": "urn:uuid:ea3aba4e-5a9d-4cd1-a782-724d50639fe5",
+            "label": "φ",
+            "id": "φ"
+        },
+        {
+            "siglum": "P",
+            "name": "codex Parisinus 8049",
+            "type": "manuscript",
+            "uuid": "urn:uuid:813d3a5f-1fb8-4905-b10a-8dca34d64509",
+            "label": "P",
+            "id": "P"
+        },
+        {
+            "siglum": "A",
+            "name": "cod. Germanicus Th. Ugoleti",
+            "type": "manuscript",
+            "uuid": "urn:uuid:95b19ca1-7f6a-459b-a461-9697623d2284",
+            "label": "A",
+            "id": "A"
+        },
+        {
+            "siglum": "H",
+            "name": "codex Harleiani 2578",
+            "type": "manuscript",
+            "uuid": "urn:uuid:faec1200-3fd8-439d-879e-bc97a4f65c65",
+            "label": "H",
+            "id": "H"
+        },
+        {
+            "siglum": "codVind",
+            "name": "codex Vindobonensis 305",
+            "type": "manuscript",
+            "uuid": "urn:uuid:01d02372-3e24-4a06-8a3a-a889847051d4",
+            "label": "cod. Vindob.",
+            "id": "codVind"
+        },
+        {
+            "siglum": "ExcParPrior",
+            "name": "Thuaneus 7647",
+            "type": "manuscript",
+            "uuid": "urn:uuid:83c15102-ee0d-43f8-bd59-d41c6223dd62",
+            "label": "Exc. Par. Prior",
+            "id": "ExcParPrior"
+        },
+        {
+            "siglum": "ExcParAlter",
+            "name": "Nostradamensis 17903",
+            "type": "manuscript",
+            "uuid": "urn:uuid:80df9295-c256-43bc-98fb-df4f46317fd6",
+            "label": "Exc. Par. Alter",
+            "id": "ExcParAlter"
+        },
+        {
+            "siglum": "ExcPar",
+            "name": "Combination of Exc. Par. Prior and Exc. Par. Alter",
+            "type": "manuscript",
+            "uuid": "urn:uuid:ccb877c7-7e27-4613-8e72-ae8889f1cc5a",
+            "label": "Exc. Par.",
+            "id": "ExcPar"
+        },
+        {
+            "siglum": "ExcBon",
+            "name": "52 Busta II, n. 1",
+            "type": "manuscript",
+            "uuid": "urn:uuid:2d93dae8-840c-4160-b94a-8b9c77a90901",
+            "label": "Exc. Bon.",
+            "id": "ExcBon"
+        },
+        {
+            "siglum": "V",
+            "name": "consensus of α, β, γ, δ, ε, ζ, η, θ, κ, λ, μ, ν, π, ρ, χ, φ",
+            "meaning": "All members of manuscript group V except for those specified elsewhere in this note.",
+            "members": [
+                "c295fc9f-988d-46e9-a43b-1d880157ca45",
+                "1fb5c6d7-e0fa-4f9b-a33b-0e35bb675a93",
+                "20c28232-5ab8-4e06-a4f1-1d672e5d692a",
+                "2e6148f0-40e8-49a7-9f3c-70d4091a2ac9",
+                "ef896838-a18f-415d-9e5e-fb44ba27abd2",
+                "d3ba44eb-f80a-48a9-b34e-48cb043f8731",
+                "b2fbaa1c-8850-450d-83f2-c25d30a4cbe2",
+                "6fa82def-c4c9-43b5-a271-f417a8343585",
+                "52fb95de-bce4-4c15-9e6d-b20967e32933",
+                "11aa79cd-2dd4-4660-a32f-51307fcbbb18",
+                "1a46fa97-d0c9-40e3-9e01-b2f702c29731",
+                "f7d607ac-4fd1-4f8e-8b0a-ae2796af141f",
+                "87709584-1c61-421f-bbee-d76a8c94638e",
+                "82f7ff13-d777-4606-a48f-a6b0a023298b",
+                "8470035d-4a05-4b42-8cbc-98a14fa3f41d",
+                "ea3aba4e-5a9d-4cd1-a782-724d50639fe5"
+            ],
+            "type": "manuscript_group",
+            "uuid": "urn:uuid:add756d3-deb4-4441-8bdf-3675aa7a0a96",
+            "label": "V",
+            "id": "V"
+        },
+        {
+            "siglum": "ω",
+            "name": "consensus of all of the manuscripts",
+            "meaning": "All manuscripts not otherwise specified in this note.",
+            "type": "manuscript_group",
+            "members": [
+                "df0c6a41-bf05-456a-b449-30722c41fdf2",
+                "5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
+                "c295fc9f-988d-46e9-a43b-1d880157ca45",
+                "1fb5c6d7-e0fa-4f9b-a33b-0e35bb675a93",
+                "20c28232-5ab8-4e06-a4f1-1d672e5d692a",
+                "2e6148f0-40e8-49a7-9f3c-70d4091a2ac9",
+                "ef896838-a18f-415d-9e5e-fb44ba27abd2",
+                "d3ba44eb-f80a-48a9-b34e-48cb043f8731",
+                "b2fbaa1c-8850-450d-83f2-c25d30a4cbe2",
+                "6fa82def-c4c9-43b5-a271-f417a8343585",
+                "52fb95de-bce4-4c15-9e6d-b20967e32933",
+                "11aa79cd-2dd4-4660-a32f-51307fcbbb18",
+                "1a46fa97-d0c9-40e3-9e01-b2f702c29731",
+                "f7d607ac-4fd1-4f8e-8b0a-ae2796af141f",
+                "87709584-1c61-421f-bbee-d76a8c94638e",
+                "82f7ff13-d777-4606-a48f-a6b0a023298b",
+                "8470035d-4a05-4b42-8cbc-98a14fa3f41d",
+                "ea3aba4e-5a9d-4cd1-a782-724d50639fe5",
+                "813d3a5f-1fb8-4905-b10a-8dca34d64509",
+                "95b19ca1-7f6a-459b-a461-9697623d2284",
+                "faec1200-3fd8-439d-879e-bc97a4f65c65",
+                "01d02372-3e24-4a06-8a3a-a889847051d4",
+                "83c15102-ee0d-43f8-bd59-d41c6223dd62",
+                "80df9295-c256-43bc-98fb-df4f46317fd6",
+                "ccb877c7-7e27-4613-8e72-ae8889f1cc5a",
+                "2d93dae8-840c-4160-b94a-8b9c77a90901",
+                "add756d3-deb4-4441-8bdf-3675aa7a0a96",
+                "71191de5-3a33-4bfd-b99f-a30ef53275bb"
+            ],
+            "uuid": "urn:uuid:71191de5-3a33-4bfd-b99f-a30ef53275bb",
+            "label": "ω",
+            "id": "ω"
+        },
+        {
+            "siglum": "Romana",
+            "editor": "Anonymous",
+            "title": "editio Romana",
+            "place": "[Romae]",
+            "publisher": "Schweynheim et Pannartz",
+            "year": "1471",
+            "type": "early_edition",
+            "uuid": "urn:uuid:bd1b0ef3-6a75-4927-b348-1c722cfafffd",
+            "label": "editio Romana",
+            "id": "Romana"
+        },
+        {
+            "siglum": "e",
+            "editor": "Anonymous",
+            "title": "editio Veneta",
+            "place": "[Venetiis]",
+            "publisher": "Ausonius et Giradinus",
+            "year": "1472",
+            "type": "early_edition",
+            "uuid": "urn:uuid:993d93e4-d3ab-48f1-9c94-ca00574da36b",
+            "label": "e",
+            "id": "e"
+        },
+        {
+            "siglum": "d",
+            "note": "Agreement of both Daventrian editions (d1 and d2)",
+            "members": [
+                "24215b05-f8e1-4369-90a4-4ef6bc55a86f",
+                "fa9682ad-ffef-4997-af02-44273567bc77"
+            ],
+            "type": "edition_group",
+            "uuid": "urn:uuid:65bc0a7e-4593-4ebb-96ac-cb70dc13ee33",
+            "label": "d",
+            "id": "d"
+        },
+        {
+            "siglum": "d1",
+            "title": "editio Daventriensis prior",
+            "place": "[Daventriae]",
+            "publisher": "apud R. Paffraet",
+            "year": "1488",
+            "url": "http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&res_dat=xri:eurobo:&rft_dat=xri:eurobo:rec:ned-kbn-all-00001955-001",
+            "type": "early_edition",
+            "uuid": "urn:uuid:24215b05-f8e1-4369-90a4-4ef6bc55a86f",
+            "label": "d1",
+            "id": "d1"
+        },
+        {
+            "siglum": "d2",
+            "title": "editio Daventriensis posterior",
+            "place": "[Daventriae]",
+            "publisher": "apud J. de Breda",
+            "year": "1491",
+            "url": "http://daten.digitale-sammlungen.de/~db/0008/bsb00080128/images/",
+            "type": "early_edition",
+            "uuid": "urn:uuid:fa9682ad-ffef-4997-af02-44273567bc77",
+            "label": "d2",
+            "id": "d2"
+        },
+        {
+            "siglum": "u",
+            "title": "editio Ang. Ugoleti",
+            "place": "Parmae",
+            "publisher": "Angelus Ugoletus",
+            "year": "1492",
+            "type": "early_edition",
+            "uuid": "urn:uuid:0411a4f4-cb66-49a6-af8b-c7c0a297275a",
+            "label": "u",
+            "id": "u"
+        },
+        {
+            "siglum": "c",
+            "title": "editio Coloniensis (Buccolica canori poetae Titi Calphurnii Siculi undecim Aeglogis iucunditer decantata)",
+            "place": "Coloniae",
+            "publisher": "[Henricus Quintell]",
+            "year": "1505(?)",
+            "url": "http://digitale.bibliothek.uni-halle.de/vd16/content/titleinfo/1000626",
+            "type": "early_edition",
+            "uuid": "urn:uuid:e8a8001d-e1e1-4765-b791-18b5f0c3fef6",
+            "label": "c",
+            "id": "c"
+        },
+        {
+            "siglum": "Nordh.",
+            "title": "ed. Nordheimensis",
+            "place": "[Nordheim]",
+            "publisher": "s.n.",
+            "year": "s.d.",
+            "type": "early_edition",
+            "uuid": "urn:uuid:b39cf81d-8841-46d4-9cf4-abd4582b30d6",
+            "label": "Nordh.",
+            "id": "Nordh"
+        },
+        {
+            "siglum": "s",
+            "title": "editio Ascensiana",
+            "place": "Parhisiis, in vico Maturinorum",
+            "publisher": "a Durando Gerlerio",
+            "year": "1503",
+            "url": "http://gallica.bnf.fr/ark:/12148/bpt6k841539v",
+            "type": "early_edition",
+            "uuid": "urn:uuid:43362037-8f5c-4dfb-a4d9-a2d83d6be0de",
+            "label": "s",
+            "id": "s"
+        },
+        {
+            "siglum": "b",
+            "title": "editio Bononiensis",
+            "place": "Bononiae",
+            "publisher": "per Caligulam Bazalerium",
+            "year": "1504",
+            "url": "https://books.google.com/books?id=B1RrV7ciP6gC&pg=PT3#v=onepage&q&f=false",
+            "type": "early_edition",
+            "uuid": "urn:uuid:a3192bb0-d086-490a-b91a-a60798575d71",
+            "label": "b",
+            "id": "b"
+        },
+        {
+            "siglum": "i",
+            "note": "Agreement of both Florentine editions (i1 and i2)",
+            "members": [
+                "7dd7c67c-3065-41e6-8e12-e22071dd59b0",
+                "5987ccec-58c3-4a16-9dab-fcccb6fb21af"
+            ],
+            "type": "edition_group",
+            "uuid": "urn:uuid:3648f9ea-1f10-4711-aba3-235ad1e80df1",
+            "label": "i",
+            "id": "i"
+        },
+        {
+            "siglum": "i1",
+            "editor": "Anonymous",
+            "title": "editio Florentina prior",
+            "place": "Florentiae",
+            "publisher": "Philippi de Giunta",
+            "year": "1504",
+            "url": "https://books.google.com/books?id=LVJmAAAAcAAJ&pg=PP7#v=onepage&q&f=false",
+            "type": "modern_edition",
+            "uuid": "urn:uuid:7dd7c67c-3065-41e6-8e12-e22071dd59b0",
+            "label": "i1",
+            "id": "i1"
+        },
+        {
+            "siglum": "i2",
+            "editor": "Anonymous",
+            "title": "editio Florentina posterior",
+            "place": "Florentiae",
+            "publisher": "apud Philippum Iunctam",
+            "year": "1590",
+            "url": "https://books.google.com/books?id=9SEvnoZgKe4C&pg=PR1#v=onepage&q&f=false",
+            "type": "modern_edition",
+            "uuid": "urn:uuid:5987ccec-58c3-4a16-9dab-fcccb6fb21af",
+            "label": "i2",
+            "id": "i2"
+        },
+        {
+            "siglum": "l",
+            "note": "Agreement of both Aldine editions (l1 and l2)",
+            "members": [
+                "c3169712-2be3-4fdc-bccf-64a968eb67e6",
+                "8d2eae76-f759-487e-bcab-1fd3222f3830"
+            ],
+            "type": "edition_group",
+            "uuid": "urn:uuid:b4878960-2961-47d1-bb7f-300569e71163",
+            "label": "l",
+            "id": "l"
+        },
+        {
+            "siglum": "l1",
+            "editor": "Anonymous",
+            "title": "editio Aldina prior",
+            "place": "Venetiis",
+            "publisher": "in aedibus Aldi, et Andreae Soceri",
+            "year": "1518",
+            "url": "http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&res_dat=xri:eurobo:&rft_dat=xri:eurobo:rec:ita-bnc-ald-00000030-001",
+            "type": "modern_edition",
+            "uuid": "urn:uuid:c3169712-2be3-4fdc-bccf-64a968eb67e6",
+            "label": "l1",
+            "id": "l1"
+        },
+        {
+            "siglum": "l2",
+            "editor": "Anonymous",
+            "title": "editio Aldina posterior",
+            "place": "Venetiis",
+            "publisher": "in aedibus heredum Aldi Manutii, et Andreae Soceri",
+            "year": "1519",
+            "url": "https://books.google.com/books?id=EYg6AAAAcAAJ&pg=PA1#v=onepage&q&f=false",
+            "type": "modern_edition",
+            "uuid": "urn:uuid:8d2eae76-f759-487e-bcab-1fd3222f3830",
+            "label": "l2",
+            "id": "l2"
+        },
+        {
+            "siglum": "n",
+            "editor": "Brassicanus, Johannes Alexander",
+            "title": "editio Brassicani",
+            "place": "Argentorati (Strasbourg)",
+            "publisher": "Iohannis Knoblochus",
+            "year": "1519",
+            "url": "https://books.google.com/books?id=n8JSAAAAcAAJ&pg=PA1#v=onepage&q&f=false",
+            "type": "modern_edition",
+            "uuid": "urn:uuid:2bbf63a9-c6c2-43d9-ae64-164c2517199a",
+            "label": "n",
+            "id": "n"
+        },
+        {
+            "siglum": "Vienn.",
+            "editor": "Anonymous",
+            "title": "ed. Viennensis",
+            "place": "s.l.",
+            "year": "s.d.",
+            "type": "modern_edition",
+            "uuid": "urn:uuid:156932bd-d79f-4b3f-b3c2-241f78702529",
+            "label": "Vienn.",
+            "id": "Vienn"
+        },
+        {
+            "siglum": "g",
+            "editor": "Logus, Georgius",
+            "title": "editio Augustana",
+            "place": "Augustae Vindelicorum",
+            "publisher": "in officina Henrici Steyner",
+            "year": "1534",
+            "url": "http://daten.digitale-sammlungen.de/~db/0003/bsb00038602/images/",
+            "type": "modern_edition",
+            "uuid": "urn:uuid:ad39a365-3052-4616-877c-c5b254958bd9",
+            "label": "g",
+            "id": "g"
+        },
+        {
+            "siglum": "Tig.",
+            "editor": "Anonymous",
+            "title": "editio Tigurina",
+            "place": "Tiguri",
+            "publisher": "apud Christophorum Froschouerum",
+            "year": "1537",
+            "url": "http://reader.digitale-sammlungen.de/resolve/display/bsb11088503.html",
+            "type": "modern_edition",
+            "uuid": "urn:uuid:65864724-8acd-47fb-9b37-257d3a3565c7",
+            "label": "Tig.",
+            "id": "Tig"
+        },
+        {
+            "siglum": "Gryph.",
+            "editor": "Anonymous",
+            "title": "editio Gryph.",
+            "place": "Lugduni",
+            "publisher": "apud Seb. Gyrphium",
+            "year": "1537",
+            "url": "https://books.google.com/books?id=JpJXAAAAcAAJ&pg=PA1#v=onepage&q&f=false",
+            "type": "modern_edition",
+            "uuid": "urn:uuid:9f0c4422-60c1-4c10-8ea5-8e3232466b74",
+            "label": "Gryph.",
+            "id": "Gryph"
+        },
+        {
+            "siglum": "o",
+            "editor": "Anonymous",
+            "title": "ed. Oporiniana",
+            "place": "Basileae",
+            "publisher": "Johannes Oporinus",
+            "year": "1546",
+            "url": "https://books.google.com/books?id=cKqCwvkRiTgC&pg=PP5#v=onepage&q&f=false",
+            "type": "modern_edition",
+            "uuid": "urn:uuid:317ab8e7-fcd8-4ce2-af47-0e9d3b502336",
+            "label": "o",
+            "id": "o"
+        },
+        {
+            "siglum": "p",
+            "editor": "Pithoeus, Petrus",
+            "title": "ed. Pithoeana",
+            "place": "Parisiis",
+            "publisher": "Dionysius Duvallius",
+            "year": "1590",
+            "url": "https://books.google.com/books?id=F_E6AAAAcAAJ&pg=PR6#v=onepage&q&f=false",
+            "type": "modern_edition",
+            "uuid": "urn:uuid:3cca9017-d15e-402a-81bd-35be86dcec4a",
+            "label": "p",
+            "id": "p"
+        },
+        {
+            "siglum": "edAurel",
+            "editor": "Anonymous",
+            "title": "Corpus omnium veterum poetarum latinorum (Volumen Secundum)",
+            "place": "Aureliae Allobrogum",
+            "publisher": "Samuel Crispinus",
+            "year": "1611",
+            "url": "https://books.google.com/books?id=Q-EPAAAAQAAJ&pg=PP5#v=onepage&q&f=false",
+            "type": "modern_edition",
+            "uuid": "urn:uuid:72b4de81-64be-4a01-b41d-a938c401a774",
+            "label": "Aurel.",
+            "id": "edAurel"
+        },
+        {
+            "siglum": "Barth1613",
+            "editor": "Barthius, Casparus",
+            "title": "Venatici Et Bvcolici Poetae Latini, Gratius, Nemesianus, Calpurnius, In Germania hactenus non editi, nunc Commentariis luculentis explanati ; Addita Fragmenta Vespricii Spvrinnae Scriptoris numquam hactenus publicati ; Ad Clariss. Virum Isaac. Casavbonvm",
+            "place": "Hanoviae",
+            "publisher": "In Bibliopolio Willieriano",
+            "year": "1613",
+            "url": "https://books.google.com/books?id=SEVXAAAAcAAJ&pg=PP7#v=onepage&q&f=false",
+            "type": "modern_edition",
+            "uuid": "urn:uuid:198d9eb9-4f91-45ae-a87e-f1dca0997717",
+            "label": "Barth 1613",
+            "id": "Barth1613"
+        },
+        {
+            "siglum": "Ulit.",
+            "editor": "Ulitius, Ianus",
+            "title": "ed. Ulitii",
+            "place": "Leidae",
+            "publisher": "Ex Officina Elzeveriana",
+            "year": "1645",
+            "url": "https://books.google.com/books?id=Yb09AAAAcAAJ&pg=PR4#v=onepage&q&f=false",
+            "type": "modern_edition",
+            "uuid": "urn:uuid:47e5f301-0070-4036-99c6-11bdd756559a",
+            "label": "Ulit.",
+            "id": "Ulit"
+        },
+        {
+            "siglum": "h",
+            "editor": "Anonymous",
+            "title": "Poetae Latini Rei Venaticae Scriptores et Bucolici Antiqui",
+            "place": "Lugduni Batavorum et Hagae Comitum",
+            "year": "1728",
+            "url": "https://books.google.com/books?id=nJVAAAAAcAAJ&pg=PP9#v=onepage&q&f=false",
+            "type": "modern_edition",
+            "uuid": "urn:uuid:ecdfab6c-0668-4fb9-bda6-f532e514756a",
+            "label": "h",
+            "id": "h"
+        },
+        {
+            "siglum": "Burm1731",
+            "editor": "Burmannus, Petrus (Pieter Burman)",
+            "title": "editio Burmanni",
+            "place": "Leidae",
+            "publisher": "apud Conradum Wishoff et Danielem Goedval",
+            "year": "1731",
+            "url": "https://books.google.com/books?id=uKZAAAAAcAAJ&pg=PP9#v=onepage&q&f=false",
+            "type": "modern_edition",
+            "uuid": "urn:uuid:79419300-6c6f-4b9c-988d-be2fc9645392",
+            "label": "Burm. 1731",
+            "id": "Burm1731"
+        },
+        {
+            "siglum": "t",
+            "editor": "Anonymous",
+            "title": "ed. Mitaviensis",
+            "place": "Mitaviae",
+            "publisher": "apud Jacob. Frider. Hinzium",
+            "year": "1774",
+            "url": "https://books.google.com/books?id=eNUpAAAAYAAJ&pg=PP11#v=onepage&q&f=false",
+            "type": "modern_edition",
+            "uuid": "urn:uuid:17cdce31-1d4c-4261-9288-4a68df034016",
+            "label": "t",
+            "id": "t"
+        },
+        {
+            "siglum": "Wernsd.",
+            "editor": "Wernsdorf, Iohannes Christianus.",
+            "title": "ed. Wernsdorfii",
+            "place": "Altenburgi",
+            "publisher": "ex officina Richteria",
+            "year": "1780",
+            "url": "https://books.google.ie/books?id=XohHAAAAYAAJ&pg=PR1#v=onepage&q&f=false",
+            "type": "modern_edition",
+            "uuid": "urn:uuid:8e9640ff-7b06-41ce-87a9-3e66001ca8cc",
+            "label": "Wernsd.",
+            "id": "Wernsd"
+        },
+        {
+            "siglum": "Beck",
+            "editor": "Beck, Christian Daniel",
+            "title": "T. Calpurnii Siculi Eclogae XI",
+            "place": "Lipsiae",
+            "publisher": "in libraria Weidmannia",
+            "year": "1803",
+            "url": "https://books.google.com/books?id=w6QBAAAAYAAJ&pg=PR2#v=onepage&q&f=false",
+            "type": "modern_edition",
+            "uuid": "urn:uuid:a24b23f6-e144-41e7-badb-52790e195e60",
+            "label": "Beck",
+            "id": "Beck"
+        },
+        {
+            "siglum": "Glaeser",
+            "editor": "Glaeser, C. E.",
+            "title": "T. Calpurnii Siculi Eclogae",
+            "place": "Gottingae",
+            "publisher": "sumptibus Dieterichianis",
+            "year": "1842",
+            "url": "https://books.google.com/books?id=4sdEAAAAIAAJ&pg=PP5#v=onepage&q&f=false",
+            "type": "modern_edition",
+            "uuid": "urn:uuid:475edb73-ed20-45ab-83c4-0bd344518a1b",
+            "label": "Glaeser",
+            "id": "Glaeser"
+        },
+        {
+            "siglum": "Baehr.",
+            "editor": "Baehrens, Aemilius",
+            "title": "Poetae Latini Minores, Volumen III",
+            "place": "Lipsiae",
+            "publisher": "in aedibus B. G. Teubneri",
+            "year": "1881",
+            "url": "https://books.google.com/books?id=CjUOAAAAYAAJ&pg=PA1#v=onepage&q&f=false",
+            "type": "modern_edition",
+            "uuid": "urn:uuid:cfc80e76-a9ce-498e-969d-cfe3c8bf70cc",
+            "label": "Baehr.",
+            "id": "Baehr"
+        },
+        {
+            "siglum": "Schenkl",
+            "note": "Agreement of both Schenkl editions (Schenkl1 and Schenkl2)",
+            "type": "edition_group",
+            "members": [
+                "addd722a-04cb-4d67-a04c-f838475010c3",
+                "d1d8f639-1a12-463f-b579-d71ec86b5e2a"
+            ],
+            "uuid": "urn:uuid:cb9bb02a-037b-40ba-9c76-b03555a5cd45",
+            "label": "Schenkl",
+            "id": "Schenkl"
+        },
+        {
+            "siglum": "Schenkl1",
+            "editor": "Schenkl, Henricus",
+            "title": "Calpurnii et Nemesiani Bucolica",
+            "place": "Lipsiae",
+            "year": "1885",
+            "url": "https://books.google.com/books?id=kuVGAQAAIAAJ&pg=PR1#v=onepage&q&f=false",
+            "type": "modern_edition",
+            "uuid": "urn:uuid:addd722a-04cb-4d67-a04c-f838475010c3",
+            "label": "Schenkl1",
+            "id": "Schenkl1"
+        },
+        {
+            "siglum": "Schenkl2",
+            "editor": "Schenkl, Henricus",
+            "title": "T. Calpurni Siculi Bucolica",
+            "url": "https://books.google.com/books?id=_DMOAAAAYAAJ&pg=RA1-PA194#v=onepage&q&f=false",
+            "type": "modern_edition",
+            "uuid": "urn:uuid:d1d8f639-1a12-463f-b579-d71ec86b5e2a",
+            "label": "Schenkl2",
+            "id": "Schenkl2"
+        },
+        {
+            "siglum": "Keene",
+            "editor": "Keene, Charles Haines",
+            "title": "The Eclogues of Calpurnius Siculus and M. Aurelius Olympius Nemesianus",
+            "place": "London",
+            "publisher": "Bell",
+            "year": "1887",
+            "url": "https://archive.org/details/ecloguesofcalpur00calpuoft",
+            "type": "modern_edition",
+            "uuid": "urn:uuid:84bba6b6-f355-449c-84da-406bf435a992",
+            "label": "Keene",
+            "id": "Keene"
+        },
+        {
+            "siglum": "Giarratano",
+            "editor": "Giarratano, Caesar",
+            "title": "Calpurnii et Nemesiani Bucolica",
+            "place": "Neapoli",
+            "year": "1910",
+            "url": "https://books.google.com/books?id=4sdEAAAAIAAJ&pg=PP5#v=onepage&q&f=false",
+            "type": "modern_edition",
+            "uuid": "urn:uuid:420cf6be-856a-47ba-87e0-b5abb03e0500",
+            "label": "Giarratano",
+            "id": "Giarratano"
+        }
+    ],
+    "secondary_sources": [
+        {
+            "abbreviation": "Baehr. 1870",
+            "editor": "Baehrens, Emil",
+            "title": "Lectiones Latinae",
+            "place": "Bonn",
+            "publisher": "Carolus Georgus",
+            "year": "1870",
+            "url": "https://books.google.com/books?id=a6FMAAAAcAAJ&pg=PT4#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:5b3075af-8238-4e17-9f33-69a35ea2757a",
+            "label": "Baehr.",
+            "id": "Baehr1870"
+        },
+        {
+            "abbreviation": "Baehr. 1872",
+            "author": "Baehrens, Emil",
+            "article_title": "Zu Calpurnius",
+            "journal_title": "Rheinisches Museum für Philologie",
+            "volume": "27",
+            "pagination": "186",
+            "year": "1872",
+            "url": "http://www.rhm.uni-koeln.de/027/M-Baehrens2.pdf",
+            "type": "journal_article",
+            "uuid": "urn:uuid:35bf5601-5f14-43b9-8e19-ffb5b95e32c0",
+            "label": "Baehr.",
+            "id": "Baehr1872"
+        },
+        {
+            "abbreviation": "Barth 1624",
+            "author": "Barth, Kaspar von",
+            "title": "Adversariorum Commentariorum Libri LX",
+            "place": "Francofurti",
+            "publisher": "Typis Wechelianis, apud Danielem & Davidem Aubrios, & Clementem Schleichium",
+            "year": "1624",
+            "url": "https://books.google.com/books?id=-DVOAAAAYAAJ&pg=PA65#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:8e4a51b8-49b9-44ea-a752-fc32d13ed481",
+            "label": "Barth 1624",
+            "id": "Barth1624"
+        },
+        {
+            "abbreviation": "Barth 1650",
+            "editor": "Barth, Kaspar von",
+            "title": "Cl. Claudiani, Principum, Heroumque Poetae Praegloriosissimi, Quae Extant",
+            "place": "Francofurti",
+            "publisher": "apud Joannem Naumannum bibliop. Hamburgensem",
+            "year": "1650",
+            "url": "https://books.google.com/books?id=rCKBqXCArqIC&pg=PP13#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:73211b5e-f9da-48b4-b6f1-525651d282b4",
+            "label": "Barth 1650",
+            "id": "Barth1650"
+        },
+        {
+            "abbreviation": "Bartholinus 1647",
+            "author": "Bartholinus, Thomas",
+            "title": "De Luce animalium libri III",
+            "place": "Lugdunum Batavorum",
+            "publisher": "Ex officina F. Hackii",
+            "year": "1647",
+            "url": "https://books.google.com/books?id=R-f-lEMwFq0C&pg=PR4#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:8e776086-28f2-4ccd-900a-239eedbe457f",
+            "label": "Bartholinus",
+            "id": "Bartholinus1647"
+        },
+        {
+            "abbreviation": "Bergk 1865",
+            "author": "Bergk, Theodor",
+            "article_title": "Philologische Thesen",
+            "journal_title": "Rheinisches Museum für Philologie",
+            "volume": "20",
+            "pagination": "288–92",
+            "year": "1865",
+            "url": "http://www.rhm.uni-koeln.de/020/M-Bergk.pdf",
+            "type": "journal_article",
+            "uuid": "urn:uuid:11d688cd-ecf7-43f2-9e04-2b0c2b0c890d",
+            "label": "Bergk",
+            "id": "Bergk1865"
+        },
+        {
+            "abbreviation": "Brantsma 1772",
+            "author": "Brantsma, Pieter",
+            "title": "Specimen Observationum",
+            "place": "Franequerae",
+            "publisher": "s.n.",
+            "year": "1772",
+            "type": "book",
+            "uuid": "urn:uuid:387343e3-6e69-46c7-b495-a411b9f8ebef",
+            "label": "Brantsma",
+            "id": "Brantsma1772"
+        },
+        {
+            "abbreviation": "Buecheler 1860",
+            "author": "Buecheler, Franz",
+            "article_title": "Coniectanea critica (in Plautum, Pervigilium Veneris, Theocritum).",
+            "journal_title": "Rheinisches Museum für Philologie",
+            "volume": "15",
+            "pagination": "428–57",
+            "year": "1860",
+            "url": "http://www.rhm.uni-koeln.de/015/Buecheler2.pdf",
+            "type": "journal_article",
+            "uuid": "urn:uuid:11dc731a-5f8b-4b7f-b5c7-6f08256e7370",
+            "label": "Buecheler 1860",
+            "id": "Buecheler1860"
+        },
+        {
+            "abbreviation": "Buecheler 1871",
+            "author": "Buecheler, Franz",
+            "article_title": "Zur Höfische Poesie Unter Nero",
+            "journal_title": "Rheinisches Museum für Philologie",
+            "pagination": "235–40",
+            "year": "1871",
+            "url": "http://www.rhm.uni-koeln.de/026/Buecheler1.pdf",
+            "type": "journal_article",
+            "uuid": "urn:uuid:79325f29-8ac8-4336-8458-567a417e512f",
+            "label": "Buecheler 1871",
+            "id": "Buecheler1871"
+        },
+        {
+            "abbreviation": "Buecheler 1907",
+            "author": "Buecheler, Franz",
+            "article_title": "Grammatica et Epigraphica",
+            "journal_title": "Glotta",
+            "volume": "1",
+            "pagination": "1–9",
+            "year": "1907",
+            "url": "https://archive.org/details/glottazeitschri00kretgoog",
+            "type": "journal_article",
+            "uuid": "urn:uuid:fcc52e6f-26d6-436b-9c6e-f7e83937de77",
+            "label": "Buecheler 1907",
+            "id": "Buecheler1907"
+        },
+        {
+            "abbreviation": "Burman 1759",
+            "editor": "Burmannus, Petrus (Pieter Burman)",
+            "title": "Anthologia Veterum Latinorum Epigrammatum et Poematum: sive Catalecta Poetarum Latinorum in VI Libros Digesta",
+            "place": "Amstelodami",
+            "publisher": "ex officina Schouteniana",
+            "year": "1759",
+            "url": "https://books.google.com/books?id=wik_AAAAcAAJ&pg=PR1#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:e889bdd2-44ff-4903-a79f-eb2a41fdcaa1",
+            "label": "Burm. 1759",
+            "id": "Burman1759"
+        },
+        {
+            "abbreviation": "Kannegieter 1731",
+            "editor": "Cannegieter, Hendrik",
+            "title": "Flavii Aviani Fabulae",
+            "place": "Amstelodami",
+            "publisher": "apud Martinum Schagen",
+            "year": "1731",
+            "url": "https://books.google.com/books?id=95tHAAAAYAAJ&pg=PR1#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:49ac186e-1734-4953-bc7f-4d39cc5519d4",
+            "label": "Kannegieter",
+            "id": "Kannegieter1731"
+        },
+        {
+            "abbreviation": "Carrio",
+            "author": "Carrion, Louis",
+            "title": "Emendationum et Observationum Libri duo 1.2",
+            "place": "Lutetiae",
+            "publisher": "Beysius",
+            "year": "1583",
+            "type": "book",
+            "uuid": "urn:uuid:c96690ad-58a2-4c02-a585-47208deec0a8",
+            "label": "Carrio",
+            "id": "Carrio"
+        },
+        {
+            "abbreviation": "Chytil",
+            "author": "Chytil, Franz",
+            "article_title": "Der Eklogendichter T. Calpurnius Siculus und seine Vorbilder",
+            "journal_title": "Jahresbericht des k. k. Gymnasiums in Znaim",
+            "pagination": "3–24",
+            "year": "1893–94",
+            "url": "http://hdl.handle.net/2027/uc1.c071004696",
+            "type": "journal_article",
+            "uuid": "urn:uuid:7f63ad32-6e90-40ba-bfbf-5e65cf654803",
+            "label": "Chytil",
+            "id": "Chytil"
+        },
+        {
+            "abbreviation": "Dempster 1723",
+            "author": "Dempster, Thomas",
+            "title": "De Etruria regali libri VII",
+            "place": "Florentiae",
+            "publisher": "apud J.C. Tartinium et Sanctem Franchium",
+            "year": "1723",
+            "url": "https://books.google.com/books?id=tQJdAAAAcAAJ&pg=PR8#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:bb0f599a-19df-43fc-8ff6-39e31674c4b3",
+            "label": "Dempster",
+            "id": "Dempster1723"
+        },
+        {
+            "abbreviation": "de Rooy 1771",
+            "author": "de Rooy, Antonius",
+            "title": "Spicilegia Critica",
+            "place": "Dordraci",
+            "publisher": "typis Petri van Braam",
+            "year": "1771",
+            "url": "https://books.google.com/books?id=m10VAAAAQAAJ&pg=PA101#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:7d14e37c-6b3b-4f67-90a1-627093d024d4",
+            "label": "de Rooy",
+            "id": "deRooy1771"
+        },
+        {
+            "abbreviation": "Ellis 1886",
+            "author": "Ellis, Robinson",
+            "article_title": "Review of ‘Calpurnii et Nemesiani Bucoloca Recensuit Henricus Schenkl, Lipsiae, G. Freytag, Pragae, F. Tempsky, 1885’",
+            "journal_title": "American Journal of Philology",
+            "volume": "7",
+            "pagination": "88–91",
+            "year": "1886",
+            "url": "https://books.google.com/books?id=tl4bu49MEyIC&pg=PA88#v=onepage&q&f=false",
+            "type": "journal_article",
+            "uuid": "urn:uuid:b8ca2401-ede6-4c4f-a78e-b92f727cd84a",
+            "label": "Ellis",
+            "id": "Ellis1886"
+        },
+        {
+            "abbreviation": "Erasmus 1703",
+            "author": "Erasmus, Desiderius",
+            "title": "Opera Omnia Emendatiora et Auctiora, Tomus Secundus: Complectens Adagia",
+            "place": "Lugdunum Batavorum",
+            "publisher": "cura et impensis Petri Lander Aa",
+            "year": "1703",
+            "url": "https://books.google.ca/books?id=rZJd0x6VPqIC&pg=PP5#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:ebe05609-c82f-4247-b9a8-66bca572cc69",
+            "label": "Erasmus",
+            "id": "Erasmus1703"
+        },
+        {
+            "abbreviation": "Fabricius 1774",
+            "author": "Fabricius, Johann Albert",
+            "title": "Bibliotheca Latina, Tomus III",
+            "place": "Lipsiae",
+            "publisher": "apud Weidmanni Heredes et Reichium",
+            "year": "1774",
+            "url": "https://books.google.com/books?id=r7bwmNY6a9sC&pg=PP7#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:af7d3313-1e52-4d35-99d0-3bd16393898c",
+            "label": "Fabricius",
+            "id": "Fabricius1774"
+        },
+        {
+            "abbreviation": "Forbiger 1845",
+            "editor": "Forbiger, Albert",
+            "title": "P. Virgilii Maronis Opera",
+            "place": "Lipsiae",
+            "publisher": "I. C. Hinrichs",
+            "year": "1845",
+            "url": "https://books.google.com/books?id=feBCAQAAMAAJ&pg=PR1#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:62028461-6328-4315-a884-28379084c689",
+            "label": "Forbiger",
+            "id": "Forbiger1845"
+        },
+        {
+            "abbreviation": "Friesemann 1786",
+            "author": "Friesemann, Hendrik",
+            "title": "Collectanea critica",
+            "place": "Amstelodami",
+            "publisher": "apud Petrum den Hengst",
+            "year": "1786",
+            "url": "https://books.google.com/books?id=hu5WAAAAcAAJ&pg=PP5#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:74e59697-a8ec-4fbd-9ac6-783d54d3e34f",
+            "label": "Friesemann",
+            "id": "Friesemann1786"
+        },
+        {
+            "abbreviation": "Fritzsche 1903",
+            "author": "Fritzsche, Franz Volkmar",
+            "article_title": "De Eclogis Calpurnianis",
+            "journal_title": "Jahresbericht der grossherzoglichen Gymnasium Fridericianum zu Schwerin",
+            "pagination": "3–19",
+            "year": "1903",
+            "url": "https://archive.org/details/deeclogiscalpur00fritgoog",
+            "type": "journal_article",
+            "uuid": "urn:uuid:32d07e7f-a8a6-4d6d-a444-db8c2b8691ed",
+            "label": "Fritzsche",
+            "id": "Fritzsche1903"
+        },
+        {
+            "abbreviation": "Gebauer 1860",
+            "editor": "Gebauer, Gustavus Adolphus",
+            "title": "De poetarum Græcorum bucolicorum imprimis Theocriti carminibus in eclogis a Vergilio adumbratis. Particula 1",
+            "place": "Lipsiae",
+            "publisher": "Hermann Mendelssohn",
+            "year": "1860",
+            "url": "https://books.google.com/books?id=4YMCAAAAQAAJ&pg=PR1#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:8138c520-9101-4371-a3c3-602a8ba0ec2a",
+            "label": "Gebauer",
+            "id": "Gebauer1860"
+        },
+        {
+            "abbreviation": "Gebhard 1615",
+            "author": "Gebhard, Janus",
+            "title": "Crepundiorum, seu Iuvenilium Curarum Libri Tres",
+            "place": "Hanoviae",
+            "publisher": "Wechelianis, apud Haeredes Ioannis Aubrii",
+            "year": "1615",
+            "url": "https://books.google.de/books?id=DfuKD9LRUGsC&hl=de&pg=PA97#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:25ee3f1d-f7d8-404d-ae14-43c8b738eb0f",
+            "label": "Gebhard",
+            "id": "Gebhard1615"
+        },
+        {
+            "abbreviation": "Gronovius 1637",
+            "author": "Gronovius, Johannes Fredericus",
+            "title": "In Papinii Statii Silvarum Libros V. Diatribe ad Th. Graswinckelium",
+            "place": "Hagae-Comitis",
+            "publisher": "ex officina Theodori Maire",
+            "year": "1637",
+            "url": "https://books.google.com/books?id=zBk-AAAAcAAJ&pg=PP7#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:c7abd5f3-c731-45d0-ac0b-53deb2ac36b3",
+            "label": "Gronov. 1637",
+            "id": "Gronovius1637"
+        },
+        {
+            "abbreviation": "Gronovius 1755",
+            "author": "Gronovius, Johannes Fredericus",
+            "title": "Observationes: Libri IV.",
+            "place": "Lipsiae",
+            "publisher": "Iohannes Fridericus Iahn",
+            "year": "1755",
+            "url": "https://books.google.com/books?id=9n5MAAAAcAAJ&pg=PP7#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:fa05e092-e29c-45ca-bbdd-a4c17846a708",
+            "label": "Gronov. 1755",
+            "id": "Gronovius1755"
+        },
+        {
+            "abbreviation": "Lucas 1901",
+            "author": "Lucas, Hans",
+            "article_title": "Zu Calpurnius",
+            "journal_title": "Wiener Studien",
+            "volume": "22",
+            "pagination": "139–40",
+            "year": "1901",
+            "url": "https://books.google.com/books?id=gbmMVZEcoGMC&pg=PA139#v=onepage&q&f=false",
+            "type": "journal_article",
+            "uuid": "urn:uuid:f0723adf-6c31-471b-a904-4126a206162d",
+            "label": "Lucas",
+            "id": "Lucas1901"
+        },
+        {
+            "abbreviation": "Haupt 1854",
+            "author": "Haupt, Moriz",
+            "title": "De Carminibus Bucolicis Calpurnii et Nemesiani",
+            "place": "Berolini",
+            "publisher": "Typis Academicis",
+            "year": "1854",
+            "url": "https://books.google.com/books?id=8SwUAAAAQAAJ&pg=PP5#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:45b18ec1-6c5f-4005-bf01-d3d408a4a6c7",
+            "label": "Haupt 1854",
+            "id": "Haupt1854"
+        },
+        {
+            "abbreviation": "Haupt 1874",
+            "author": "Haupt, Moriz",
+            "article_title": "Coniectanea",
+            "journal_title": "Hermes",
+            "volume": "8",
+            "pagination": "177–83, 241–56",
+            "year": "1874",
+            "url": "https://books.google.de/books?id=QVYLAAAAMAAJ&hl=de&pg=PA177#v=onepage&q&f=false",
+            "type": "journal_article",
+            "uuid": "urn:uuid:d2219341-f8b2-4596-93ab-408f991a87bf",
+            "label": "Haupt 1874",
+            "id": "Haupt1874"
+        },
+        {
+            "abbreviation": "Heins1661",
+            "author": "Heinsius, Nicolaus",
+            "title": "Notae in Heroidas P. Ovidii Nasonis",
+            "place": "s.l.",
+            "publisher": "s.n.",
+            "year": "1661",
+            "url": "https://books.google.com/books?id=uuYJ9S-mr2QC&pg=PP5#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:0fd97a01-f8b5-4d33-80f3-e21f8900e21e",
+            "label": "Heins. in Her.",
+            "id": "Heins1661"
+        },
+        {
+            "abbreviation": "Heins1665",
+            "editor": "Heinsius, Nicolaus",
+            "title": "Claudii Claudiani Opera",
+            "place": "Amstelodami",
+            "publisher": "ex officina Elzeviriana",
+            "year": "1665",
+            "url": "https://books.google.com/books?id=t9c95zugnIMC&pg=PP5#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:f2c48bb6-6d99-413d-9445-336f6374405a",
+            "label": "Heins. ad Claud.",
+            "id": "Heins1665"
+        },
+        {
+            "abbreviation": "Heraldus 1599",
+            "author": "Heraldus, Desiderius",
+            "title": "Adversariorum Libri Duo",
+            "place": "Parisiis",
+            "publisher": "apud Ieremiam Perier",
+            "year": "1599",
+            "url": "https://books.google.com/books?id=0DmP31YuSXkC&pg=PP7#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:234e8db5-cde8-462c-8ad8-89fcbb68326c",
+            "label": "Heraldus",
+            "id": "Heraldus1599"
+        },
+        {
+            "abbreviation": "Hermann 1849",
+            "editor": "Hermannus, Godofredus",
+            "title": "Bionis et Moschi Carmina",
+            "place": "Lipsiae",
+            "publisher": "apud Weidmannos",
+            "year": "1849",
+            "url": "https://archive.org/details/bionisetmoschic00moscgoog",
+            "type": "book",
+            "uuid": "urn:uuid:32748e15-433d-4255-aace-d10a1516c182",
+            "label": "G. Hermann",
+            "id": "Hermann1849"
+        },
+        {
+            "abbreviation": "Hoeufft 1783",
+            "author": "Hoeufft, Jacob Hendrik",
+            "title": "Pericula poëtica",
+            "place": "s.l.",
+            "publisher": "s.n.",
+            "year": "1783",
+            "url": "https://books.google.com/books?id=Xv9hAAAAcAAJ&pg=PP7#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:d7cf3fbe-3fa0-4cce-a5ec-e4b72e387b71",
+            "label": "Hoeufft",
+            "id": "Hoeufft1783"
+        },
+        {
+            "abbreviation": "Housman 1902",
+            "author": "Housman, A. E.",
+            "article_title": "Virgil and Calpurnius",
+            "journal_title": "Classical Review",
+            "volume": "16.5",
+            "pagination": "281–82",
+            "year": "1902",
+            "url": "http://www.jstor.org/stable/695474",
+            "type": "journal_article",
+            "uuid": "urn:uuid:c1b5690d-fd26-451d-9a86-f1cfd85c0de9",
+            "label": "Housman 1902",
+            "id": "Housman1902"
+        },
+        {
+            "abbreviation": "Housman 1903",
+            "editor": "Housman, A.E.",
+            "title": "M. Manilii Astronomicon, Liber Primus",
+            "place": "Londinii",
+            "publisher": "apud Grant Richards",
+            "year": "1903",
+            "url": "https://books.google.com/books?id=78dEAQAAIAAJ&pg=PR3#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:48f29ad0-d061-45bc-8714-fb737c865fbd",
+            "label": "Housman 1903",
+            "id": "Housman1903"
+        },
+        {
+            "abbreviation": "Jacoby",
+            "author": "Jacoby, Karl",
+            "article_title": "Review of ‘Calpurnii et Nemesiani Bucolica recensuit Henricus Schenkl, Lipsiae, G. Freytag, Pragae, F. Tempsky, 1885’",
+            "journal_title": "Wochenschrift für klassiche Philologie",
+            "volume": "3",
+            "pagination": "1287–94",
+            "year": "1886",
+            "url": "https://books.google.de/books?id=q5blAAAAMAAJ&hl=de&pg=RA7-PA41#v=onepage&q&f=false",
+            "type": "journal_article",
+            "uuid": "urn:uuid:8797eeb0-9edd-434c-9d3c-52dff999e35c",
+            "label": "Jacoby",
+            "id": "Jacoby"
+        },
+        {
+            "abbreviation": "Iustus 1765",
+            "author": "Iustus, Petrus Paulus",
+            "title": "Specimen Observationum Criticarum",
+            "place": "Viennae",
+            "publisher": "Typis Ioannis Thomae de Trattnern",
+            "year": "1765",
+            "url": "https://books.google.com/books?id=TdBWAAAAcAAJ&pg=PP7#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:ca1c3d5c-66e2-4c4e-bf2d-e8a495e97a55",
+            "label": "Iustus",
+            "id": "Iustus1765"
+        },
+        {
+            "abbreviation": "Leo 1885",
+            "author": "Leo, F.",
+            "article_title": "Review of ‘Calpurni et Nemesiani bucolica, recensuit Henricus Schenkl. Lipsiae (A. Freitag) et Pragae (F. Tempsky) 1885. LXXII, 130 SS. 8’",
+            "journal_title": "Zeitschrift für die österreichischen Gymnasien",
+            "volume": "36",
+            "pagination": "611–21",
+            "year": "1885",
+            "type": "journal_article",
+            "uuid": "urn:uuid:57858ff4-6ee3-4e64-8338-03125abb9068",
+            "label": "Leo",
+            "id": "Leo1885"
+        },
+        {
+            "abbreviation": "Maehly",
+            "author": "Maehly, Jacob Achilles",
+            "title": "Der Oedipus Coloneus des Sophocles Anhang enthaltend Beiträge zu Calpurnius und Nemesianus",
+            "place": "Basel",
+            "publisher": "Hugo Richter",
+            "year": "1868",
+            "url": "https://books.google.com/books?id=ejldAAAAcAAJ&pg=PR1#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:8a9acdff-17fd-4c34-9ed4-8b1c102fb5a9",
+            "label": "Maehly",
+            "id": "Maehly"
+        },
+        {
+            "abbreviation": "Magnus 1882",
+            "author": "Magnus, Hugo",
+            "article_title": "Review of ‘Poetae Latini Minores rec. et em. Aemilius Baehrens. Vol. III. Lipsiae. B.G. Teubner 1881’",
+            "journal_title": "Philologische Wochenschrift",
+            "volume": "2.26",
+            "pagination": "810–13",
+            "year": "1882",
+            "url": "https://books.google.com/books?id=8eoOoQ-uLHMC&pg=PA809#v=onepage&q&f=false",
+            "type": "journal_article",
+            "uuid": "urn:uuid:67864728-d1de-4342-858b-3bb67d0959c3",
+            "label": "Magnus",
+            "id": "Magnus1882"
+        },
+        {
+            "abbreviation": "Modius 1584",
+            "author": "Modius, Franciscus",
+            "title": "Novantiquae lectiones",
+            "place": "Froncofurti",
+            "publisher": "apud heredes Andreae Wecheli",
+            "year": "1584",
+            "url": "https://books.google.com/books?id=AzROAAAAcAAJ&pg=PP5#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:aedee58b-166c-466c-987f-a30c61f9274a",
+            "label": "Modius",
+            "id": "Modius1584"
+        },
+        {
+            "abbreviation": "Mueller 1885",
+            "author": "Müller, Lucian",
+            "article_title": "Review of ‘Calpurnii et Nemesiani Bucolica Recensuit Henricus Schenkl, Lipsiae, G. Freytag, Pragae, F. Tempsky, 1885’",
+            "journal_title": "Berliner Philologische Wochenschrift",
+            "volume": "5",
+            "pagination": "1065–73",
+            "year": "1885",
+            "url": "https://books.google.com/books?id=eNUpAAAAYAAJ&pg=PP11#v=onepage&q&f=false.",
+            "type": "journal_article",
+            "uuid": "urn:uuid:ba8f0537-97f6-4e03-ae5e-94d411a981b5",
+            "label": "Mueller",
+            "id": "Mueller1885"
+        },
+        {
+            "abbreviation": "Nodell 1787",
+            "editor": "Nodell, Jan Adam",
+            "title": "Flavii Aviani Fabulae ad MS. CD. Collatae.",
+            "place": "Amstelodami",
+            "publisher": "apud Petrum den Hengst",
+            "year": "1787",
+            "url": "https://books.google.com/books?id=dYdYAAAAcAAJ&pg=PP7#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:dbe19859-cab3-45d4-8094-2fa94ffe96ab",
+            "label": "Nodell",
+            "id": "Nodell1787"
+        },
+        {
+            "abbreviation": "Postgate 1901",
+            "author": "Postgate, John Percival",
+            "article_title": "Some Suggestions on Calpurnius Siculus",
+            "journal_title": "The Classical Review",
+            "volume": "15.4",
+            "pagination": "213–14",
+            "year": "1901",
+            "url": "http://www.jstor.org/stable/694806",
+            "type": "journal_article",
+            "uuid": "urn:uuid:d9acb7d9-d133-4da4-880b-34d642d60b57",
+            "label": "Postgate",
+            "id": "Postgate1901"
+        },
+        {
+            "abbreviation": "Salmasius 1620",
+            "editor": "Salmasius 1620 = Salmasius, Claudius. Historiae Augustae Scriptores VI. Parisiis: s.n., 1620. .",
+            "title": "Historiae Augustae Scriptores VI",
+            "place": "Parisiis",
+            "publisher": "s.n.",
+            "year": "1620",
+            "url": "https://books.google.com/books?id=HmlUAAAAcAAJ&pg=PP9#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:2eee0fac-9a62-42e2-96bb-e78d76474958",
+            "label": "Salmasius 1620",
+            "id": "Salmasius1620"
+        },
+        {
+            "abbreviation": "Salmasius 1656",
+            "author": "Salmasius, Claudius",
+            "title": "Epistolarum Liber Primus",
+            "place": "Lugduni Batavorum",
+            "publisher": "Ex typographoa Adriani Wyngaerden",
+            "year": "1656",
+            "url": "https://books.google.com/books?id=0zRv3_Ym5R4C&pg=PP5#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:68649b51-1fed-49bc-ac95-5b3b341f3832",
+            "label": "Salmasius 1656",
+            "id": "Salmasius1656"
+        },
+        {
+            "abbreviation": "Sarpe 1819",
+            "author": "Sarpe, Gustav Cristoph",
+            "title": "Quaestiones Philologicae",
+            "place": "Rostochii",
+            "publisher": "litteris Adlerianis",
+            "year": "1819",
+            "url": "http://reader.digitale-sammlungen.de/resolve/display/bsb10972357.html",
+            "type": "book",
+            "uuid": "urn:uuid:ee52263a-d3bb-47fd-9edd-8fbee63769d9",
+            "label": "Sarpe",
+            "id": "Sarpe1819"
+        },
+        {
+            "abbreviation": "Spanheim 1717",
+            "author": "Spanheim, Ezechiel",
+            "title": "Dissertationes De Praestantia et Usu Numismatum Antiquorum",
+            "year": "1717",
+            "url": "https://books.google.com/books?id=PxIL9N4gwK4C&pg=PP9#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:408b056b-cb52-4a87-8ad3-1a98f73727ce",
+            "label": "Spanheim",
+            "id": "Spanheim1717"
+        },
+        {
+            "abbreviation": "Swartius 1616",
+            "editor": "Swartius, Eustachius",
+            "title": "Analectorum Libri III",
+            "place": "Lugdunum Batavorum",
+            "publisher": "apud Ludovicum Elzevirium",
+            "year": "1616",
+            "url": "https://books.google.com/books?id=8JFMAAAAcAAJ&pg=PP5#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:d1d1cd70-0132-4808-84aa-74fc6aeb1d16",
+            "label": "Swartius",
+            "id": "Swartius1616"
+        },
+        {
+            "abbreviation": "Tross 1828",
+            "author": "Tross, Ludovicus",
+            "title": "Observationum Criticarum in Scriptores Nonnullos Latinos Libellus Prior",
+            "place": "Hammone",
+            "publisher": "sumptibus auctoris",
+            "year": "1828",
+            "url": "https://books.google.com/books?id=ao8CAAAAQAAJ&pg=PR1#v=onepage&q&f=false",
+            "type": "book",
+            "uuid": "urn:uuid:e537d428-5da8-4ef6-ae9d-3949de8363ba",
+            "label": "Tross",
+            "id": "Tross1828"
+        },
+        {
+            "abbreviation": "Voss 1797",
+            "editor": "Voss, Johann Heinrich",
+            "title": "Des Publius Virgilius Maro Ländliche Gedichte",
+            "place": "Altona",
+            "publisher": "Johann Friedrich Hammerich",
+            "year": "1797",
+            "url": "https://books.google.com/books?id=Q2YGAAAAQAAJ&pg=PP8#v=onepage&q&f=falsee",
+            "type": "book",
+            "uuid": "urn:uuid:bd4709ff-4edd-4ba6-9c28-acd7f5d0da7e",
+            "label": "Voss",
+            "id": "Voss1797"
+        },
+        {
+            "abbreviation": "Wakefield 1789",
+            "author": "Wakefield, Gilbert",
+            "title": "Silva Critica, Sive in Auctores Sacros Profanosque Commentarius Philologus",
+            "place": "Cantabrigiae",
+            "publisher": "typis academicis excudebat J. Archdeacon, ubi veneunt apud J. & J. Merrill",
+            "year": "1789",
+            "type": "book",
+            "uuid": "urn:uuid:39fd0760-673c-4d89-8b30-f58d0b00ae8b",
+            "label": "Wakefield",
+            "id": "Wakefield1789"
+        },
+        {
+            "abbreviation": "Wilamowitz",
+            "author": "Wilamowitz-Moellendorff, Ulrich von",
+            "title": "Coniectanea",
+            "place": "Göttingen",
+            "publisher": "Dieterich’sche Druckerei",
+            "year": "1884",
+            "url": "http://hdl.handle.net/2027/nnc2.ark:/13960/t8jd66k2f",
+            "type": "book",
+            "uuid": "urn:uuid:0e977135-5003-494c-acbd-56945450057f",
+            "label": "Wilamowitz",
+            "id": "Wilamowitz"
+        }
+    ],
+    "people": [
+        {
+            "uri": "http://viaf.org/viaf/34563690",
+            "abbreviation": "Argol.",
+            "name": "Giovanni Argoli",
+            "note": "See citation",
+            "citation": {
+                "author": "Onuphrii Panvinii",
+                "title": "De Ludis Circensibus, Libri II",
+                "place": "Patavii",
+                "publisher": "Typis Petri Marie Frambotti Bibliop.",
+                "year": "1681",
+                "url": "https://books.google.com/books?id=50ZYAAAAcAAJ&pg=PR6#v=onepage&q&f=false",
+                "type": "book"
+            },
+            "uuid": "urn:uuid:eee15022-22cf-4a77-a9b0-7fa2a6786069",
+            "label": "Argol.",
+            "id": "Argol"
+        },
+        {
+            "uri": "http://viaf.org/viaf/44352439",
+            "abbreviation": "Ascensius",
+            "note": "Editor of 43362037-8f5c-4dfb-a4d9-a2d83d6be0de.",
+            "uuid": "urn:uuid:475e3b41-0ca6-4340-8f34-335df4166949",
+            "label": "Ascensius",
+            "id": "Ascensius"
+        },
+        {
+            "uri": "http://viaf.org/viaf/15563174",
+            "abbreviation": "Barthius",
+            "name": "Kaspar von Barth",
+            "aliases": [
+                {
+                    "form": "Victor Vigilius",
+                    "type": "pseudonym",
+                    "uri": "http://viaf.org/viaf/15563174",
+                    "note": "Pseudonym used by Kaspar von Barth in his notes to suggest conjectures that he is not prepared to print in his text."
+                }
+            ],
+            "uuid": "urn:uuid:0d88b696-43bb-47a9-9860-38169172713e"
+        },
+        {
+            "uri": "http://viaf.org/viaf/3531680",
+            "abbreviation": "Brodaeus",
+            "name": "Jean Brodeau",
+            "note": "See citation",
+            "citation": {
+                "author": "Gruterus, Janus",
+                "title": "Lampas, sive Fax Artium Liberalium, Tomus Quartus",
+                "place": "Francofurti",
+                "publisher": "e Collegio Paltheniano, Sumptibus Ionae Rhodii Bibliopola",
+                "year": "1604",
+                "url": "https://books.google.com/books?id=09rnSvLQZ20C&pg=PA5#v=onepage&q&f=false",
+                "type": "book"
+            },
+            "uuid": "urn:uuid:19154074-0e76-40c8-bdd4-66a8e2c6a197",
+            "label": "Brodaeus",
+            "id": "Brodaeus"
+        },
+        {
+            "uri": "http://viaf.org/viaf/57385669",
+            "abbreviation": "Bursian",
+            "name": "Conrad Bursian",
+            "note": "Haupt notes that he used Bursian’s collation of a manuscript in Naples.",
+            "uuid": "urn:uuid:e03b69da-50e1-4d7f-a244-19e762355f07",
+            "label": "Bursian",
+            "id": "Bursian"
+        },
+        {
+            "uri": "http://viaf.org/viaf/24945908",
+            "abbreviation": "DOrville",
+            "name": "Jacques-Philippe d’Orville",
+            "note": "Cited in Burman 1731 (79419300-6c6f-4b9c-988d-be2fc9645392)",
+            "uuid": "urn:uuid:fcc774f2-acfc-4c54-8cfd-9c781000e113",
+            "label": "D’Orville",
+            "id": "DOrville"
+        },
+        {
+            "uri": "http://viaf.org/viaf/56620173",
+            "abbreviation": "Casaub.",
+            "name": "Isaac Casaubon",
+            "note": "Cited in Burman 1731 (79419300-6c6f-4b9c-988d-be2fc9645392)",
+            "uuid": "urn:uuid:b9ed69ed-efcb-483f-8cbc-4727b8cd3446",
+            "label": "Casaub.",
+            "id": "Casaub"
+        },
+        {
+            "uri": "http://viaf.org/viaf/35271168",
+            "abbreviation": "Fruterius",
+            "name": "Lucas Fruterius",
+            "note": "Barth 1613 (198d9eb9-4f91-45ae-a87e-f1dca0997717) cites content from the third book of Fruterius' 'Coniect. Verisim.', which is no longer extant.",
+            "uuid": "urn:uuid:b5182ba5-3c36-4c87-b57a-a3d52ece8f42",
+            "label": "Fruterius",
+            "id": "Fruterius"
+        },
+        {
+            "abbreviation": "Hartel",
+            "name": "G. Hartel",
+            "note": "Schenkl (cb9bb02a-037b-40ba-9c76-b03555a5cd45) cites Hartel’s unpublished opinions.",
+            "uuid": "urn:uuid:85da626c-750c-4826-bc15-abf8011fb590",
+            "label": "Hartel",
+            "id": "Hartel"
+        },
+        {
+            "uri": "http://viaf.org/viaf/59865177",
+            "abbreviation": "Gudius",
+            "name": "Marquard Gude",
+            "note": "Cited in Burman 1731 (79419300-6c6f-4b9c-988d-be2fc9645392).",
+            "uuid": "urn:uuid:b5f872d0-b845-4599-9941-8a23daa36405",
+            "label": "Gudius",
+            "id": "Gudius"
+        },
+        {
+            "uri": "http://viaf.org/viaf/121992734",
+            "abbreviation": "Guid.",
+            "name": "Diomedes Guidalotti",
+            "note": "Commentary in b (a3192bb0-d086-490a-b91a-a60798575d71), notes in h (ecdfab6c-0668-4fb9-bda6-f532e514756a).",
+            "uuid": "urn:uuid:108aa063-f8fa-4e48-9530-18668280b07f",
+            "label": "Guid.",
+            "id": "Guid"
+        },
+        {
+            "uri": "http://viaf.org/viaf/24651364",
+            "abbreviation": "Heins.",
+            "name": "Nicolaus Heinsius",
+            "note": "Cited in Burman 1731 (79419300-6c6f-4b9c-988d-be2fc9645392)",
+            "uuid": "urn:uuid:860ceb40-69f8-48a5-87f4-99ee7fca0b5e",
+            "label": "Heins.",
+            "id": "Heins"
+        },
+        {
+            "uri": "http://viaf.org/viaf/49249069",
+            "abbreviation": "HousmanPerLitt",
+            "name": "A. E. Housman",
+            "note": "Housman had personal communication with Giarratano.",
+            "uuid": "urn:uuid:c9d71e7e-d4cf-41de-82b8-8c3bd8cbb6b6",
+            "label": "Housman",
+            "id": "HousmanPerLitt"
+        },
+        {
+            "uri": "http://viaf.org/viaf/22520653",
+            "abbreviation": "Kempfer",
+            "name": "Gerard Kempher",
+            "note": "Cited in h (ecdfab6c-0668-4fb9-bda6-f532e514756a).",
+            "uuid": "urn:uuid:e66a0f71-7a95-4626-b62a-fa9fa26e71cc",
+            "label": "Kempfer",
+            "id": "Kempfer"
+        },
+        {
+            "uri": "http://viaf.org/viaf/64025742",
+            "abbreviation": "Lachmann",
+            "name": "Karl Lachmann",
+            "note": "See citation",
+            "citation": {
+                "type": "book",
+                "title": "Karl Lachmanns Briefe an Moriz Haupt",
+                "place": "Berlin",
+                "publisher": "Druck und Verlag von Georg Reimer",
+                "year": "1892",
+                "url": "https://books.google.com/books?id=e5gOAQAAMAAJ&pg=PR1#v=onepage&q&f=false"
+            },
+            "uuid": "urn:uuid:f520fdcf-8089-40fc-8971-c9ba99665837",
+            "label": "Lachmann",
+            "id": "Lachmann"
+        },
+        {
+            "uri": "http://viaf.org/viaf/51706656",
+            "abbreviation": "Lipsius",
+            "name": "Justus Lipsius",
+            "note": "Cited in Burman 1731 (79419300-6c6f-4b9c-988d-be2fc9645392).",
+            "uuid": "urn:uuid:6048c399-9f51-4e2e-8326-c9c868da23f7",
+            "label": "Lipsius",
+            "id": "Lipsius"
+        },
+        {
+            "uri": "http://viaf.org/viaf/1088",
+            "abbreviation": "Martell.",
+            "name": "Ugolino Martelli",
+            "note": "Cited in h (ecdfab6c-0668-4fb9-bda6-f532e514756a).",
+            "uuid": "urn:uuid:2a4a887c-7307-4164-a207-1f7ae8887f09",
+            "label": "Martell.",
+            "id": "Martell"
+        },
+        {
+            "uri": "http://viaf.org/viaf/37257920",
+            "abbreviation": "Oudendorp",
+            "name": "Frans van Oudendorp",
+            "note": "Cited in Burman 1759 (e889bdd2-44ff-4903-a79f-eb2a41fdcaa1)",
+            "uuid": "urn:uuid:8bd5c307-b90b-4149-a50b-f874f11c5185",
+            "label": "Oudendorp",
+            "id": "Oudendorp"
+        },
+        {
+            "uri": "http://viaf.org/viaf/14441806",
+            "abbreviation": "Ramorino",
+            "name": "Felice Ramorino",
+            "note": "Ramorino’s personal communication with Giarratano",
+            "uuid": "urn:uuid:83b62d3b-d2e0-403e-b11b-c3497335c939",
+            "label": "Ramorino",
+            "id": "Ramorino"
+        },
+        {
+            "uri": "http://viaf.org/viaf/29540435",
+            "abbreviation": "Scaliger",
+            "name": "Joseph-Juste Scaliger",
+            "note": "Cited in Burman 1731 (79419300-6c6f-4b9c-988d-be2fc9645392)",
+            "uuid": "urn:uuid:6e06a307-a31f-4521-b03f-00722bc7bbee",
+            "label": "Scaliger",
+            "id": "Scaliger"
+        },
+        {
+            "uri": "http://viaf.org/viaf/12523146",
+            "abbreviation": "CSchenkl",
+            "name": "Karl Schenkl",
+            "note": "Unpublished opinions cited in Schenkl’s editions (cb9bb02a-037b-40ba-9c76-b03555a5cd45).",
+            "uuid": "urn:uuid:f7453808-0a9d-40eb-811b-3652cf6ae422",
+            "label": "C. Schenkl",
+            "id": "CSchenkl"
+        },
+        {
+            "uri": "https://viaf.org/viaf/121894458/",
+            "abbreviation": "Scriverius",
+            "name": "Pieter Schrijver (Scriverius)",
+            "note": "Cited in Burman 1731 (79419300-6c6f-4b9c-988d-be2fc9645392)",
+            "uuid": "urn:uuid:5871ab60-fae0-434a-9088-1f58d01287ee",
+            "label": "Scriver.",
+            "id": "Scriverius"
+        },
+        {
+            "abbreviation": "Schraeder",
+            "name": "Schraeder",
+            "note": "Scholar cited by Brantsma (387343e3-6e69-46c7-b495-a411b9f8ebef)",
+            "uuid": "urn:uuid:a43ce628-5817-4531-b404-b9ada9f4276e",
+            "label": "Schraeder",
+            "id": "Schraeder"
+        },
+        {
+            "uri": "http://viaf.org/viaf/74961015",
+            "abbreviation": "Tit.",
+            "name": "Robertus Titius",
+            "note": "Editor of i2 (urn:uuid5987ccec-58c3-4a16-9dab-fcccb6fb21af); notes in h (urn:uuid:ecdfab6c-0668-4fb9-bda6-f532e514756a).",
+            "uuid": "urn:uuid:40977678-a515-42a1-a9b3-0990fafa56ff",
+            "label": "Tit.",
+            "id": "Tit"
+        },
+        {
+            "uri": "http://viaf.org/viaf/307181319",
+            "abbreviation": "Tortell.",
+            "name": "Giovanni Tortelli",
+            "note": "Cited by Guidalotti (108aa063-f8fa-4e48-9530-18668280b07f).",
+            "uuid": "urn:uuid:970d6b90-6826-4b53-9189-0cf38c5033aa",
+            "label": "Tortell.",
+            "id": "Tortell"
+        },
+        {
+            "uri": "http://viaf.org/viaf/32037036/",
+            "abbreviation": "Wolf",
+            "name": "Johann Christoph Wolf",
+            "note": "Cited in Burman 1731 (79419300-6c6f-4b9c-988d-be2fc9645392).",
+            "uuid": "urn:uuid:7be17b74-5f22-4381-97ff-8cce629526db",
+            "label": "Wolf",
+            "id": "Wolf"
+        }
+    ],
+    "conventions": [
+        {
+            "scope": "manuscript hands",
+            "notation": "superscript numeral",
+            "meaning": "chronological order of interventions in a manuscript by different hands, with 1 being the earliest hand and higher numbers indicating later hands"
+        },
+        {
+            "scope": "editions",
+            "notation": "superscript numeral",
+            "meaning": "the ordinal number of the edition if there are multiple editions (e.g., first, second, third)"
+        },
+        {
+            "scope": "general",
+            "notation": "italicized text",
+            "meaning": "used to distinguish the text or variant reading being discussed from the rest of the apparatus criticus note"
+        },
+        {
+            "scope": "apparatus criticus",
+            "notation": "closed bracket ] following a lemma in an apparatus criticus note",
+            "meaning": "used to clarify which lemma in the text this note refers to, especially when that cannot be inferred from the context of the note"
+        },
+        {
+            "scope": "apparatus criticus",
+            "notation": "Arabic numerals",
+            "meaning": "used to indicate the line in the main text to which the apparatus criticus note refers"
+        }
+    ],
+    "abbreviations": [
+        {
+            "abbreviation": "add.",
+            "meaning": "An addition made by a hand in a manuscript."
+        },
+        {
+            "abbreviation": "cod.",
+            "meaning": "A manuscript not explicitly referenced elsewhere in an entry in the apparatus."
+        },
+        {
+            "abbreviation": "codd.",
+            "meaning": "Multiple manuscripts not explicitly referenced elsewhere in an entry in the apparatus.",
+            "uuid": "urn:uuid:ce763c78-6de8-428c-8a72-03682f763a53"
+        },
+        {
+            "abbreviation": "corr.",
+            "meaning": "A correction made by a hand in a manuscript."
+        },
+        {
+            "abbreviation": "del.",
+            "meaning": "A deletion."
+        },
+        {
+            "abbreviation": "edd.",
+            "meaning": "All editions not explicitly referenced elsewhere in this apparatus criticus note.",
+            "uuid": "urn:uuid:4b8c192d-42d5-4d5b-97f0-c4f879e36dcc"
+        },
+        {
+            "abbreviation": "edd. ante <edition>",
+            "meaning": "All editions published before the specified edition not explicitly referenced elsewhere in this apparatus criticus note.",
+            "uuid": "urn:uuid:39a9e5b0-abc2-44e5-90bf-c0c6d282c0e1"
+        },
+        {
+            "abbreviation": "in mg.",
+            "meaning": "A reading in the margin of a manuscript."
+        },
+        {
+            "abbreviation": "in ras.",
+            "meaning": "A reading that has been erased in a manuscript."
+        },
+        {
+            "abbreviation": "m",
+            "meaning": "A hand in a manuscript."
+        },
+        {
+            "abbreviation": "om.",
+            "meaning": "A word or phrase omitted in a manuscript."
+        },
+        {
+            "abbreviation": "<edition> sqq.",
+            "meaning": "Editions including the specified edition and all subsequent editions not explicitly referenced elsewhere in this apparatus criticus note.",
+            "uuid": "urn:uuid:6bf0a801-c5dd-444e-804c-3125ffe56e1e"
+        }
+    ],
+    "general_guidance": {
+        "scope": "apparatus criticus",
+        "guidance": "The apparatus criticus notes are organized by line number in the main text. Words in italics indicate the lemma or variant reading under discussion; words in roman type are editorial remarks and include bibliographical references (generally in parentheses), manuscript sigla, and symbols for editions. The apparatus criticus in this edition is positive, meaning that it reports the lemma, evidence for the lemma, variant readings, and evidence for the variant readings. Moreover, the variants are reported in a comma-separated list in descending order of preference, with the most preferred reading listed first. If there is more than one apparatus criticus note for a given line, the notes are separated by a period."
+    }
+}

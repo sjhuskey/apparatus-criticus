@@ -1,0 +1,46 @@
+[
+    {
+        "type": "",
+        "id": "",
+        "text_locus": "",
+        "source_edition": "",
+        "source_page": 1,
+        "source_image": "",
+        "bbox_norm": [],
+        "transcription": "",
+        "transcription_confidence": "",
+        "transcriber": "",
+        "notes": [],
+        "extraction": {
+            "model": null,
+            "extracted_at": "",
+            "extraction_image": null
+        }
+    },
+    {
+        "type": "",
+        "id": "",
+        "apparatus_entry_id": "",
+        "target": "",
+        "claim_type": "",
+        "reading_type": "",
+        "reading": "",
+        "supporting_evidence": [],
+        "reporting_rank": 0,
+        "editorial_comments": [],
+        "confidence": {
+            "interpretation": "",
+            "reasons": [
+                ""
+            ]
+        },
+        "evaluation": {
+            "target_correct": true,
+            "reading_correct": true,
+            "witnesses_correct": true,
+            "interpretation_correct": true,
+            "reviewer": "",
+            "review_status": ""
+        }
+    }
+]

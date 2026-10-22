@@ -1,0 +1,1 @@
+I don't want to slice the app entries manually, so part of the project will be getting the VLM to do that.

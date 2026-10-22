@@ -1,0 +1,61 @@
+[
+    {
+        "type": "apparatus_entry",
+        "id": "urn:uuid:8f6dcca4-f3a6-40ba-a6e3-b30cf94123cb",
+        "text_locus": "urn:cts:latinLit:phi0830.phi001.dll:1.13@vocas",
+        "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
+        "source_page": 5,
+        "source_image": "pdf-page-42",
+        "bbox_norm": [],
+        "transcription": [
+            {
+                "text": "vocas",
+                "rendition": "italic"
+            },
+            {
+                "text": "Pp."
+            }
+        ],
+        "transcription_confidence": "high",
+        "transcriber": "SJH",
+        "notes": [],
+        "extraction": {
+            "model": null,
+            "extracted_at": "2026-09-30T18:48:53.104473Z",
+            "extraction_image": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:84605f74-bc75-41dd-b559-46f2e53ed21f",
+        "apparatus_entry_id": "urn:uuid:8f6dcca4-f3a6-40ba-a6e3-b30cf94123cb",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.13@vocas",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "vacas",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:813d3a5f-1fb8-4905-b10a-8dca34d64509",
+                "label": "P"
+            },
+            {
+                "id": "urn:uuid:3cca9017-d15e-402a-81bd-35be86dcec4a",
+                "label": "p"
+            }
+        ],
+        "reporting_rank": 0,
+        "editorial_comments": [],
+        "confidence": {
+            "interpretation": "high",
+            "reasons": "Text and witness sigla are clearly legible."
+        },
+        "evaluation": {
+            "target_correct": true,
+            "reading_correct": true,
+            "witnesses_correct": true,
+            "interpretation_correct": true,
+            "reviewer": "SJH",
+            "review_status": "reviewed"
+        }
+    }
+]

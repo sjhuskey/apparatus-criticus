@@ -1,0 +1,54 @@
+[
+    {
+        "type": "apparatus_entry",
+        "id": "urn:uuid:abfa04d2-c723-4732-8274-e7efa574ff08",
+        "text_locus": "urn:cts:latinLit:phi0830.phi001.dll:1.11@ubi",
+        "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
+        "source_page": 5,
+        "source_image": "pdf-page-42",
+        "bbox_norm": [],
+        "transcription": "<ab><hi rend=\"italic\">ubi</hi> ] G ( <hi rend=\"italic\">et</hi> in mg.).</ab>",
+        "transcription_confidence": "high",
+        "transcriber": "SJH",
+        "notes": [],
+        "extraction": {
+            "model": null,
+            "extracted_at": "2026-09-18T17:55:11.274658Z",
+            "extraction_image": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:90e9340f-b437-44c4-8566-3e4cd239bd64",
+        "apparatus_entry_id": "urn:uuid:abfa04d2-c723-4732-8274-e7efa574ff08",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.11@ubi",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "ut",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
+                "label": "G"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": [
+            {
+                "text": "'et' in mg.",
+                "type": "witness_observation"
+            }
+        ],
+        "confidence": {
+            "interpretation": "high",
+            "reasons": "Text and witness sigla are clearly legible."
+        },
+        "evaluation": {
+            "target_correct": true,
+            "reading_correct": true,
+            "witnesses_correct": true,
+            "interpretation_correct": true,
+            "reviewer": "SJH",
+            "review_status": "reviewed"
+        }
+    }
+]

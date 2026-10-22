@@ -1,3 +1,66 @@
-[
-    
-]
+{
+    "id": "urn:uuid:123e4567-e89b-12d3-a456-426614174000",
+    "work_id": "phi0830.phi001",
+    "target": "urn:cts:latinLit:phi0830.phi001.perseus-lat2:1.1@verbum",
+    "source_edition": "123e4567-e89b-12d3-a456-426614174000",
+    "claim_type": "reading",
+    "reading_type": "lemma",
+    "supporting_evidence": {
+        "witnesses": [
+            {
+                "siglum": "A",
+                "type": "manuscript",
+                "id": "urn:uuid:0e1f3c8a-4b5d-4c6e-9f1a-2b3c4d5e6f7g"
+            },
+            {
+                "siglum": "B",
+                "type": "manuscript",
+                "id": "urn:uuid:1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+                "note": "m1 in mg."
+            }
+        ],
+        "sources": [
+            {
+                "siglum": "C",
+                "type": "edition",
+                "id": "urn:uuid:2b3c4d5e-6f7g-8h9i-0j1k-2l3m4n5o6p7q"
+            },
+            {
+                "siglum": "D",
+                "type": "edition",
+                "id": "urn:uuid:3c4d5e6f-7g8h-9i0j-1k2l-3m4n5o6p7q8r"
+            }
+        ]
+    },
+    "editorial_comments": [
+        {
+            "id": "urn:uuid:0e1f3c8a-4b5d-4c6e-9f1a-2b3c4d5e6f7g",
+            "comment": "lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        }
+    ],
+    "apparatus_snippet": "verbum] AB (m1 in mg.) CD (lorem ipsum dolor sit amet, consectetur adipiscing elit)",
+    "extraction": {
+        "model": "gpt-5.x",
+        "extracted_at": "2024-06-15T12:34:56Z",
+        "source_page": 42,
+        "source_image": "pdf-page-42",
+        "extraction_image": "photo-page-42"
+    },
+    "confidence": {
+        "transcription": "high",
+        "interpretation": "medium",
+        "reasons": [
+            "Text and witness sigla are clearly legible.",
+            "Scope of the marginal-hand note is potentially ambiguous."
+        ]
+    },
+    "evaluation": {
+        "transcription_correct": true,
+        "target_correct": true,
+        "reading_correct": true,
+        "witnesses_correct": true,
+        "interpretation_correct": false,
+        "reviewer": "...",
+        "review_status": "reviewed"
+    }
+}

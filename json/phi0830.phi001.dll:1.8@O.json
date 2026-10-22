@@ -1,0 +1,64 @@
+[
+    {
+        "type": "apparatus_entry",
+        "id": "urn:uuid:2c98e1e5-f190-4e8f-8c63-5c0b46988aed",
+        "text_locus": "urn:cts:latinLit:phi0830.phi001.dll:1.8@O.",
+        "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
+        "source_page": 5,
+        "source_image": "pdf-page-42",
+        "bbox_norm": [],
+        "transcription": [
+            {
+                "text": "O.",
+                "rendition": "italic"
+            },
+            {
+                "text": "om. N (add. m1)."
+            }
+        ],
+        "transcription_confidence": "high",
+        "transcriber": "SJH",
+        "notes": [],
+        "extraction": {
+            "model": null,
+            "extracted_at": "2026-09-17T12:55:28.554402Z",
+            "extraction_image": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:84cb9d16-8074-496e-b9df-aabbb72f7aa1",
+        "apparatus_entry_id": "urn:uuid:2c98e1e5-f190-4e8f-8c63-5c0b46988aed",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.5@O.",
+        "claim_type": "variant",
+        "reading_type": "omission",
+        "reading": null,
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
+                "label": "N",
+                "correction": {
+                    "hand": "1",
+                    "reading": {
+                        "value": "O.",
+                        "status": "inferred",
+                        "responsibility": "SJH"
+                    }
+                }
+            }
+        ],
+        "editorial_comments": [],
+        "confidence": {
+            "interpretation": "high",
+            "reasons": "Text and witness sigla are clearly legible."
+        },
+        "evaluation": {
+            "target_correct": true,
+            "reading_correct": true,
+            "witnesses_correct": true,
+            "interpretation_correct": true,
+            "reviewer": "SJH",
+            "review_status": "reviewed"
+        }
+    }
+]

@@ -1,0 +1,216 @@
+[
+    {
+        "type": "apparatus_entry",
+        "id": "urn:uuid:bf1c9a6f-bc29-4774-8b07-8f58f12bc48e",
+        "text_locus": "urn:cts:latinLit:phi0830.phi001.dll:1.13@Leuce",
+        "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
+        "source_page": 5,
+        "source_image": "pdf-page-42",
+        "bbox_norm": [],
+        "transcription": "<ab><hi rend=\"italic\">leuce</hi> NGAP πεχ<hi rend=\"superscript\">2</hi> edd., <hi rend=\"italic\">leute</hi> καχ<hi rend=\"superscript\">1</hi>, <hi rend=\"italic\">lene</hi> φηρνθrs, <hi rend=\"italic\">lance</hi> γμ, <hi rend=\"italic\">luce</hi> b (corr. Guid.) <hi rend=\"italic\">lauce</hi> λ δ β.</ab>",
+        "transcription_confidence": "high",
+        "transcriber": "SJH",
+        "notes": [],
+        "extraction": {
+            "model": null,
+            "extracted_at": "2026-09-30T18:48:53.104473Z",
+            "extraction_image": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:32ef4377-eb80-46e2-9b21-afecd891c4ba",
+        "apparatus_entry_id": "urn:uuid:bf1c9a6f-bc29-4774-8b07-8f58f12bc48e",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.13@Leuce",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "leuce",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
+                "label": "N"
+            },
+            {
+                "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
+                "label": "G"
+            },
+            {
+                "id": "urn:uuid:95b19ca1-7f6a-459b-a461-9697623d2284",
+                "label": "A"
+            },
+            {
+                "id": "urn:uuid:813d3a5f-1fb8-4905-b10a-8dca34d64509",
+                "label": "P"
+            },
+            {
+                "id": "urn:uuid:87709584-1c61-421f-bbee-d76a8c94638e",
+                "label": "π"
+            },
+            {
+                "id": "urn:uuid:ef896838-a18f-415d-9e5e-fb44ba27abd2",
+                "label": "ε"
+            },
+            {
+                "id": "urn:uuid:8470035d-4a05-4b42-8cbc-98a14fa3f41d",
+                "label": "χ",
+                "hand": "2"
+            },
+            {
+                "group": {
+                    "label": "edd.",
+                    "type": "edition_group",
+                    "quantity": "all",
+                    "boundary": null
+                }
+            }
+        ],
+        "reporting_rank": 0,
+        "editorial_comments": [],
+        "confidence": {
+            "interpretation": "high",
+            "reasons": "Text and witness sigla are clearly legible."
+        },
+        "evaluation": {
+            "target_correct": true,
+            "reading_correct": true,
+            "witnesses_correct": true,
+            "interpretation_correct": true,
+            "reviewer": "SJH",
+            "review_status": "reviewed"
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:6b3f365e-2193-485d-987d-547c32dd1483",
+        "apparatus_entry_id": "urn:uuid:bf1c9a6f-bc29-4774-8b07-8f58f12bc48e",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.13@Leuce",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "leute",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:52fb95de-bce4-4c15-9e6d-b20967e32933",
+                "label": "κ"
+            },
+            {
+                "id": "urn:uuid:c295fc9f-988d-46e9-a43b-1d880157ca45",
+                "label": "α"
+            },
+            {
+                "id": "urn:uuid:8470035d-4a05-4b42-8cbc-98a14fa3f41d",
+                "label": "χ",
+                "hand": "2"
+            }
+        ],
+        "reporting_rank": 0,
+        "editorial_comments": [],
+        "confidence": {
+            "interpretation": "high",
+            "reasons": "Text and witness sigla are clearly legible."
+        },
+        "evaluation": {
+            "target_correct": true,
+            "reading_correct": true,
+            "witnesses_correct": true,
+            "interpretation_correct": true,
+            "reviewer": "SJH",
+            "review_status": "reviewed"
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:a90f9543-bfa3-4901-99b2-6c34723bcccb",
+        "apparatus_entry_id": "urn:uuid:bf1c9a6f-bc29-4774-8b07-8f58f12bc48e",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.13@Leuce",
+        "claim_type": "",
+        "reading_type": "",
+        "reading": "",
+        "supporting_evidence": [],
+        "reporting_rank": 0,
+        "editorial_comments": [],
+        "confidence": {
+            "interpretation": "high",
+            "reasons": "Text and witness sigla are clearly legible."
+        },
+        "evaluation": {
+            "target_correct": true,
+            "reading_correct": true,
+            "witnesses_correct": true,
+            "interpretation_correct": true,
+            "reviewer": "SJH",
+            "review_status": "reviewed"
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:be5507bd-68b9-410c-b329-b8fba9370af7",
+        "apparatus_entry_id": "urn:uuid:bf1c9a6f-bc29-4774-8b07-8f58f12bc48e",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.13@Leuce",
+        "claim_type": "",
+        "reading_type": "",
+        "reading": "",
+        "supporting_evidence": [],
+        "reporting_rank": 0,
+        "editorial_comments": [],
+        "confidence": {
+            "interpretation": "high",
+            "reasons": "Text and witness sigla are clearly legible."
+        },
+        "evaluation": {
+            "target_correct": true,
+            "reading_correct": true,
+            "witnesses_correct": true,
+            "interpretation_correct": true,
+            "reviewer": "SJH",
+            "review_status": "reviewed"
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:28617d37-8a7d-4597-8ef5-2b2be3d3d0a4",
+        "apparatus_entry_id": "urn:uuid:bf1c9a6f-bc29-4774-8b07-8f58f12bc48e",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.13@Leuce",
+        "claim_type": "",
+        "reading_type": "",
+        "reading": "",
+        "supporting_evidence": [],
+        "reporting_rank": 0,
+        "editorial_comments": [],
+        "confidence": {
+            "interpretation": "high",
+            "reasons": "Text and witness sigla are clearly legible."
+        },
+        "evaluation": {
+            "target_correct": true,
+            "reading_correct": true,
+            "witnesses_correct": true,
+            "interpretation_correct": true,
+            "reviewer": "SJH",
+            "review_status": "reviewed"
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:e86fd77b-90ec-499f-92bd-5e71998b827d",
+        "apparatus_entry_id": "urn:uuid:bf1c9a6f-bc29-4774-8b07-8f58f12bc48e",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.13@Leuce",
+        "claim_type": "",
+        "reading_type": "",
+        "reading": "",
+        "supporting_evidence": [],
+        "reporting_rank": 0,
+        "editorial_comments": [],
+        "confidence": {
+            "interpretation": "high",
+            "reasons": "Text and witness sigla are clearly legible."
+        },
+        "evaluation": {
+            "target_correct": true,
+            "reading_correct": true,
+            "witnesses_correct": true,
+            "interpretation_correct": true,
+            "reviewer": "SJH",
+            "review_status": "reviewed"
+        }
+    }
+]

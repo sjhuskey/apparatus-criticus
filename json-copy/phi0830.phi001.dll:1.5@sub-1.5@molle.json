@@ -1,0 +1,165 @@
+[
+    {
+        "type": "apparatus_entry",
+        "id": "urn:uuid:e277cd21-386c-4766-8c6a-3852e41555e3",
+        "text_locus": "urn:cts:latinLit:phi0830.phi001.dll:1.5@sub-1.5@molle",
+        "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
+        "source_page": 5,
+        "source_image": "pdf-page-42",
+        "bbox_norm": [],
+        "transcription": [
+            {
+                "text": "molle sub",
+                "rendition": "italic"
+            },
+            {
+                "text": "P V edd.,"
+            },
+            {
+                "text": "molliter",
+                "rendition": "italic"
+            },
+            {
+                "text": "N G A H Glaeser Keene Jacoby (Woch. f. kl. Phi. III p. 1290),"
+            },
+            {
+                "text": "molle per",
+                "rendition": "italic"
+            },
+            {
+                "text": "Schenkl2."
+            }
+        ],
+        "transcription_confidence": "high",
+        "transcriber": "SJH",
+        "notes": [],
+        "extraction": {
+            "model": null,
+            "extracted_at": "2026-09-17T12:55:28.554402Z",
+            "extraction_image": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:0bcfb3f9-752b-4741-ba20-793ef22762c3",
+        "apparatus_entry_id": "urn:uuid:e277cd21-386c-4766-8c6a-3852e41555e3",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.5@sub-1.5@molle",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "molle sub",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:813d3a5f-1fb8-4905-b10a-8dca34d64509",
+                "label": "P"
+            },
+            {
+                "id": "urn:uuid:add756d3-deb4-4441-8bdf-3675aa7a0a96",
+                "label": "V"
+            },
+            {
+                "group": {
+                    "label": "edd.",
+                    "type": "edition_group",
+                    "quantity": "all",
+                    "boundary": null
+                }
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": [],
+        "confidence": {
+            "interpretation": "high",
+            "reasons": "Text and witness sigla are clearly legible."
+        },
+        "evaluation": {
+            "target_correct": true,
+            "reading_correct": true,
+            "witnesses_correct": true,
+            "interpretation_correct": true,
+            "reviewer": "SJH",
+            "review_status": "reviewed"
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:02bb1cba-270f-41fc-8ebe-abf2a64dc5fa",
+        "apparatus_entry_id": "urn:uuid:e277cd21-386c-4766-8c6a-3852e41555e3",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.5@sub-1.5@molle",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "molliter",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
+                "label": "N"
+            },
+            {
+                "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
+                "label": "G"
+            },
+            {
+                "id": "urn:uuid:95b19ca1-7f6a-459b-a461-9697623d2284",
+                "label": "A"
+            },
+            {
+                "id": "urn:uuid:faec1200-3fd8-439d-879e-bc97a4f65c65",
+                "label": "H"
+            },
+            {
+                "id": "urn:uuid:475edb73-ed20-45ab-83c4-0bd344518a1b",
+                "label": "Glaeser"
+            },
+            {
+                "id": "urn:uuid:84bba6b6-f355-449c-84da-406bf435a992",
+                "label": "Keene"
+            },
+            {
+                "id": "urn:uuid:8797eeb0-9edd-434c-9d3c-52dff999e35c",
+                "label": "Jacoby"
+            }
+        ],
+        "reporting_rank": 2,
+        "editorial_comments": [],
+        "confidence": {
+            "interpretation": "high",
+            "reasons": "Text and witness sigla are clearly legible."
+        },
+        "evaluation": {
+            "target_correct": true,
+            "reading_correct": true,
+            "witnesses_correct": true,
+            "interpretation_correct": true,
+            "reviewer": "SJH",
+            "review_status": "reviewed"
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:e5edf373-51d6-425e-b8fa-9b7e4ecc73b1",
+        "apparatus_entry_id": "urn:uuid:e277cd21-386c-4766-8c6a-3852e41555e3",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.5@sub-1.5@molle",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "molle per",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:d1d8f639-1a12-463f-b579-d71ec86b5e2a",
+                "label": "Schenkl2"
+            }
+        ],
+        "reporting_rank": 3,
+        "editorial_comments": [],
+        "confidence": {
+            "interpretation": "high",
+            "reasons": "Text and witness sigla are clearly legible."
+        },
+        "evaluation": {
+            "target_correct": true,
+            "reading_correct": true,
+            "witnesses_correct": true,
+            "interpretation_correct": true,
+            "reviewer": "SJH",
+            "review_status": "reviewed"
+        }
+    }
+]

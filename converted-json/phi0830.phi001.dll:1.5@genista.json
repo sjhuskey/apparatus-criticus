@@ -1,0 +1,138 @@
+[
+    {
+        "type": "apparatus_entry",
+        "id": "urn:uuid:20714735-1595-4b9d-865a-fb071e3da43a",
+        "text_locus": "urn:cts:latinLit:phi0830.phi001.dll:1.5@genista",
+        "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
+        "source_page": 5,
+        "source_image": "pdf-page-42",
+        "bbox_norm": [],
+        "transcription": "<ab><hi rend=\"italic\">genestra</hi> λ<hi rend=\"superscript\">1</hi>δ, <hi rend=\"italic\">genesta</hi> εγμλ<hi rend=\"superscript\">2</hi>χ<hi rend=\"superscript\">2</hi> e Beck, <hi rend=\"italic\">genistam</hi> Schenkl<hi rend=\"superscript\">2</hi>.</ab>",
+        "transcription_confidence": "",
+        "transcriber": "SJH",
+        "notes": [],
+        "extraction": {
+            "model": null,
+            "extracted_at": "2026-09-17T12:55:28.554402Z",
+            "extraction_image": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:e92a27fb-65d2-4910-905d-504f62fcc06f",
+        "apparatus_entry_id": "urn:uuid:20714735-1595-4b9d-865a-fb071e3da43a",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.5@genista",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "genestra",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:11aa79cd-2dd4-4660-a32f-51307fcbbb18",
+                "label": "λ",
+                "hand": "1"
+            },
+            {
+                "id": "urn:uuid:2e6148f0-40e8-49a7-9f3c-70d4091a2ac9",
+                "label": "δ"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": [],
+        "confidence": {
+            "interpretation": "high",
+            "reasons": "Text and witness sigla are clearly legible."
+        },
+        "evaluation": {
+            "target_correct": true,
+            "reading_correct": true,
+            "witnesses_correct": true,
+            "interpretation_correct": true,
+            "reviewer": "SJH",
+            "review_status": "reviewed"
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:8f338e26-b7da-4b40-821a-2dc1070dbaef",
+        "apparatus_entry_id": "urn:uuid:20714735-1595-4b9d-865a-fb071e3da43a",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.5@genista",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "genesta",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:ef896838-a18f-415d-9e5e-fb44ba27abd2",
+                "label": "ε"
+            },
+            {
+                "id": "urn:uuid:20c28232-5ab8-4e06-a4f1-1d672e5d692a",
+                "label": "γ"
+            },
+            {
+                "id": "urn:uuid:1a46fa97-d0c9-40e3-9e01-b2f702c29731",
+                "label": "μ"
+            },
+            {
+                "id": "urn:uuid:11aa79cd-2dd4-4660-a32f-51307fcbbb18",
+                "label": "λ",
+                "hand": "2"
+            },
+            {
+                "id": "urn:uuid:8470035d-4a05-4b42-8cbc-98a14fa3f41d",
+                "label": "χ",
+                "hand": "2"
+            },
+            {
+                "id": "urn:uuid:993d93e4-d3ab-48f1-9c94-ca00574da36b",
+                "label": "e"
+            },
+            {
+                "id": "urn:uuid:a24b23f6-e144-41e7-badb-52790e195e60",
+                "label": "Beck"
+            }
+        ],
+        "reporting_rank": 2,
+        "editorial_comments": [],
+        "confidence": {
+            "interpretation": "high",
+            "reasons": "Text and witness sigla are clearly legible."
+        },
+        "evaluation": {
+            "target_correct": true,
+            "reading_correct": true,
+            "witnesses_correct": true,
+            "interpretation_correct": true,
+            "reviewer": "SJH",
+            "review_status": "reviewed"
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:1667d0ae-9e62-4e84-b286-42790c698aaa",
+        "apparatus_entry_id": "urn:uuid:20714735-1595-4b9d-865a-fb071e3da43a",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.5@genista",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "genistam",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:d1d8f639-1a12-463f-b579-d71ec86b5e2a",
+                "label": "Schenkl2"
+            }
+        ],
+        "reporting_rank": 3,
+        "editorial_comments": [],
+        "confidence": {
+            "interpretation": "high",
+            "reasons": "Text and witness sigla are clearly legible."
+        },
+        "evaluation": {
+            "target_correct": true,
+            "reading_correct": true,
+            "witnesses_correct": true,
+            "interpretation_correct": true,
+            "reviewer": "SJH",
+            "review_status": "reviewed"
+        }
+    }
+]

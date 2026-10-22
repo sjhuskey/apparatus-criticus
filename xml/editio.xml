@@ -54,11 +54,11 @@
                 <idno type="DOI"/>
             </seriesStmt>
             <sourceDesc xml:id="sources">
-                <bibl xml:id="Giarratano1910" n="Giarratano 1910"><title level="m">Calpurnii et
+                <bibl xml:id="Giarratano1910" n="Giarratano 1910"><abbr type="siglum">Giarratano 1910</abbr><title level="m">Calpurnii et
                         Nemesiani Bucolica</title>, <editor ref="http://viaf.org/viaf/79016214"
                             ><forename>Caesar</forename><surname>Giarratano</surname></editor>,
                         <pubPlace>Naples</pubPlace>, <publisher>Detken et Rocholl</publisher>,
-                        <date>1910</date></bibl>
+                    <date>1910</date><ptr target="https://www.google.com/books/edition/Calpurnii_et_Nemesiani_Bucolica/j7yCAAAAIAAJ?hl=en&amp;gbpv=0"/></bibl>
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
@@ -3727,7 +3727,7 @@
                                 <biblScope unit="page">281–82</biblScope>. URL: <ptr
                                 target="http://www.jstor.org/stable/695474"/></bibl>
 
-                        <bibl xml:id="Houseman1903"><abbr type="siglum">Housman 1903</abbr> =
+                        <bibl xml:id="Housman1903"><abbr type="siglum">Housman 1903</abbr> =
                                 <editor>Housman, A.E.</editor>
                             <title>M. Manilii Astronomicon, Liber Primus</title>.
                                 <pubPlace>Londinii</pubPlace>: <publisher>apud Grant
@@ -3791,7 +3791,7 @@
                                 Wochenschrift</title>
                             <biblScope unit="volume">5</biblScope> (<date>1885</date>): <biblScope
                                 unit="page">1065–73</biblScope>. URL: <ptr
-                                target="https://books.google.com/books?id=eNUpAAAAYAAJ&amp;pg=PP11#v=onepage&amp;q&amp;f=false."
+                                    target="https://hdl.handle.net/2027/uiug.30112023962282?urlappend=%3Bseq=671%3Bownerid=13510798903280587-701"
                             /></bibl>
 
                         <bibl xml:id="Nodell"><abbr type="siglum">Nodell</abbr><editor>Nodell, Jan

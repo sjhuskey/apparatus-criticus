@@ -1,0 +1,80 @@
+[
+    {
+        "type": "apparatus_entry",
+        "id": "urn:uuid:90c8a150-48bf-43e3-b9b2-8ae8d02b2d6f",
+        "text_locus": "urn:cts:latinLit:phi0830.phi001.dll:1.4",
+        "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
+        "source_page": 5,
+        "source_image": "pdf-page-42",
+        "bbox_norm": [],
+        "transcription": [
+            {
+                "text": "4. "
+            },
+            {
+                "text": "C. ",
+                "rendition": "italic"
+            },
+            {
+                "text": "V plerique, edd. fere omnes ante Glaeser."
+            }
+        ],
+        "transcription_confidence": "high",
+        "transcriber": "SJH",
+        "notes": [
+            {
+                "type": "apparent_typo",
+                "note": "The comma after 'plerique' appears to be misplaced.",
+                "responsibility": "SJH"
+            }
+        ],
+        "extraction": {
+            "model": null,
+            "extracted_at": "2026-09-16T19:06:03.749235Z",
+            "extraction_image": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:283846a6-4b64-4951-8b84-5e3ea126d7f6",
+        "apparatus_entry_id": "urn:uuid:90c8a150-48bf-43e3-b9b2-8ae8d02b2d6f",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.4",
+        "claim_type": "reading",
+        "reading_type": "addition",
+        "reading": "C.",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:add756d3-deb4-4441-8bdf-3675aa7a0a96",
+                "label": "V"
+            },
+            {
+                "group": {
+                    "label": "plerique edd. fere omnes ante",
+                    "type": "edition_group",
+                    "quantity": "nearly_all",
+                    "boundary": {
+                        "relation": "before",
+                        "id": "urn:uuid:475edb73-ed20-45ab-83c4-0bd344518a1b",
+                        "label": "Glaeser"
+                    }
+                }
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": [],
+        "confidence": {
+            "interpretation": "high",
+            "reasons": [
+                "Text and witness sigla are clearly legible."
+            ]
+        },
+        "evaluation": {
+            "target_correct": true,
+            "reading_correct": true,
+            "witnesses_correct": true,
+            "interpretation_correct": true,
+            "reviewer": "SJH",
+            "review_status": "reviewed"
+        }
+    }
+]

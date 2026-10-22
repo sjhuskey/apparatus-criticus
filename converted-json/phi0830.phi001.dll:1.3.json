@@ -1,0 +1,53 @@
+[
+    {
+        "type": "apparatus_entry",
+        "id": "urn:uuid:022529cf-6b85-48c8-8dee-6b53245e3c44",
+        "text_locus": "urn:cts:latinLit:phi0830.phi001.dll:1.3",
+        "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
+        "source_page": 5,
+        "source_image": "pdf-page-42",
+        "bbox_norm": [],
+        "transcription": "<ab>3.  <hi rend=\"italic\">om. </hi> κχ.</ab>",
+        "transcription_confidence": "high",
+        "transcriber": "SJH",
+        "extraction": {
+            "model": null,
+            "extracted_at": "2026-09-16T19:06:03.749235Z",
+            "extraction_image": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:4488a182-b25a-4322-8277-3716b054535a",
+        "apparatus_entry_id": "urn:uuid:022529cf-6b85-48c8-8dee-6b53245e3c44",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.3",
+        "claim_type": "variant",
+        "reading_type": "omission",
+        "reading": null,
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:52fb95de-bce4-4c15-9e6d-b20967e32933",
+                "label": "κ"
+            },
+            {
+                "id": "urn:uuid:8470035d-4a05-4b42-8cbc-98a14fa3f41d",
+                "label": "χ"
+            }
+        ],
+        "editorial_comments": [],
+        "confidence": {
+            "interpretation": "high",
+            "reasons": [
+                "Text and witness sigla are clearly legible."
+            ]
+        },
+        "evaluation": {
+            "target_correct": true,
+            "reading_correct": true,
+            "witnesses_correct": true,
+            "interpretation_correct": true,
+            "reviewer": "SJH",
+            "review_status": "reviewed"
+        }
+    }
+]
