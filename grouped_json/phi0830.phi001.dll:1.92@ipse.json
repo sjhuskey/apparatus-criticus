@@ -1,0 +1,84 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:1f7c8477-ae14-401b-9578-8d5d8fbb0d2f",
+        "apparatus_entry_id": "urn:uuid:c288e0f0-5ba5-4311-a3af-5d22af172bc2",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.92@ipse",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "ipse",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:383c6af0-358f-4949-b37c-cefa8fe4958f",
+        "apparatus_entry_id": "urn:uuid:c288e0f0-5ba5-4311-a3af-5d22af172bc2",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.92@ipse",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "ipsa",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
+                "label": "N"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:9f5a2a3a-e216-4692-93e8-eec505ed995c",
+        "apparatus_entry_id": "urn:uuid:c288e0f0-5ba5-4311-a3af-5d22af172bc2",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.92@ipse",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": null,
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
+                "label": "G"
+            }
+        ],
+        "reporting_rank": 2,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

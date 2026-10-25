@@ -1,0 +1,57 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:b15ac0e8-6faa-4c20-a93d-221bccf789b2",
+        "apparatus_entry_id": "urn:uuid:bf201edd-3887-4459-8140-5262ce605aa7",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.8@nemus",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "nemus",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:d72c7180-1b9a-4abc-9399-d0b256a274b1",
+        "apparatus_entry_id": "urn:uuid:bf201edd-3887-4459-8140-5262ce605aa7",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.8@nemus",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "nemora",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
+                "label": "G",
+                "hand": "1",
+                "place": "in mg."
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

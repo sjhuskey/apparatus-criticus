@@ -1,0 +1,55 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:0294f465-0df4-4e32-ac8a-1b3f31f3ad6f",
+        "apparatus_entry_id": "urn:uuid:29bb3403-834d-4c78-9918-0a7964c68f98",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.44@sequuntur",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "sequuntur",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:60d4c84a-d807-415c-bdf1-5003f52eda12",
+        "apparatus_entry_id": "urn:uuid:29bb3403-834d-4c78-9918-0a7964c68f98",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.44@sequuntur",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "sequentur",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:e66a0f71-7a95-4626-b62a-fa9fa26e71cc",
+                "label": "Kempfer"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

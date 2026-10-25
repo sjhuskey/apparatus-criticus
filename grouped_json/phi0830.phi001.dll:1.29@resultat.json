@@ -1,0 +1,63 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:d66a541e-5c8c-4c1f-87bf-ca6838cfd9ec",
+        "apparatus_entry_id": "urn:uuid:ed6ba4ea-fe89-4dc7-93a4-208964a2f882",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.29@resultat",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "resultat",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:ba9d65a2-08da-440a-8b9b-fbb4ebc6f34a",
+        "apparatus_entry_id": "urn:uuid:ed6ba4ea-fe89-4dc7-93a4-208964a2f882",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.29@resultat",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "resultant",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:860ceb40-69f8-48a5-87f4-99ee7fca0b5e",
+                "label": "Heins."
+            },
+            {
+                "id": "urn:uuid:475edb73-ed20-45ab-83c4-0bd344518a1b",
+                "label": "Glaeser"
+            },
+            {
+                "id": "urn:uuid:84bba6b6-f355-449c-84da-406bf435a992",
+                "label": "Keene"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": "codex quidam Burmanni",
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

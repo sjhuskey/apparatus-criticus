@@ -1,0 +1,112 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:5f0868e5-52b8-43c1-ba68-11693c08388f",
+        "apparatus_entry_id": "urn:uuid:9d0a2c08-9e17-4dc5-b987-363db1accb16",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.8@antra-1.9@ista",
+        "claim_type": "transposition",
+        "reading_type": "lemma",
+        "reading": {
+            "sequence": [
+                {
+                    "target": "urn:cts:latinLit:phi0830.phi001.dll:1.8@antra",
+                    "value": "antra"
+                },
+                {
+                    "target": "urn:cts:latinLit:phi0830.phi001.dll:1.9@ista",
+                    "value": "ista"
+                }
+            ]
+        },
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
+                "label": "N"
+            },
+            {
+                "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
+                "label": "G"
+            },
+            {
+                "group": {
+                    "label": "sqq.",
+                    "type": "edition_group",
+                    "quantity": "all",
+                    "boundary": {
+                        "relation": "after",
+                        "id": "urn:uuid:475edb73-ed20-45ab-83c4-0bd344518a1b",
+                        "label": "Glaeser"
+                    }
+                }
+            }
+        ],
+        "editorial_comments": [],
+        "confidence": {
+            "interpretation": "high",
+            "reasons": "Text and witness sigla are clearly legible."
+        },
+        "evaluation": {
+            "target_correct": true,
+            "reading_correct": true,
+            "witnesses_correct": true,
+            "interpretation_correct": true,
+            "reviewer": "SJH",
+            "review_status": "reviewed"
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:7a1ee9d2-ceb4-427a-ae1a-680336c07684",
+        "apparatus_entry_id": "urn:uuid:9d0a2c08-9e17-4dc5-b987-363db1accb16",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.8@antra-1.9@ista",
+        "claim_type": "transposition",
+        "reading_type": "variant",
+        "reading": {
+            "sequence": [
+                {
+                    "target": "urn:cts:latinLit:phi0830.phi001.dll:1.8@antra",
+                    "value": "ista"
+                },
+                {
+                    "target": "urn:cts:latinLit:phi0830.phi001.dll:1.9@ista",
+                    "value": "antra"
+                }
+            ]
+        },
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:813d3a5f-1fb8-4905-b10a-8dca34d64509",
+                "label": "P"
+            },
+            {
+                "id": "urn:uuid:add756d3-deb4-4441-8bdf-3675aa7a0a96",
+                "label": "V"
+            },
+            {
+                "group": {
+                    "label": "edd. ante",
+                    "type": "edition_group",
+                    "quantity": "all",
+                    "boundary": {
+                        "relation": "before",
+                        "id": "urn:uuid:475edb73-ed20-45ab-83c4-0bd344518a1b",
+                        "label": "Glaeser"
+                    }
+                }
+            }
+        ],
+        "editorial_comments": [],
+        "confidence": {
+            "interpretation": "high",
+            "reasons": "Text and witness sigla are clearly legible."
+        },
+        "evaluation": {
+            "target_correct": true,
+            "reading_correct": true,
+            "witnesses_correct": true,
+            "interpretation_correct": true,
+            "reviewer": "SJH",
+            "review_status": "reviewed"
+        }
+    }
+]

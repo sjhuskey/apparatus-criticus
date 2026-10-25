@@ -1,0 +1,84 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:8d2a35e7-12a3-4eb1-90c3-7d05b4dae40a",
+        "apparatus_entry_id": "urn:uuid:5af7fc7e-a33f-4004-ba1b-30347c373f0d",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.74@ima",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "ima",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:329f6c1c-dc53-4fcf-92f8-1d5e9a7bd8ff",
+        "apparatus_entry_id": "urn:uuid:5af7fc7e-a33f-4004-ba1b-30347c373f0d",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.74@ima",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "yma",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
+                "label": "G"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:fd6befb7-5165-4172-81e8-bf9720ef3301",
+        "apparatus_entry_id": "urn:uuid:5af7fc7e-a33f-4004-ba1b-30347c373f0d",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.74@ima",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "in tua",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
+                "label": "N"
+            }
+        ],
+        "reporting_rank": 2,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

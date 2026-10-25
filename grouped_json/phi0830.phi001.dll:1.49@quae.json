@@ -1,0 +1,85 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:a0b8d7bd-436f-4040-bde8-a282153bf307",
+        "apparatus_entry_id": "urn:uuid:8ce8da74-3d62-4b38-ac78-a6bc2a5e34aa",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.49@quae",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "quae",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:c76754e5-bceb-4ffb-8bab-562cec3fc36a",
+        "apparatus_entry_id": "urn:uuid:8ce8da74-3d62-4b38-ac78-a6bc2a5e34aa",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.49@quae",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "quaque",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
+                "label": "G"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:2de70ab1-cd6c-4c2c-9fe7-08f63870532a",
+        "apparatus_entry_id": "urn:uuid:8ce8da74-3d62-4b38-ac78-a6bc2a5e34aa",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.49@quae",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "qua",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
+                "label": "G",
+                "hand": "1"
+            }
+        ],
+        "reporting_rank": 2,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

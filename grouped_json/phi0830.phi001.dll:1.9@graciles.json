@@ -1,0 +1,60 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:95491a81-273f-42fc-ab01-2a3f0593ae03",
+        "apparatus_entry_id": "urn:uuid:c81cc2aa-aed7-446d-9846-17c7e2833db9",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.9@graciles",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "graciles",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:1c5946f5-d537-43e1-8048-f5ffbcc42076",
+        "apparatus_entry_id": "urn:uuid:c81cc2aa-aed7-446d-9846-17c7e2833db9",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.9@graciles",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "gracilis",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:add756d3-deb4-4441-8bdf-3675aa7a0a96",
+                "label": "V"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": [
+            {
+                "text": "edd. vett. accusativos eiusmodi fere semper in is exhibent",
+                "type": "orthographic_observation"
+            }
+        ],
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

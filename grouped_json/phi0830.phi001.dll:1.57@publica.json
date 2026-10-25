@@ -1,0 +1,143 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:6e9f92fa-f45a-41c2-8d7c-20d37d8cd514",
+        "apparatus_entry_id": "urn:uuid:14b8eb7c-8517-4ac4-946d-924979f2c7d1",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.57@publica",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "publica",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:890009b4-7467-4528-be8b-9bd9735a74bf",
+        "apparatus_entry_id": "urn:uuid:14b8eb7c-8517-4ac4-946d-924979f2c7d1",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.57@publica",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "puplica",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
+                "label": "N",
+                "hand": "2"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:59a3429c-8840-42ad-b48c-57dea3dda3d7",
+        "apparatus_entry_id": "urn:uuid:14b8eb7c-8517-4ac4-946d-924979f2c7d1",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.57@publica",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "iubila",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:cfc80e76-a9ce-498e-969d-cfe3c8bf70cc",
+                "label": "Baehr."
+            }
+        ],
+        "reporting_rank": 2,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:c239cd7d-5078-466d-83d5-440288f43596",
+        "apparatus_entry_id": "urn:uuid:14b8eb7c-8517-4ac4-946d-924979f2c7d1",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.57@publica",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "vulnera",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:57858ff4-6ee3-4e64-8338-03125abb9068",
+                "label": "Leo"
+            }
+        ],
+        "reporting_rank": 3,
+        "editorial_comments": "Leo (Zeitschr. f. d. oesterr. Gymn. XXX p. 616)",
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:31d3a402-5749-4476-811a-11e8fa5e2f2d",
+        "apparatus_entry_id": "urn:uuid:14b8eb7c-8517-4ac4-946d-924979f2c7d1",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.57@publica",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "fulmina",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:d1d8f639-1a12-463f-b579-d71ec86b5e2a",
+                "label": "Schenkl2"
+            }
+        ],
+        "reporting_rank": 4,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

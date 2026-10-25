@@ -1,0 +1,113 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:a98f8abb-eb85-4fe5-b81c-6b499aec18f7",
+        "apparatus_entry_id": "urn:uuid:64de5bba-d578-493d-b9c3-0c52b33dd155",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.23@se laxet",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "se laxet",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:d66ed273-dafa-4b29-b071-2b6c1ccd22c8",
+        "apparatus_entry_id": "urn:uuid:64de5bba-d578-493d-b9c3-0c52b33dd155",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.23@se laxet",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "laxet",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
+                "label": "N"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:60e9efa6-8fe8-4c5a-988e-8f18e36366dd",
+        "apparatus_entry_id": "urn:uuid:64de5bba-d578-493d-b9c3-0c52b33dd155",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.23@se laxet",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "se laxat",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:65bc0a7e-4593-4ebb-96ac-cb70dc13ee33",
+                "label": "d"
+            }
+        ],
+        "reporting_rank": 2,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:1512ccca-cdb4-4bad-8b00-cc4c4dd1e48b",
+        "apparatus_entry_id": "urn:uuid:64de5bba-d578-493d-b9c3-0c52b33dd155",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.23@se laxet",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "laxetur",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:cb9bb02a-037b-40ba-9c76-b03555a5cd45",
+                "label": "Schenkl"
+            }
+        ],
+        "reporting_rank": 3,
+        "editorial_comments": "olim",
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

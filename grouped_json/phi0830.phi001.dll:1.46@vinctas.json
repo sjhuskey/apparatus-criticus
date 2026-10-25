@@ -1,0 +1,228 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:a22fb525-3ea0-4381-a542-e9b25dffe3ca",
+        "apparatus_entry_id": "urn:uuid:7117e573-2160-4a1b-a1b9-d9449bc42205",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.46@vinctas",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "vinctas",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:95b19ca1-7f6a-459b-a461-9697623d2284",
+                "label": "A"
+            },
+            {
+                "id": "urn:uuid:f7d607ac-4fd1-4f8e-8b0a-ae2796af141f",
+                "label": "ν"
+            },
+            {
+                "id": "urn:uuid:ea3aba4e-5a9d-4cd1-a782-724d50639fe5",
+                "label": "φ"
+            },
+            {
+                "id": "urn:uuid:20c28232-5ab8-4e06-a4f1-1d672e5d692a",
+                "label": "γ"
+            },
+            {
+                "id": "urn:uuid:2e6148f0-40e8-49a7-9f3c-70d4091a2ac9",
+                "label": "δ"
+            },
+            {
+                "id": "urn:uuid:108aa063-f8fa-4e48-9530-18668280b07f",
+                "label": "Guid."
+            }
+        ],
+        "reporting_rank": null,
+        "editorial_comments": "probavit F. Ramorino",
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:37f62c3c-8a48-4e69-98e6-e5843036b82b",
+        "apparatus_entry_id": "urn:uuid:7117e573-2160-4a1b-a1b9-d9449bc42205",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.46@vinctas",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "victas",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
+                "label": "N"
+            },
+            {
+                "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
+                "label": "G"
+            },
+            {
+                "id": "urn:uuid:813d3a5f-1fb8-4905-b10a-8dca34d64509",
+                "label": "P"
+            },
+            {
+                "id": "urn:uuid:1fb5c6d7-e0fa-4f9b-a33b-0e35bb675a93",
+                "label": "β"
+            },
+            {
+                "id": "urn:uuid:82f7ff13-d777-4606-a48f-a6b0a023298b",
+                "label": "ρ"
+            },
+            {
+                "id": "urn:uuid:87709584-1c61-421f-bbee-d76a8c94638e",
+                "label": "π"
+            },
+            {
+                "id": "urn:uuid:c295fc9f-988d-46e9-a43b-1d880157ca45",
+                "label": "α"
+            },
+            {
+                "id": "urn:uuid:52fb95de-bce4-4c15-9e6d-b20967e32933",
+                "label": "κ"
+            },
+            {
+                "id": "urn:uuid:11aa79cd-2dd4-4660-a32f-51307fcbbb18",
+                "label": "λ"
+            },
+            {
+                "id": "urn:uuid:1a46fa97-d0c9-40e3-9e01-b2f702c29731",
+                "label": "μ"
+            },
+            {
+                "id": "urn:uuid:8470035d-4a05-4b42-8cbc-98a14fa3f41d",
+                "label": "χ"
+            },
+            {
+                "id": "urn:uuid:43362037-8f5c-4dfb-a4d9-a2d83d6be0de",
+                "label": "s"
+            },
+            {
+                "id": "urn:uuid:2bbf63a9-c6c2-43d9-ae64-164c2517199a",
+                "label": "n"
+            },
+            {
+                "id": "urn:uuid:317ab8e7-fcd8-4ce2-af47-0e9d3b502336",
+                "label": "o"
+            },
+            {
+                "id": "urn:uuid:475edb73-ed20-45ab-83c4-0bd344518a1b",
+                "label": "Glaeser"
+            },
+            {
+                "id": "urn:uuid:cfc80e76-a9ce-498e-969d-cfe3c8bf70cc",
+                "label": "Baehr."
+            },
+            {
+                "id": "urn:uuid:84bba6b6-f355-449c-84da-406bf435a992",
+                "label": "Keene"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:5b948842-c8da-4db1-b6b3-46aa2702f8b1",
+        "apparatus_entry_id": "urn:uuid:7117e573-2160-4a1b-a1b9-d9449bc42205",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.46@vinctas",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "iunctas",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:ef896838-a18f-415d-9e5e-fb44ba27abd2",
+                "label": "ε"
+            },
+            {
+                "id": "urn:uuid:0411a4f4-cb66-49a6-af8b-c7c0a297275a",
+                "label": "u"
+            },
+            {
+                "id": "urn:uuid:993d93e4-d3ab-48f1-9c94-ca00574da36b",
+                "label": "e"
+            },
+            {
+                "id": "urn:uuid:a3192bb0-d086-490a-b91a-a60798575d71",
+                "label": "b"
+            },
+            {
+                "id": "urn:uuid:b4878960-2961-47d1-bb7f-300569e71163",
+                "label": "l",
+                "hand": "2"
+            },
+            {
+                "id": "urn:uuid:3648f9ea-1f10-4711-aba3-235ad1e80df1",
+                "label": "i",
+                "hand": "2"
+            },
+            {
+                "id": "urn:uuid:ad39a365-3052-4616-877c-c5b254958bd9",
+                "label": "g"
+            }
+        ],
+        "reporting_rank": 2,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:3b868f04-f122-4424-9bc5-88a71735d83b",
+        "apparatus_entry_id": "urn:uuid:7117e573-2160-4a1b-a1b9-d9449bc42205",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.46@vinctas",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "victa",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:cb9bb02a-037b-40ba-9c76-b03555a5cd45",
+                "label": "Schenkl"
+            }
+        ],
+        "reporting_rank": 3,
+        "editorial_comments": "olim",
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

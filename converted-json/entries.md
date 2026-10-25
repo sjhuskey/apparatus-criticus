@@ -48,7 +48,11 @@
 30. *distingunt* NPργκμεπφχδ, *destingunt* β s, *distinguit λη, *destringunt* Heins.
 30. *iubilia* P p, *nubila* δ, *sibila* Heins.
 31. post v. 32 positus est in N (corr. m^2^ v. 31 in mg. post v. 30 adscripto).
-31. *C*. G.
+31. *C*. G Pεχφπακνβηδργedd., *O*. N, om. λμ. **Note**: Space needed between γ and edd.
+31. *oculosque* N.
+31. *sagaci* N (in v. in mg.).
+32. *praelege* Gudius.
+33. *O*. Pαβπκνρεχγφδη edd., om. Nλμ, *C*. G.
 31. *tueie* N (ut videtur), *tutor* s.
 35. *patefatis* N (corr. m^2^).
 35. *fatis* Ulit. Heins. Kempfer Wernsd. Beck Glaeser sqq., *fagis* ω edd. ante Wernsd.
@@ -117,3 +121,86 @@
 60. *senatis* N (corr. m^1^), *senati* Schenkl olim.
 61. *lassabit* χφγμλ^2^αβνκρηε edd., *laxabit* GPπλ^1^, *lassabis* N (corr. m^2^), *laxabat* δ. 
 61. *plenos* θ.
+62. *numeravit* G (corr. m^1^).
+63. *quam stripti* G (*que* in mg.).
+64. *referet* N Glaeser sqq., *referent* G (corr. in mg.), *revocet* PV edd. ante Glaeser.
+64. *latialia* δ^2^βγφπκχνρηλ edd., *latia* G (corr. m^1^), *lacialia* NPδ^1^α, *latralia* εμe.
+65. *qua* θ.
+65. *primum* u.
+65. *cede* Gεπφμβκ.
+66. *cedentia* λ.
+67. *detulit* μ, *decuit* π.
+68. *inter-inter* NPVedd., *intra-inter* H^1^, *intra_intra*, GAH^2^. **NOTE**: Typo: there shouldn't be a comma after intra-intra.
+70. *vanos* Burm.
+70. *fases* P, *fassces* N (corr. m^2^).
+71. *et inane*] *etiamne* κμνηδβφπ^1^θrs, *etiamve* λχ, *nec inane* d. **NOTE** The χ is very hard to read.
+71. *redutus* G.
+72. *legemque priorem* Barth. (Adv. 44,15).
+73. *afferet* N^2^Pη^1^, *asseret* L. Mueller (Berl. phil. Woch. V. p. 1071).
+74. *exustet* G.
+74. *quacumque* G.
+74. *nothum* Pμνκβδ^2^γχ^1^π^1^εeugi^2^l^2^.
+74. *gen'* N.
+74. *yma* G, *in tua* N.
+74. *giacentem* P.
+75. *erectumve* Baehr. Schenkl, *ereptumque* P, *erectumque* NGVH edd., *evectumque* Heins. Kempfer.
+75. *borean* θ Beck.
+75. *quacumque* G.
+76. *tepet* Postgate (Class. Rev. 1901 p. 213) Schenkl^2^.
+76. *medioque* Kempfer.
+76. *fervit* GPA edd., *servit* NVreubdsgi^2^l^2^on Ulit. Martell. h Gryph., *fervet* Tit. Barth. Kempfer.
+77. *vicesima* NPrKempfer Wernsd. Beck Glaeser sqq., *vicessima* φ, *vigesima* GVP edd. ante Glaeser.
+78. *fulget* N (corr. m^1^.)
+78. *et placida radiantem* NG Beck Glaeser sqq., *et placidam radiantem* P, *et placideam radianti* πχ^1^μλκρ^1^, *et placidum radianti* φαβνθχ^2^rsonl^1^ Vienn., *ut placidum radianti* εγρ^2^ηedd., *ut placida radianti* H, *ac placidam radienti* δ, *ut placida radiantem* ph Ulit., *ut placida radiatum* codd. Titii.
+78. *comethem* G, *cometen* νηrson Beck. **NOTE**: The ν is unclear.
+79. *profferet* N. (?)
+79. *niteat* Ulit. Baehr. Schenkl, *mutat* NGβκπρ^1^λ^1^, *mittat* Pδpth Kempfer Burm., *micat* μ, *nutet* θναηrsonl^2^i^2^ Guid. Wernsd. Beck Glaeser Keene, *nutat* εχηρ^2^λ^2^deubi^1^l^1^ Tig. Vienn., *mutet* φ, *micet ac* Leo, *nictat* Barth.
+79. *sidere* Burm.
+79. *sidus|plenus*(?) P Glaeser Baehr. Keene, *lumen* Burm.
+80. *numquid* G εγρ (in ras.) edd., *dumquid* N (corr. m^2^), *non quod* Pκβλμπδ Barth., *non* α, *non per* ηφνrsoni^1^l^1^pth Guid. Tit. Vienn. Kempfer, *non quae* χ, *non quoque*, vel *nunc nec* Burm.
+80. *utrimque* d^2^.
+80. *sese ut* Barth. olim Kempfer Heins.
+80. *cremato* V (corr. A)res, *comato* Barth.
+81. *perget* Heins.
+81. *sintillat* δγε^2^eubd^2^, *sintilla* μ.
+81. *spargitur ardenti scintillans lumine* Nodell (Not. crit. p. 86).
+82. *et* νφηπθrs.
+82. *natalis* P (corr. m^2^).
+82. *raptum* θ.
+83. *induxit* l^1^.
+83. *fatalis* d^1^.
+84. *scilicet sedis* N (corr. m^2^), *sed Deus* Gleeser L. Mueller (l. l. p. 1071). **NOTE**: Typo in Gleeser should be Glaeser.
+84. *ipse* P (*ille* suprascr. m^1^).
+84. *mollis* μb.
+85. *excipient* P, *accipiet* G, *excuciet* N^2^. **NOTE**: P is hard to read.
+86. *uti* N (corr. m^2^).
+86. *tralati* Ai^1^ph Ulit. Vienn. Kempfer Barth.
+86. *sonitus* sno. **NOTE**: Uncertain about "n".
+87. *nec prius* (cett. om.) γ.
+87. *ex meritis* Pφπκχνρη edd., *a meritis* N (corr. m^2^) G Ellis (Amer. Journ. of Philology VII p. 20), *a! meritis* Schenkl, *et meritis* Aαβελμeud Guid., *ut meritis* Leo (l.l. p. 616), *emeritos* Burm. L. Mueller (l.l. p. 1071), *emeritis* δ Barth. Glaeser, *emeriti* Gronov. (Obss. III 13) Haupt L. Mueller.
+88. *sentia* Barth. Gronov. Burm. L. Mueller.
+88. *ocasus* P, *occasum* Kempfer.
+88. *nisi iam* Burm., *gnati quam* Gronov.
+88. *resperserit* G, *aspexerit* Gronv., *suspexerit* Haupt, *despexerit* Leo.
+89. *C*. om. Gμπ.
+89. *Ornite* ω.
+89. *velud* G, *velit* P.
+89. *plenum* NGPρ^2^t Barth. Burm. Kempfer Beck Baehr. Schenkl, *plenus* V edd.
+90. *quatit* PV edd., *querit* N, *petit* G, *ferit* Baehr.
+90. *mistus* G.
+90. *tremor* κχ.
+91. *Or.* e.
+91. *foecundi* εγeubiplgon Barth., *fecundi* μρ^2^, *secundi* δ.
+91. *veneramur* θ.
+91. *Fauni*] *Bacchi* Heraldus (Adv. I c. 2).
+92. *O*. om. ω rdson.
+92. *vobis* b.
+92. *ipsa* N, om. G.
+92. *calenda* i^1^, *colenda* l^1^.
+93. *discamus* Barth. (Adv. 34,8).
+93. *territique* N, *teretisque* ρ^1^ Wernsd.
+93. *sono modulemur avenae* Wernsd.
+94. *forsitā* N.
+94. *angustas* Nπφρ^1^λ^1^, *agustas* μ.
+94. *meliboeus* νε^2^ρ^2^, *melibeus* GPλπδ^1^γρ^1^αβ, *melibes* N (*melibeus* m^2^), *meiibaeus* χφ, *moelibeus* η, *moeliboeus* ε^1^, *maelibaeus* κ, *me libens* μ.
+94. *auras* P Ulit., *auris* νφρ^2^θrsi^1^on, *aras* ε, *auraes* π.

@@ -1,0 +1,26 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:601fdb58-c084-4089-9f17-be34f49e68e5",
+        "apparatus_entry_id": "urn:uuid:e4b5d1a9-2c55-4d05-9208-afa09bd2e02a",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:2.1@Intactam",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "Intactam",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

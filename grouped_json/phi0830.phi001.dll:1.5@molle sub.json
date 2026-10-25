@@ -1,0 +1,125 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:4bd1b74e-20e6-4780-9138-072b1e3bb9e8",
+        "apparatus_entry_id": "urn:uuid:e277cd21-386c-4766-8c6a-3852e41555e3",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.5@molle sub",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "molle sub",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:813d3a5f-1fb8-4905-b10a-8dca34d64509",
+                "label": "P"
+            },
+            {
+                "id": "urn:uuid:add756d3-deb4-4441-8bdf-3675aa7a0a96",
+                "label": "V"
+            },
+            {
+                "group": {
+                    "label": "edd.",
+                    "type": "edition_group",
+                    "quantity": "all",
+                    "boundary": null
+                }
+            }
+        ],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:10b37a3c-3e39-4c76-a464-e43de01725d8",
+        "apparatus_entry_id": "urn:uuid:e277cd21-386c-4766-8c6a-3852e41555e3",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.5@molle sub",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "molliter",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
+                "label": "N"
+            },
+            {
+                "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
+                "label": "G"
+            },
+            {
+                "id": "urn:uuid:95b19ca1-7f6a-459b-a461-9697623d2284",
+                "label": "A"
+            },
+            {
+                "id": "urn:uuid:faec1200-3fd8-439d-879e-bc97a4f65c65",
+                "label": "H"
+            },
+            {
+                "id": "urn:uuid:475edb73-ed20-45ab-83c4-0bd344518a1b",
+                "label": "Glaeser"
+            },
+            {
+                "id": "urn:uuid:84bba6b6-f355-449c-84da-406bf435a992",
+                "label": "Keene"
+            },
+            {
+                "id": "urn:uuid:8797eeb0-9edd-434c-9d3c-52dff999e35c",
+                "label": "Jacoby"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": "Jacoby defendit (p. 1290 Wochenschrift für Klassische Philologie III, 1886)",
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:e650893d-7ad9-4e0e-b7bd-f1b0152ee096",
+        "apparatus_entry_id": "urn:uuid:e277cd21-386c-4766-8c6a-3852e41555e3",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.5@molle sub",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "molle per",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:d1d8f639-1a12-463f-b579-d71ec86b5e2a",
+                "label": "Schenkl2"
+            }
+        ],
+        "reporting_rank": 2,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:0af925ab-2040-43d3-8b0e-775d55169fb3",
+        "apparatus_entry_id": "urn:uuid:9de244d4-7413-47c6-a20d-ddc6c86ddefc",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.14@nocturnaque",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "nocturnaque",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:71ea3aba-2923-43fa-8931-836af3fc3105",
+        "apparatus_entry_id": "urn:uuid:9de244d4-7413-47c6-a20d-ddc6c86ddefc",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.14@nocturnaque",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "noturnaque",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
+                "label": "G"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:223f6792-3cd2-412d-bf97-0888ba269154",
+        "apparatus_entry_id": "urn:uuid:9de244d4-7413-47c6-a20d-ddc6c86ddefc",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.14@nocturnaque",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "nocturnaque",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
+                "label": "N"
+            }
+        ],
+        "reporting_rank": 2,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

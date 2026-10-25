@@ -1,0 +1,124 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:b704afe1-7783-452e-b72e-c69580d11118",
+        "apparatus_entry_id": "urn:uuid:772b55bf-f27f-4016-8452-e2a8a7064c42",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.20@",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": null,
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:d1e89c1b-59dc-473b-a874-4ea1c4328a64",
+        "apparatus_entry_id": "urn:uuid:772b55bf-f27f-4016-8452-e2a8a7064c42",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.20@",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "O.",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:1a46fa97-d0c9-40e3-9e01-b2f702c29731",
+                "label": "μ"
+            },
+            {
+                "id": "urn:uuid:82f7ff13-d777-4606-a48f-a6b0a023298b",
+                "label": "ρ"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:ebfb292a-c17a-4d3a-9c84-67dce4d108dc",
+        "apparatus_entry_id": "urn:uuid:772b55bf-f27f-4016-8452-e2a8a7064c42",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.20@",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "C.",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:f7d607ac-4fd1-4f8e-8b0a-ae2796af141f",
+                "label": "ν"
+            },
+            {
+                "id": "urn:uuid:ea3aba4e-5a9d-4cd1-a782-724d50639fe5",
+                "label": "φ"
+            },
+            {
+                "id": "urn:uuid:2e6148f0-40e8-49a7-9f3c-70d4091a2ac9",
+                "label": "δ"
+            },
+            {
+                "id": "urn:uuid:b2fbaa1c-8850-450d-83f2-c25d30a4cbe2",
+                "label": "η"
+            },
+            {
+                "id": "urn:uuid:43362037-8f5c-4dfb-a4d9-a2d83d6be0de",
+                "label": "s"
+            },
+            {
+                "id": "urn:uuid:317ab8e7-fcd8-4ce2-af47-0e9d3b502336",
+                "label": "o"
+            },
+            {
+                "id": "urn:uuid:2bbf63a9-c6c2-43d9-ae64-164c2517199a",
+                "label": "n"
+            },
+            {
+                "id": "urn:uuid:47e5f301-0070-4036-99c6-11bdd756559a",
+                "label": "Ulit."
+            },
+            {
+                "id": "urn:uuid:8e9640ff-7b06-41ce-87a9-3e66001ca8cc",
+                "label": "Wernsd."
+            },
+            {
+                "id": "urn:uuid:a24b23f6-e144-41e7-badb-52790e195e60",
+                "label": "Beck"
+            }
+        ],
+        "reporting_rank": 2,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

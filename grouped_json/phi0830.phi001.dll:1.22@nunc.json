@@ -1,0 +1,55 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:1e01ea70-8d9a-4bd9-b2e0-3495ec7f0f6f",
+        "apparatus_entry_id": "urn:uuid:32db9dfb-2538-4970-b83c-f5aea9648c6b",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.22@nunc",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "nunc",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:19d43027-f11a-434b-b1b7-d33a00a0a0f1",
+        "apparatus_entry_id": "urn:uuid:32db9dfb-2538-4970-b83c-f5aea9648c6b",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.22@nunc",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "tunc",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:156932bd-d79f-4b3f-b3c2-241f78702529",
+                "label": "Vienn."
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

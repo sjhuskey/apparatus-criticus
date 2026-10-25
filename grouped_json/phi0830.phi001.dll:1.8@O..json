@@ -1,0 +1,63 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:92734b97-6647-4506-bc39-37b1fde79833",
+        "apparatus_entry_id": "urn:uuid:2c98e1e5-f190-4e8f-8c63-5c0b46988aed",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.8@O.",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "O.",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:4d15ca6a-4a9b-4e5e-b022-7dea02f3e708",
+        "apparatus_entry_id": "urn:uuid:2c98e1e5-f190-4e8f-8c63-5c0b46988aed",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.8@O.",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": null,
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
+                "label": "N",
+                "correction": {
+                    "hand": "1",
+                    "reading": {
+                        "value": "O.",
+                        "status": "inferred",
+                        "responsibility": "SJH"
+                    }
+                }
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

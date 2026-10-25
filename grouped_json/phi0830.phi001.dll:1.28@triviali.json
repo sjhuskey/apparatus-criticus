@@ -1,0 +1,97 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:e0f04ff0-aeb2-43a6-97dc-ecc917724326",
+        "apparatus_entry_id": "urn:uuid:f84cd3ef-212a-438e-a23a-4d9d6f32c1f9",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.28@triviali",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "triviali",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:813d3a5f-1fb8-4905-b10a-8dca34d64509",
+                "label": "P"
+            },
+            {
+                "id": "urn:uuid:add756d3-deb4-4441-8bdf-3675aa7a0a96",
+                "label": "V"
+            }
+        ],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:f4a9a0b8-57f9-4def-b2e6-426296dde6c9",
+        "apparatus_entry_id": "urn:uuid:f84cd3ef-212a-438e-a23a-4d9d6f32c1f9",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.28@triviali",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "tibi vili",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
+                "label": "N"
+            },
+            {
+                "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
+                "label": "G"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:ea64d49a-5b4a-4a7c-a280-1f8e018ea1d4",
+        "apparatus_entry_id": "urn:uuid:f84cd3ef-212a-438e-a23a-4d9d6f32c1f9",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.28@triviali",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "rivali",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:317ab8e7-fcd8-4ce2-af47-0e9d3b502336",
+                "label": "o"
+            }
+        ],
+        "reporting_rank": 2,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

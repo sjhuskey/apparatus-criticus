@@ -1,0 +1,70 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:7bf058d2-ef70-46aa-8cab-d10448893124",
+        "apparatus_entry_id": "urn:uuid:37b666e6-9980-4776-81d9-d056936f49c5",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.1@Nondum",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "Nondum",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:b9b1f780-c55e-4940-a52d-42a39461fe9b",
+        "apparatus_entry_id": "urn:uuid:37b666e6-9980-4776-81d9-d056936f49c5",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.1@Nondum",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "nundum",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
+                "label": "G",
+                "correction": {
+                    "hand": "1",
+                    "reading": {
+                        "value": "nondum",
+                        "status": "inferred",
+                        "responsibility": "SJH"
+                    }
+                }
+            },
+            {
+                "id": "urn:uuid:813d3a5f-1fb8-4905-b10a-8dca34d64509",
+                "label": "P"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": "high",
+            "reasons": [
+                "The apparatus unambiguously assigns 'nundum' to G and P and identifies a correction in G by m1.",
+                "The corrected reading is inferred from the target text."
+            ]
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:d03d22ed-07be-46a1-b55a-541280093c59",
+        "apparatus_entry_id": "urn:uuid:0b01ddfd-9fda-4ac2-a05f-0dfff45fa9da",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.70@fasces",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "fasces",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:4fa86c5d-566e-4948-a4aa-d7d3f09fcd78",
+        "apparatus_entry_id": "urn:uuid:0b01ddfd-9fda-4ac2-a05f-0dfff45fa9da",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.70@fasces",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "fases",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:813d3a5f-1fb8-4905-b10a-8dca34d64509",
+                "label": "P"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:ee1991ad-a6d8-4d54-a0e8-94ab6fcf8dd2",
+        "apparatus_entry_id": "urn:uuid:0b01ddfd-9fda-4ac2-a05f-0dfff45fa9da",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.70@fasces",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "fassces",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
+                "label": "N"
+            }
+        ],
+        "reporting_rank": 2,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

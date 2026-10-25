@@ -1,0 +1,72 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:b4b9bb13-3175-433c-998f-0a944e8a4134",
+        "apparatus_entry_id": "urn:uuid:6c64e77b-3e45-4888-8b59-7f20df87b005",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.28@haec",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "haec",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
+                "label": "N"
+            },
+            {
+                "id": "urn:uuid:813d3a5f-1fb8-4905-b10a-8dca34d64509",
+                "label": "P"
+            },
+            {
+                "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
+                "label": "G"
+            },
+            {
+                "id": "urn:uuid:11aa79cd-2dd4-4660-a32f-51307fcbbb18",
+                "label": "λ"
+            }
+        ],
+        "reporting_rank": null,
+        "editorial_comments": "Glaeser sqq.",
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:e19d0ca6-9b26-4c9d-9b2c-875a29dcdba8",
+        "apparatus_entry_id": "urn:uuid:6c64e77b-3e45-4888-8b59-7f20df87b005",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.28@haec",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "hoc",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:add756d3-deb4-4441-8bdf-3675aa7a0a96",
+                "label": "V"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": "edd. ante Glaeser",
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

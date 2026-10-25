@@ -1,0 +1,76 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:72ad333c-83cf-4624-bccf-7eb5e541a3af",
+        "apparatus_entry_id": "urn:uuid:505737b6-9187-4bfc-988c-babb1cc15efe",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.5@explicuere",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "explicuere",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:2c062237-7e85-4001-9058-a08e047dbe34",
+        "apparatus_entry_id": "urn:uuid:505737b6-9187-4bfc-988c-babb1cc15efe",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.5@explicuere",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "explicare",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:ef896838-a18f-415d-9e5e-fb44ba27abd2",
+                "label": "ε"
+            },
+            {
+                "id": "urn:uuid:20c28232-5ab8-4e06-a4f1-1d672e5d692a",
+                "label": "γ"
+            },
+            {
+                "id": "urn:uuid:1a46fa97-d0c9-40e3-9e01-b2f702c29731",
+                "label": "μ"
+            },
+            {
+                "id": "urn:uuid:11aa79cd-2dd4-4660-a32f-51307fcbbb18",
+                "label": "λ",
+                "hand": "1"
+            },
+            {
+                "id": "urn:uuid:2e6148f0-40e8-49a7-9f3c-70d4091a2ac9",
+                "label": "δ"
+            },
+            {
+                "id": "urn:uuid:993d93e4-d3ab-48f1-9c94-ca00574da36b",
+                "label": "e"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

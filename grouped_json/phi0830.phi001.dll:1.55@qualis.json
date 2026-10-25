@@ -1,0 +1,26 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:d08bc824-7ef0-436c-84f7-1fdcac501988",
+        "apparatus_entry_id": "urn:uuid:7ae6a99d-1ac1-499e-847f-283b984dd903",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.55@qualis",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "qualis",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

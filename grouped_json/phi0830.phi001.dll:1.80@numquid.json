@@ -1,0 +1,275 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:835ae3f4-0e4f-4427-bd12-dbadec0c1990",
+        "apparatus_entry_id": "urn:uuid:47d7c870-9f74-4193-9528-770c46617032",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.80@numquid",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "numquid",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
+                "label": "N",
+                "hand": "2"
+            },
+            {
+                "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
+                "label": "G"
+            },
+            {
+                "id": "urn:uuid:ef896838-a18f-415d-9e5e-fb44ba27abd2",
+                "label": "ε"
+            },
+            {
+                "id": "urn:uuid:20c28232-5ab8-4e06-a4f1-1d672e5d692a",
+                "label": "γ"
+            },
+            {
+                "id": "urn:uuid:82f7ff13-d777-4606-a48f-a6b0a023298b",
+                "label": "ρ"
+            }
+        ],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:4c459b5a-b185-4f81-b77b-91b707c939b1",
+        "apparatus_entry_id": "urn:uuid:47d7c870-9f74-4193-9528-770c46617032",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.80@numquid",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "dumquid",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
+                "label": "N"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:5155c9dd-a03c-4126-9e21-17e4faa1b6cd",
+        "apparatus_entry_id": "urn:uuid:47d7c870-9f74-4193-9528-770c46617032",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.80@numquid",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "non quod",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:813d3a5f-1fb8-4905-b10a-8dca34d64509",
+                "label": "P"
+            },
+            {
+                "id": "urn:uuid:52fb95de-bce4-4c15-9e6d-b20967e32933",
+                "label": "κ"
+            },
+            {
+                "id": "urn:uuid:1fb5c6d7-e0fa-4f9b-a33b-0e35bb675a93",
+                "label": "β"
+            },
+            {
+                "id": "urn:uuid:11aa79cd-2dd4-4660-a32f-51307fcbbb18",
+                "label": "λ"
+            },
+            {
+                "id": "urn:uuid:1a46fa97-d0c9-40e3-9e01-b2f702c29731",
+                "label": "μ"
+            },
+            {
+                "id": "urn:uuid:87709584-1c61-421f-bbee-d76a8c94638e",
+                "label": "π"
+            },
+            {
+                "id": "urn:uuid:2e6148f0-40e8-49a7-9f3c-70d4091a2ac9",
+                "label": "δ"
+            }
+        ],
+        "reporting_rank": 2,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:562ee5c5-f7e2-46bf-8d74-863af1ca327d",
+        "apparatus_entry_id": "urn:uuid:47d7c870-9f74-4193-9528-770c46617032",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.80@numquid",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "non",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:c295fc9f-988d-46e9-a43b-1d880157ca45",
+                "label": "α"
+            }
+        ],
+        "reporting_rank": 3,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:e2686c7e-08ab-43b7-92c8-931fe4ded889",
+        "apparatus_entry_id": "urn:uuid:47d7c870-9f74-4193-9528-770c46617032",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.80@numquid",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "non per",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:b2fbaa1c-8850-450d-83f2-c25d30a4cbe2",
+                "label": "η"
+            },
+            {
+                "id": "urn:uuid:ea3aba4e-5a9d-4cd1-a782-724d50639fe5",
+                "label": "φ"
+            },
+            {
+                "id": "urn:uuid:f7d607ac-4fd1-4f8e-8b0a-ae2796af141f",
+                "label": "ν"
+            },
+            {
+                "id": "urn:uuid:43362037-8f5c-4dfb-a4d9-a2d83d6be0de",
+                "label": "s"
+            },
+            {
+                "id": "urn:uuid:317ab8e7-fcd8-4ce2-af47-0e9d3b502336",
+                "label": "o"
+            },
+            {
+                "id": "urn:uuid:2bbf63a9-c6c2-43d9-ae64-164c2517199a",
+                "label": "n"
+            },
+            {
+                "id": "urn:uuid:3648f9ea-1f10-4711-aba3-235ad1e80df1",
+                "label": "i",
+                "hand": "1"
+            },
+            {
+                "id": "urn:uuid:b4878960-2961-47d1-bb7f-300569e71163",
+                "label": "l",
+                "hand": "1"
+            },
+            {
+                "id": "urn:uuid:3cca9017-d15e-402a-81bd-35be86dcec4a",
+                "label": "p"
+            },
+            {
+                "id": "urn:uuid:17cdce31-1d4c-4261-9288-4a68df034016",
+                "label": "t"
+            },
+            {
+                "id": "urn:uuid:ecdfab6c-0668-4fb9-bda6-f532e514756a",
+                "label": "h"
+            },
+            {
+                "id": "urn:uuid:108aa063-f8fa-4e48-9530-18668280b07f",
+                "label": "Guid."
+            },
+            {
+                "id": "urn:uuid:40977678-a515-42a1-a9b3-0990fafa56ff",
+                "label": "Tit."
+            },
+            {
+                "id": "urn:uuid:156932bd-d79f-4b3f-b3c2-241f78702529",
+                "label": "Vienn."
+            },
+            {
+                "id": "urn:uuid:e66a0f71-7a95-4626-b62a-fa9fa26e71cc",
+                "label": "Kempfer"
+            }
+        ],
+        "reporting_rank": 4,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:c643153c-6c6e-434d-8bbd-39aaf698de27",
+        "apparatus_entry_id": "urn:uuid:47d7c870-9f74-4193-9528-770c46617032",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.80@numquid",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "non quae",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:8470035d-4a05-4b42-8cbc-98a14fa3f41d",
+                "label": "χ"
+            }
+        ],
+        "reporting_rank": 5,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

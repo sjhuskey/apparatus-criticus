@@ -624,7 +624,7 @@
             "id": "h"
         },
         {
-            "siglum": "Burm1731",
+            "siglum": "Burm",
             "editor": "Burmannus, Petrus (Pieter Burman)",
             "title": "editio Burmanni",
             "place": "Leidae",
@@ -633,8 +633,8 @@
             "url": "https://books.google.com/books?id=uKZAAAAAcAAJ&pg=PP9#v=onepage&q&f=false",
             "type": "modern_edition",
             "uuid": "urn:uuid:79419300-6c6f-4b9c-988d-be2fc9645392",
-            "label": "Burm. 1731",
-            "id": "Burm1731"
+            "label": "Burm.",
+            "id": "Burm"
         },
         {
             "siglum": "t",

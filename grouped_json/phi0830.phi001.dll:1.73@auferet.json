@@ -1,0 +1,94 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:987a047a-52b7-4194-b93f-d56ec3208896",
+        "apparatus_entry_id": "urn:uuid:42ab9626-d180-4f38-b66e-cc0795a7f54b",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.73@auferet",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "auferet",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:773364c3-3abd-4b8e-8241-a199f1b48708",
+        "apparatus_entry_id": "urn:uuid:42ab9626-d180-4f38-b66e-cc0795a7f54b",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.73@auferet",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "afferet",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
+                "label": "N",
+                "hand": "2"
+            },
+            {
+                "id": "urn:uuid:813d3a5f-1fb8-4905-b10a-8dca34d64509",
+                "label": "P"
+            },
+            {
+                "id": "urn:uuid:b2fbaa1c-8850-450d-83f2-c25d30a4cbe2",
+                "label": "η",
+                "hand": "1"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:57091e3f-cdcb-4154-9531-d9e346f8f306",
+        "apparatus_entry_id": "urn:uuid:42ab9626-d180-4f38-b66e-cc0795a7f54b",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.73@auferet",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "asseret",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:ba8f0537-97f6-4e03-ae5e-94d411a981b5",
+                "label": "Mueller"
+            }
+        ],
+        "reporting_rank": 2,
+        "editorial_comments": "L. Mueller (Berl. phil. Woch V. p.1071)",
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

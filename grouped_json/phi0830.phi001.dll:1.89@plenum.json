@@ -1,0 +1,93 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:fedb3e9f-44ec-4e86-9069-5a35dcf63c47",
+        "apparatus_entry_id": "urn:uuid:376e81da-3953-4a73-911b-77e758af9d3c",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.89@plenum",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "plenum",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
+                "label": "N"
+            },
+            {
+                "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
+                "label": "G"
+            },
+            {
+                "id": "urn:uuid:813d3a5f-1fb8-4905-b10a-8dca34d64509",
+                "label": "P"
+            },
+            {
+                "id": "urn:uuid:82f7ff13-d777-4606-a48f-a6b0a023298b",
+                "label": "ρ",
+                "hand": "2"
+            },
+            {
+                "id": "urn:uuid:17cdce31-1d4c-4261-9288-4a68df034016",
+                "label": "t"
+            },
+            {
+                "id": "urn:uuid:e66a0f71-7a95-4626-b62a-fa9fa26e71cc",
+                "label": "Kempfer"
+            },
+            {
+                "id": "urn:uuid:a24b23f6-e144-41e7-badb-52790e195e60",
+                "label": "Beck"
+            },
+            {
+                "id": "urn:uuid:cfc80e76-a9ce-498e-969d-cfe3c8bf70cc",
+                "label": "Baehr."
+            },
+            {
+                "id": "urn:uuid:cb9bb02a-037b-40ba-9c76-b03555a5cd45",
+                "label": "Schenkl"
+            }
+        ],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:78e2c1d8-8369-4b87-b2e8-26071902106e",
+        "apparatus_entry_id": "urn:uuid:376e81da-3953-4a73-911b-77e758af9d3c",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.89@plenum",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "plenus",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:add756d3-deb4-4441-8bdf-3675aa7a0a96",
+                "label": "V"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

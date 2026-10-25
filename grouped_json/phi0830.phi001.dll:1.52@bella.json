@@ -1,0 +1,26 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:44c94e3c-ba29-4777-b635-348e0225b4a2",
+        "apparatus_entry_id": "urn:uuid:769ca300-38ab-494c-91db-c5bc0f819da7",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.52@bella",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "bella",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": "vix sanum putat Baehr.",
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

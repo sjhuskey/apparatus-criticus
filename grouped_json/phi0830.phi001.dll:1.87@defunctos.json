@@ -1,0 +1,55 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:563e51f5-8cff-4707-84ab-7d80c95fc31d",
+        "apparatus_entry_id": "urn:uuid:9debdf82-6439-400a-be44-45a12a43b771",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.87@defunctos",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "defunctos",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:9ac6b209-2179-4c46-ac4b-95fe1663eed6",
+        "apparatus_entry_id": "urn:uuid:9debdf82-6439-400a-be44-45a12a43b771",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.87@defunctos",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "defuncti",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:ba8f0537-97f6-4e03-ae5e-94d411a981b5",
+                "label": "Mueller"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

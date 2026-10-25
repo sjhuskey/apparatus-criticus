@@ -1,0 +1,104 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:0810cc73-6e43-4e09-89b8-7b89731dbad6",
+        "apparatus_entry_id": "urn:uuid:2f0c836e-a90a-41c8-81e2-250be8fe2c5d",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.78@cometem",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "cometem",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:3f45f00d-199a-4db8-a81e-63dd6c6ad307",
+        "apparatus_entry_id": "urn:uuid:2f0c836e-a90a-41c8-81e2-250be8fe2c5d",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.78@cometem",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "comethem",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
+                "label": "G"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:6f7d6104-a256-4fca-8326-0805570966ed",
+        "apparatus_entry_id": "urn:uuid:2f0c836e-a90a-41c8-81e2-250be8fe2c5d",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.78@cometem",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "cometen",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:f7d607ac-4fd1-4f8e-8b0a-ae2796af141f",
+                "label": "ν"
+            },
+            {
+                "id": "urn:uuid:b2fbaa1c-8850-450d-83f2-c25d30a4cbe2",
+                "label": "η"
+            },
+            {
+                "id": "urn:uuid:43362037-8f5c-4dfb-a4d9-a2d83d6be0de",
+                "label": "s"
+            },
+            {
+                "id": "urn:uuid:317ab8e7-fcd8-4ce2-af47-0e9d3b502336",
+                "label": "o"
+            },
+            {
+                "id": "urn:uuid:2bbf63a9-c6c2-43d9-ae64-164c2517199a",
+                "label": "n"
+            },
+            {
+                "id": "urn:uuid:a24b23f6-e144-41e7-badb-52790e195e60",
+                "label": "Beck"
+            }
+        ],
+        "reporting_rank": 2,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

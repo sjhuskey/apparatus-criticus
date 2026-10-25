@@ -1,0 +1,55 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:3254d052-da52-4014-a339-63d715a70264",
+        "apparatus_entry_id": "urn:uuid:8b81f151-3650-4b05-8cfd-7ff4873ead67",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.10@caput",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "caput",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:3c9e71c9-5f8a-4b37-940d-03186a84d195",
+        "apparatus_entry_id": "urn:uuid:8b81f151-3650-4b05-8cfd-7ff4873ead67",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.10@caput",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "capud",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
+                "label": "G"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

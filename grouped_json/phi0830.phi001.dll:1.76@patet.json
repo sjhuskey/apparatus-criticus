@@ -1,0 +1,59 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:41c60339-8f20-45bc-91dc-54723995527e",
+        "apparatus_entry_id": "urn:uuid:bc5fd516-6b26-4a37-ade6-8a5f52fdfa21",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.76@patet",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "patet",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:5bb2449f-e7a0-4dc4-94a9-78386fc22a46",
+        "apparatus_entry_id": "urn:uuid:bc5fd516-6b26-4a37-ade6-8a5f52fdfa21",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.76@patet",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "tepet",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:d9acb7d9-d133-4da4-880b-34d642d60b57",
+                "label": "Postgate"
+            },
+            {
+                "id": "urn:uuid:d1d8f639-1a12-463f-b579-d71ec86b5e2a",
+                "label": "Schenkl2"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": "Postgate (Class. Rev. 1901 p.213)",
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

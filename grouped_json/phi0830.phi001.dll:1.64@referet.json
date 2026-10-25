@@ -1,0 +1,97 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:6dbfc75c-ebf9-498c-9992-0713640559eb",
+        "apparatus_entry_id": "urn:uuid:fba7a082-6b34-4bfa-9749-01c0ff517604",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.64@referet",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "referet",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
+                "label": "N"
+            },
+            {
+                "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
+                "label": "G"
+            }
+        ],
+        "reporting_rank": null,
+        "editorial_comments": "Glaeser sqq.",
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:d13752dc-4f89-4c10-90bb-b94bd34e2940",
+        "apparatus_entry_id": "urn:uuid:fba7a082-6b34-4bfa-9749-01c0ff517604",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.64@referet",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "referent",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
+                "label": "G"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:7c7151c3-133a-4f27-a84d-741086559cb5",
+        "apparatus_entry_id": "urn:uuid:fba7a082-6b34-4bfa-9749-01c0ff517604",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.64@referet",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "revocet",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:813d3a5f-1fb8-4905-b10a-8dca34d64509",
+                "label": "P"
+            },
+            {
+                "id": "urn:uuid:add756d3-deb4-4441-8bdf-3675aa7a0a96",
+                "label": "V"
+            }
+        ],
+        "reporting_rank": 2,
+        "editorial_comments": "edd. ante Glaeser",
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:5b1183c3-0049-4b43-9966-129aa227906a",
+        "apparatus_entry_id": "urn:uuid:d6495508-9998-4e07-953f-10599783e0ee",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.57@discordia",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "discordia",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:f957dd25-4203-410f-9a14-28dbde474cde",
+        "apparatus_entry_id": "urn:uuid:d6495508-9998-4e07-953f-10599783e0ee",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.57@discordia",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "Discordia",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:a24b23f6-e144-41e7-badb-52790e195e60",
+                "label": "Beck"
+            },
+            {
+                "id": "urn:uuid:57858ff4-6ee3-4e64-8338-03125abb9068",
+                "label": "Leo"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:0136ca81-8e28-48bd-a91b-974560a94a1d",
+        "apparatus_entry_id": "urn:uuid:d6495508-9998-4e07-953f-10599783e0ee",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.57@discordia",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "praecordia",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:8a9acdff-17fd-4c34-9ed4-8b1c102fb5a9",
+                "label": "Maehly"
+            }
+        ],
+        "reporting_rank": 2,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

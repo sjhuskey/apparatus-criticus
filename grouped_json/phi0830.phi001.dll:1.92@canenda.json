@@ -1,0 +1,86 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:65795bd7-574f-4ebf-8756-92d135d14320",
+        "apparatus_entry_id": "urn:uuid:2b6a8493-8790-4b52-a207-f4dc99403d5e",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.92@canenda",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "canenda",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:280f5a79-f5a4-431c-86d7-81d884f68133",
+        "apparatus_entry_id": "urn:uuid:2b6a8493-8790-4b52-a207-f4dc99403d5e",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.92@canenda",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "calenda",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:3648f9ea-1f10-4711-aba3-235ad1e80df1",
+                "label": "i",
+                "hand": "1"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:8ba7b302-4a03-4cae-bae7-86c759cec12a",
+        "apparatus_entry_id": "urn:uuid:2b6a8493-8790-4b52-a207-f4dc99403d5e",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.92@canenda",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "colenda",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:b4878960-2961-47d1-bb7f-300569e71163",
+                "label": "l",
+                "hand": "1"
+            }
+        ],
+        "reporting_rank": 2,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

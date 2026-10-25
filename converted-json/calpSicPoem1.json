@@ -13296,7 +13296,7 @@
         "type": "apparatus_claim",
         "id": "urn:uuid:b3338aa9-9e5b-478a-9244-51313c444a83",
         "apparatus_entry_id": "urn:uuid:9e7bb04f-2048-4e15-8240-3a9f54e2bad6",
-        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.63@quae",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.63@quae stricti",
         "claim_type": "reading",
         "reading_type": "lemma",
         "reading": "quae",
@@ -13320,10 +13320,10 @@
         "type": "apparatus_claim",
         "id": "urn:uuid:f08080d0-f1de-4252-b24f-6b4a2f1d8774",
         "apparatus_entry_id": "urn:uuid:9e7bb04f-2048-4e15-8240-3a9f54e2bad6",
-        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.63@quae",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.63@quae stricti",
         "claim_type": "reading",
         "reading_type": "variant",
-        "reading": "quam",
+        "reading": "quam stripti",
         "supporting_evidence": [
             {
                 "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
@@ -13331,89 +13331,7 @@
             }
         ],
         "reporting_rank": 1,
-        "editorial_comments": null,
-        "confidence": {
-            "interpretation": null,
-            "reasons": []
-        },
-        "evaluation": {
-            "target_correct": null,
-            "reading_correct": null,
-            "witnesses_correct": null,
-            "interpretation_correct": null,
-            "reviewer": null,
-            "review_status": null
-        }
-    },
-    {
-        "type": "apparatus_claim",
-        "id": "urn:uuid:163ead44-74f1-495d-84dc-f630d6783e0a",
-        "apparatus_entry_id": "urn:uuid:9e7bb04f-2048-4e15-8240-3a9f54e2bad6",
-        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.63@quae",
-        "claim_type": "reading",
-        "reading_type": "variant",
-        "reading": "que",
-        "supporting_evidence": [
-            {
-                "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
-                "label": "G"
-            }
-        ],
-        "reporting_rank": 2,
-        "editorial_comments": null,
-        "confidence": {
-            "interpretation": null,
-            "reasons": []
-        },
-        "evaluation": {
-            "target_correct": null,
-            "reading_correct": null,
-            "witnesses_correct": null,
-            "interpretation_correct": null,
-            "reviewer": null,
-            "review_status": null
-        }
-    },
-    {
-        "type": "apparatus_claim",
-        "id": "urn:uuid:a101e491-0ec1-4988-a580-110a5c9574a1",
-        "apparatus_entry_id": "urn:uuid:af62f8a9-2578-4328-8139-9b2fa7a23ab5",
-        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.63@stricti",
-        "claim_type": "reading",
-        "reading_type": "lemma",
-        "reading": "stricti",
-        "supporting_evidence": [],
-        "reporting_rank": null,
-        "editorial_comments": null,
-        "confidence": {
-            "interpretation": null,
-            "reasons": []
-        },
-        "evaluation": {
-            "target_correct": null,
-            "reading_correct": null,
-            "witnesses_correct": null,
-            "interpretation_correct": null,
-            "reviewer": null,
-            "review_status": null
-        }
-    },
-    {
-        "type": "apparatus_claim",
-        "id": "urn:uuid:b72e3a47-d037-48b2-8ffd-324dfd5f5d94",
-        "apparatus_entry_id": "urn:uuid:af62f8a9-2578-4328-8139-9b2fa7a23ab5",
-        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.63@stricti",
-        "claim_type": "reading",
-        "reading_type": "variant",
-        "reading": "stripti",
-        "supporting_evidence": [
-            {
-                "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
-                "label": "G"
-            }
-        ],
-        "reporting_rank": 1,
-        "editorial_comments": null,
+        "editorial_comments": "*que* in mg.",
         "confidence": {
             "interpretation": null,
             "reasons": []
@@ -14027,10 +13945,10 @@
         "type": "apparatus_claim",
         "id": "urn:uuid:ad1da088-f7cf-41ea-b516-f8d23c09c49b",
         "apparatus_entry_id": "urn:uuid:37f926d2-c953-4d90-ba76-928a8e4afba7",
-        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.68@inter",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.68@inter-inter",
         "claim_type": "reading",
         "reading_type": "lemma",
-        "reading": "inter",
+        "reading": "inter-inter",
         "supporting_evidence": [
             {
                 "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
@@ -14362,7 +14280,7 @@
         "type": "apparatus_claim",
         "id": "urn:uuid:e1d343fc-1c7b-47cb-b398-0dfb57c86374",
         "apparatus_entry_id": "urn:uuid:814b01ce-26ad-4fa4-b855-b106ea2ab662",
-        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.70@et inane",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.71@et inane",
         "claim_type": "reading",
         "reading_type": "lemma",
         "reading": "et inane",
@@ -14386,7 +14304,7 @@
         "type": "apparatus_claim",
         "id": "urn:uuid:7d871056-9599-420d-8d2f-cde18516fc83",
         "apparatus_entry_id": "urn:uuid:814b01ce-26ad-4fa4-b855-b106ea2ab662",
-        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.70@et inane",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.71@et inane",
         "claim_type": "reading",
         "reading_type": "variant",
         "reading": "etiamne",
@@ -14452,7 +14370,7 @@
         "type": "apparatus_claim",
         "id": "urn:uuid:bbf0067c-0491-4316-abdd-792b16e20a14",
         "apparatus_entry_id": "urn:uuid:814b01ce-26ad-4fa4-b855-b106ea2ab662",
-        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.70@et inane",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.71@et inane",
         "claim_type": "reading",
         "reading_type": "variant",
         "reading": "etiamve",
@@ -14481,7 +14399,7 @@
         "type": "apparatus_claim",
         "id": "urn:uuid:8e54a7b7-c65a-42ed-89d5-a68493a27585",
         "apparatus_entry_id": "urn:uuid:814b01ce-26ad-4fa4-b855-b106ea2ab662",
-        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.70@et inane",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.71@et inane",
         "claim_type": "reading",
         "reading_type": "variant",
         "reading": "nec inane",
@@ -15247,10 +15165,10 @@
         "type": "apparatus_claim",
         "id": "urn:uuid:da2f9b2b-a251-44c6-9676-8c461dab664b",
         "apparatus_entry_id": "urn:uuid:f24a83f5-eb43-403f-b3c6-39e784c69d43",
-        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.75@Boream",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.75@boream",
         "claim_type": "reading",
         "reading_type": "lemma",
-        "reading": "Boream",
+        "reading": "boream",
         "supporting_evidence": [],
         "reporting_rank": null,
         "editorial_comments": null,
@@ -15271,7 +15189,7 @@
         "type": "apparatus_claim",
         "id": "urn:uuid:767d68ff-b24e-492b-a3fd-4f99cc879b5c",
         "apparatus_entry_id": "urn:uuid:f24a83f5-eb43-403f-b3c6-39e784c69d43",
-        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.75@Boream",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.75@boream",
         "claim_type": "reading",
         "reading_type": "variant",
         "reading": "borean",
@@ -20482,10 +20400,10 @@
         "type": "apparatus_claim",
         "id": "urn:uuid:9d52add0-95c3-4cbe-a444-3600574029c0",
         "apparatus_entry_id": "urn:uuid:36b932bd-a22c-4070-b23f-0a482fc1f6ab",
-        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.94@Augustas",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.94@augustas",
         "claim_type": "reading",
         "reading_type": "lemma",
-        "reading": "Augustas",
+        "reading": "augustas",
         "supporting_evidence": [],
         "reporting_rank": null,
         "editorial_comments": null,
@@ -20506,7 +20424,7 @@
         "type": "apparatus_claim",
         "id": "urn:uuid:5e0581aa-9071-4cac-9383-5bd644724d63",
         "apparatus_entry_id": "urn:uuid:36b932bd-a22c-4070-b23f-0a482fc1f6ab",
-        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.94@Augustas",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.94@augustas",
         "claim_type": "reading",
         "reading_type": "variant",
         "reading": "angustas",
@@ -20553,7 +20471,7 @@
         "type": "apparatus_claim",
         "id": "urn:uuid:af52f640-c9d5-4273-83b6-dc49a35c5ad7",
         "apparatus_entry_id": "urn:uuid:36b932bd-a22c-4070-b23f-0a482fc1f6ab",
-        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.94@Augustas",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.94@augustas",
         "claim_type": "reading",
         "reading_type": "variant",
         "reading": "agustas",

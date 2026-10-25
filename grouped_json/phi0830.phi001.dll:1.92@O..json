@@ -1,0 +1,71 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:8b3cb378-c110-44b3-98cd-5faa9ffda641",
+        "apparatus_entry_id": "urn:uuid:d4f7e4bf-727a-422b-957f-b309b2cc6e24",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.92@O.",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "O.",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:dd9a3e36-938b-46af-8c39-a52c01a3aa6f",
+        "apparatus_entry_id": "urn:uuid:d4f7e4bf-727a-422b-957f-b309b2cc6e24",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.92@O.",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": null,
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:71191de5-3a33-4bfd-b99f-a30ef53275bb",
+                "label": "ω"
+            },
+            {
+                "id": "urn:uuid:65bc0a7e-4593-4ebb-96ac-cb70dc13ee33",
+                "label": "d"
+            },
+            {
+                "id": "urn:uuid:43362037-8f5c-4dfb-a4d9-a2d83d6be0de",
+                "label": "s"
+            },
+            {
+                "id": "urn:uuid:317ab8e7-fcd8-4ce2-af47-0e9d3b502336",
+                "label": "o"
+            },
+            {
+                "id": "urn:uuid:2bbf63a9-c6c2-43d9-ae64-164c2517199a",
+                "label": "n"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

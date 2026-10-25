@@ -1,0 +1,131 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:fa360ad7-3dbc-4969-a2da-134d96d3b7f8",
+        "apparatus_entry_id": "urn:uuid:6d370564-2365-4aa0-b6bf-7a60f436c2fe",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.55@professo",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "professo",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
+                "label": "N",
+                "hand": "2"
+            },
+            {
+                "id": "urn:uuid:813d3a5f-1fb8-4905-b10a-8dca34d64509",
+                "label": "P"
+            },
+            {
+                "id": "urn:uuid:add756d3-deb4-4441-8bdf-3675aa7a0a96",
+                "label": "V"
+            }
+        ],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:91efa37b-d9de-423b-abba-0d679109ae2f",
+        "apparatus_entry_id": "urn:uuid:6d370564-2365-4aa0-b6bf-7a60f436c2fe",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.55@professo",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "profuso",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
+                "label": "N"
+            },
+            {
+                "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
+                "label": "G"
+            },
+            {
+                "id": "urn:uuid:95b19ca1-7f6a-459b-a461-9697623d2284",
+                "label": "A"
+            },
+            {
+                "id": "urn:uuid:faec1200-3fd8-439d-879e-bc97a4f65c65",
+                "label": "H"
+            },
+            {
+                "id": "urn:uuid:1a46fa97-d0c9-40e3-9e01-b2f702c29731",
+                "label": "μ"
+            },
+            {
+                "id": "urn:uuid:a3192bb0-d086-490a-b91a-a60798575d71",
+                "label": "b"
+            },
+            {
+                "id": "urn:uuid:3648f9ea-1f10-4711-aba3-235ad1e80df1",
+                "label": "i"
+            },
+            {
+                "id": "urn:uuid:ad39a365-3052-4616-877c-c5b254958bd9",
+                "label": "g"
+            },
+            {
+                "id": "urn:uuid:b4878960-2961-47d1-bb7f-300569e71163",
+                "label": "l",
+                "hand": "2"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:40fc761c-c819-41b1-90b5-847a61e7286e",
+        "apparatus_entry_id": "urn:uuid:6d370564-2365-4aa0-b6bf-7a60f436c2fe",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.55@professo",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "profusso",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:0411a4f4-cb66-49a6-af8b-c7c0a297275a",
+                "label": "u"
+            }
+        ],
+        "reporting_rank": 2,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

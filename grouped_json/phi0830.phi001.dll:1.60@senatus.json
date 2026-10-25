@@ -1,0 +1,84 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:a9b01de4-35d2-408c-9310-0e8d175ff2e4",
+        "apparatus_entry_id": "urn:uuid:bdadb357-d338-4bf7-ba01-d5bad81b0ef8",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.60@senatus",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "senatus",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:8d165e93-bdc1-485e-8b35-356096d5dcca",
+        "apparatus_entry_id": "urn:uuid:bdadb357-d338-4bf7-ba01-d5bad81b0ef8",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.60@senatus",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "senatis",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
+                "label": "N"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:05ae5d76-bdf4-4ab9-8ff0-5d0ac23c4a11",
+        "apparatus_entry_id": "urn:uuid:bdadb357-d338-4bf7-ba01-d5bad81b0ef8",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.60@senatus",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "senati",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:cb9bb02a-037b-40ba-9c76-b03555a5cd45",
+                "label": "Schenkl"
+            }
+        ],
+        "reporting_rank": 2,
+        "editorial_comments": "olim",
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

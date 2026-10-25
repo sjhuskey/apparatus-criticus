@@ -1,0 +1,115 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:deb8ae27-8737-45f4-931c-a59642647d4a",
+        "apparatus_entry_id": "urn:uuid:a26ffb58-a488-436d-854d-b7dd28091413",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.79@sidus",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "sidus",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:9ccb1628-6197-48c2-98df-fea09dadff06",
+        "apparatus_entry_id": "urn:uuid:a26ffb58-a488-436d-854d-b7dd28091413",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.79@sidus",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "sidere",
+        "supporting_evidence": [],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:4028c402-7875-48a5-a4f8-e8e75d1f0c3b",
+        "apparatus_entry_id": "urn:uuid:a26ffb58-a488-436d-854d-b7dd28091413",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.79@sidus",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "plenus",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:813d3a5f-1fb8-4905-b10a-8dca34d64509",
+                "label": "P"
+            },
+            {
+                "id": "urn:uuid:475edb73-ed20-45ab-83c4-0bd344518a1b",
+                "label": "Glaeser"
+            },
+            {
+                "id": "urn:uuid:cfc80e76-a9ce-498e-969d-cfe3c8bf70cc",
+                "label": "Baehr."
+            },
+            {
+                "id": "urn:uuid:84bba6b6-f355-449c-84da-406bf435a992",
+                "label": "Keene"
+            }
+        ],
+        "reporting_rank": 2,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:97d3a111-ec9f-4825-9c02-5105d2498184",
+        "apparatus_entry_id": "urn:uuid:a26ffb58-a488-436d-854d-b7dd28091413",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.79@sidus",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "lumen",
+        "supporting_evidence": [],
+        "reporting_rank": 3,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

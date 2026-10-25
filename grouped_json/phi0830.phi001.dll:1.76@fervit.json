@@ -1,0 +1,163 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:138cd8d6-cbe8-479b-8a16-2647f815b3b9",
+        "apparatus_entry_id": "urn:uuid:8f70f7b7-8a7f-49f8-bd6a-57c1434dafe4",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.76@fervit",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "fervit",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
+                "label": "G"
+            },
+            {
+                "id": "urn:uuid:813d3a5f-1fb8-4905-b10a-8dca34d64509",
+                "label": "P"
+            },
+            {
+                "id": "urn:uuid:95b19ca1-7f6a-459b-a461-9697623d2284",
+                "label": "A"
+            }
+        ],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:676e5c72-7cab-4d53-ab1e-5d737f72cd61",
+        "apparatus_entry_id": "urn:uuid:8f70f7b7-8a7f-49f8-bd6a-57c1434dafe4",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.76@fervit",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "servit",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
+                "label": "N"
+            },
+            {
+                "id": "urn:uuid:add756d3-deb4-4441-8bdf-3675aa7a0a96",
+                "label": "V"
+            },
+            {
+                "id": "urn:uuid:993d93e4-d3ab-48f1-9c94-ca00574da36b",
+                "label": "e"
+            },
+            {
+                "id": "urn:uuid:0411a4f4-cb66-49a6-af8b-c7c0a297275a",
+                "label": "u"
+            },
+            {
+                "id": "urn:uuid:65bc0a7e-4593-4ebb-96ac-cb70dc13ee33",
+                "label": "d"
+            },
+            {
+                "id": "urn:uuid:43362037-8f5c-4dfb-a4d9-a2d83d6be0de",
+                "label": "s"
+            },
+            {
+                "id": "urn:uuid:a3192bb0-d086-490a-b91a-a60798575d71",
+                "label": "b"
+            },
+            {
+                "id": "urn:uuid:ad39a365-3052-4616-877c-c5b254958bd9",
+                "label": "g"
+            },
+            {
+                "id": "urn:uuid:3648f9ea-1f10-4711-aba3-235ad1e80df1",
+                "label": "i",
+                "hand": "2"
+            },
+            {
+                "id": "urn:uuid:b4878960-2961-47d1-bb7f-300569e71163",
+                "label": "l",
+                "hand": "2"
+            },
+            {
+                "id": "urn:uuid:317ab8e7-fcd8-4ce2-af47-0e9d3b502336",
+                "label": "o"
+            },
+            {
+                "id": "urn:uuid:2bbf63a9-c6c2-43d9-ae64-164c2517199a",
+                "label": "n"
+            },
+            {
+                "id": "urn:uuid:47e5f301-0070-4036-99c6-11bdd756559a",
+                "label": "Ulit."
+            },
+            {
+                "id": "urn:uuid:2a4a887c-7307-4164-a207-1f7ae8887f09",
+                "label": "Martell."
+            },
+            {
+                "id": "urn:uuid:ecdfab6c-0668-4fb9-bda6-f532e514756a",
+                "label": "h"
+            },
+            {
+                "id": "urn:uuid:9f0c4422-60c1-4c10-8ea5-8e3232466b74",
+                "label": "Gryph."
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:3ffcaa1e-766a-4b34-b22d-7289edc67627",
+        "apparatus_entry_id": "urn:uuid:8f70f7b7-8a7f-49f8-bd6a-57c1434dafe4",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.76@fervit",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "fervet",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:40977678-a515-42a1-a9b3-0990fafa56ff",
+                "label": "Tit."
+            },
+            {
+                "id": "urn:uuid:e66a0f71-7a95-4626-b62a-fa9fa26e71cc",
+                "label": "Kempfer"
+            }
+        ],
+        "reporting_rank": 2,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

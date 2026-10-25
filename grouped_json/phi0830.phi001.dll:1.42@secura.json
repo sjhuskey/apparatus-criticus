@@ -1,0 +1,79 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:3626ec8b-9860-4b86-ae5a-3aecf36c47f6",
+        "apparatus_entry_id": "urn:uuid:eb66d907-0094-4657-8a14-6fbabf1e667a",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.42@secura",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "secura",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:c3dd6579-f7b9-40d1-bba1-6409d730f8ca",
+        "apparatus_entry_id": "urn:uuid:eb66d907-0094-4657-8a14-6fbabf1e667a",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.42@secura",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "sincera",
+        "supporting_evidence": [],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:754cec22-6e74-46ba-9018-e679888caf1b",
+        "apparatus_entry_id": "urn:uuid:eb66d907-0094-4657-8a14-6fbabf1e667a",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.42@secura",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "Saturni",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:74e59697-a8ec-4fbd-9ac6-783d54d3e34f",
+                "label": "Friesemann"
+            }
+        ],
+        "reporting_rank": 2,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

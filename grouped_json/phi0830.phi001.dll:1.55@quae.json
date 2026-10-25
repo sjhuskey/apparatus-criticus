@@ -1,0 +1,117 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:0f8cfe34-7a65-41eb-b6db-ef74924eada1",
+        "apparatus_entry_id": "urn:uuid:b9262f6c-213b-4aaf-93d9-c38152a2eec1",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.55@quae",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "quae",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:8b96ec8e-9000-4c81-81db-0f277aa92ce6",
+        "apparatus_entry_id": "urn:uuid:b9262f6c-213b-4aaf-93d9-c38152a2eec1",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.55@quae",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "quum",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:a24b23f6-e144-41e7-badb-52790e195e60",
+                "label": "Beck"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:99fe9c1e-8725-414c-8fe7-e4d2a1ad88d7",
+        "apparatus_entry_id": "urn:uuid:b9262f6c-213b-4aaf-93d9-c38152a2eec1",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.55@quae",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "ceu",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:cfc80e76-a9ce-498e-969d-cfe3c8bf70cc",
+                "label": "Baehr."
+            }
+        ],
+        "reporting_rank": 2,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:f8001c10-a4f7-4e9e-8bb0-54cb30b31ad3",
+        "apparatus_entry_id": "urn:uuid:b9262f6c-213b-4aaf-93d9-c38152a2eec1",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.55@quae",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "quam",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:860ceb40-69f8-48a5-87f4-99ee7fca0b5e",
+                "label": "Heins."
+            },
+            {
+                "id": "urn:uuid:8e9640ff-7b06-41ce-87a9-3e66001ca8cc",
+                "label": "Wernsd."
+            }
+        ],
+        "reporting_rank": 3,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]

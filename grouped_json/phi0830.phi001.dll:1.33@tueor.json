@@ -1,0 +1,84 @@
+[
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:08f47846-fc0b-4418-ba4a-b99cbd3ad548",
+        "apparatus_entry_id": "urn:uuid:6d14a91d-8cf8-45dd-a8b1-b2443caa1936",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.33@tueor",
+        "claim_type": "reading",
+        "reading_type": "lemma",
+        "reading": "tueor",
+        "supporting_evidence": [],
+        "reporting_rank": null,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:9013fadc-2d90-4b79-9afe-b7b3e3be0694",
+        "apparatus_entry_id": "urn:uuid:6d14a91d-8cf8-45dd-a8b1-b2443caa1936",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.33@tueor",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "tueie",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
+                "label": "N"
+            }
+        ],
+        "reporting_rank": 1,
+        "editorial_comments": "ut videtur",
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_claim",
+        "id": "urn:uuid:a52f83ac-ca1a-4746-b4ce-24329fecc4c2",
+        "apparatus_entry_id": "urn:uuid:6d14a91d-8cf8-45dd-a8b1-b2443caa1936",
+        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.33@tueor",
+        "claim_type": "reading",
+        "reading_type": "variant",
+        "reading": "tutor",
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:43362037-8f5c-4dfb-a4d9-a2d83d6be0de",
+                "label": "s"
+            }
+        ],
+        "reporting_rank": 2,
+        "editorial_comments": null,
+        "confidence": {
+            "interpretation": null,
+            "reasons": []
+        },
+        "evaluation": {
+            "target_correct": null,
+            "reading_correct": null,
+            "witnesses_correct": null,
+            "interpretation_correct": null,
+            "reviewer": null,
+            "review_status": null
+        }
+    }
+]
