@@ -1,1 +1,0 @@
-What about something to capture the order of the readings in the entry?

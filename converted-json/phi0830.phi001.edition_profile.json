@@ -142,31 +142,31 @@
             "uuid": "urn:uuid:faec1200-3fd8-439d-879e-bc97a4f65c65"
         },
         {
-            "siglum": "cod. Vindob.",
+            "siglum": "codVind",
             "name": "codex Vindobonensis 305",
             "type": "manuscript",
             "uuid": "urn:uuid:01d02372-3e24-4a06-8a3a-a889847051d4"
         },
         {
-            "siglum": "Exc. Par. Prior",
+            "siglum": "ExcParPrior",
             "name": "Thuaneus 7647",
             "type": "manuscript",
             "uuid": "urn:uuid:83c15102-ee0d-43f8-bd59-d41c6223dd62"
         },
         {
-            "siglum": "Exc. Par. Alter",
+            "siglum": "ExcParAlter",
             "name": "Nostradamensis 17903",
             "type": "manuscript",
             "uuid": "urn:uuid:80df9295-c256-43bc-98fb-df4f46317fd6"
         },
         {
-            "siglum": "Exc. Par.",
+            "siglum": "ExcPar",
             "name": "Combination of Exc. Par. Prior and Exc. Par. Alter",
             "type": "manuscript",
             "uuid": "urn:uuid:ccb877c7-7e27-4613-8e72-ae8889f1cc5a"
         },
         {
-            "siglum": "Exc. Bon.",
+            "siglum": "ExcBon",
             "name": "52 Busta II, n. 1",
             "type": "manuscript",
             "uuid": "urn:uuid:2d93dae8-840c-4160-b94a-8b9c77a90901"
@@ -234,7 +234,7 @@
             "uuid": "urn:uuid:71191de5-3a33-4bfd-b99f-a30ef53275bb"
         },
         {
-            "siglum": "r",
+            "siglum": "Romana",
             "editor": "Anonymous",
             "title": "editio Romana",
             "place": "[Romae]",
@@ -482,7 +482,7 @@
             "uuid": "urn:uuid:72b4de81-64be-4a01-b41d-a938c401a774"
         },
         {
-            "siglum": "Barth.",
+            "siglum": "Barth1613",
             "editor": "Barthius, Casparus",
             "title": "Venatici Et Bvcolici Poetae Latini, Gratius, Nemesianus, Calpurnius, In Germania hactenus non editi, nunc Commentariis luculentis explanati ; Addita Fragmenta Vespricii Spvrinnae Scriptoris numquam hactenus publicati ; Ad Clariss. Virum Isaac. Casavbonvm",
             "place": "Hanoviae",
@@ -514,7 +514,7 @@
             "uuid": "urn:uuid:ecdfab6c-0668-4fb9-bda6-f532e514756a"
         },
         {
-            "siglum": "Burm. 1731",
+            "siglum": "Burm1731",
             "editor": "Burmannus, Petrus (Pieter Burman)",
             "title": "editio Burmanni",
             "place": "Leidae",
@@ -744,7 +744,7 @@
             "uuid": "urn:uuid:fcc52e6f-26d6-436b-9c6e-f7e83937de77"
         },
         {
-            "abbreviation": "Burm. 1759",
+            "abbreviation": "Burman 1759",
             "editor": "Burmannus, Petrus (Pieter Burman)",
             "title": "Anthologia Veterum Latinorum Epigrammatum et Poematum: sive Catalecta Poetarum Latinorum in VI Libros Digesta",
             "place": "Amstelodami",
@@ -766,7 +766,7 @@
             "uuid": "urn:uuid:49ac186e-1734-4953-bc7f-4d39cc5519d4"
         },
         {
-            "abbreviation": "Carrion 1583",
+            "abbreviation": "Carrio",
             "author": "Carrion, Louis",
             "title": "Emendationum et Observationum Libri duo 1.2",
             "place": "Lutetiae",
@@ -776,7 +776,7 @@
             "uuid": "urn:uuid:c96690ad-58a2-4c02-a585-47208deec0a8"
         },
         {
-            "abbreviation": "Chytil 1893–94",
+            "abbreviation": "Chytil",
             "author": "Chytil, Franz",
             "article_title": "Der Eklogendichter T. Calpurnius Siculus und seine Vorbilder",
             "journal_title": "Jahresbericht des k. k. Gymnasiums in Znaim",
@@ -955,7 +955,7 @@
             "uuid": "urn:uuid:d2219341-f8b2-4596-93ab-408f991a87bf"
         },
         {
-            "abbreviation": "Heinsius 1661",
+            "abbreviation": "Heins1661",
             "author": "Heinsius, Nicolaus",
             "title": "Notae in Heroidas P. Ovidii Nasonis",
             "place": "s.l.",
@@ -966,7 +966,7 @@
             "uuid": "urn:uuid:0fd97a01-f8b5-4d33-80f3-e21f8900e21e"
         },
         {
-            "abbreviation": "Heins. ad Claud.",
+            "abbreviation": "Heins1665",
             "editor": "Heinsius, Nicolaus",
             "title": "Claudii Claudiani Opera",
             "place": "Amstelodami",
@@ -1022,19 +1022,7 @@
             "uuid": "urn:uuid:c1b5690d-fd26-451d-9a86-f1cfd85c0de9"
         },
         {
-            "abbreviation": "Housman 1903a",
-            "author": "Housman, A. E.",
-            "article_title": "Calpurnius and Nemesianus",
-            "journal_title": "Classical Review",
-            "volume": "17.5",
-            "pagination": "281–82",
-            "year": "1903",
-            "url": "http://www.jstor.org/stable/695474",
-            "type": "journal_article",
-            "uuid": "urn:uuid:753e18a5-0237-4fea-bf30-c316bb39c7de"
-        },
-        {
-            "abbreviation": "Housman 1903b",
+            "abbreviation": "Housman 1903",
             "editor": "Housman, A.E.",
             "title": "M. Manilii Astronomicon, Liber Primus",
             "place": "Londinii",
@@ -1113,7 +1101,7 @@
             "uuid": "urn:uuid:aedee58b-166c-466c-987f-a30c61f9274a"
         },
         {
-            "abbreviation": "Müller 1885",
+            "abbreviation": "Mueller 1885",
             "author": "Müller, Lucian",
             "article_title": "Review of ‘Calpurnii et Nemesiani Bucolica Recensuit Henricus Schenkl, Lipsiae, G. Freytag, Pragae, F. Tempsky, 1885’",
             "journal_title": "Berliner Philologische Wochenschrift",
@@ -1233,7 +1221,7 @@
             "uuid": "urn:uuid:39fd0760-673c-4d89-8b30-f58d0b00ae8b"
         },
         {
-            "abbreviation": "Wilamowitz-Moellendorff 1884",
+            "abbreviation": "Wilamowitz",
             "author": "Wilamowitz-Moellendorff, Ulrich von",
             "title": "Coniectanea",
             "place": "Göttingen",
@@ -1306,7 +1294,7 @@
         },
         {
             "uri": "http://viaf.org/viaf/24945908",
-            "abbreviation": "D’Orville",
+            "abbreviation": "DOrville",
             "name": "Jacques-Philippe d’Orville",
             "note": "Cited in Burman 1731 (79419300-6c6f-4b9c-988d-be2fc9645392)",
             "uuid": "urn:uuid:fcc774f2-acfc-4c54-8cfd-9c781000e113"
@@ -1354,7 +1342,7 @@
         },
         {
             "uri": "http://viaf.org/viaf/49249069",
-            "abbreviation": "Housman",
+            "abbreviation": "HousmanPerLitt",
             "name": "A. E. Housman",
             "note": "Housman had personal communication with Giarratano.",
             "uuid": "urn:uuid:c9d71e7e-d4cf-41de-82b8-8c3bd8cbb6b6"
@@ -1418,14 +1406,14 @@
         },
         {
             "uri": "http://viaf.org/viaf/12523146",
-            "abbreviation": "C. Schenkl",
+            "abbreviation": "CSchenkl",
             "name": "Karl Schenkl",
             "note": "Unpublished opinions cited in Schenkl’s editions (cb9bb02a-037b-40ba-9c76-b03555a5cd45).",
             "uuid": "urn:uuid:f7453808-0a9d-40eb-811b-3652cf6ae422"
         },
         {
             "uri": "https://viaf.org/viaf/121894458/",
-            "abbreviation": "Scriver.",
+            "abbreviation": "Scriverius",
             "name": "Pieter Schrijver (Scriverius)",
             "note": "Cited in Burman 1731 (79419300-6c6f-4b9c-988d-be2fc9645392)",
             "uuid": "urn:uuid:5871ab60-fae0-434a-9088-1f58d01287ee"
