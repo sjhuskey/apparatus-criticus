@@ -12355,7 +12355,12 @@
         "claim_type": "reading",
         "reading_type": "variant",
         "reading": "et",
-        "supporting_evidence": [],
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:79419300-6c6f-4b9c-988d-be2fc9645392",
+                "label": "Burm."
+            }
+        ],
         "reporting_rank": 3,
         "editorial_comments": null,
         "confidence": {
@@ -14736,7 +14741,12 @@
         "claim_type": "reading",
         "reading_type": "variant",
         "reading": "vanos",
-        "supporting_evidence": [],
+        "supporting_evidence": [
+            {
+                "id":"urn:uuid:79419300-6c6f-4b9c-988d-be2fc9645392",
+                "label": "Burm."
+            }
+        ],
         "reporting_rank": 1,
         "editorial_comments": null,
         "confidence": {
@@ -15061,7 +15071,12 @@
         "claim_type": "reading",
         "reading_type": "variant",
         "reading": "legemque priorem",
-        "supporting_evidence": [],
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:8e4a51b8-49b9-44ea-a752-fc32d13ed481",
+                "label": "Barth 1624"
+            }
+        ],
         "reporting_rank": 1,
         "editorial_comments": "(Barth Adv. 44,15 )",
         "confidence": {
@@ -16313,7 +16328,7 @@
         "source_page": null,
         "source_image": null,
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">et placida radiantem</hi> NG Beck Glaeser sqq., <hi rend=\"italics\">et placidam radiantem</hi> P, <hi rend=\"italics\">et placideam radianti</hi> πχ<hi rend=\"superscript\">1</hi>μλκρ<hi rend=\"superscript\">1</hi>, <hi rend=\"italics\">et placidum radianti</hi> φαβνθχ<hi rend=\"superscript\">2</hi>rsonl<hi rend=\"superscript\">1</hi> Vienn., <hi rend=\"italics\">ut placidum radianti</hi> εγρ<hi rend=\"superscript\">2</hi>ηedd., <hi rend=\"italics\">ut placida radianti</hi> H, <hi rend=\"italics\">ac placidam radienti</hi> δ, <hi rend=\"italics\">ut placida radiantem</hi> ph Ulit., <hi rend=\"italics\">ut placida radiatum</hi> codd. Titii.</ab>",
+        "transcription": "<ab><hi rend=\"italics\">et placida radiantem</hi> NG Beck Glaeser sqq., <hi rend=\"italics\">et placidam radiantem</hi> P, <hi rend=\"italics\">et placideam radianti</hi> πχ<hi rend=\"superscript\">1</hi>μλκρ<hi rend=\"superscript\">1</hi>, <hi rend=\"italics\">et placidum radianti</hi> φαβνθχ<hi rend=\"superscript\">2</hi>rsonl<hi rend=\"superscript\">1</hi> Vienn., <hi rend=\"italics\">ut placidum radianti</hi> εγρ<hi rend=\"superscript\">2</hi>η edd., <hi rend=\"italics\">ut placida radianti</hi> H, <hi rend=\"italics\">ac placidam radienti</hi> δ, <hi rend=\"italics\">ut placida radiantem</hi> ph Ulit., <hi rend=\"italics\">ut placida radiatum</hi> codd. Titii.</ab>",
         "transcription_confidence": "high",
         "transcriber": "SJH",
         "extraction": {
@@ -16634,7 +16649,12 @@
         "claim_type": "reading",
         "reading_type": "variant",
         "reading": "ut placida radiatem",
-        "supporting_evidence": [],
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:40977678-a515-42a1-a9b3-0990fafa56ff",
+                "label": "Tit."
+            }
+        ],
         "reporting_rank": 8,
         "editorial_comments": "codd. Titii",
         "confidence": {
@@ -17238,7 +17258,12 @@
         "claim_type": "reading",
         "reading_type": "variant",
         "reading": "nictat",
-        "supporting_evidence": [],
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:198d9eb9-4f91-45ae-a87e-f1dca0997717",
+                "label": "Barth."
+            }
+        ],
         "reporting_rank": 8,
         "editorial_comments": null,
         "confidence": {
@@ -17322,7 +17347,12 @@
         "claim_type": "reading",
         "reading_type": "variant",
         "reading": "sidere",
-        "supporting_evidence": [],
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:79419300-6c6f-4b9c-988d-be2fc9645392",
+                "label": "Burm."
+            }
+        ],
         "reporting_rank": 1,
         "editorial_comments": null,
         "confidence": {
@@ -17391,7 +17421,12 @@
         "claim_type": "reading",
         "reading_type": "variant",
         "reading": "lumen",
-        "supporting_evidence": [],
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:79419300-6c6f-4b9c-988d-be2fc9645392",
+                "label": "Burm."
+            }
+        ],
         "reporting_rank": 3,
         "editorial_comments": null,
         "confidence": {
@@ -17884,7 +17919,12 @@
         "claim_type": "reading",
         "reading_type": "variant",
         "reading": "comato",
-        "supporting_evidence": [],
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:198d9eb9-4f91-45ae-a87e-f1dca0997717",
+                "label": "Barth."
+            }
+        ],
         "reporting_rank": 2,
         "editorial_comments": null,
         "confidence": {
@@ -19212,7 +19252,16 @@
         "claim_type": "reading",
         "reading_type": "variant",
         "reading": "emeriti",
-        "supporting_evidence": [],
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:fa05e092-e29c-45ca-bbdd-a4c17846a708",
+                "label": "Gronov."
+            },
+            {
+                "id": "urn:uuid:d2219341-f8b2-4596-93ab-408f991a87bf",
+                "label": "Haupt 1874"
+            }
+        ],
         "reporting_rank": 7,
         "editorial_comments": "(Gronov. Obss. III 13, Haupt Hermes VIII p. 251)",
         "confidence": {
@@ -19363,6 +19412,14 @@
         "reading_type": "variant",
         "reading": "parentis",
         "supporting_evidence": [
+            {
+                "id": "urn:uuid:fa05e092-e29c-45ca-bbdd-a4c17846a708",
+                "label": "Gronov."
+            },
+            {
+                "id": "urn:uuid:d2219341-f8b2-4596-93ab-408f991a87bf",
+                "label": "Haupt 1874"
+            },
             {
                 "id": "urn:uuid:ba8f0537-97f6-4e03-ae5e-94d411a981b5",
                 "label": "Mueller"
@@ -19543,7 +19600,12 @@
         "claim_type": "reading",
         "reading_type": "variant",
         "reading": "nisi iam",
-        "supporting_evidence": [],
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:79419300-6c6f-4b9c-988d-be2fc9645392",
+                "label": "Burm."
+            }
+        ],
         "reporting_rank": 1,
         "editorial_comments": null,
         "confidence": {
@@ -19569,7 +19631,12 @@
         "claim_type": "reading",
         "reading_type": "variant",
         "reading": "gnati quam",
-        "supporting_evidence": [],
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:fa05e092-e29c-45ca-bbdd-a4c17846a708",
+                "label": "Gronov."
+            }
+        ],
         "reporting_rank": 2,
         "editorial_comments": null,
         "confidence": {
@@ -19645,7 +19712,12 @@
         "claim_type": "reading",
         "reading_type": "variant",
         "reading": "aspexerit",
-        "supporting_evidence": [],
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:fa05e092-e29c-45ca-bbdd-a4c17846a708",
+                "label": "Gronov."
+            }
+        ],
         "reporting_rank": 2,
         "editorial_comments": null,
         "confidence": {
@@ -19671,7 +19743,12 @@
         "claim_type": "reading",
         "reading_type": "variant",
         "reading": "suspexerit",
-        "supporting_evidence": [],
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:d2219341-f8b2-4596-93ab-408f991a87bf",
+                "label": "Haupt 1874"
+            }
+        ],
         "reporting_rank": 3,
         "editorial_comments": null,
         "confidence": {
@@ -20888,9 +20965,14 @@
         "claim_type": "reading",
         "reading_type": "variant",
         "reading": "discamus",
-        "supporting_evidence": [],
+        "supporting_evidence": [
+            {
+                "id": "urn:uuid:8e4a51b8-49b9-44ea-a752-fc32d13ed481",
+                "label": "Barth. 1624"
+            }
+        ],
         "reporting_rank": 1,
-        "editorial_comments": "34,8",
+        "editorial_comments": "Adv. 34,8",
         "confidence": {
             "interpretation": null,
             "reasons": []
