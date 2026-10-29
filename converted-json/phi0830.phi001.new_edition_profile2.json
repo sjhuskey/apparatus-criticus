@@ -290,7 +290,7 @@
             "id": "ω"
         },
         {
-            "siglum": "Romana",
+            "siglum": "r",
             "editor": "Anonymous",
             "title": "editio Romana",
             "place": "[Romae]",
@@ -298,8 +298,8 @@
             "year": "1471",
             "type": "early_edition",
             "uuid": "urn:uuid:bd1b0ef3-6a75-4927-b348-1c722cfafffd",
-            "label": "editio Romana",
-            "id": "Romana"
+            "label": "r",
+            "id": "r"
         },
         {
             "siglum": "e",
@@ -772,7 +772,7 @@
             "url": "https://books.google.com/books?id=a6FMAAAAcAAJ&pg=PT4#v=onepage&q&f=false",
             "type": "book",
             "uuid": "urn:uuid:5b3075af-8238-4e17-9f33-69a35ea2757a",
-            "label": "Baehr.",
+            "label": "Baehr. 1870",
             "id": "Baehr1870"
         },
         {
@@ -786,7 +786,7 @@
             "url": "http://www.rhm.uni-koeln.de/027/M-Baehrens2.pdf",
             "type": "journal_article",
             "uuid": "urn:uuid:35bf5601-5f14-43b9-8e19-ffb5b95e32c0",
-            "label": "Baehr.",
+            "label": "Baehr. 1872",
             "id": "Baehr1872"
         },
         {
@@ -1511,7 +1511,9 @@
                     "note": "Pseudonym used by Kaspar von Barth in his notes to suggest conjectures that he is not prepared to print in his text."
                 }
             ],
-            "uuid": "urn:uuid:0d88b696-43bb-47a9-9860-38169172713e"
+            "uuid": "urn:uuid:0d88b696-43bb-47a9-9860-38169172713e",
+            "label": "Barthius",
+            "id": "Barthius"
         },
         {
             "uri": "http://viaf.org/viaf/3531680",

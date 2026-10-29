@@ -200,32 +200,6 @@
     },
     {
         "type": "apparatus_claim",
-        "id": "urn:uuid:7bf058d2-ef70-46aa-8cab-d10448893124",
-        "apparatus_entry_id": "urn:uuid:37b666e6-9980-4776-81d9-d056936f49c5",
-        "target": [
-            "urn:cts:latinLit:phi0830.phi001.dll:1.1@Nondum"
-        ],
-        "claim_type": "reading",
-        "reading_type": "lemma",
-        "reading": "Nondum",
-        "supporting_evidence": [],
-        "reporting_rank": null,
-        "editorial_comments": null,
-        "confidence": {
-            "interpretation": null,
-            "reasons": []
-        },
-        "evaluation": {
-            "target_correct": null,
-            "reading_correct": null,
-            "witnesses_correct": null,
-            "interpretation_correct": null,
-            "reviewer": null,
-            "review_status": null
-        }
-    },
-    {
-        "type": "apparatus_claim",
         "id": "urn:uuid:b9b1f780-c55e-4940-a52d-42a39461fe9b",
         "apparatus_entry_id": "urn:uuid:37b666e6-9980-4776-81d9-d056936f49c5",
         "target": [
@@ -467,32 +441,6 @@
     },
     {
         "type": "apparatus_claim",
-        "id": "urn:uuid:556e4285-01e2-485b-93b0-00422ed88546",
-        "apparatus_entry_id": "urn:uuid:c8f6d0a9-7c57-4a5e-9def-3ca62cf2e188",
-        "target": [
-            "urn:cts:latinLit:phi0830.phi001.dll:1.2@quamvis"
-        ],
-        "claim_type": "reading",
-        "reading_type": "lemma",
-        "reading": "quamvis",
-        "supporting_evidence": [],
-        "reporting_rank": null,
-        "editorial_comments": null,
-        "confidence": {
-            "interpretation": null,
-            "reasons": []
-        },
-        "evaluation": {
-            "target_correct": null,
-            "reading_correct": null,
-            "witnesses_correct": null,
-            "interpretation_correct": null,
-            "reviewer": null,
-            "review_status": null
-        }
-    },
-    {
-        "type": "apparatus_claim",
         "id": "urn:uuid:b3b2ab93-c039-4480-96ec-660fb01914b9",
         "apparatus_entry_id": "urn:uuid:c8f6d0a9-7c57-4a5e-9def-3ca62cf2e188",
         "target": [
@@ -557,32 +505,6 @@
     },
     {
         "type": "apparatus_claim",
-        "id": "urn:uuid:73cf47e9-b5bd-4e82-a692-99780d9be85b",
-        "apparatus_entry_id": "urn:uuid:7757d8c7-4980-42be-bf21-28ccf1a2659f",
-        "target": [
-            "urn:cts:latinLit:phi0830.phi001.dll:1.2@praela"
-        ],
-        "claim_type": "reading",
-        "reading_type": "lemma",
-        "reading": "praela",
-        "supporting_evidence": [],
-        "reporting_rank": null,
-        "editorial_comments": null,
-        "confidence": {
-            "interpretation": null,
-            "reasons": []
-        },
-        "evaluation": {
-            "target_correct": null,
-            "reading_correct": null,
-            "witnesses_correct": null,
-            "interpretation_correct": null,
-            "reviewer": null,
-            "review_status": null
-        }
-    },
-    {
-        "type": "apparatus_claim",
         "id": "urn:uuid:9c24fb94-cdea-44f8-b710-76e758f52cbf",
         "apparatus_entry_id": "urn:uuid:7757d8c7-4980-42be-bf21-28ccf1a2659f",
         "target": [
@@ -627,32 +549,6 @@
             "model": null,
             "extracted_at": "2026-09-16T19:06:03.749235Z",
             "extraction_image": null
-        }
-    },
-    {
-        "type": "apparatus_claim",
-        "id": "urn:uuid:e8495d4f-ed0f-4d02-b8e5-af11041eb8cf",
-        "apparatus_entry_id": "urn:uuid:022529cf-6b85-48c8-8dee-6b53245e3c44",
-        "target": [
-            "urn:cts:latinLit:phi0830.phi001.dll:1.3"
-        ],
-        "claim_type": "reading",
-        "reading_type": "lemma",
-        "reading": "et spument rauco ferventia musta susurro.",
-        "supporting_evidence": [],
-        "reporting_rank": null,
-        "editorial_comments": null,
-        "confidence": {
-            "interpretation": null,
-            "reasons": []
-        },
-        "evaluation": {
-            "target_correct": null,
-            "reading_correct": null,
-            "witnesses_correct": null,
-            "interpretation_correct": null,
-            "reviewer": null,
-            "review_status": null
         }
     },
     {
@@ -709,32 +605,6 @@
     },
     {
         "type": "apparatus_claim",
-        "id": "urn:uuid:252527f2-7cbc-4b52-abff-671bad54da51",
-        "apparatus_entry_id": "urn:uuid:4817a744-94b3-4f6c-a2ec-d57ca52daef9",
-        "target": [
-            "urn:cts:latinLit:phi0830.phi001.dll:1.3@musta"
-        ],
-        "claim_type": "reading",
-        "reading_type": "lemma",
-        "reading": "musta",
-        "supporting_evidence": [],
-        "reporting_rank": null,
-        "editorial_comments": null,
-        "confidence": {
-            "interpretation": null,
-            "reasons": []
-        },
-        "evaluation": {
-            "target_correct": null,
-            "reading_correct": null,
-            "witnesses_correct": null,
-            "interpretation_correct": null,
-            "reviewer": null,
-            "review_status": null
-        }
-    },
-    {
-        "type": "apparatus_claim",
         "id": "urn:uuid:aeb2a053-a94e-40e0-bcf9-553d5e872249",
         "apparatus_entry_id": "urn:uuid:4817a744-94b3-4f6c-a2ec-d57ca52daef9",
         "target": [
@@ -786,32 +656,6 @@
             "model": null,
             "extracted_at": "2026-09-16T19:06:03.749235Z",
             "extraction_image": null
-        }
-    },
-    {
-        "type": "apparatus_claim",
-        "id": "urn:uuid:d314d38f-1c3a-40af-8ff8-2f82bf6d7081",
-        "apparatus_entry_id": "urn:uuid:90c8a150-48bf-43e3-b9b2-8ae8d02b2d6f",
-        "target": [
-            "urn:cts:latinLit:phi0830.phi001.dll:1.4@"
-        ],
-        "claim_type": "reading",
-        "reading_type": "lemma",
-        "reading": null,
-        "supporting_evidence": [],
-        "reporting_rank": null,
-        "editorial_comments": null,
-        "confidence": {
-            "interpretation": null,
-            "reasons": []
-        },
-        "evaluation": {
-            "target_correct": null,
-            "reading_correct": null,
-            "witnesses_correct": null,
-            "interpretation_correct": null,
-            "reviewer": null,
-            "review_status": null
         }
     },
     {
@@ -1400,32 +1244,6 @@
     },
     {
         "type": "apparatus_claim",
-        "id": "urn:uuid:bb7081e2-239d-4044-a5f8-dfd5ec23d3f1",
-        "apparatus_entry_id": "urn:uuid:167a8fc8-c3a8-4af7-8e61-a3c7a580d162",
-        "target": [
-            "urn:cts:latinLit:phi0830.phi001.dll:1.5@hirsuta"
-        ],
-        "claim_type": "reading",
-        "reading_type": "lemma",
-        "reading": "hirsuta",
-        "supporting_evidence": [],
-        "reporting_rank": null,
-        "editorial_comments": null,
-        "confidence": {
-            "interpretation": null,
-            "reasons": []
-        },
-        "evaluation": {
-            "target_correct": null,
-            "reading_correct": null,
-            "witnesses_correct": null,
-            "interpretation_correct": null,
-            "reviewer": null,
-            "review_status": null
-        }
-    },
-    {
-        "type": "apparatus_claim",
         "id": "urn:uuid:41181b3f-497f-48b0-893c-5dc32205550d",
         "apparatus_entry_id": "urn:uuid:167a8fc8-c3a8-4af7-8e61-a3c7a580d162",
         "target": [
@@ -1506,32 +1324,6 @@
     },
     {
         "type": "apparatus_claim",
-        "id": "urn:uuid:72ad333c-83cf-4624-bccf-7eb5e541a3af",
-        "apparatus_entry_id": "urn:uuid:505737b6-9187-4bfc-988c-babb1cc15efe",
-        "target": [
-            "urn:cts:latinLit:phi0830.phi001.dll:1.5@explicuere"
-        ],
-        "claim_type": "reading",
-        "reading_type": "lemma",
-        "reading": "explicuere",
-        "supporting_evidence": [],
-        "reporting_rank": null,
-        "editorial_comments": null,
-        "confidence": {
-            "interpretation": null,
-            "reasons": []
-        },
-        "evaluation": {
-            "target_correct": null,
-            "reading_correct": null,
-            "witnesses_correct": null,
-            "interpretation_correct": null,
-            "reviewer": null,
-            "review_status": null
-        }
-    },
-    {
-        "type": "apparatus_claim",
         "id": "urn:uuid:2c062237-7e85-4001-9058-a08e047dbe34",
         "apparatus_entry_id": "urn:uuid:505737b6-9187-4bfc-988c-babb1cc15efe",
         "target": [
@@ -1598,32 +1390,6 @@
             "model": null,
             "extracted_at": "2026-09-17T12:55:28.554402Z",
             "extraction_image": null
-        }
-    },
-    {
-        "type": "apparatus_claim",
-        "id": "urn:uuid:00e354e4-9eb6-49f3-b932-1358d86c862a",
-        "apparatus_entry_id": "urn:uuid:20714735-1595-4b9d-865a-fb071e3da43a",
-        "target": [
-            "urn:cts:latinLit:phi0830.phi001.dll:1.5@genista"
-        ],
-        "claim_type": "reading",
-        "reading_type": "lemma",
-        "reading": "genista",
-        "supporting_evidence": [],
-        "reporting_rank": null,
-        "editorial_comments": null,
-        "confidence": {
-            "interpretation": null,
-            "reasons": []
-        },
-        "evaluation": {
-            "target_correct": null,
-            "reading_correct": null,
-            "witnesses_correct": null,
-            "interpretation_correct": null,
-            "reviewer": null,
-            "review_status": null
         }
     },
     {
@@ -1770,32 +1536,6 @@
     },
     {
         "type": "apparatus_claim",
-        "id": "urn:uuid:bab0a19d-32c3-4cec-b475-e86edbeb0a62",
-        "apparatus_entry_id": "urn:uuid:89cb821d-1254-472b-9a9e-f1c9899357a0",
-        "target": [
-            "urn:cts:latinLit:phi0830.phi001.dll:1.6@succedimus"
-        ],
-        "claim_type": "reading",
-        "reading_type": "lemma",
-        "reading": "succedimus",
-        "supporting_evidence": [],
-        "reporting_rank": null,
-        "editorial_comments": null,
-        "confidence": {
-            "interpretation": null,
-            "reasons": []
-        },
-        "evaluation": {
-            "target_correct": null,
-            "reading_correct": null,
-            "witnesses_correct": null,
-            "interpretation_correct": null,
-            "reviewer": null,
-            "review_status": null
-        }
-    },
-    {
-        "type": "apparatus_claim",
         "id": "urn:uuid:42d3c5e0-1e21-4fcb-a6e8-a0a38d45fbe5",
         "apparatus_entry_id": "urn:uuid:89cb821d-1254-472b-9a9e-f1c9899357a0",
         "target": [
@@ -1841,32 +1581,6 @@
             "model": null,
             "extracted_at": "2026-09-17T12:55:28.554402Z",
             "extraction_image": null
-        }
-    },
-    {
-        "type": "apparatus_claim",
-        "id": "urn:uuid:07603de4-7e27-4895-9471-2aec1be580b4",
-        "apparatus_entry_id": "urn:uuid:2a736434-b584-430d-b642-42d28de68370",
-        "target": [
-            "urn:cts:latinLit:phi0830.phi001.dll:1.6@umbris"
-        ],
-        "claim_type": "reading",
-        "reading_type": "lemma",
-        "reading": "umbris",
-        "supporting_evidence": [],
-        "reporting_rank": null,
-        "editorial_comments": null,
-        "confidence": {
-            "interpretation": null,
-            "reasons": []
-        },
-        "evaluation": {
-            "target_correct": null,
-            "reading_correct": null,
-            "witnesses_correct": null,
-            "interpretation_correct": null,
-            "reviewer": null,
-            "review_status": null
         }
     },
     {
@@ -1924,32 +1638,6 @@
             "model": null,
             "extracted_at": "2026-09-17T12:55:28.554402Z",
             "extraction_image": null
-        }
-    },
-    {
-        "type": "apparatus_claim",
-        "id": "urn:uuid:92734b97-6647-4506-bc39-37b1fde79833",
-        "apparatus_entry_id": "urn:uuid:2c98e1e5-f190-4e8f-8c63-5c0b46988aed",
-        "target": [
-            "urn:cts:latinLit:phi0830.phi001.dll:1.8@O."
-        ],
-        "claim_type": "reading",
-        "reading_type": "lemma",
-        "reading": "O.",
-        "supporting_evidence": [],
-        "reporting_rank": null,
-        "editorial_comments": null,
-        "confidence": {
-            "interpretation": null,
-            "reasons": []
-        },
-        "evaluation": {
-            "target_correct": null,
-            "reading_correct": null,
-            "witnesses_correct": null,
-            "interpretation_correct": null,
-            "reviewer": null,
-            "review_status": null
         }
     },
     {
@@ -2200,32 +1888,6 @@
     },
     {
         "type": "apparatus_claim",
-        "id": "urn:uuid:b15ac0e8-6faa-4c20-a93d-221bccf789b2",
-        "apparatus_entry_id": "urn:uuid:bf201edd-3887-4459-8140-5262ce605aa7",
-        "target": [
-            "urn:cts:latinLit:phi0830.phi001.dll:1.8@nemus"
-        ],
-        "claim_type": "reading",
-        "reading_type": "lemma",
-        "reading": "nemus",
-        "supporting_evidence": [],
-        "reporting_rank": null,
-        "editorial_comments": null,
-        "confidence": {
-            "interpretation": null,
-            "reasons": []
-        },
-        "evaluation": {
-            "target_correct": null,
-            "reading_correct": null,
-            "witnesses_correct": null,
-            "interpretation_correct": null,
-            "reviewer": null,
-            "review_status": null
-        }
-    },
-    {
-        "type": "apparatus_claim",
         "id": "urn:uuid:d72c7180-1b9a-4abc-9399-d0b256a274b1",
         "apparatus_entry_id": "urn:uuid:bf201edd-3887-4459-8140-5262ce605aa7",
         "target": [
@@ -2405,32 +2067,6 @@
             "model": null,
             "extracted_at": "2026-09-18T17:55:11.274658Z",
             "extraction_image": null
-        }
-    },
-    {
-        "type": "apparatus_claim",
-        "id": "urn:uuid:95491a81-273f-42fc-ab01-2a3f0593ae03",
-        "apparatus_entry_id": "urn:uuid:c81cc2aa-aed7-446d-9846-17c7e2833db9",
-        "target": [
-            "urn:cts:latinLit:phi0830.phi001.dll:1.9@graciles"
-        ],
-        "claim_type": "reading",
-        "reading_type": "lemma",
-        "reading": "graciles",
-        "supporting_evidence": [],
-        "reporting_rank": null,
-        "editorial_comments": null,
-        "confidence": {
-            "interpretation": null,
-            "reasons": []
-        },
-        "evaluation": {
-            "target_correct": null,
-            "reading_correct": null,
-            "witnesses_correct": null,
-            "interpretation_correct": null,
-            "reviewer": null,
-            "review_status": null
         }
     },
     {
@@ -2637,32 +2273,6 @@
     },
     {
         "type": "apparatus_claim",
-        "id": "urn:uuid:ddebf428-5c80-4aea-90d5-7db5dd006111",
-        "apparatus_entry_id": "urn:uuid:d550467b-3e48-49ce-b525-a08462de92b0",
-        "target": [
-            "urn:cts:latinLit:phi0830.phi001.dll:1.10@rapidoque"
-        ],
-        "claim_type": "reading",
-        "reading_type": "lemma",
-        "reading": "rapidoque",
-        "supporting_evidence": [],
-        "reporting_rank": null,
-        "editorial_comments": null,
-        "confidence": {
-            "interpretation": null,
-            "reasons": []
-        },
-        "evaluation": {
-            "target_correct": null,
-            "reading_correct": null,
-            "witnesses_correct": null,
-            "interpretation_correct": null,
-            "reviewer": null,
-            "review_status": null
-        }
-    },
-    {
-        "type": "apparatus_claim",
         "id": "urn:uuid:d2154c87-4e9f-4439-83d0-279c5ba500bd",
         "apparatus_entry_id": "urn:uuid:d550467b-3e48-49ce-b525-a08462de92b0",
         "target": [
@@ -2712,32 +2322,6 @@
     },
     {
         "type": "apparatus_claim",
-        "id": "urn:uuid:3254d052-da52-4014-a339-63d715a70264",
-        "apparatus_entry_id": "urn:uuid:8b81f151-3650-4b05-8cfd-7ff4873ead67",
-        "target": [
-            "urn:cts:latinLit:phi0830.phi001.dll:1.10@caput"
-        ],
-        "claim_type": "reading",
-        "reading_type": "lemma",
-        "reading": "caput",
-        "supporting_evidence": [],
-        "reporting_rank": null,
-        "editorial_comments": null,
-        "confidence": {
-            "interpretation": null,
-            "reasons": []
-        },
-        "evaluation": {
-            "target_correct": null,
-            "reading_correct": null,
-            "witnesses_correct": null,
-            "interpretation_correct": null,
-            "reviewer": null,
-            "review_status": null
-        }
-    },
-    {
-        "type": "apparatus_claim",
         "id": "urn:uuid:3c9e71c9-5f8a-4b37-940d-03186a84d195",
         "apparatus_entry_id": "urn:uuid:8b81f151-3650-4b05-8cfd-7ff4873ead67",
         "target": [
@@ -2783,32 +2367,6 @@
             "model": null,
             "extracted_at": "2026-09-18T17:55:11.274658Z",
             "extraction_image": null
-        }
-    },
-    {
-        "type": "apparatus_claim",
-        "id": "urn:uuid:31caa51e-ce43-4c8b-87df-c4d3494fc8ae",
-        "apparatus_entry_id": "urn:uuid:8ec8efbb-80b8-47d1-881a-c152a91d1372",
-        "target": [
-            "urn:cts:latinLit:phi0830.phi001.dll:1.11@bullantes"
-        ],
-        "claim_type": "reading",
-        "reading_type": "lemma",
-        "reading": "bullantes",
-        "supporting_evidence": [],
-        "reporting_rank": null,
-        "editorial_comments": null,
-        "confidence": {
-            "interpretation": null,
-            "reasons": []
-        },
-        "evaluation": {
-            "target_correct": null,
-            "reading_correct": null,
-            "witnesses_correct": null,
-            "interpretation_correct": null,
-            "reviewer": null,
-            "review_status": null
         }
     },
     {
@@ -2957,32 +2515,6 @@
     },
     {
         "type": "apparatus_claim",
-        "id": "urn:uuid:d1aa2195-4004-4053-bd54-2338020c7cad",
-        "apparatus_entry_id": "urn:uuid:abfa04d2-c723-4732-8274-e7efa574ff08",
-        "target": [
-            "urn:cts:latinLit:phi0830.phi001.dll:1.11@ubi"
-        ],
-        "claim_type": "reading",
-        "reading_type": "lemma",
-        "reading": "ubi",
-        "supporting_evidence": [],
-        "reporting_rank": null,
-        "editorial_comments": null,
-        "confidence": {
-            "interpretation": null,
-            "reasons": []
-        },
-        "evaluation": {
-            "target_correct": null,
-            "reading_correct": null,
-            "witnesses_correct": null,
-            "interpretation_correct": null,
-            "reviewer": null,
-            "review_status": null
-        }
-    },
-    {
-        "type": "apparatus_claim",
         "id": "urn:uuid:76d02077-e425-4462-9f8c-47269d899a97",
         "apparatus_entry_id": "urn:uuid:abfa04d2-c723-4732-8274-e7efa574ff08",
         "target": [
@@ -3033,32 +2565,6 @@
             "model": null,
             "extracted_at": "2026-09-18T17:55:11.274658Z",
             "extraction_image": null
-        }
-    },
-    {
-        "type": "apparatus_claim",
-        "id": "urn:uuid:4f47bcac-0a30-411c-923b-99c5ad26a30d",
-        "apparatus_entry_id": "urn:uuid:3c293e2c-f4a5-48e9-909c-42652fb84404",
-        "target": [
-            "urn:cts:latinLit:phi0830.phi001.dll:1.12@protegit"
-        ],
-        "claim_type": "reading",
-        "reading_type": "lemma",
-        "reading": "protegit",
-        "supporting_evidence": [],
-        "reporting_rank": null,
-        "editorial_comments": null,
-        "confidence": {
-            "interpretation": null,
-            "reasons": []
-        },
-        "evaluation": {
-            "target_correct": null,
-            "reading_correct": null,
-            "witnesses_correct": null,
-            "interpretation_correct": null,
-            "reviewer": null,
-            "review_status": null
         }
     },
     {
@@ -3120,32 +2626,6 @@
     },
     {
         "type": "apparatus_claim",
-        "id": "urn:uuid:33996ad8-ac3a-4909-afc4-69e7a2f135a5",
-        "apparatus_entry_id": "urn:uuid:9a368dc2-c4d4-42d8-a7ed-6081b1a9dc8b",
-        "target": [
-            "urn:cts:latinLit:phi0830.phi001.dll:1.12@errantibus"
-        ],
-        "claim_type": "reading",
-        "reading_type": "lemma",
-        "reading": "errantibus",
-        "supporting_evidence": [],
-        "reporting_rank": null,
-        "editorial_comments": null,
-        "confidence": {
-            "interpretation": null,
-            "reasons": []
-        },
-        "evaluation": {
-            "target_correct": null,
-            "reading_correct": null,
-            "witnesses_correct": null,
-            "interpretation_correct": null,
-            "reviewer": null,
-            "review_status": null
-        }
-    },
-    {
-        "type": "apparatus_claim",
         "id": "urn:uuid:4b9eb102-2aa0-47e3-88de-1e71061077ec",
         "apparatus_entry_id": "urn:uuid:9a368dc2-c4d4-42d8-a7ed-6081b1a9dc8b",
         "target": [
@@ -3195,32 +2675,6 @@
     },
     {
         "type": "apparatus_claim",
-        "id": "urn:uuid:57406006-5326-428e-9d28-3efe638dff97",
-        "apparatus_entry_id": "urn:uuid:8f6dcca4-f3a6-40ba-a6e3-b30cf94123cb",
-        "target": [
-            "urn:cts:latinLit:phi0830.phi001.dll:1.13@vocas"
-        ],
-        "claim_type": "reading",
-        "reading_type": "lemma",
-        "reading": "vocas",
-        "supporting_evidence": [],
-        "reporting_rank": null,
-        "editorial_comments": null,
-        "confidence": {
-            "interpretation": null,
-            "reasons": []
-        },
-        "evaluation": {
-            "target_correct": null,
-            "reading_correct": null,
-            "witnesses_correct": null,
-            "interpretation_correct": null,
-            "reviewer": null,
-            "review_status": null
-        }
-    },
-    {
-        "type": "apparatus_claim",
         "id": "urn:uuid:66140e64-40ce-4a94-82b5-174b35cc9429",
         "apparatus_entry_id": "urn:uuid:8f6dcca4-f3a6-40ba-a6e3-b30cf94123cb",
         "target": [
@@ -3259,8 +2713,8 @@
         "id": "urn:uuid:d7ac15b2-aa08-460c-bc0b-98d95be6cafb",
         "text_locus": "urn:cts:latinLit:phi0830.phi001.dll:1.13@sequor",
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": 5,
-        "source_image": "pdf-page-42",
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">sequar</hi> N Glaeser Keene.</ab>",
         "transcription_confidence": "",
@@ -3270,32 +2724,6 @@
             "model": null,
             "extracted_at": "2026-09-30T18:48:53.104473Z",
             "extraction_image": null
-        }
-    },
-    {
-        "type": "apparatus_claim",
-        "id": "urn:uuid:15fd69b8-abcb-4195-91e4-01115a58c7d5",
-        "apparatus_entry_id": "urn:uuid:d7ac15b2-aa08-460c-bc0b-98d95be6cafb",
-        "target": [
-            "urn:cts:latinLit:phi0830.phi001.dll:1.13@sequor"
-        ],
-        "claim_type": "reading",
-        "reading_type": "lemma",
-        "reading": "sequor",
-        "supporting_evidence": [],
-        "reporting_rank": null,
-        "editorial_comments": null,
-        "confidence": {
-            "interpretation": null,
-            "reasons": []
-        },
-        "evaluation": {
-            "target_correct": null,
-            "reading_correct": null,
-            "witnesses_correct": null,
-            "interpretation_correct": null,
-            "reviewer": null,
-            "review_status": null
         }
     },
     {
@@ -3342,8 +2770,8 @@
         "id": "urn:uuid:de22d8c6-eaed-464f-a84e-901589980420",
         "text_locus": "urn:cts:latinLit:phi0830.phi001.dll:1.13@Ornyte",
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": 5,
-        "source_image": "pdf-page-42",
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">Ornyte</hi> ( <hi rend=\"italic\">or</hi> in ras. N).</ab>",
         "transcription_confidence": "high",
@@ -3353,32 +2781,6 @@
             "model": null,
             "extracted_at": "2026-09-30T18:48:53.104473Z",
             "extraction_image": null
-        }
-    },
-    {
-        "type": "apparatus_claim",
-        "id": "urn:uuid:c32c165c-d24d-4448-a0fa-56f7f4ffefe4",
-        "apparatus_entry_id": "urn:uuid:de22d8c6-eaed-464f-a84e-901589980420",
-        "target": [
-            "urn:cts:latinLit:phi0830.phi001.dll:1.13@Ornyte"
-        ],
-        "claim_type": "reading",
-        "reading_type": "lemma",
-        "reading": "Ornyte",
-        "supporting_evidence": [],
-        "reporting_rank": null,
-        "editorial_comments": null,
-        "confidence": {
-            "interpretation": null,
-            "reasons": []
-        },
-        "evaluation": {
-            "target_correct": null,
-            "reading_correct": null,
-            "witnesses_correct": null,
-            "interpretation_correct": null,
-            "reviewer": null,
-            "review_status": null
         }
     },
     {
@@ -3415,6 +2817,24 @@
             "interpretation_correct": null,
             "reviewer": null,
             "review_status": null
+        }
+    },
+    {
+        "type": "apparatus_entry",
+        "id": "urn:uuid:390d0c28-f0c2-47a7-a75d-f0fd1b9d5601",
+        "text_locus": "urn:cts:latinLit:phi0830.phi001.dll:1.13@Leuce",
+        "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
+        "source_page": 6,
+        "source_image": "pdf-page-43",
+        "bbox_norm": [],
+        "transcription": "<ab><hi rend=\"italic\">Leuce</hi> NGAP πεχ<hi rend=\"superscript\">2</hi> (<hi rend=\"italic\">leute</hi> in ras. καχ<hi rend=\"superscript\">1</hi>), <hi rend=\"italic\">lene</hi> φηρνθrs, <hi rend=\"italic\">lance</hi> γμ, <hi rend=\"italic\">luce</hi> b (corr. Guid.), <hi rend=\"italic\">lauce</hi> λ δ β.</ab>",
+        "transcription_confidence": "high",
+        "transcriber": "SJH",
+        "notes": [],
+        "extraction": {
+            "model": null,
+            "extracted_at": "2026-10-28T14:40:49.736601Z",
+            "extraction_image": null
         }
     },
     {
@@ -3543,6 +2963,10 @@
             {
                 "id": "urn:uuid:6fa82def-c4c9-43b5-a271-f417a8343585",
                 "label": "θ"
+            },
+            {
+                "id": "urn:uuid:bd1b0ef3-6a75-4927-b348-1c722cfafffd",
+                "label": "r"
             },
             {
                 "id": "urn:uuid:43362037-8f5c-4dfb-a4d9-a2d83d6be0de",
@@ -3676,8 +3100,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.14@nocturnaque"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">noturnaque</hi> G,<hi rend=\"italics\">no<hi rend=\"superscript\">c</hi>turnaque</hi> N (<hi rend=\"italics\">no<hi rend=\"superscript\">c</hi>turna</hi> in ras.).</ab>",
         "transcription_confidence": "high",
@@ -3757,8 +3181,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.15@pervia"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">previa</hi> P.</ab>",
         "transcription_confidence": "high",
@@ -3807,8 +3231,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.15@Fauni"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">fanni</hi> P.,\n16,None,<hi rend=\"italics\">O</hi>. φεγην edd. praeter Baehr. et Schenkl.</ab>",
         "transcription_confidence": "high",
@@ -3857,8 +3281,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.16"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab>post hunc versum Beck aliquid excidisse suspicatur</ab>",
         "transcription_confidence": "high",
@@ -3907,8 +3331,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.16"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">O</hi>. φεγην edd. praeter Baehr. et Schenkl.</ab>",
         "transcription_confidence": "high",
@@ -3973,8 +3397,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.16@calamos"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">chalamos</hi> G.</ab>",
         "transcription_confidence": "high",
@@ -4023,8 +3447,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.17@mea"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">mea</hi> om. ρ (add. A in mg.), <hi rend=\"italics\">nova</hi> νφηθrson Burm. Beck.</ab>",
         "transcription_confidence": "high",
@@ -4125,6 +3549,10 @@
                 "label": "θ"
             },
             {
+                "id": "urn:uuid:bd1b0ef3-6a75-4927-b348-1c722cfafffd",
+                "label": "r"
+            },
+            {
                 "id": "urn:uuid:43362037-8f5c-4dfb-a4d9-a2d83d6be0de",
                 "label": "s"
             },
@@ -4163,8 +3591,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.18@matura"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">natura</hi> Pp Kempfer.</ab>",
         "transcription_confidence": "high",
@@ -4221,8 +3649,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.18@docilis"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">docilis</hi> N (<hi rend=\"italics\">s</hi> eras.), <hi rend=\"italics\">docili</hi> vel <hi rend=\"italics\">docilem</hi> Beck.</ab>",
         "transcription_confidence": "high",
@@ -4271,8 +3699,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.18@arundine"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">arundine</hi> G νφλρμ<hi rend=\"superscript\">1</hi>, *harundine Nαβδημ<hi rend=\"superscript\">2</hi>πχεγκ.</ab>",
         "transcription_confidence": "high",
@@ -4414,8 +3842,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.18@Ladon"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">Ladon</hi> NGAHP Baer. Schenkl (qui proposuit <hi rend=\"italics\">Ladas</hi>), <hi rend=\"italics\">Lydon</hi> νφχγμδηθrs, <hi rend=\"italics\">Lidon κπβρ<hi rend=\"superscript\">1</hi>, </hi>Ligdon<hi rend=\"italics\"> αλbn, </hi>Lygdon<hi rend=\"italics\"> ερ<hi rend=\"superscript\">2</hi> edd. </hi>Lacon* Wilamowitz (ind. lect. aest. Gott. 1884 p. 6).</ab>",
         "transcription_confidence": "high",
@@ -4468,6 +3896,10 @@
             {
                 "id": "urn:uuid:6fa82def-c4c9-43b5-a271-f417a8343585",
                 "label": "θ"
+            },
+            {
+                "id": "urn:uuid:bd1b0ef3-6a75-4927-b348-1c722cfafffd",
+                "label": "r"
             },
             {
                 "id": "urn:uuid:43362037-8f5c-4dfb-a4d9-a2d83d6be0de",
@@ -4705,8 +4137,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.19@Et"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">en</hi> Maehly.</ab>",
         "transcription_confidence": "high",
@@ -4755,8 +4187,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.19@O."
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">O</hi>. Pπκχλα Baehr. Schenkl, om. rell. codd. et edd., <hi rend=\"italics\">C</hi>. d.</ab>",
         "transcription_confidence": "high",
@@ -4901,8 +4333,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.19@captatae"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">captata</hi> G (<hi rend=\"italics\">captate</hi> in mg.).</ab>",
         "transcription_confidence": "high",
@@ -4982,8 +4414,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.19@pariter"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">pariter</hi> om. Pp.</ab>",
         "transcription_confidence": "high",
@@ -5036,8 +4468,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.19@successimus"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">subcessimus</hi> G.</ab>",
         "transcription_confidence": "high",
@@ -5086,8 +4518,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.20@"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">O</hi>. μρ, <hi rend=\"italics\">C</hi>. νφδηrson Ulit. Burm. Wernsd. Beck.</ab>",
         "transcription_confidence": "high",
@@ -5161,6 +4593,10 @@
                 "label": "η"
             },
             {
+                "id": "urn:uuid:bd1b0ef3-6a75-4927-b348-1c722cfafffd",
+                "label": "r"
+            },
+            {
                 "id": "urn:uuid:43362037-8f5c-4dfb-a4d9-a2d83d6be0de",
                 "label": "s"
             },
@@ -5207,8 +4643,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.20@sacra"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">sacro</hi> Gδ.</ab>",
         "transcription_confidence": "high",
@@ -5261,8 +4697,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.20@descripta"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">descripta</hi> P V N (m<hi rend=\"superscript\">2</hi> in mg.) edd., <hi rend=\"italics\">depicta</hi> G Jacoby (l. l. p. 1291), <hi rend=\"italics\">dipicta N (corr. m<hi rend=\"superscript\">1</hi> in </hi>depicta*).</ab>",
         "transcription_confidence": "high",
@@ -5391,8 +4827,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.20@est"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">est</hi> om. eu.</ab>",
         "transcription_confidence": "high",
@@ -5445,8 +4881,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.21@quis"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">quis</hi>] <hi rend=\"italics\">qui</hi> N.</ab>",
         "transcription_confidence": "high",
@@ -5495,8 +4931,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.22@"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">C</hi>. εγ edd. ante Glaeser. (except. rsond Ulit. Burm. Wernsd. Beck.).</ab>",
         "transcription_confidence": "high",
@@ -5525,69 +4961,24 @@
             {
                 "id": "urn:uuid:20c28232-5ab8-4e06-a4f1-1d672e5d692a",
                 "label": "γ"
+            },
+            {
+                "group": {
+                    "label": "edd.",
+                    "type": "edition_group",
+                    "quantity": "some",
+                    "boundary": {
+                        "relation": "before",
+                        "id": "urn:uuid:475edb73-ed20-45ab-83c4-0bd344518a1b",
+                        "label": "Glaeser"
+                    }
+                }
             }
         ],
         "reporting_rank": 1,
-        "editorial_comments": null,
-        "confidence": {
-            "interpretation": null,
-            "reasons": []
-        },
-        "evaluation": {
-            "target_correct": null,
-            "reading_correct": null,
-            "witnesses_correct": null,
-            "interpretation_correct": null,
-            "reviewer": null,
-            "review_status": null
-        }
-    },
-    {
-        "type": "apparatus_claim",
-        "id": "urn:uuid:169825b6-9aa5-4e83-89eb-87b8bd7413e1",
-        "apparatus_entry_id": "urn:uuid:14406301-778b-4580-ac52-816bab786387",
-        "target": [
-            "urn:cts:latinLit:phi0830.phi001.dll:1.22@"
+        "editorial_comments": [
+            "(except. rsond Ulit. Burm. Wernsd. Beck.)"
         ],
-        "claim_type": "reading",
-        "reading_type": "lemma",
-        "reading": null,
-        "supporting_evidence": [
-            {
-                "id": "urn:uuid:43362037-8f5c-4dfb-a4d9-a2d83d6be0de",
-                "label": "s"
-            },
-            {
-                "id": "urn:uuid:317ab8e7-fcd8-4ce2-af47-0e9d3b502336",
-                "label": "o"
-            },
-            {
-                "id": "urn:uuid:2bbf63a9-c6c2-43d9-ae64-164c2517199a",
-                "label": "n"
-            },
-            {
-                "id": "urn:uuid:65bc0a7e-4593-4ebb-96ac-cb70dc13ee33",
-                "label": "d"
-            },
-            {
-                "id": "urn:uuid:47e5f301-0070-4036-99c6-11bdd756559a",
-                "label": "Ulit."
-            },
-            {
-                "id": "urn:uuid:8e9640ff-7b06-41ce-87a9-3e66001ca8cc",
-                "label": "Wernsd."
-            },
-            {
-                "id": "urn:uuid:a24b23f6-e144-41e7-badb-52790e195e60",
-                "label": "Beck"
-            },
-            {
-                "id": "urn:uuid:475edb73-ed20-45ab-83c4-0bd344518a1b",
-                "label": "Glaeser"
-            }
-        ],
-        "reporting_rank": null,
-        "editorial_comments": null,
         "confidence": {
             "interpretation": null,
             "reasons": []
@@ -5608,8 +4999,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.22@aspicis"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">aspicit</hi> ε.</ab>",
         "transcription_confidence": "high",
@@ -5658,8 +5049,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.22@nunc"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">tunc</hi> Vienn.</ab>",
         "transcription_confidence": "high",
@@ -5708,8 +5099,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.22@littera"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">litera</hi> N (corr. m<hi rend=\"superscript\">2</hi>) P.</ab>",
         "transcription_confidence": "high",
@@ -5762,8 +5153,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.23@servet"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">csorvet</hi> N (<hi rend=\"italics\">o</hi> et pars sup. litt. <hi rend=\"italics\">s</hi> in ras.).</ab>",
         "transcription_confidence": "high",
@@ -5812,8 +5203,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.23@arenti"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">arenti</hi> (ex <hi rend=\"italics\">arena</hi> N).</ab>",
         "transcription_confidence": "high",
@@ -5862,8 +5253,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.23@se"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">se</hi> om. N (add. m<hi rend=\"superscript\">1</hi>).</ab>",
         "transcription_confidence": "high",
@@ -5914,8 +5305,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.23@se laxet"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">se laxat</hi> d, <hi rend=\"italics\">laxetur</hi> Schenkl olim.</ab>",
         "transcription_confidence": "high",
@@ -6026,8 +5417,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.23@hiatu"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">hyatu</hi> Nλ.</ab>",
         "transcription_confidence": "high",
@@ -6080,8 +5471,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.24@C."
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">C</hi>. Pαβκχλρμπδp Glaeser Keene Baehr. Schenkl, § G, om. Nενφγηedd.</ab>",
         "transcription_confidence": "high",
@@ -6268,8 +5659,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.24@Ornyte"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">ornite</hi> ω.</ab>",
         "transcription_confidence": "high",
@@ -6318,8 +5709,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.24@propius"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">propius</hi> P ρ<hi rend=\"superscript\">2</hi>εκχλβανγπηδedd., <hi rend=\"italics\">proprius</hi> N (<hi rend=\"italics\">r</hi> alt. exp. m<hi rend=\"superscript\"> </hi>) G φμρ<hi rend=\"superscript\">1</hi> θ i<hi rend=\"superscript\">2</hi> h Baehr.</ab>",
         "transcription_confidence": "high",
@@ -6487,8 +5878,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.24@tua"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">tua</hi>] <hi rend=\"italics\">tu</hi> d.</ab>",
         "transcription_confidence": "high",
@@ -6537,8 +5928,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.24@alto"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">altos</hi> NG.</ab>",
         "transcription_confidence": "high",
@@ -6591,8 +5982,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.25@cortice"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">cortice</hi> N (<hi rend=\"italics\">rt</hi> in ras. m<hi rend=\"superscript\">2</hi>) PV edd. (probavit mihi per litteras F. Leo, coll. <hi rend=\"italics\">virides</hi> v. 22, Verg. Ecl. V 13, Naso II, 63 sq.), <hi rend=\"italics\">codice</hi> G A Schenkl.</ab>",
         "transcription_confidence": "high",
@@ -6720,8 +6111,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.25@descriptos"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">destrictos</hi> G.</ab>",
         "transcription_confidence": "high",
@@ -6770,8 +6161,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.25@citius"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">sycios</hi> P.</ab>",
         "transcription_confidence": "high",
@@ -6820,8 +6211,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.25@percurrere"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">percurere</hi> N (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
         "transcription_confidence": "high",
@@ -6870,8 +6261,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.25@citius percurrere versus"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">percurrere certius orsus</hi> Barth. (Adv. 34, 8).</ab>",
         "transcription_confidence": "high",
@@ -6920,8 +6311,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.26@"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">O</hi>. π.</ab>",
         "transcription_confidence": "high",
@@ -6970,8 +6361,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.26@nam"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 6,
+        "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">namque</hi> (<hi rend=\"italics\">que</hi> del.) G.</ab>",
         "transcription_confidence": "high",
@@ -7020,8 +6411,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.28@O."
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">O</hi>. GP φεμκχρ<hi rend=\"superscript\">2</hi>νγαΒηδ edd., om. λπρ<hi rend=\"superscript\">1</hi>, <hi rend=\"italics\">C</hi>. N.</ab>",
         "transcription_confidence": "high",
@@ -7194,8 +6585,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.28@haec"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">haec</hi> NPGλ Glaeser sqq., <hi rend=\"italics\">hoc</hi> V edd. ante Glaeser.</ab>",
         "transcription_confidence": "high",
@@ -7287,8 +6678,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.28@triviali"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">triviali</hi> PV edd., <hi rend=\"italics\">tibi vili</hi> N (in quo litt. evanidas rest. m<hi rend=\"superscript\">2</hi>) G, <hi rend=\"italics\">rivali</hi> o.</ab>",
         "transcription_confidence": "high",
@@ -7407,8 +6798,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.29@nihil armentale"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">nichil armentale</hi> N (in quo lett. evan. rest. m<hi rend=\"superscript\">2</hi>).</ab>",
         "transcription_confidence": "high",
@@ -7457,8 +6848,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.29@resultat"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">resultant</hi> codex quidam Burmanni Heins. Glaeser Keene.</ab>",
         "transcription_confidence": "high",
@@ -7515,8 +6906,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.30"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab>om. G.</ab>",
         "transcription_confidence": "high",
@@ -7565,8 +6956,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.30@nec"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">nec</hi> NPκχΒνφλπρrson Guid. Beck Glaeser sqq., <hi rend=\"italics\">non</hi> Aεαγμηδedd. ante Glaeser.</ab>",
         "transcription_confidence": "high",
@@ -7684,6 +7075,10 @@
                 "label": "ρ"
             },
             {
+                "id": "urn:uuid:bd1b0ef3-6a75-4927-b348-1c722cfafffd",
+                "label": "r"
+            },
+            {
                 "id": "urn:uuid:43362037-8f5c-4dfb-a4d9-a2d83d6be0de",
                 "label": "s"
             },
@@ -7726,8 +7121,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.30@distinguunt"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">distingunt</hi> NPργκμεπφχδ, <hi rend=\"italics\">destingunt</hi> β s, <hi rend=\"italics\">distinguit λη, </hi>destringunt* Heins.</ab>",
         "transcription_confidence": "high",
@@ -7917,8 +7312,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.30@iubila"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">iubilia</hi> P p, <hi rend=\"italics\">nubila</hi> δ, <hi rend=\"italics\">sibila</hi> Heins.</ab>",
         "transcription_confidence": "high",
@@ -8033,8 +7428,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.33@O."
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">O</hi>. Pαβπκνρεχγφδη edd., om. Nλμ, <hi rend=\"italics\">C</hi>. G.</ab>",
         "transcription_confidence": "high",
@@ -8201,8 +7596,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.33@tueor"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">tueie</hi> N (ut videtur), <hi rend=\"italics\">tutor</hi> s.</ab>",
         "transcription_confidence": "high",
@@ -8282,8 +7677,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.35@patefactis"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">patefatis</hi> N (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
         "transcription_confidence": "high",
@@ -8332,8 +7727,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.35@fatis"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">fatis</hi> Ulit. Heins. Kempfer Wernsd. Beck Glaeser sqq., <hi rend=\"italics\">fagis</hi> ω edd. ante Wernsd.</ab>",
         "transcription_confidence": "high",
@@ -8429,8 +7824,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.36@gaudete"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">cogaudete</hi> (<hi rend=\"italics\">co</hi> exp.) N.</ab>",
         "transcription_confidence": "high",
@@ -8511,8 +7906,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.38@pecus"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">pecus</hi> om. P.</ab>",
         "transcription_confidence": "high",
@@ -8561,8 +7956,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.38@nocturnaque"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">noturnaque</hi> G.</ab>",
         "transcription_confidence": "high",
@@ -8611,8 +8006,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.39@fraxinea"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">frasinea</hi> P, <hi rend=\"italics\">fraginea</hi> δ, <hi rend=\"italics\">flaxinea</hi> π<hi rend=\"superscript\">1</hi>, <hi rend=\"italics\">frassinea</hi> λ<hi rend=\"superscript\">2</hi>.</ab>",
         "transcription_confidence": "high",
@@ -8756,8 +8151,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.39@nolit"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">voluit</hi> λ, <hi rend=\"italics\">noluit</hi> δ.</ab>",
         "transcription_confidence": "high",
@@ -8837,8 +8232,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.39@praesaepia"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">praesepia</hi> G.</ab>",
         "transcription_confidence": "high",
@@ -8887,8 +8282,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.40@insidias"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">insidia</hi> N (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
         "transcription_confidence": "high",
@@ -8937,8 +8332,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.40@ovilibus"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">ovillibus</hi> N (corr. m<hi rend=\"superscript\">1</hi>).</ab>",
         "transcription_confidence": "high",
@@ -8987,8 +8382,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.41@afferet"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">afferret</hi> P, <hi rend=\"italics\">adferret</hi> β, <hi rend=\"italics\">affert</hi> χ<hi rend=\"superscript\">1</hi>γu, <hi rend=\"italics\">afferunt</hi> ε.</ab>",
         "transcription_confidence": "high",
@@ -9139,8 +8534,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.41@abiget"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">atabiget</hi> (vel <hi rend=\"italics\">arab.</hi>) N (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
         "transcription_confidence": "high",
@@ -9189,8 +8584,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.42@aurea secura cum pace renascitur aetas"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab>om. N (in quo add. m<hi rend=\"superscript\">2</hi> in mg.) G.</ab>",
         "transcription_confidence": "high",
@@ -9243,8 +8638,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.42@secura"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">sincera</hi> Burm., <hi rend=\"italics\">Saturni</hi> Friesemann.</ab>",
         "transcription_confidence": "high",
@@ -9324,8 +8719,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.42@cum"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">tum</hi> N<hi rend=\"superscript\">2</hi>.</ab>",
         "transcription_confidence": "high",
@@ -9375,8 +8770,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.42@pace"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">pate</hi> P.</ab>",
         "transcription_confidence": "high",
@@ -9425,8 +8820,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.43@redit"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">reddit</hi> P.</ab>",
         "transcription_confidence": "high",
@@ -9475,8 +8870,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.43@tandem"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">tandem</hi> G (supra lin.)</ab>",
         "transcription_confidence": "high",
@@ -9525,8 +8920,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.43@tandem squalore"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">tādāsq<hi rend=\"superscript\">u</hi>lore</hi> P (<hi rend=\"italics\">s</hi> ex <hi rend=\"italics\">d</hi>).</ab>",
         "transcription_confidence": "high",
@@ -9575,8 +8970,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.44@Themis"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">temis</hi> G, <hi rend=\"italics\">thenis</hi> P.</ab>",
         "transcription_confidence": "high",
@@ -9656,8 +9051,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.44@sequuntur"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">sequentur</hi> Kempfer.</ab>",
         "transcription_confidence": "high",
@@ -9706,8 +9101,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.45@maternis"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">maturnis</hi> N (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
         "transcription_confidence": "high",
@@ -9756,8 +9151,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.45@causam"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">curnam</hi> (<hi rend=\"italics\">n</hi> exp.) μ, <hi rend=\"italics\">curam</hi> d, <hi rend=\"italics\">caussas</hi> Burm. Beck.</ab>",
         "transcription_confidence": "high",
@@ -9868,8 +9263,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.45@vicit"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">vicit</hi> NP Glaeser sqq., <hi rend=\"italics\">vīcit</hi> G, <hi rend=\"italics\">ludit</hi> V edd. ante Glaeser., <hi rend=\"italics\">visit</hi> μ, om. γ.</ab>",
         "transcription_confidence": "high",
@@ -10077,8 +9472,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.45@Iulis"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 7,
+        "source_image": "pdf-page-44",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">iulis</hi> NPG Vreubdsgi<hi rend=\"superscript\">2</hi>l<hi rend=\"superscript\">2</hi> Baehr. Schenkl, <hi rend=\"italics\">iullis</hi> μ, om. γ, <hi rend=\"italics\">in ulnis</hi> A edd.</ab>",
         "transcription_confidence": "high",
@@ -10226,6 +9621,10 @@
                 "label": "d"
             },
             {
+                "id": "urn:uuid:bd1b0ef3-6a75-4927-b348-1c722cfafffd",
+                "label": "r"
+            },
+            {
                 "id": "urn:uuid:43362037-8f5c-4dfb-a4d9-a2d83d6be0de",
                 "label": "s"
             },
@@ -10274,8 +9673,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.46@populos"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">populus</hi> s.</ab>",
         "transcription_confidence": "high",
@@ -10324,8 +9723,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.46@deus"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">deus</hi>] <hi rend=\"italics\">reget</hi> G (corr. m<hi rend=\"superscript\">1</hi>).</ab>",
         "transcription_confidence": "high",
@@ -10374,8 +9773,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.46@dabit"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">dapit</hi> P (corr. m<hi rend=\"superscript\">1</hi>).</ab>",
         "transcription_confidence": "high",
@@ -10424,8 +9823,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.46@vinctas"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">vinctas</hi> Aνφγδ edd., probavit F. Ramorino, <hi rend=\"italics\">victas</hi> N G P Βρπακλμχsno Barth. Glaeser Baehr. Keene, <hi rend=\"italics\">iunctas</hi> ε ueb (corr. Guid.) l<hi rend=\"superscript\">2</hi>i<hi rend=\"superscript\">2</hi>g, <hi rend=\"italics\">victa</hi> Schenkl olim.</ab>",
         "transcription_confidence": "high",
@@ -10677,8 +10076,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.47@post tergum"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">postergum</hi> P.</ab>",
         "transcription_confidence": "high",
@@ -10727,8 +10126,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.48@vesanos"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">vesano</hi> N, <hi rend=\"italics\">vexanos</hi> δ, <hi rend=\"italics\">vessanos</hi> φ.</ab>",
         "transcription_confidence": "high",
@@ -10839,8 +10238,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.48@torquebit"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">torquebat</hi> θ.</ab>",
         "transcription_confidence": "high",
@@ -10889,8 +10288,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.48@morsus"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">morsis</hi> N (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
         "transcription_confidence": "high",
@@ -10939,8 +10338,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.49@quae"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">quaque</hi> G (<hi rend=\"italics\">que</hi> del. m<hi rend=\"superscript\">1</hi>).</ab>",
         "transcription_confidence": "high",
@@ -11021,8 +10420,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.50@Philippos"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">philipos</hi> N G.</ab>",
         "transcription_confidence": "high",
@@ -11072,11 +10471,11 @@
         "type": "apparatus_entry",
         "id": "urn:uuid:f856080e-56f6-4a74-a045-dcbc1f5339c1",
         "target": [
-            "urn:cts:latinLit:phi0830.phi001.dll:1.51@deflebit, nullos ducet captiva triumphos;"
+            "urn:cts:latinLit:phi0830.phi001.dll:1.51"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab>om. V (add. A) reds.</ab>",
         "transcription_confidence": "high",
@@ -11092,7 +10491,7 @@
         "id": "urn:uuid:05f2139a-c110-4e80-a499-aacdc1c94764",
         "apparatus_entry_id": "urn:uuid:f856080e-56f6-4a74-a045-dcbc1f5339c1",
         "target": [
-            "urn:cts:latinLit:phi0830.phi001.dll:1.51@deflebit, nullos ducet captiva triumphos;"
+            "urn:cts:latinLit:phi0830.phi001.dll:1.51"
         ],
         "claim_type": "reading",
         "reading_type": "variant",
@@ -11100,7 +10499,8 @@
         "supporting_evidence": [
             {
                 "id": "urn:uuid:add756d3-deb4-4441-8bdf-3675aa7a0a96",
-                "label": "V"
+                "label": "V",
+                "note": "add. A"
             },
             {
                 "id": "urn:uuid:993d93e4-d3ab-48f1-9c94-ca00574da36b",
@@ -11109,6 +10509,10 @@
             {
                 "id": "urn:uuid:65bc0a7e-4593-4ebb-96ac-cb70dc13ee33",
                 "label": "d"
+            },
+            {
+                "id": "urn:uuid:bd1b0ef3-6a75-4927-b348-1c722cfafffd",
+                "label": "r"
             },
             {
                 "id": "urn:uuid:43362037-8f5c-4dfb-a4d9-a2d83d6be0de",
@@ -11137,8 +10541,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.51@deflebit"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">defiebet</hi> P.</ab>",
         "transcription_confidence": "high",
@@ -11187,8 +10591,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.51@nullos ducet"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">nullosque sui</hi> vel <hi rend=\"italics\">ducis</hi> vel <hi rend=\"italics\">ducum</hi> Heins.</ab>",
         "transcription_confidence": "high",
@@ -11206,8 +10610,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.51@triumphos"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">triumpos</hi> P.</ab>",
         "transcription_confidence": "high",
@@ -11256,8 +10660,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.52@subigentur"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">subdentur</hi> νφρηθrs, <hi rend=\"italics\">subiguntur</hi> P, <hi rend=\"italics\">claudentur</hi> Ulit.</ab>",
         "transcription_confidence": "high",
@@ -11298,6 +10702,10 @@
             {
                 "id": "urn:uuid:6fa82def-c4c9-43b5-a271-f417a8343585",
                 "label": "θ"
+            },
+            {
+                "id": "urn:uuid:bd1b0ef3-6a75-4927-b348-1c722cfafffd",
+                "label": "r"
             },
             {
                 "id": "urn:uuid:43362037-8f5c-4dfb-a4d9-a2d83d6be0de",
@@ -11388,8 +10796,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.52@carcere"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">cargicarcere</hi> G (<hi rend=\"italics\">cargi</hi> eras.).</ab>",
         "transcription_confidence": "high",
@@ -11469,8 +10877,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.52@bella"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">bella</hi> vix sanum putat Baehr.</ab>",
         "transcription_confidence": "high",
@@ -11488,8 +10896,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.53@inmergentque"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">inmergentque</hi> G, <hi rend=\"italics\">immergentque</hi> N V, <hi rend=\"italics\">immergerentque</hi> μ, <hi rend=\"italics\">inverguntque</hi> P.</ab>",
         "transcription_confidence": "high",
@@ -11635,8 +11043,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.53@caput"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">capud</hi> G P.</ab>",
         "transcription_confidence": "high",
@@ -11689,8 +11097,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.53@tenebris"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">teneris</hi> G (corr. m<hi rend=\"superscript\">1</hi>).</ab>",
         "transcription_confidence": "high",
@@ -11739,8 +11147,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.54@nec"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">non</hi> Kempfer.</ab>",
         "transcription_confidence": "high",
@@ -11789,8 +11197,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.54@vultu"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">ultu</hi> P, <hi rend=\"italics\">cultu</hi> Dempster (De Etrur. Reg. III cap. 86).</ab>",
         "transcription_confidence": "high",
@@ -11870,8 +11278,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.55@qualis"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">quali</hi> vel <hi rend=\"italics\">qualis</hi> Burm.</ab>",
         "transcription_confidence": "high",
@@ -11889,8 +11297,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.55@quae"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">quae</hi>] <hi rend=\"italics\">quum</hi> Beck, <hi rend=\"italics\">ceu</hi> Baehr., <hi rend=\"italics\">quam</hi> Barth. Heins. Burm. Wernsd.</ab>",
         "transcription_confidence": "high",
@@ -12005,8 +11413,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.55@Marte"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">matre</hi> β.</ab>",
         "transcription_confidence": "high",
@@ -12055,8 +11463,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.55@professo"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">professo</hi> P V edd., <hi rend=\"italics\">profuso</hi> N (corr. m<hi rend=\"superscript\">2</hi>) GAHμbigl<hi rend=\"superscript\">2</hi>, <hi rend=\"italics\">profusso</hi> u.</ab>",
         "transcription_confidence": "high",
@@ -12209,8 +11617,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.55@qualis saepe fuit, quae libera Marte professo,"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab>versum om. λ.</ab>",
         "transcription_confidence": "high",
@@ -12259,8 +11667,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.56@quae"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">quae</hi>] <hi rend=\"italics\">quum</hi> Beck., quam Barth. Heins. Kempfer Hartel Schenkl<hi rend=\"superscript\">1</hi>, <hi rend=\"italics\">et</hi> Burm.</ab>",
         "transcription_confidence": "high",
@@ -12383,8 +11791,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.56@tamen"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">tamen</hi>] <hi rend=\"italics\">palam</hi> Maehly.</ab>",
         "transcription_confidence": "high",
@@ -12433,8 +11841,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.56@grassantibus"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">grassantibus</hi> Pγρ edd., <hi rend=\"italics\">grasantibus</hi> N, <hi rend=\"italics\">crassantibus</hi> G V red, <hi rend=\"italics\">cessantibus</hi> Heins. Maehly.</ab>",
         "transcription_confidence": "high",
@@ -12494,6 +11902,10 @@
             {
                 "id": "urn:uuid:add756d3-deb4-4441-8bdf-3675aa7a0a96",
                 "label": "V"
+            },
+            {
+                "id": "urn:uuid:bd1b0ef3-6a75-4927-b348-1c722cfafffd",
+                "label": "r"
             },
             {
                 "id": "urn:uuid:993d93e4-d3ab-48f1-9c94-ca00574da36b",
@@ -12600,8 +12012,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.57@publica"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">puplica</hi> N<hi rend=\"superscript\">2</hi>, <hi rend=\"italics\">iubila</hi> Hermann Haupt Baehr., <hi rend=\"italics\">vulnera</hi> Leo (Zeitschr. f. d. oesterr. Gymn. XXX p. 616), <hi rend=\"italics\">fulmina</hi> Schenkl<hi rend=\"superscript\">2</hi>.</ab>",
         "transcription_confidence": "high",
@@ -12744,8 +12156,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.57@diffudit"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">diffugit</hi> φρ<hi rend=\"superscript\">1</hi>νηθr Ulit., <hi rend=\"italics\">diffindit</hi> C. Schenkl, Schenkl<hi rend=\"superscript\">1</hi>, <hi rend=\"italics\">confodit</hi> Maehly.</ab>",
         "transcription_confidence": "high",
@@ -12787,6 +12199,10 @@
             {
                 "id": "urn:uuid:6fa82def-c4c9-43b5-a271-f417a8343585",
                 "label": "θ"
+            },
+            {
+                "id": "urn:uuid:bd1b0ef3-6a75-4927-b348-1c722cfafffd",
+                "label": "r"
             },
             {
                 "id": "urn:uuid:47e5f301-0070-4036-99c6-11bdd756559a",
@@ -12877,8 +12293,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.57@tacito"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">tacita</hi> P (corr. m<hi rend=\"superscript\">2</hi>), <hi rend=\"italics\">tacito</hi> vel <hi rend=\"italics\">tacite</hi> Beck.</ab>",
         "transcription_confidence": "high",
@@ -12927,8 +12343,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.57@discordia"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">Discordia</hi> Beck Leo, <hi rend=\"italics\">praecordia</hi> Maehly.</ab>",
         "transcription_confidence": "high",
@@ -13012,8 +12428,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.59@insanos"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">insano</hi> g.</ab>",
         "transcription_confidence": "high",
@@ -13062,8 +12478,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.59@Clementia"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">dementia</hi> πφρ<hi rend=\"superscript\">1</hi>βδθrsoni<hi rend=\"superscript\">1</hi> Guid. Vienn.</ab>",
         "transcription_confidence": "high",
@@ -13109,6 +12525,10 @@
             {
                 "id": "urn:uuid:6fa82def-c4c9-43b5-a271-f417a8343585",
                 "label": "θ"
+            },
+            {
+                "id": "urn:uuid:bd1b0ef3-6a75-4927-b348-1c722cfafffd",
+                "label": "r"
             },
             {
                 "id": "urn:uuid:43362037-8f5c-4dfb-a4d9-a2d83d6be0de",
@@ -13158,8 +12578,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.59@contudit"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">contudit</hi> NGPHχμγ<hi rend=\"superscript\">1</hi>κπαβ Bart. Glaeser sqq., <hi rend=\"italics\">condidit</hi> εγ<hi rend=\"superscript\">2</hi>ηνφρ edd. ante Glaeser., <hi rend=\"italics\">contuli</hi> λ, <hi rend=\"italics\">contundit</hi> δ, <hi rend=\"italics\">concedit</hi> δ in mg., <hi rend=\"italics\">truderit</hi> N (m<hi rend=\"superscript\">3</hi> in mg.).</ab>",
         "transcription_confidence": "high",
@@ -13426,8 +12846,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.60@catenati"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">cathenati</hi> Pγνηδrsi<hi rend=\"superscript\">1</hi>pno.</ab>",
         "transcription_confidence": "high",
@@ -13468,6 +12888,10 @@
             {
                 "id": "urn:uuid:2e6148f0-40e8-49a7-9f3c-70d4091a2ac9",
                 "label": "δ"
+            },
+            {
+                "id": "urn:uuid:bd1b0ef3-6a75-4927-b348-1c722cfafffd",
+                "label": "r"
             },
             {
                 "id": "urn:uuid:43362037-8f5c-4dfb-a4d9-a2d83d6be0de",
@@ -13513,8 +12937,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.60@senatus"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">senatis</hi> N (corr. m<hi rend=\"superscript\">1</hi>), <hi rend=\"italics\">senati</hi> Schenkl olim.</ab>",
         "transcription_confidence": "high",
@@ -13594,8 +13018,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.61@lassabit"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 8,
+        "source_image": "pdf-page-45",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">lassabit</hi> χφγμλ<hi rend=\"superscript\">2</hi>αβνκρηε edd., <hi rend=\"italics\">laxabit</hi> GPπλ<hi rend=\"superscript\">1</hi>, <hi rend=\"italics\">lassabis</hi> N (corr. m<hi rend=\"superscript\">2</hi>), <hi rend=\"italics\">laxabat</hi> δ. </ab>",
         "transcription_confidence": "high",
@@ -13800,8 +13224,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.61@pleno"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">plenos</hi> θ.</ab>",
         "transcription_confidence": "high",
@@ -13850,8 +13274,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.62@numerabit"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">numeravit</hi> G (corr. m<hi rend=\"superscript\">1</hi>).</ab>",
         "transcription_confidence": "high",
@@ -13900,8 +13324,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.63@quae stricti"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">quam stripti</hi> G (<hi rend=\"italics\">que</hi> in mg.).</ab>",
         "transcription_confidence": "high",
@@ -13950,8 +13374,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.64@referet"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">referet</hi> N Glaeser sqq., <hi rend=\"italics\">referent</hi> G (corr. in mg.), <hi rend=\"italics\">revocet</hi> PV edd. ante Glaeser.</ab>",
         "transcription_confidence": "high",
@@ -14070,8 +13494,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.64@Latialia"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">latialia</hi> δ<hi rend=\"superscript\">2</hi>βγφπκχνρηλ edd., <hi rend=\"italics\">latia</hi> G (corr. m<hi rend=\"superscript\">1</hi>), <hi rend=\"italics\">lacialia</hi> NPδ<hi rend=\"superscript\">1</hi>α, <hi rend=\"italics\">latralia</hi> εμe.</ab>",
         "transcription_confidence": "high",
@@ -14280,8 +13704,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.65@qui"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">qua</hi> θ.</ab>",
         "transcription_confidence": "high",
@@ -14330,8 +13754,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.65@primus"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">primum</hi> u.</ab>",
         "transcription_confidence": "high",
@@ -14380,8 +13804,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.65@caede"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">cede</hi> Gεπφμβκ.</ab>",
         "transcription_confidence": "high",
@@ -14454,8 +13878,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.66@ardentia"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">cedentia</hi> λ.</ab>",
         "transcription_confidence": "high",
@@ -14504,8 +13928,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.67@docuit"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">detulit</hi> μ, <hi rend=\"italics\">decuit</hi> π.</ab>",
         "transcription_confidence": "high",
@@ -14586,8 +14010,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.68@inter[2]"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">inter-inter</hi> NPVedd., <hi rend=\"italics\">intra-inter</hi> H<hi rend=\"superscript\">1</hi>, <hi rend=\"italics\">intra_intra</hi>, GAH<hi rend=\"superscript\">2</hi>.</ab>",
         "transcription_confidence": "high",
@@ -14719,8 +14143,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.70@vacuos"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">vanos</hi> Burm.</ab>",
         "transcription_confidence": "high",
@@ -14743,7 +14167,7 @@
         "reading": "vanos",
         "supporting_evidence": [
             {
-                "id":"urn:uuid:79419300-6c6f-4b9c-988d-be2fc9645392",
+                "id": "urn:uuid:79419300-6c6f-4b9c-988d-be2fc9645392",
                 "label": "Burm."
             }
         ],
@@ -14769,8 +14193,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.70@fasces"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">fases</hi> P, <hi rend=\"italics\">fassces</hi> N (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
         "transcription_confidence": "high",
@@ -14850,8 +14274,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.71@et inane"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">et inane</hi>] <hi rend=\"italics\">etiamne</hi> κμνηδβφπ<hi rend=\"superscript\">1</hi>θrs, <hi rend=\"italics\">etiamve</hi> λχ, <hi rend=\"italics\">nec inane</hi> d.</ab>",
         "transcription_confidence": "high",
@@ -14909,6 +14333,10 @@
             {
                 "id": "urn:uuid:6fa82def-c4c9-43b5-a271-f417a8343585",
                 "label": "θ"
+            },
+            {
+                "id": "urn:uuid:bd1b0ef3-6a75-4927-b348-1c722cfafffd",
+                "label": "r"
             },
             {
                 "id": "urn:uuid:43362037-8f5c-4dfb-a4d9-a2d83d6be0de",
@@ -14999,8 +14427,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.71@reductis"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">redutus</hi> G.</ab>",
         "transcription_confidence": "high",
@@ -15049,8 +14477,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.72@vultumque priorem"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">legemque priorem</hi> Barth. (Adv. 44,15).</ab>",
         "transcription_confidence": "high",
@@ -15099,8 +14527,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.73@auferet"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">afferet</hi> N<hi rend=\"superscript\">2</hi>Pη<hi rend=\"superscript\">1</hi>, <hi rend=\"italics\">asseret</hi> L. Mueller (Berl. phil. Woch. V. p. 1071).</ab>",
         "transcription_confidence": "high",
@@ -15190,8 +14618,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.74@exsultet"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">exustet</hi> G.</ab>",
         "transcription_confidence": "high",
@@ -15240,8 +14668,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.74@quaecumque"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">quacumque</hi> G.</ab>",
         "transcription_confidence": "high",
@@ -15290,8 +14718,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.74@notum"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">nothum</hi> Pμνκβδ<hi rend=\"superscript\">2</hi>γχ<hi rend=\"superscript\">1</hi>π<hi rend=\"superscript\">1</hi>εeugi<hi rend=\"superscript\">2</hi>l<hi rend=\"superscript\">2</hi>.</ab>",
         "transcription_confidence": "high",
@@ -15401,8 +14829,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.74@gens"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">gen'</hi> N.</ab>",
         "transcription_confidence": "high",
@@ -15451,8 +14879,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.74@ima"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">yma</hi> G, <hi rend=\"italics\">in tua</hi> N.</ab>",
         "transcription_confidence": "high",
@@ -15532,8 +14960,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.74@iacentem"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">giacentem</hi> P.</ab>",
         "transcription_confidence": "high",
@@ -15582,8 +15010,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.75@erectumve"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">erectumve</hi> Baehr. Schenkl, <hi rend=\"italics\">ereptumque</hi> P, <hi rend=\"italics\">erectumque</hi> NGVH edd., <hi rend=\"italics\">evectumque</hi> Heins. Kempfer.</ab>",
         "transcription_confidence": "high",
@@ -15745,8 +15173,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.75@boream"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">borean</hi> θ Beck.</ab>",
         "transcription_confidence": "high",
@@ -15799,8 +15227,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.75@quaecumque"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">quacumque</hi> G.</ab>",
         "transcription_confidence": "high",
@@ -15849,8 +15277,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.76@patet"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">tepet</hi> Postgate (Class. Rev. 1901 p. 213) Schenkl<hi rend=\"superscript\">2</hi>.</ab>",
         "transcription_confidence": "high",
@@ -15903,8 +15331,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.76@mediove"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">medioque</hi> Kempfer.</ab>",
         "transcription_confidence": "high",
@@ -15953,8 +15381,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.76@fervit"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">fervit</hi> GPA edd., <hi rend=\"italics\">servit</hi> NVreubdsgi<hi rend=\"superscript\">2</hi>l<hi rend=\"superscript\">2</hi>on Ulit. Martell. h Gryph., <hi rend=\"italics\">fervet</hi> Tit. Barth. Kempfer.</ab>",
         "transcription_confidence": "high",
@@ -15983,6 +15411,10 @@
             {
                 "id": "urn:uuid:add756d3-deb4-4441-8bdf-3675aa7a0a96",
                 "label": "V"
+            },
+            {
+                "id": "urn:uuid:bd1b0ef3-6a75-4927-b348-1c722cfafffd",
+                "label": "r"
             },
             {
                 "id": "urn:uuid:993d93e4-d3ab-48f1-9c94-ca00574da36b",
@@ -16139,8 +15571,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.77@vicesima"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">vicesima</hi> NPrKempfer Wernsd. Beck Glaeser sqq., <hi rend=\"italics\">vicessima</hi> φ, <hi rend=\"italics\">vigesima</hi> GVP edd. ante Glaeser.</ab>",
         "transcription_confidence": "high",
@@ -16241,6 +15673,10 @@
                 "label": "P"
             },
             {
+                "id": "urn:uuid:bd1b0ef3-6a75-4927-b348-1c722cfafffd",
+                "label": "r"
+            },
+            {
                 "id": "urn:uuid:e66a0f71-7a95-4626-b62a-fa9fa26e71cc",
                 "label": "Kempfer"
             },
@@ -16275,8 +15711,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.78@fulgeat"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">fulget</hi> N (corr. m<hi rend=\"superscript\">1</hi>.)</ab>",
         "transcription_confidence": "high",
@@ -16325,8 +15761,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.78@et placida radiantem"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">et placida radiantem</hi> NG Beck Glaeser sqq., <hi rend=\"italics\">et placidam radiantem</hi> P, <hi rend=\"italics\">et placideam radianti</hi> πχ<hi rend=\"superscript\">1</hi>μλκρ<hi rend=\"superscript\">1</hi>, <hi rend=\"italics\">et placidum radianti</hi> φαβνθχ<hi rend=\"superscript\">2</hi>rsonl<hi rend=\"superscript\">1</hi> Vienn., <hi rend=\"italics\">ut placidum radianti</hi> εγρ<hi rend=\"superscript\">2</hi>η edd., <hi rend=\"italics\">ut placida radianti</hi> H, <hi rend=\"italics\">ac placidam radienti</hi> δ, <hi rend=\"italics\">ut placida radiantem</hi> ph Ulit., <hi rend=\"italics\">ut placida radiatum</hi> codd. Titii.</ab>",
         "transcription_confidence": "high",
@@ -16456,6 +15892,10 @@
                 "id": "urn:uuid:8470035d-4a05-4b42-8cbc-98a14fa3f41d",
                 "label": "χ",
                 "hand": "2"
+            },
+            {
+                "id": "urn:uuid:bd1b0ef3-6a75-4927-b348-1c722cfafffd",
+                "label": "r"
             },
             {
                 "id": "urn:uuid:43362037-8f5c-4dfb-a4d9-a2d83d6be0de",
@@ -16716,8 +16156,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.78@cometem"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">comethem</hi> G, <hi rend=\"italics\">cometen</hi> νηrson Beck.</ab>",
         "transcription_confidence": "high",
@@ -16779,6 +16219,10 @@
                 "label": "η"
             },
             {
+                "id": "urn:uuid:bd1b0ef3-6a75-4927-b348-1c722cfafffd",
+                "label": "r"
+            },
+            {
                 "id": "urn:uuid:43362037-8f5c-4dfb-a4d9-a2d83d6be0de",
                 "label": "s"
             },
@@ -16817,8 +16261,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.79@proferat"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">profferet</hi> N.</ab>",
         "transcription_confidence": "high",
@@ -16867,8 +16311,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.79@niteat"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 9,
+        "source_image": "pdf-page-46",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">niteat</hi> Ulit. Baehr. Schenkl, <hi rend=\"italics\">mutat</hi> NGβκπρ<hi rend=\"superscript\">1</hi>λ<hi rend=\"superscript\">1</hi>, <hi rend=\"italics\">mittat</hi> Pδpth Kempfer Burm., <hi rend=\"italics\">micat</hi> μ, <hi rend=\"italics\">nutet</hi> θναηrsonl<hi rend=\"superscript\">2</hi>i<hi rend=\"superscript\">2</hi> Guid. Wernsd. Beck Glaeser Keene, <hi rend=\"italics\">nutat</hi> εχηρ<hi rend=\"superscript\">2</hi>λ<hi rend=\"superscript\">2</hi>deubi<hi rend=\"superscript\">1</hi>l<hi rend=\"superscript\">1</hi> Tig. Vienn., <hi rend=\"italics\">mutet</hi> φ, <hi rend=\"italics\">micet ac</hi> Leo, <hi rend=\"italics\">nictat</hi> Barth.</ab>",
         "transcription_confidence": "high",
@@ -17044,6 +16488,10 @@
             {
                 "id": "urn:uuid:b2fbaa1c-8850-450d-83f2-c25d30a4cbe2",
                 "label": "η"
+            },
+            {
+                "id": "urn:uuid:bd1b0ef3-6a75-4927-b348-1c722cfafffd",
+                "label": "r"
             },
             {
                 "id": "urn:uuid:43362037-8f5c-4dfb-a4d9-a2d83d6be0de",
@@ -17325,8 +16773,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.79@sidus"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">sidere</hi> Burm., <hi rend=\"italics\">plenus</hi> P Glaeser Baehr. Keene, <hi rend=\"italics\">lumen</hi> Burm.</ab>",
         "transcription_confidence": "high",
@@ -17449,8 +16897,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.80@numquid"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">numquid</hi> G εγρ (in ras.) edd., <hi rend=\"italics\">dumquid</hi> N (corr. m<hi rend=\"superscript\">2</hi>), <hi rend=\"italics\">non quod</hi> Pκβλμπδ Barth., <hi rend=\"italics\">non</hi> α, <hi rend=\"italics\">non per</hi> ηφνrsoni<hi rend=\"superscript\">1</hi>l<hi rend=\"superscript\">1</hi>pth Guid. Tit. Vienn. Kempfer, <hi rend=\"italics\">non quae</hi> χ, <hi rend=\"italics\">non quoque</hi>, vel <hi rend=\"italics\">nunc nec</hi> Burm.</ab>",
         "transcription_confidence": "high",
@@ -17600,6 +17048,10 @@
             {
                 "id": "urn:uuid:f7d607ac-4fd1-4f8e-8b0a-ae2796af141f",
                 "label": "ν"
+            },
+            {
+                "id": "urn:uuid:bd1b0ef3-6a75-4927-b348-1c722cfafffd",
+                "label": "r"
             },
             {
                 "id": "urn:uuid:43362037-8f5c-4dfb-a4d9-a2d83d6be0de",
@@ -17753,8 +17205,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.80@utrumque"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">utrimque</hi> d<hi rend=\"superscript\">2</hi>.</ab>",
         "transcription_confidence": "high",
@@ -17804,8 +17256,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.80@sicut"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">sese ut</hi> Barth. olim Kempfer Heins.</ab>",
         "transcription_confidence": "high",
@@ -17858,8 +17310,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.80@cruento"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">cremato</hi> V (corr. A)res, <hi rend=\"italics\">comato</hi> Barth.</ab>",
         "transcription_confidence": "high",
@@ -17888,6 +17340,10 @@
             {
                 "id": "urn:uuid:993d93e4-d3ab-48f1-9c94-ca00574da36b",
                 "label": "e"
+            },
+            {
+                "id": "urn:uuid:bd1b0ef3-6a75-4927-b348-1c722cfafffd",
+                "label": "r"
             },
             {
                 "id": "urn:uuid:43362037-8f5c-4dfb-a4d9-a2d83d6be0de",
@@ -17947,8 +17403,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.81@spargit"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">perget</hi> Heins.</ab>",
         "transcription_confidence": "high",
@@ -17997,8 +17453,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.81@scintillat"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">sintillat</hi> δγε<hi rend=\"superscript\">2</hi>eubd<hi rend=\"superscript\">2</hi>, <hi rend=\"italics\">sintilla</hi> μ.</ab>",
         "transcription_confidence": "high",
@@ -18104,8 +17560,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.81@spargit et ardenti scintillat sanguine"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">spargitur ardenti scintillans lumine</hi> Nodell (Not. crit. p. 86).</ab>",
         "transcription_confidence": "high",
@@ -18154,8 +17610,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.82@at"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">et</hi> νφηπθrs.</ab>",
         "transcription_confidence": "high",
@@ -18198,6 +17654,10 @@
                 "label": "θ"
             },
             {
+                "id": "urn:uuid:bd1b0ef3-6a75-4927-b348-1c722cfafffd",
+                "label": "r"
+            },
+            {
                 "id": "urn:uuid:43362037-8f5c-4dfb-a4d9-a2d83d6be0de",
                 "label": "s"
             }
@@ -18224,8 +17684,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.82@non talis"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">natalis</hi> P (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
         "transcription_confidence": "high",
@@ -18274,8 +17734,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.82@rapto"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">raptum</hi> θ.</ab>",
         "transcription_confidence": "high",
@@ -18324,8 +17784,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.83@indixit"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">induxit</hi> l<hi rend=\"superscript\">1</hi>.</ab>",
         "transcription_confidence": "high",
@@ -18375,8 +17835,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.83@fatalia"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">fatalis</hi> d<hi rend=\"superscript\">1</hi>.</ab>",
         "transcription_confidence": "high",
@@ -18426,8 +17886,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.84@scilicet ipse deus"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">scilicet sedis</hi> N (corr. m<hi rend=\"superscript\">2</hi>), <hi rend=\"italics\">sed Deus</hi> Gleeser L. Mueller (l. l. p. 1071).</ab>",
         "transcription_confidence": "high",
@@ -18543,8 +18003,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.84@ipse"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">ipse</hi> P (<hi rend=\"italics\">ille</hi> suprascr. m<hi rend=\"superscript\">1</hi>).</ab>",
         "transcription_confidence": "high",
@@ -18594,8 +18054,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.84@molis"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">mollis</hi> μb.</ab>",
         "transcription_confidence": "high",
@@ -18648,8 +18108,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.85@excipiet"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">excipient</hi> P, <hi rend=\"italics\">accipiet</hi> G, <hi rend=\"italics\">excuciet</hi> N<hi rend=\"superscript\">2</hi>.</ab>",
         "transcription_confidence": "high",
@@ -18761,8 +18221,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.86@ut"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">uti</hi> N (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
         "transcription_confidence": "high",
@@ -18811,8 +18271,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.86@translati"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">tralati</hi> Ai<hi rend=\"superscript\">1</hi>ph Ulit. Vienn. Kempfer Barth.</ab>",
         "transcription_confidence": "high",
@@ -18886,8 +18346,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.86@sonitu"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">sonitus</hi> sno.</ab>",
         "transcription_confidence": "high",
@@ -18944,8 +18404,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.87"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">nec prius</hi> (cett. om.) γ.</ab>",
         "transcription_confidence": "high",
@@ -18996,8 +18456,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.87@ex meritis"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">ex meritis</hi> Pφπκχνρη edd., <hi rend=\"italics\">a meritis</hi> N (corr. m<hi rend=\"superscript\">2</hi>) G Ellis (Amer. Journ. of Philology VII p. 20), <hi rend=\"italics\">a! meritis</hi> Schenkl, <hi rend=\"italics\">et meritis</hi> Aαβελμeud Guid., <hi rend=\"italics\">ut meritis</hi> Leo (l.l. p. 616), <hi rend=\"italics\">emeritos</hi> Burm. L. Mueller (l.l. p. 1071), <hi rend=\"italics\">emeritis</hi> δ Barth. Glaeser, <hi rend=\"italics\">emeriti</hi> Gronov. (Obss. III 13) Haupt L. Mueller.</ab>",
         "transcription_confidence": "high",
@@ -19339,8 +18799,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.87@defunctos"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">defuncti</hi> Burm. L. Mueller.</ab>",
         "transcription_confidence": "high",
@@ -19389,8 +18849,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.87@penates"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">parentis</hi> Gronov. Haupt L. Mueller.</ab>",
         "transcription_confidence": "high",
@@ -19447,8 +18907,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.88@censeat"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">sentia</hi> Barth. Gronov. Burm. L. Mueller.</ab>",
         "transcription_confidence": "high",
@@ -19497,8 +18957,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.88@occasus"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">ocasus</hi> P, <hi rend=\"italics\">occasum</hi> Kempfer.</ab>",
         "transcription_confidence": "high",
@@ -19578,8 +19038,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.88@nisi cum"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">nisi iam</hi> Burm., <hi rend=\"italics\">gnati quam</hi> Gronov.</ab>",
         "transcription_confidence": "high",
@@ -19659,8 +19119,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.88@respexerit"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">resperserit</hi> G, <hi rend=\"italics\">aspexerit</hi> Gronv., <hi rend=\"italics\">suspexerit</hi> Haupt, <hi rend=\"italics\">despexerit</hi> Leo.</ab>",
         "transcription_confidence": "high",
@@ -19802,8 +19262,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.89@C."
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">C</hi>. om. Gμπ.</ab>",
         "transcription_confidence": "high",
@@ -19860,8 +19320,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.89@Ornyte"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">Ornite</hi> ω.</ab>",
         "transcription_confidence": "high",
@@ -19910,8 +19370,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.89@velut"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">velud</hi> G, <hi rend=\"italics\">velit</hi> P.</ab>",
         "transcription_confidence": "high",
@@ -19991,8 +19451,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.89@plenum"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">plenum</hi> NGPρ<hi rend=\"superscript\">2</hi>t Barth. Burm. Kempfer Beck Baehr. Schenkl, <hi rend=\"italics\">plenus</hi> V edd.</ab>",
         "transcription_confidence": "high",
@@ -20105,8 +19565,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.90@quatit"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">quatit</hi> PV edd., <hi rend=\"italics\">querit</hi> N, <hi rend=\"italics\">petit</hi> G, <hi rend=\"italics\">ferit</hi> Baehr.</ab>",
         "transcription_confidence": "high",
@@ -20252,8 +19712,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.90@mixtus"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">mistus</hi> G.</ab>",
         "transcription_confidence": "high",
@@ -20302,8 +19762,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.90@terror"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">tremor</hi> κχ.</ab>",
         "transcription_confidence": "high",
@@ -20356,8 +19816,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.91@"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">Or.</hi> e.</ab>",
         "transcription_confidence": "high",
@@ -20406,8 +19866,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.91@facundi"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">foecundi</hi> εγeubiplgon Barth., <hi rend=\"italics\">fecundi</hi> μρ<hi rend=\"superscript\">2</hi>, <hi rend=\"italics\">secundi</hi> δ.</ab>",
         "transcription_confidence": "high",
@@ -20563,8 +20023,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.91@veneremur"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">veneramur</hi> θ.</ab>",
         "transcription_confidence": "high",
@@ -20613,8 +20073,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.91@Fauni"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">Fauni</hi>] <hi rend=\"italics\">Bacchi</hi> Heraldus (Adv. I c. 2).</ab>",
         "transcription_confidence": "high",
@@ -20663,8 +20123,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.92@O."
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">O</hi>. om. ω rdson.</ab>",
         "transcription_confidence": "high",
@@ -20689,6 +20149,10 @@
             {
                 "id": "urn:uuid:71191de5-3a33-4bfd-b99f-a30ef53275bb",
                 "label": "ω"
+            },
+            {
+                "id": "urn:uuid:bd1b0ef3-6a75-4927-b348-1c722cfafffd",
+                "label": "r"
             },
             {
                 "id": "urn:uuid:65bc0a7e-4593-4ebb-96ac-cb70dc13ee33",
@@ -20729,8 +20193,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.92@nobis"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 10,
+        "source_image": "pdf-page-47",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">vobis</hi> b.</ab>",
         "transcription_confidence": "high",
@@ -20779,8 +20243,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.92@ipse"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 11,
+        "source_image": "pdf-page-48",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">ipsa</hi> N, om. G.</ab>",
         "transcription_confidence": "high",
@@ -20860,8 +20324,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.92@canenda"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 11,
+        "source_image": "pdf-page-48",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">calenda</hi> i<hi rend=\"superscript\">1</hi>, <hi rend=\"italics\">colenda</hi> l<hi rend=\"superscript\">1</hi>.</ab>",
         "transcription_confidence": "high",
@@ -20943,8 +20407,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.93@dicamus"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 11,
+        "source_image": "pdf-page-48",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">discamus</hi> Barth. (Adv. 34,8).</ab>",
         "transcription_confidence": "high",
@@ -20993,8 +20457,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.93@teretique"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 11,
+        "source_image": "pdf-page-48",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">territique</hi> N, <hi rend=\"italics\">teretisque</hi> ρ<hi rend=\"superscript\">1</hi> Wernsd.</ab>",
         "transcription_confidence": "high",
@@ -21079,8 +20543,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.93@sonum modulemur avena"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 11,
+        "source_image": "pdf-page-48",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">sono modulemur avenae</hi> Wernsd.</ab>",
         "transcription_confidence": "high",
@@ -21129,8 +20593,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.94@forsitan"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 11,
+        "source_image": "pdf-page-48",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">forsitā</hi> N.</ab>",
         "transcription_confidence": "high",
@@ -21179,8 +20643,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.94@augustas"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 11,
+        "source_image": "pdf-page-48",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">angustas</hi> Nπφρ<hi rend=\"superscript\">1</hi>λ<hi rend=\"superscript\">1</hi>, <hi rend=\"italics\">agustas</hi> μ.</ab>",
         "transcription_confidence": "high",
@@ -21278,8 +20742,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.94@haec"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 11,
+        "source_image": "pdf-page-48",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">hoc</hi> P.</ab>",
         "transcription_confidence": "high",
@@ -21328,8 +20792,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.94@Meliboeus"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 11,
+        "source_image": "pdf-page-48",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">meliboeus</hi> νε<hi rend=\"superscript\">2</hi>ρ<hi rend=\"superscript\">2</hi>, <hi rend=\"italics\">melibeus</hi> GPλπδ<hi rend=\"superscript\">1</hi>γρ<hi rend=\"superscript\">1</hi>αβ, <hi rend=\"italics\">melibes</hi> N (<hi rend=\"italics\">melibeus</hi> m<hi rend=\"superscript\">2</hi>), <hi rend=\"italics\">meiibaeus</hi> χφ, <hi rend=\"italics\">moelibeus</hi> η, <hi rend=\"italics\">moeliboeus</hi> ε<hi rend=\"superscript\">1</hi>, <hi rend=\"italics\">maelibaeus</hi> κ, <hi rend=\"italics\">me libens</hi> μ.</ab>",
         "transcription_confidence": "high",
@@ -21676,8 +21140,8 @@
             "urn:cts:latinLit:phi0830.phi001.dll:1.94@aures"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
-        "source_page": null,
-        "source_image": null,
+        "source_page": 11,
+        "source_image": "pdf-page-48",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italics\">auras</hi> P Ulit., <hi rend=\"italics\">auris</hi> νφρ<hi rend=\"superscript\">2</hi>θrsi<hi rend=\"superscript\">1</hi>on, <hi rend=\"italics\">aras</hi> ε, <hi rend=\"italics\">auraes</hi> π.</ab>",
         "transcription_confidence": "high",
@@ -21750,6 +21214,10 @@
             {
                 "id": "urn:uuid:6fa82def-c4c9-43b5-a271-f417a8343585",
                 "label": "θ"
+            },
+            {
+                "id": "urn:uuid:bd1b0ef3-6a75-4927-b348-1c722cfafffd",
+                "label": "r"
             },
             {
                 "id": "urn:uuid:43362037-8f5c-4dfb-a4d9-a2d83d6be0de",
