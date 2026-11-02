@@ -1,0 +1,75 @@
+[
+    {
+        "id": "urn:uuid:f2e93fa5-f815-4ff4-92ca-adaa365f8f20",
+        "citation": [
+            "urn:cts:latinLit:phi0830.phi001.dll:1.1@C."
+        ],
+        "transcription": [
+            {
+                "transcription_reading": "C.",
+                "transcription_evidence": [
+                    "G",
+                    "P",
+                    "A",
+                    "φ",
+                    "Ulit.",
+                    "Wernsd.",
+                    "Glaeser",
+                    "sqq."
+                ]
+            },
+            {
+                "transcription_reading": "om.",
+                "transcription_evidence": [
+                    "N",
+                    "π",
+                    "χ",
+                    "p"
+                ]
+            },
+            {
+                "transcription_reading": "O.",
+                "transcription_evidence": [
+                    "ε",
+                    "β",
+                    "γ",
+                    "μ",
+                    "ρ",
+                    "edd. ante",
+                    "Glaeser"
+                ]
+            }
+        ],
+        "claims": [
+            {
+                "claim_reading": "C.",
+                "claim_evidence": [
+                    "G",
+                    "P",
+                    "A",
+                    "φ",
+                    "Ulit.",
+                    "Wernsd."
+                ]
+            },
+            {
+                "claim_reading": null,
+                "claim_evidence": [
+                    "N",
+                    "π",
+                    "χ",
+                    "p"
+                ]
+            },
+            {
+                "claim_reading": "O.",
+                "claim_evidence": [
+                    "ε",
+                    "β",
+                    "γ",
+                    "μ",
+                    "ρ"
+                ]
+            }
+        ],
+        "comparison": 

@@ -761,6 +761,38 @@
             "id": "Giarratano"
         }
     ],
+    "groups": [
+        {
+            "abbreviation": "cod.",
+            "meaning": "A manuscript not explicitly referenced elsewhere in an entry in the apparatus.",
+            "label": "cod.",
+            "uuid": "urn:uuid:9624ddbf-a011-4f57-bfcd-7a06b7347863"
+        },
+        {
+            "abbreviation": "codd.",
+            "meaning": "Multiple manuscripts not explicitly referenced elsewhere in an entry in the apparatus criticus.",
+            "label": "codd.",
+            "uuid": "urn:uuid:ce763c78-6de8-428c-8a72-03682f763a53"
+        },
+        {
+            "abbreviation": "edd.",
+            "meaning": "All editions not explicitly referenced elsewhere in this apparatus criticus note.",
+            "label": "edd.",
+            "uuid": "urn:uuid:4b8c192d-42d5-4d5b-97f0-c4f879e36dcc"
+        },
+        {
+            "abbreviation": "edd. ante",
+            "meaning": "All editions published before the specified edition not explicitly referenced elsewhere in this apparatus criticus note.",
+            "label": "edd. ante",
+            "uuid": "urn:uuid:39a9e5b0-abc2-44e5-90bf-c0c6d282c0e1"
+        },
+        {
+            "abbreviation": "sqq.",
+            "meaning": "Editions including the specified edition and all subsequent editions not explicitly referenced elsewhere in this apparatus criticus note.",
+            "label": "sqq.",
+            "uuid": "urn:uuid:6bf0a801-c5dd-444e-804c-3125ffe56e1e"
+        }
+    ],
     "secondary_sources": [
         {
             "abbreviation": "Baehr. 1870",
@@ -1317,7 +1349,7 @@
             "id": "Modius1584"
         },
         {
-            "abbreviation": "Mueller 1885",
+            "abbreviation": "L. Mueller",
             "author": "Müller, Lucian",
             "article_title": "Review of ‘Calpurnii et Nemesiani Bucolica Recensuit Henricus Schenkl, Lipsiae, G. Freytag, Pragae, F. Tempsky, 1885’",
             "journal_title": "Berliner Philologische Wochenschrift",
@@ -1327,7 +1359,7 @@
             "url": "https://books.google.com/books?id=eNUpAAAAYAAJ&pg=PP11#v=onepage&q&f=false.",
             "type": "journal_article",
             "uuid": "urn:uuid:ba8f0537-97f6-4e03-ae5e-94d411a981b5",
-            "label": "Mueller",
+            "label": "L. Mueller",
             "id": "Mueller1885"
         },
         {
@@ -1771,31 +1803,12 @@
             "meaning": "An addition made by a hand in a manuscript."
         },
         {
-            "abbreviation": "cod.",
-            "meaning": "A manuscript not explicitly referenced elsewhere in an entry in the apparatus."
-        },
-        {
-            "abbreviation": "codd.",
-            "meaning": "Multiple manuscripts not explicitly referenced elsewhere in an entry in the apparatus.",
-            "uuid": "urn:uuid:ce763c78-6de8-428c-8a72-03682f763a53"
-        },
-        {
             "abbreviation": "corr.",
             "meaning": "A correction made by a hand in a manuscript."
         },
         {
             "abbreviation": "del.",
             "meaning": "A deletion."
-        },
-        {
-            "abbreviation": "edd.",
-            "meaning": "All editions not explicitly referenced elsewhere in this apparatus criticus note.",
-            "uuid": "urn:uuid:4b8c192d-42d5-4d5b-97f0-c4f879e36dcc"
-        },
-        {
-            "abbreviation": "edd. ante <edition>",
-            "meaning": "All editions published before the specified edition not explicitly referenced elsewhere in this apparatus criticus note.",
-            "uuid": "urn:uuid:39a9e5b0-abc2-44e5-90bf-c0c6d282c0e1"
         },
         {
             "abbreviation": "in mg.",
@@ -1812,11 +1825,6 @@
         {
             "abbreviation": "om.",
             "meaning": "A word or phrase omitted in a manuscript."
-        },
-        {
-            "abbreviation": "<edition> sqq.",
-            "meaning": "Editions including the specified edition and all subsequent editions not explicitly referenced elsewhere in this apparatus criticus note.",
-            "uuid": "urn:uuid:6bf0a801-c5dd-444e-804c-3125ffe56e1e"
         }
     ],
     "general_guidance": {

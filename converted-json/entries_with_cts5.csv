@@ -1,9 +1,8 @@
 line_number,lemma,entry,note,xml,cts_id,validate
 14,nocturnaque,"*noturnaque* G,*no^c^turnaque* N (*no^c^turna* in ras.).",,"<ab><hi rend=""italics"">noturnaque</hi> G,<hi rend=""italics"">no<hi rend=""superscript"">c</hi>turnaque</hi> N (<hi rend=""italics"">no<hi rend=""superscript"">c</hi>turna</hi> in ras.).</ab>",urn:cts:latinLit:phi0830.phi001.dll:1.14@nocturnaque,True
 15,pervia,*previa* P.,,"<ab><hi rend=""italics"">previa</hi> P.</ab>",urn:cts:latinLit:phi0830.phi001.dll:1.15@pervia,True
-15,Fauni,"*fanni* P.,
-16,None,*O*. φεγην edd. praeter Baehr. et Schenkl.",,"<ab><hi rend=""italics"">fanni</hi> P.,
-16,None,<hi rend=""italics"">O</hi>. φεγην edd. praeter Baehr. et Schenkl.</ab>",urn:cts:latinLit:phi0830.phi001.dll:1.15@Fauni,True
+15,Fauni,"*fanni* P.,,"<ab><hi rend=""italics"">fanni</hi> P.</ab>",urn:cts:latinLit:phi0830.phi001.dll:1.15@Fauni,True
+16,None,*O*. φεγην edd. praeter Baehr. et Schenkl.",,<ab><hi rend=""italics"">O</hi>. φεγην edd. praeter Baehr. et Schenkl.</ab>",urn:cts:latinLit:phi0830.phi001.dll:1.16,True
 16,calamos,*chalamos* G. versum om. b; post hunc versum Beck aliquid excidisse suspicatur.,,"<ab><hi rend=""italics"">chalamos</hi> G. versum om. b; post hunc versum Beck aliquid excidisse suspicatur.</ab>",urn:cts:latinLit:phi0830.phi001.dll:1.16@calamos,True
 17,mea,"*mea* om. ρ (add. A in mg.), *nova* νφηθrson Burm. Beck.",,"<ab><hi rend=""italics"">mea</hi> om. ρ (add. A in mg.), <hi rend=""italics"">nova</hi> νφηθrson Burm. Beck.</ab>",urn:cts:latinLit:phi0830.phi001.dll:1.17@mea,True
 18,matura,*natura* Pp Kempfer.,,"<ab><hi rend=""italics"">natura</hi> Pp Kempfer.</ab>",urn:cts:latinLit:phi0830.phi001.dll:1.18@matura,True

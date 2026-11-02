@@ -9,9 +9,8 @@
         "source_page": 5,
         "source_image": "pdf-page-42",
         "bbox_norm": [],
-        "transcription": [
-            "<ab>I 1 <hi rend=\"italic\">C.</hi> G P A φ Ulit. Wernsd. Glaeser sqq., <hi rend=\"italic\">om.</hi> Nπχ p, <hi rend=\"italic\">O.</hi> εβγμρ edd. ante Glaeser.</ab>"
-        ],
+        "transcription": "<ab>I 1 <hi rend=\"italic\">C</hi>. G P A φ Ulit. Wernsd. Glaeser sqq., <hi rend=\"italic\">om.</hi> Nπχ p, <hi rend=\"italic\">O</hi>. εβγμρ edd. ante Glaeser.</ab>"
+        ,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -2555,7 +2554,7 @@
         "source_page": 5,
         "source_image": "pdf-page-42",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italic\">ubi</hi> ] G ( <hi rend=\"italic\">et</hi> in mg.).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">ubi</hi>] G (<hi rend=\"italic\">et</hi> in mg.).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -2835,7 +2834,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italic\">Ornyte</hi> ( <hi rend=\"italic\">or</hi> in ras. N).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">Ornyte</hi> (<hi rend=\"italic\">or</hi> in ras. N).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3167,7 +3166,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">noturnaque</hi> G,<hi rend=\"italics\">no<hi rend=\"superscript\">c</hi>turnaque</hi> N (<hi rend=\"italics\">no<hi rend=\"superscript\">c</hi>turna</hi> in ras.).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">noturnaque</hi> G,<hi rend=\"italic\">no<hi rend=\"superscript\">c</hi>turnaque</hi> N (<hi rend=\"italic\">no<hi rend=\"superscript\">c</hi>turna</hi> in ras.).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3249,7 +3248,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">previa</hi> P.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">previa</hi> P.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3300,7 +3299,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">fanni</hi> P.,\n16,None,<hi rend=\"italics\">O</hi>. φεγην edd. praeter Baehr. et Schenkl.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">fanni</hi> P.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3402,7 +3401,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">O</hi>. φεγην edd. praeter Baehr. et Schenkl.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">O</hi>. φεγην edd. praeter Baehr. et Schenkl.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3469,7 +3468,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">chalamos</hi> G.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">chalamos</hi> G.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3520,7 +3519,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">mea</hi> om. ρ (add. A in mg.), <hi rend=\"italics\">nova</hi> νφηθrson Burm. Beck.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">mea</hi> om. ρ (add. A in mg.), <hi rend=\"italic\">nova</hi> νφηθrson Burm. Beck.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3665,7 +3664,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">natura</hi> Pp Kempfer.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">natura</hi> Pp Kempfer.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3724,7 +3723,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">docilis</hi> N (<hi rend=\"italics\">s</hi> eras.), <hi rend=\"italics\">docili</hi> vel <hi rend=\"italics\">docilem</hi> Beck.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">docilis</hi> N (<hi rend=\"italic\">s</hi> eras.), <hi rend=\"italic\">docili</hi> vel <hi rend=\"italic\">docilem</hi> Beck.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3762,6 +3761,68 @@
                     "reviewer": null,
                     "review_status": null
                 }
+            },
+            {
+                "type": "apparatus_claim",
+                "id": "urn:uuid:1fa76d37-23a5-4002-b037-01648a8fd410",
+                "apparatus_entry_id": "urn:uuid:0ea128a6-7be0-4593-b782-6155e24fefa8",
+                "target": [
+                    "urn:cts:latinLit:phi0830.phi001.dll:1.18@docilis"
+                ],
+                "claim_type": "reading",
+                "reading_type": "variant",
+                "reading": "docili",
+                "supporting_evidence": [
+                    {
+                        "id": "urn:uuid:a24b23f6-e144-41e7-badb-52790e195e60",
+                        "label": "Beck"
+                    }
+                ],
+                "reporting_rank": 2,
+                "editorial_comments": null,
+                "confidence": {
+                    "interpretation": null,
+                    "reasons": []
+                },
+                "evaluation": {
+                    "target_correct": null,
+                    "reading_correct": null,
+                    "witnesses_correct": null,
+                    "interpretation_correct": null,
+                    "reviewer": null,
+                    "review_status": null
+                }
+            },
+            {
+                "type": "apparatus_claim",
+                "id": "urn:uuid:71a49cb9-6537-4cdb-af97-4d99f26d1116",
+                "apparatus_entry_id": "urn:uuid:0ea128a6-7be0-4593-b782-6155e24fefa8",
+                "target": [
+                    "urn:cts:latinLit:phi0830.phi001.dll:1.18@docilis"
+                ],
+                "claim_type": "reading",
+                "reading_type": "variant",
+                "reading": "docilem",
+                "supporting_evidence": [
+                    {
+                        "id": "urn:uuid:a24b23f6-e144-41e7-badb-52790e195e60",
+                        "label": "Beck"
+                    }
+                ],
+                "reporting_rank": 3,
+                "editorial_comments": null,
+                "confidence": {
+                    "interpretation": null,
+                    "reasons": []
+                },
+                "evaluation": {
+                    "target_correct": null,
+                    "reading_correct": null,
+                    "witnesses_correct": null,
+                    "interpretation_correct": null,
+                    "reviewer": null,
+                    "review_status": null
+                }
             }
         ]
     },
@@ -3775,7 +3836,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">arundine</hi> G νφλρμ<hi rend=\"superscript\">1</hi>, *harundine Nαβδημ<hi rend=\"superscript\">2</hi>πχεγκ.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">arundine</hi> G νφλρμ<hi rend=\"superscript\">1</hi>, <hi rend=\"italic\">harundine</hi> Nαβδημ<hi rend=\"superscript\">2</hi>πχεγκ.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3919,7 +3980,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">Ladon</hi> NGAHP Baer. Schenkl (qui proposuit <hi rend=\"italics\">Ladas</hi>), <hi rend=\"italics\">Lydon</hi> νφχγμδηθrs, <hi rend=\"italics\">Lidon κπβρ<hi rend=\"superscript\">1</hi>, </hi>Ligdon<hi rend=\"italics\"> αλbn, </hi>Lygdon<hi rend=\"italics\"> ερ<hi rend=\"superscript\">2</hi> edd. </hi>Lacon* Wilamowitz (ind. lect. aest. Gott. 1884 p. 6).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">Ladon</hi> NGAHP Baer. Schenkl (qui proposuit <hi rend=\"italic\">Ladas</hi>), <hi rend=\"italic\">Lydon</hi> νφχγμδηθrs, <hi rend=\"italic\">Lidon</hi> κπβρ<hi rend=\"superscript\">1</hi>, <hi rend=\"italic\">Ligdon</hi> αλbn, <hi rend=\"italic\">Lygdon</hi> ερ<hi rend=\"superscript\">2</hi> edd. <hi rend=\"italic\">Lacon</hi> Wilamowitz (ind. lect. aest. Gott. 1884 p. 6).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4215,7 +4276,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">en</hi> Maehly.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">en</hi> Maehly.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4266,7 +4327,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">O</hi>. Pπκχλα Baehr. Schenkl, om. rell. codd. et edd., <hi rend=\"italics\">C</hi>. d.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">O</hi>. Pπκχλα Baehr. Schenkl, om. rell. codd. et edd., <hi rend=\"italic\">C</hi>. d.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4413,7 +4474,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">captata</hi> G (<hi rend=\"italics\">captate</hi> in mg.).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">captata</hi> G (<hi rend=\"italic\">captate</hi> in mg.).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4495,7 +4556,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">pariter</hi> om. Pp.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">pariter</hi> om. Pp.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4550,7 +4611,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">subcessimus</hi> G.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">subcessimus</hi> G.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4601,7 +4662,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">O</hi>. μρ, <hi rend=\"italics\">C</hi>. νφδηrson Ulit. Burm. Wernsd. Beck.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">O</hi>. μρ, <hi rend=\"italic\">C</hi>. νφδηrson Ulit. Burm. Wernsd. Beck.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4727,7 +4788,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">sacro</hi> Gδ.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">sacro</hi> Gδ.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4782,7 +4843,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">descripta</hi> P V N (m<hi rend=\"superscript\">2</hi> in mg.) edd., <hi rend=\"italics\">depicta</hi> G Jacoby (l. l. p. 1291), <hi rend=\"italics\">dipicta N (corr. m<hi rend=\"superscript\">1</hi> in </hi>depicta*).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">descripta</hi> P V N (m<hi rend=\"superscript\">2</hi> in mg.) edd., <hi rend=\"italic\">depicta</hi> G Jacoby (l. l. p. 1291), <hi rend=\"italic\">dipicta N</hi> (corr. m<hi rend=\"superscript\">1</hi> in <hi rend=\"italic\">depicta</hi>).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4913,7 +4974,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">est</hi> om. eu.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">est</hi> om. eu.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4968,7 +5029,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">quis</hi>] <hi rend=\"italics\">qui</hi> N.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">quis</hi>] <hi rend=\"italic\">qui</hi> N.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5019,7 +5080,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">C</hi>. εγ edd. ante Glaeser. (except. rsond Ulit. Burm. Wernsd. Beck.).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">C</hi>. εγ edd. ante Glaeser. (except. rsond Ulit. Burm. Wernsd. Beck.).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5088,7 +5149,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">aspicit</hi> ε.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">aspicit</hi> ε.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5139,7 +5200,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">tunc</hi> Vienn.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">tunc</hi> Vienn.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5190,7 +5251,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">litera</hi> N (corr. m<hi rend=\"superscript\">2</hi>) P.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">litera</hi> N (corr. m<hi rend=\"superscript\">2</hi>) P.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5245,7 +5306,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">csorvet</hi> N (<hi rend=\"italics\">o</hi> et pars sup. litt. <hi rend=\"italics\">s</hi> in ras.).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">csorvet</hi> N (<hi rend=\"italic\">o</hi> et pars sup. litt. <hi rend=\"italic\">s</hi> in ras.).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5296,7 +5357,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">arenti</hi> (ex <hi rend=\"italics\">arena</hi> N).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">arenti</hi> (ex <hi rend=\"italic\">arena</hi> N).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5347,7 +5408,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">se</hi> om. N (add. m<hi rend=\"superscript\">1</hi>).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">se</hi> om. N (add. m<hi rend=\"superscript\">1</hi>).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5400,7 +5461,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">se laxat</hi> d, <hi rend=\"italics\">laxetur</hi> Schenkl olim.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">se laxat</hi> d, <hi rend=\"italic\">laxetur</hi> Schenkl olim.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5408,37 +5469,6 @@
             "extraction_image": null
         },
         "claims": [
-            {
-                "type": "apparatus_claim",
-                "id": "urn:uuid:d66ed273-dafa-4b29-b071-2b6c1ccd22c8",
-                "apparatus_entry_id": "urn:uuid:64de5bba-d578-493d-b9c3-0c52b33dd155",
-                "target": [
-                    "urn:cts:latinLit:phi0830.phi001.dll:1.23@se laxet"
-                ],
-                "claim_type": "reading",
-                "reading_type": "variant",
-                "reading": "laxet",
-                "supporting_evidence": [
-                    {
-                        "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
-                        "label": "N"
-                    }
-                ],
-                "reporting_rank": 1,
-                "editorial_comments": null,
-                "confidence": {
-                    "interpretation": null,
-                    "reasons": []
-                },
-                "evaluation": {
-                    "target_correct": null,
-                    "reading_correct": null,
-                    "witnesses_correct": null,
-                    "interpretation_correct": null,
-                    "reviewer": null,
-                    "review_status": null
-                }
-            },
             {
                 "type": "apparatus_claim",
                 "id": "urn:uuid:60e9efa6-8fe8-4c5a-988e-8f18e36366dd",
@@ -5513,7 +5543,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">hyatu</hi> Nλ.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">hyatu</hi> Nλ.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5568,7 +5598,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">C</hi>. Pαβκχλρμπδp Glaeser Keene Baehr. Schenkl, § G, om. Nενφγηedd.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">C</hi>. Pαβκχλρμπδp Glaeser Keene Baehr. Schenkl, <hi rend=\"italic\">§</hi> G, om. Nενφγηedd.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5757,7 +5787,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">ornite</hi> ω.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">ornite</hi> ω.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5808,7 +5838,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">propius</hi> P ρ<hi rend=\"superscript\">2</hi>εκχλβανγπηδedd., <hi rend=\"italics\">proprius</hi> N (<hi rend=\"italics\">r</hi> alt. exp. m<hi rend=\"superscript\"> </hi>) G φμρ<hi rend=\"superscript\">1</hi> θ i<hi rend=\"superscript\">2</hi> h Baehr.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">propius</hi> P ρ<hi rend=\"superscript\">2</hi>εκχλβανγπηδedd., <hi rend=\"italic\">proprius</hi> N (<hi rend=\"italic\">r</hi> alt. exp. m<hi rend=\"superscript\"> </hi>) G φμρ<hi rend=\"superscript\">1</hi> θ i<hi rend=\"superscript\">2</hi> h Baehr.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5978,7 +6008,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">tua</hi>] <hi rend=\"italics\">tu</hi> d.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">tua</hi>] <hi rend=\"italic\">tu</hi> d.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6029,7 +6059,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">altos</hi> NG.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">altos</hi> NG.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6084,7 +6114,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">cortice</hi> N (<hi rend=\"italics\">rt</hi> in ras. m<hi rend=\"superscript\">2</hi>) PV edd. (probavit mihi per litteras F. Leo, coll. <hi rend=\"italics\">virides</hi> v. 22, Verg. Ecl. V 13, Naso II, 63 sq.), <hi rend=\"italics\">codice</hi> G A Schenkl.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">cortice</hi> N (<hi rend=\"italic\">rt</hi> in ras. m<hi rend=\"superscript\">2</hi>) PV edd. (probavit mihi per litteras F. Leo, coll. <hi rend=\"italic\">virides</hi> v. 22, Verg. Ecl. V 13, Naso II, 63 sq.), <hi rend=\"italic\">codice</hi> G A Schenkl.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6214,7 +6244,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">destrictos</hi> G.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">destrictos</hi> G.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6265,7 +6295,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">sycios</hi> P.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">sycios</hi> P.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6316,7 +6346,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">percurere</hi> N (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">percurere</hi> N (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6367,7 +6397,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">percurrere certius orsus</hi> Barth. (Adv. 34, 8).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">percurrere certius orsus</hi> Barth. (Adv. 34, 8).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6418,7 +6448,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">O</hi>. π.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">O</hi>. π.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6469,7 +6499,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">namque</hi> (<hi rend=\"italics\">que</hi> del.) G.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">namque</hi> (<hi rend=\"italic\">que</hi> del.) G.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6520,7 +6550,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">O</hi>. GP φεμκχρ<hi rend=\"superscript\">2</hi>νγαΒηδ edd., om. λπρ<hi rend=\"superscript\">1</hi>, <hi rend=\"italics\">C</hi>. N.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">O</hi>. GP φεμκχρ<hi rend=\"superscript\">2</hi>νγαΒηδ edd., om. λπρ<hi rend=\"superscript\">1</hi>, <hi rend=\"italic\">C</hi>. N.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6695,7 +6725,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">haec</hi> NPGλ Glaeser sqq., <hi rend=\"italics\">hoc</hi> V edd. ante Glaeser.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">haec</hi> NPGλ Glaeser sqq., <hi rend=\"italic\">hoc</hi> V edd. ante Glaeser.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6789,7 +6819,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">triviali</hi> PV edd., <hi rend=\"italics\">tibi vili</hi> N (in quo litt. evanidas rest. m<hi rend=\"superscript\">2</hi>) G, <hi rend=\"italics\">rivali</hi> o.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">triviali</hi> PV edd., <hi rend=\"italic\">tibi vili</hi> N (in quo litt. evanidas rest. m<hi rend=\"superscript\">2</hi>) G, <hi rend=\"italic\">rivali</hi> o.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6910,7 +6940,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">nichil armentale</hi> N (in quo lett. evan. rest. m<hi rend=\"superscript\">2</hi>).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">nichil armentale</hi> N (in quo lett. evan. rest. m<hi rend=\"superscript\">2</hi>).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6961,7 +6991,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">resultant</hi> codex quidam Burmanni Heins. Glaeser Keene.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">resultant</hi> codex quidam Burmanni Heins. Glaeser Keene.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -7071,7 +7101,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">nec</hi> NPκχΒνφλπρrson Guid. Beck Glaeser sqq., <hi rend=\"italics\">non</hi> Aεαγμηδedd. ante Glaeser.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">nec</hi> NPκχΒνφλπρrson Guid. Beck Glaeser sqq., <hi rend=\"italic\">non</hi> Aεαγμηδedd. ante Glaeser.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -7237,7 +7267,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">distingunt</hi> NPργκμεπφχδ, <hi rend=\"italics\">destingunt</hi> β s, <hi rend=\"italics\">distinguit λη, </hi>destringunt* Heins.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">distingunt</hi> NPργκμεπφχδ, <hi rend=\"italic\">destingunt</hi> β s, <hi rend=\"italic\">distinguit</hi> λη, <hi rend=\"italic\">destringunt</hi> Heins.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -7429,7 +7459,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">iubilia</hi> P p, <hi rend=\"italics\">nubila</hi> δ, <hi rend=\"italics\">sibila</hi> Heins.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">iubilia</hi> P p, <hi rend=\"italic\">nubila</hi> δ, <hi rend=\"italic\">sibila</hi> Heins.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -7546,7 +7576,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">O</hi>. Pαβπκνρεχγφδη edd., om. Nλμ, <hi rend=\"italics\">C</hi>. G.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">O</hi>. Pαβπκνρεχγφδη edd., om. Nλμ, <hi rend=\"italic\">C</hi>. G.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -7715,7 +7745,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">tueie</hi> N (ut videtur), <hi rend=\"italics\">tutor</hi> s.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">tueie</hi> N (ut videtur), <hi rend=\"italic\">tutor</hi> s.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -7797,7 +7827,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">patefatis</hi> N (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">patefatis</hi> N (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -7848,7 +7878,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">fatis</hi> Ulit. Heins. Kempfer Wernsd. Beck Glaeser sqq., <hi rend=\"italics\">fagis</hi> ω edd. ante Wernsd.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">fatis</hi> Ulit. Heins. Kempfer Wernsd. Beck Glaeser sqq., <hi rend=\"italic\">fagis</hi> ω edd. ante Wernsd.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -7946,7 +7976,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">cogaudete</hi> (<hi rend=\"italics\">co</hi> exp.) N.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">cogaudete</hi> (<hi rend=\"italic\">co</hi> exp.) N.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -8029,7 +8059,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">pecus</hi> om. P.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">pecus</hi> om. P.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -8080,7 +8110,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">noturnaque</hi> G.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">noturnaque</hi> G.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -8131,7 +8161,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">frasinea</hi> P, <hi rend=\"italics\">fraginea</hi> δ, <hi rend=\"italics\">flaxinea</hi> π<hi rend=\"superscript\">1</hi>, <hi rend=\"italics\">frassinea</hi> λ<hi rend=\"superscript\">2</hi>.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">frasinea</hi> P, <hi rend=\"italic\">fraginea</hi> δ, <hi rend=\"italic\">flaxinea</hi> π<hi rend=\"superscript\">1</hi>, <hi rend=\"italic\">frassinea</hi> λ<hi rend=\"superscript\">2</hi>.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -8277,7 +8307,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">voluit</hi> λ, <hi rend=\"italics\">noluit</hi> δ.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">voluit</hi> λ, <hi rend=\"italic\">noluit</hi> δ.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -8359,7 +8389,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">praesepia</hi> G.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">praesepia</hi> G.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -8410,7 +8440,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">insidia</hi> N (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">insidia</hi> N (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -8461,7 +8491,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">ovillibus</hi> N (corr. m<hi rend=\"superscript\">1</hi>).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">ovillibus</hi> N (corr. m<hi rend=\"superscript\">1</hi>).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -8512,7 +8542,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">afferret</hi> P, <hi rend=\"italics\">adferret</hi> β, <hi rend=\"italics\">affert</hi> χ<hi rend=\"superscript\">1</hi>γu, <hi rend=\"italics\">afferunt</hi> ε.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">afferret</hi> P, <hi rend=\"italic\">adferret</hi> β, <hi rend=\"italic\">affert</hi> χ<hi rend=\"superscript\">1</hi>γu, <hi rend=\"italic\">afferunt</hi> ε.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -8665,7 +8695,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">atabiget</hi> (vel <hi rend=\"italics\">arab.</hi>) N (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">atabiget</hi> (vel <hi rend=\"italic\">arab.</hi>) N (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -8771,7 +8801,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">sincera</hi> Burm., <hi rend=\"italics\">Saturni</hi> Friesemann.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">sincera</hi> Burm., <hi rend=\"italic\">Saturni</hi> Friesemann.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -8853,7 +8883,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">tum</hi> N<hi rend=\"superscript\">2</hi>.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">tum</hi> N<hi rend=\"superscript\">2</hi>.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -8905,7 +8935,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">pate</hi> P.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">pate</hi> P.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -8956,7 +8986,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">reddit</hi> P.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">reddit</hi> P.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -9007,7 +9037,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">tandem</hi> G (supra lin.)</ab>",
+        "transcription": "<ab><hi rend=\"italic\">tandem</hi> G (supra lin.)</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -9058,7 +9088,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">tādāsq<hi rend=\"superscript\">u</hi>lore</hi> P (<hi rend=\"italics\">s</hi> ex <hi rend=\"italics\">d</hi>).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">tādāsq<hi rend=\"superscript\">u</hi>lore</hi> P (<hi rend=\"italic\">s</hi> ex <hi rend=\"italic\">d</hi>).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -9109,7 +9139,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">temis</hi> G, <hi rend=\"italics\">thenis</hi> P.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">temis</hi> G, <hi rend=\"italic\">thenis</hi> P.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -9191,7 +9221,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">sequentur</hi> Kempfer.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">sequentur</hi> Kempfer.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -9242,7 +9272,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">maturnis</hi> N (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">maturnis</hi> N (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -9293,7 +9323,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">curnam</hi> (<hi rend=\"italics\">n</hi> exp.) μ, <hi rend=\"italics\">curam</hi> d, <hi rend=\"italics\">caussas</hi> Burm. Beck.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">curnam</hi> (<hi rend=\"italic\">n</hi> exp.) μ, <hi rend=\"italic\">curam</hi> d, <hi rend=\"italic\">caussas</hi> Burm. Beck.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -9406,7 +9436,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">vicit</hi> NP Glaeser sqq., <hi rend=\"italics\">vīcit</hi> G, <hi rend=\"italics\">ludit</hi> V edd. ante Glaeser., <hi rend=\"italics\">visit</hi> μ, om. γ.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">vicit</hi> NP Glaeser sqq., <hi rend=\"italic\">vīcit</hi> G, <hi rend=\"italic\">ludit</hi> V edd. ante Glaeser., <hi rend=\"italic\">visit</hi> μ, om. γ.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -9616,7 +9646,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">iulis</hi> NPG Vreubdsgi<hi rend=\"superscript\">2</hi>l<hi rend=\"superscript\">2</hi> Baehr. Schenkl, <hi rend=\"italics\">iullis</hi> μ, om. γ, <hi rend=\"italics\">in ulnis</hi> A edd.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">iulis</hi> NPG Vreubdsgi<hi rend=\"superscript\">2</hi>l<hi rend=\"superscript\">2</hi> Baehr. Schenkl, <hi rend=\"italic\">iullis</hi> μ, om. γ, <hi rend=\"italic\">in ulnis</hi> A edd.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -9818,7 +9848,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">populus</hi> s.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">populus</hi> s.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -9869,7 +9899,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">deus</hi>] <hi rend=\"italics\">reget</hi> G (corr. m<hi rend=\"superscript\">1</hi>).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">deus</hi>] <hi rend=\"italic\">reget</hi> G (corr. m<hi rend=\"superscript\">1</hi>).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -9920,7 +9950,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">dapit</hi> P (corr. m<hi rend=\"superscript\">1</hi>).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">dapit</hi> P (corr. m<hi rend=\"superscript\">1</hi>).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -9971,7 +10001,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">vinctas</hi> Aνφγδ edd., probavit F. Ramorino, <hi rend=\"italics\">victas</hi> N G P Βρπακλμχsno Barth. Glaeser Baehr. Keene, <hi rend=\"italics\">iunctas</hi> ε ueb (corr. Guid.) l<hi rend=\"superscript\">2</hi>i<hi rend=\"superscript\">2</hi>g, <hi rend=\"italics\">victa</hi> Schenkl olim.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">vinctas</hi> Aνφγδ edd., probavit F. Ramorino, <hi rend=\"italic\">victas</hi> N G P Βρπακλμχsno Barth. Glaeser Baehr. Keene, <hi rend=\"italic\">iunctas</hi> ε ueb (corr. Guid.) l<hi rend=\"superscript\">2</hi>i<hi rend=\"superscript\">2</hi>g, <hi rend=\"italic\">victa</hi> Schenkl olim.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -10225,7 +10255,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">postergum</hi> P.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">postergum</hi> P.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -10276,7 +10306,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">vesano</hi> N, <hi rend=\"italics\">vexanos</hi> δ, <hi rend=\"italics\">vessanos</hi> φ.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">vesano</hi> N, <hi rend=\"italic\">vexanos</hi> δ, <hi rend=\"italic\">vessanos</hi> φ.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -10389,7 +10419,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">torquebat</hi> θ.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">torquebat</hi> θ.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -10440,7 +10470,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">morsis</hi> N (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">morsis</hi> N (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -10491,7 +10521,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">quaque</hi> G (<hi rend=\"italics\">que</hi> del. m<hi rend=\"superscript\">1</hi>).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">quaque</hi> G (<hi rend=\"italic\">que</hi> del. m<hi rend=\"superscript\">1</hi>).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -10574,7 +10604,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">philipos</hi> N G.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">philipos</hi> N G.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -10697,7 +10727,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">defiebet</hi> P.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">defiebet</hi> P.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -10748,7 +10778,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">nullosque sui</hi> vel <hi rend=\"italics\">ducis</hi> vel <hi rend=\"italics\">ducum</hi> Heins.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">nullosque sui</hi> vel <hi rend=\"italic\">ducis</hi> vel <hi rend=\"italic\">ducum</hi> Heins.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -10767,7 +10797,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">triumpos</hi> P.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">triumpos</hi> P.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -10818,7 +10848,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">subdentur</hi> νφρηθrs, <hi rend=\"italics\">subiguntur</hi> P, <hi rend=\"italics\">claudentur</hi> Ulit.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">subdentur</hi> νφρηθrs, <hi rend=\"italic\">subiguntur</hi> P, <hi rend=\"italic\">claudentur</hi> Ulit.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -10955,7 +10985,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">cargicarcere</hi> G (<hi rend=\"italics\">cargi</hi> eras.).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">cargicarcere</hi> G (<hi rend=\"italic\">cargi</hi> eras.).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -11037,7 +11067,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">bella</hi> vix sanum putat Baehr.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">bella</hi> vix sanum putat Baehr.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -11056,7 +11086,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">inmergentque</hi> G, <hi rend=\"italics\">immergentque</hi> N V, <hi rend=\"italics\">immergerentque</hi> μ, <hi rend=\"italics\">inverguntque</hi> P.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">inmergentque</hi> G, <hi rend=\"italic\">immergentque</hi> N V, <hi rend=\"italic\">immergerentque</hi> μ, <hi rend=\"italic\">inverguntque</hi> P.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -11204,7 +11234,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">capud</hi> G P.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">capud</hi> G P.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -11259,7 +11289,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">teneris</hi> G (corr. m<hi rend=\"superscript\">1</hi>).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">teneris</hi> G (corr. m<hi rend=\"superscript\">1</hi>).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -11310,7 +11340,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">non</hi> Kempfer.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">non</hi> Kempfer.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -11361,7 +11391,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">ultu</hi> P, <hi rend=\"italics\">cultu</hi> Dempster (De Etrur. Reg. III cap. 86).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">ultu</hi> P, <hi rend=\"italic\">cultu</hi> Dempster (De Etrur. Reg. III cap. 86).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -11443,7 +11473,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">quali</hi> vel <hi rend=\"italics\">qualis</hi> Burm.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">quali</hi> vel <hi rend=\"italic\">qualis</hi> Burm.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -11462,7 +11492,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">quae</hi>] <hi rend=\"italics\">quum</hi> Beck, <hi rend=\"italics\">ceu</hi> Baehr., <hi rend=\"italics\">quam</hi> Barth. Heins. Burm. Wernsd.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">quae</hi>] <hi rend=\"italic\">quum</hi> Beck, <hi rend=\"italic\">ceu</hi> Baehr., <hi rend=\"italic\">quam</hi> Barth. Heins. Burm. Wernsd.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -11579,7 +11609,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">matre</hi> β.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">matre</hi> β.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -11630,7 +11660,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">professo</hi> P V edd., <hi rend=\"italics\">profuso</hi> N (corr. m<hi rend=\"superscript\">2</hi>) GAHμbigl<hi rend=\"superscript\">2</hi>, <hi rend=\"italics\">profusso</hi> u.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">professo</hi> P V edd., <hi rend=\"italic\">profuso</hi> N (corr. m<hi rend=\"superscript\">2</hi>) GAHμbigl<hi rend=\"superscript\">2</hi>, <hi rend=\"italic\">profusso</hi> u.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -11836,7 +11866,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">quae</hi>] <hi rend=\"italics\">quum</hi> Beck., quam Barth. Heins. Kempfer Hartel Schenkl<hi rend=\"superscript\">1</hi>, <hi rend=\"italics\">et</hi> Burm.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">quae</hi>] <hi rend=\"italic\">quum</hi> Beck., quam Barth. Heins. Kempfer Hartel Schenkl<hi rend=\"superscript\">1</hi>, <hi rend=\"italic\">et</hi> Burm.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -11961,7 +11991,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">tamen</hi>] <hi rend=\"italics\">palam</hi> Maehly.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">tamen</hi>] <hi rend=\"italic\">palam</hi> Maehly.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -12012,7 +12042,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">grassantibus</hi> Pγρ edd., <hi rend=\"italics\">grasantibus</hi> N, <hi rend=\"italics\">crassantibus</hi> G V red, <hi rend=\"italics\">cessantibus</hi> Heins. Maehly.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">grassantibus</hi> Pγρ edd., <hi rend=\"italic\">grasantibus</hi> N, <hi rend=\"italic\">crassantibus</hi> G V red, <hi rend=\"italic\">cessantibus</hi> Heins. Maehly.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -12184,7 +12214,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">puplica</hi> N<hi rend=\"superscript\">2</hi>, <hi rend=\"italics\">iubila</hi> Hermann Haupt Baehr., <hi rend=\"italics\">vulnera</hi> Leo (Zeitschr. f. d. oesterr. Gymn. XXX p. 616), <hi rend=\"italics\">fulmina</hi> Schenkl<hi rend=\"superscript\">2</hi>.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">puplica</hi> N<hi rend=\"superscript\">2</hi>, <hi rend=\"italic\">iubila</hi> Hermann Haupt Baehr., <hi rend=\"italic\">vulnera</hi> Leo (Zeitschr. f. d. oesterr. Gymn. XXX p. 616), <hi rend=\"italic\">fulmina</hi> Schenkl<hi rend=\"superscript\">2</hi>.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -12329,7 +12359,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">diffugit</hi> φρ<hi rend=\"superscript\">1</hi>νηθr Ulit., <hi rend=\"italics\">diffindit</hi> C. Schenkl, Schenkl<hi rend=\"superscript\">1</hi>, <hi rend=\"italics\">confodit</hi> Maehly.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">diffugit</hi> φρ<hi rend=\"superscript\">1</hi>νηθr Ulit., <hi rend=\"italic\">diffindit</hi> C. Schenkl, Schenkl<hi rend=\"superscript\">1</hi>, <hi rend=\"italic\">confodit</hi> Maehly.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -12467,7 +12497,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">tacita</hi> P (corr. m<hi rend=\"superscript\">2</hi>), <hi rend=\"italics\">tacito</hi> vel <hi rend=\"italics\">tacite</hi> Beck.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">tacita</hi> P (corr. m<hi rend=\"superscript\">2</hi>), <hi rend=\"italic\">tacito</hi> vel <hi rend=\"italic\">tacite</hi> Beck.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -12518,7 +12548,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">Discordia</hi> Beck Leo, <hi rend=\"italics\">praecordia</hi> Maehly.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">Discordia</hi> Beck Leo, <hi rend=\"italic\">praecordia</hi> Maehly.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -12604,7 +12634,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">insano</hi> g.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">insano</hi> g.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -12655,7 +12685,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">dementia</hi> πφρ<hi rend=\"superscript\">1</hi>βδθrsoni<hi rend=\"superscript\">1</hi> Guid. Vienn.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">dementia</hi> πφρ<hi rend=\"superscript\">1</hi>βδθrsoni<hi rend=\"superscript\">1</hi> Guid. Vienn.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -12756,7 +12786,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">contudit</hi> NGPHχμγ<hi rend=\"superscript\">1</hi>κπαβ Bart. Glaeser sqq., <hi rend=\"italics\">condidit</hi> εγ<hi rend=\"superscript\">2</hi>ηνφρ edd. ante Glaeser., <hi rend=\"italics\">contuli</hi> λ, <hi rend=\"italics\">contundit</hi> δ, <hi rend=\"italics\">concedit</hi> δ in mg., <hi rend=\"italics\">truderit</hi> N (m<hi rend=\"superscript\">3</hi> in mg.).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">contudit</hi> NGPHχμγ<hi rend=\"superscript\">1</hi>κπαβ Bart. Glaeser sqq., <hi rend=\"italic\">condidit</hi> εγ<hi rend=\"superscript\">2</hi>ηνφρ edd. ante Glaeser., <hi rend=\"italic\">contuli</hi> λ, <hi rend=\"italic\">contundit</hi> δ, <hi rend=\"italic\">concedit</hi> δ in mg., <hi rend=\"italic\">truderit</hi> N (m<hi rend=\"superscript\">3</hi> in mg.).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -13025,7 +13055,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">cathenati</hi> Pγνηδrsi<hi rend=\"superscript\">1</hi>pno.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">cathenati</hi> Pγνηδrsi<hi rend=\"superscript\">1</hi>pno.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -13117,7 +13147,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">senatis</hi> N (corr. m<hi rend=\"superscript\">1</hi>), <hi rend=\"italics\">senati</hi> Schenkl olim.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">senatis</hi> N (corr. m<hi rend=\"superscript\">1</hi>), <hi rend=\"italic\">senati</hi> Schenkl olim.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -13199,7 +13229,7 @@
         "source_page": 8,
         "source_image": "pdf-page-45",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">lassabit</hi> χφγμλ<hi rend=\"superscript\">2</hi>αβνκρηε edd., <hi rend=\"italics\">laxabit</hi> GPπλ<hi rend=\"superscript\">1</hi>, <hi rend=\"italics\">lassabis</hi> N (corr. m<hi rend=\"superscript\">2</hi>), <hi rend=\"italics\">laxabat</hi> δ. </ab>",
+        "transcription": "<ab><hi rend=\"italic\">lassabit</hi> χφγμλ<hi rend=\"superscript\">2</hi>αβνκρηε edd., <hi rend=\"italic\">laxabit</hi> GPπλ<hi rend=\"superscript\">1</hi>, <hi rend=\"italic\">lassabis</hi> N (corr. m<hi rend=\"superscript\">2</hi>), <hi rend=\"italic\">laxabat</hi> δ. </ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -13406,7 +13436,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">plenos</hi> θ.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">plenos</hi> θ.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -13457,7 +13487,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">numeravit</hi> G (corr. m<hi rend=\"superscript\">1</hi>).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">numeravit</hi> G (corr. m<hi rend=\"superscript\">1</hi>).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -13508,7 +13538,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">quam stripti</hi> G (<hi rend=\"italics\">que</hi> in mg.).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">quam stripti</hi> G (<hi rend=\"italic\">que</hi> in mg.).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -13559,7 +13589,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">referet</hi> N Glaeser sqq., <hi rend=\"italics\">referent</hi> G (corr. in mg.), <hi rend=\"italics\">revocet</hi> PV edd. ante Glaeser.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">referet</hi> N Glaeser sqq., <hi rend=\"italic\">referent</hi> G (corr. in mg.), <hi rend=\"italic\">revocet</hi> PV edd. ante Glaeser.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -13680,7 +13710,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">latialia</hi> δ<hi rend=\"superscript\">2</hi>βγφπκχνρηλ edd., <hi rend=\"italics\">latia</hi> G (corr. m<hi rend=\"superscript\">1</hi>), <hi rend=\"italics\">lacialia</hi> NPδ<hi rend=\"superscript\">1</hi>α, <hi rend=\"italics\">latralia</hi> εμe.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">latialia</hi> δ<hi rend=\"superscript\">2</hi>βγφπκχνρηλ edd., <hi rend=\"italic\">latia</hi> G (corr. m<hi rend=\"superscript\">1</hi>), <hi rend=\"italic\">lacialia</hi> NPδ<hi rend=\"superscript\">1</hi>α, <hi rend=\"italic\">latralia</hi> εμe.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -13891,7 +13921,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">qua</hi> θ.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">qua</hi> θ.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -13942,7 +13972,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">primum</hi> u.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">primum</hi> u.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -13993,7 +14023,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">cede</hi> Gεπφμβκ.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">cede</hi> Gεπφμβκ.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -14068,7 +14098,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">cedentia</hi> λ.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">cedentia</hi> λ.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -14119,7 +14149,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">detulit</hi> μ, <hi rend=\"italics\">decuit</hi> π.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">detulit</hi> μ, <hi rend=\"italic\">decuit</hi> π.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -14202,7 +14232,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">inter-inter</hi> NPVedd., <hi rend=\"italics\">intra-inter</hi> H<hi rend=\"superscript\">1</hi>, <hi rend=\"italics\">intra_intra</hi>, GAH<hi rend=\"superscript\">2</hi>.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">inter-inter</hi> NPVedd., <hi rend=\"italic\">intra-inter</hi> H<hi rend=\"superscript\">1</hi>, <hi rend=\"italic\">intra_intra</hi>, GAH<hi rend=\"superscript\">2</hi>.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -14336,7 +14366,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">vanos</hi> Burm.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">vanos</hi> Burm.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -14387,7 +14417,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">fases</hi> P, <hi rend=\"italics\">fassces</hi> N (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">fases</hi> P, <hi rend=\"italic\">fassces</hi> N (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -14469,7 +14499,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">et inane</hi>] <hi rend=\"italics\">etiamne</hi> κμνηδβφπ<hi rend=\"superscript\">1</hi>θrs, <hi rend=\"italics\">etiamve</hi> λχ, <hi rend=\"italics\">nec inane</hi> d.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">et inane</hi>] <hi rend=\"italic\">etiamne</hi> κμνηδβφπ<hi rend=\"superscript\">1</hi>θrs, <hi rend=\"italic\">etiamve</hi> λχ, <hi rend=\"italic\">nec inane</hi> d.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -14623,7 +14653,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">redutus</hi> G.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">redutus</hi> G.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -14674,7 +14704,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">legemque priorem</hi> Barth. (Adv. 44,15).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">legemque priorem</hi> Barth. (Adv. 44,15).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -14725,7 +14755,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">afferet</hi> N<hi rend=\"superscript\">2</hi>Pη<hi rend=\"superscript\">1</hi>, <hi rend=\"italics\">asseret</hi> L. Mueller (Berl. phil. Woch. V. p. 1071).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">afferet</hi> N<hi rend=\"superscript\">2</hi>Pη<hi rend=\"superscript\">1</hi>, <hi rend=\"italic\">asseret</hi> L. Mueller (Berl. phil. Woch. V. p. 1071).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -14817,7 +14847,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">exustet</hi> G.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">exustet</hi> G.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -14868,7 +14898,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">quacumque</hi> G.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">quacumque</hi> G.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -14919,7 +14949,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">nothum</hi> Pμνκβδ<hi rend=\"superscript\">2</hi>γχ<hi rend=\"superscript\">1</hi>π<hi rend=\"superscript\">1</hi>εeugi<hi rend=\"superscript\">2</hi>l<hi rend=\"superscript\">2</hi>.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">nothum</hi> Pμνκβδ<hi rend=\"superscript\">2</hi>γχ<hi rend=\"superscript\">1</hi>π<hi rend=\"superscript\">1</hi>εeugi<hi rend=\"superscript\">2</hi>l<hi rend=\"superscript\">2</hi>.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -15031,7 +15061,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">gen'</hi> N.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">gen'</hi> N.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -15082,7 +15112,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">yma</hi> G, <hi rend=\"italics\">in tua</hi> N.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">yma</hi> G, <hi rend=\"italic\">in tua</hi> N.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -15164,7 +15194,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">giacentem</hi> P.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">giacentem</hi> P.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -15215,7 +15245,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">erectumve</hi> Baehr. Schenkl, <hi rend=\"italics\">ereptumque</hi> P, <hi rend=\"italics\">erectumque</hi> NGVH edd., <hi rend=\"italics\">evectumque</hi> Heins. Kempfer.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">erectumve</hi> Baehr. Schenkl, <hi rend=\"italic\">ereptumque</hi> P, <hi rend=\"italic\">erectumque</hi> NGVH edd., <hi rend=\"italic\">evectumque</hi> Heins. Kempfer.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -15379,7 +15409,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">borean</hi> θ Beck.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">borean</hi> θ Beck.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -15434,7 +15464,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">quacumque</hi> G.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">quacumque</hi> G.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -15485,7 +15515,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">tepet</hi> Postgate (Class. Rev. 1901 p. 213) Schenkl<hi rend=\"superscript\">2</hi>.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">tepet</hi> Postgate (Class. Rev. 1901 p. 213) Schenkl<hi rend=\"superscript\">2</hi>.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -15540,7 +15570,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">medioque</hi> Kempfer.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">medioque</hi> Kempfer.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -15591,7 +15621,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">fervit</hi> GPA edd., <hi rend=\"italics\">servit</hi> NVreubdsgi<hi rend=\"superscript\">2</hi>l<hi rend=\"superscript\">2</hi>on Ulit. Martell. h Gryph., <hi rend=\"italics\">fervet</hi> Tit. Barth. Kempfer.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">fervit</hi> GPA edd., <hi rend=\"italic\">servit</hi> NVreubdsgi<hi rend=\"superscript\">2</hi>l<hi rend=\"superscript\">2</hi>on Ulit. Martell. h Gryph., <hi rend=\"italic\">fervet</hi> Tit. Barth. Kempfer.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -15782,7 +15812,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">vicesima</hi> NPrKempfer Wernsd. Beck Glaeser sqq., <hi rend=\"italics\">vicessima</hi> φ, <hi rend=\"italics\">vigesima</hi> GVP edd. ante Glaeser.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">vicesima</hi> NPrKempfer Wernsd. Beck Glaeser sqq., <hi rend=\"italic\">vicessima</hi> φ, <hi rend=\"italic\">vigesima</hi> GVP edd. ante Glaeser.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -15923,7 +15953,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">fulget</hi> N (corr. m<hi rend=\"superscript\">1</hi>.)</ab>",
+        "transcription": "<ab><hi rend=\"italic\">fulget</hi> N (corr. m<hi rend=\"superscript\">1</hi>.)</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -15974,7 +16004,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">et placida radiantem</hi> NG Beck Glaeser sqq., <hi rend=\"italics\">et placidam radiantem</hi> P, <hi rend=\"italics\">et placideam radianti</hi> πχ<hi rend=\"superscript\">1</hi>μλκρ<hi rend=\"superscript\">1</hi>, <hi rend=\"italics\">et placidum radianti</hi> φαβνθχ<hi rend=\"superscript\">2</hi>rsonl<hi rend=\"superscript\">1</hi> Vienn., <hi rend=\"italics\">ut placidum radianti</hi> εγρ<hi rend=\"superscript\">2</hi>η edd., <hi rend=\"italics\">ut placida radianti</hi> H, <hi rend=\"italics\">ac placidam radienti</hi> δ, <hi rend=\"italics\">ut placida radiantem</hi> ph Ulit., <hi rend=\"italics\">ut placida radiatum</hi> codd. Titii.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">et placida radiantem</hi> NG Beck Glaeser sqq., <hi rend=\"italic\">et placidam radiantem</hi> P, <hi rend=\"italic\">et placideam radianti</hi> πχ<hi rend=\"superscript\">1</hi>μλκρ<hi rend=\"superscript\">1</hi>, <hi rend=\"italic\">et placidum radianti</hi> φαβνθχ<hi rend=\"superscript\">2</hi>rsonl<hi rend=\"superscript\">1</hi> Vienn., <hi rend=\"italic\">ut placidum radianti</hi> εγρ<hi rend=\"superscript\">2</hi>η edd., <hi rend=\"italic\">ut placida radianti</hi> H, <hi rend=\"italic\">ac placidam radienti</hi> δ, <hi rend=\"italic\">ut placida radiantem</hi> ph Ulit., <hi rend=\"italic\">ut placida radiatum</hi> codd. Titii.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -16370,7 +16400,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">comethem</hi> G, <hi rend=\"italics\">cometen</hi> νηrson Beck.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">comethem</hi> G, <hi rend=\"italic\">cometen</hi> νηrson Beck.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -16476,7 +16506,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">profferet</hi> N.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">profferet</hi> N.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -16527,7 +16557,7 @@
         "source_page": 9,
         "source_image": "pdf-page-46",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">niteat</hi> Ulit. Baehr. Schenkl, <hi rend=\"italics\">mutat</hi> NGβκπρ<hi rend=\"superscript\">1</hi>λ<hi rend=\"superscript\">1</hi>, <hi rend=\"italics\">mittat</hi> Pδpth Kempfer Burm., <hi rend=\"italics\">micat</hi> μ, <hi rend=\"italics\">nutet</hi> θναηrsonl<hi rend=\"superscript\">2</hi>i<hi rend=\"superscript\">2</hi> Guid. Wernsd. Beck Glaeser Keene, <hi rend=\"italics\">nutat</hi> εχηρ<hi rend=\"superscript\">2</hi>λ<hi rend=\"superscript\">2</hi>deubi<hi rend=\"superscript\">1</hi>l<hi rend=\"superscript\">1</hi> Tig. Vienn., <hi rend=\"italics\">mutet</hi> φ, <hi rend=\"italics\">micet ac</hi> Leo, <hi rend=\"italics\">nictat</hi> Barth.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">niteat</hi> Ulit. Baehr. Schenkl, <hi rend=\"italic\">mutat</hi> NGβκπρ<hi rend=\"superscript\">1</hi>λ<hi rend=\"superscript\">1</hi>, <hi rend=\"italic\">mittat</hi> Pδpth Kempfer Burm., <hi rend=\"italic\">micat</hi> μ, <hi rend=\"italic\">nutet</hi> θναηrsonl<hi rend=\"superscript\">2</hi>i<hi rend=\"superscript\">2</hi> Guid. Wernsd. Beck Glaeser Keene, <hi rend=\"italic\">nutat</hi> εχηρ<hi rend=\"superscript\">2</hi>λ<hi rend=\"superscript\">2</hi>deubi<hi rend=\"superscript\">1</hi>l<hi rend=\"superscript\">1</hi> Tig. Vienn., <hi rend=\"italic\">mutet</hi> φ, <hi rend=\"italic\">micet ac</hi> Leo, <hi rend=\"italic\">nictat</hi> Barth.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -16990,7 +17020,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">sidere</hi> Burm., <hi rend=\"italics\">plenus</hi> P Glaeser Baehr. Keene, <hi rend=\"italics\">lumen</hi> Burm.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">sidere</hi> Burm., <hi rend=\"italic\">plenus</hi> P Glaeser Baehr. Keene, <hi rend=\"italic\">lumen</hi> Burm.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -17115,7 +17145,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">numquid</hi> G εγρ (in ras.) edd., <hi rend=\"italics\">dumquid</hi> N (corr. m<hi rend=\"superscript\">2</hi>), <hi rend=\"italics\">non quod</hi> Pκβλμπδ Barth., <hi rend=\"italics\">non</hi> α, <hi rend=\"italics\">non per</hi> ηφνrsoni<hi rend=\"superscript\">1</hi>l<hi rend=\"superscript\">1</hi>pth Guid. Tit. Vienn. Kempfer, <hi rend=\"italics\">non quae</hi> χ, <hi rend=\"italics\">non quoque</hi>, vel <hi rend=\"italics\">nunc nec</hi> Burm.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">numquid</hi> G εγρ (in ras.) edd., <hi rend=\"italic\">dumquid</hi> N (corr. m<hi rend=\"superscript\">2</hi>), <hi rend=\"italic\">non quod</hi> Pκβλμπδ Barth., <hi rend=\"italic\">non</hi> α, <hi rend=\"italic\">non per</hi> ηφνrsoni<hi rend=\"superscript\">1</hi>l<hi rend=\"superscript\">1</hi>pth Guid. Tit. Vienn. Kempfer, <hi rend=\"italic\">non quae</hi> χ, <hi rend=\"italic\">non quoque</hi>, vel <hi rend=\"italic\">nunc nec</hi> Burm.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -17424,7 +17454,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">utrimque</hi> d<hi rend=\"superscript\">2</hi>.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">utrimque</hi> d<hi rend=\"superscript\">2</hi>.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -17476,7 +17506,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">sese ut</hi> Barth. olim Kempfer Heins.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">sese ut</hi> Barth. olim Kempfer Heins.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -17531,7 +17561,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">cremato</hi> V (corr. A)res, <hi rend=\"italics\">comato</hi> Barth.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">cremato</hi> V (corr. A)res, <hi rend=\"italic\">comato</hi> Barth.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -17625,7 +17655,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">perget</hi> Heins.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">perget</hi> Heins.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -17676,7 +17706,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">sintillat</hi> δγε<hi rend=\"superscript\">2</hi>eubd<hi rend=\"superscript\">2</hi>, <hi rend=\"italics\">sintilla</hi> μ.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">sintillat</hi> δγε<hi rend=\"superscript\">2</hi>eubd<hi rend=\"superscript\">2</hi>, <hi rend=\"italic\">sintilla</hi> μ.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -17784,7 +17814,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">spargitur ardenti scintillans lumine</hi> Nodell (Not. crit. p. 86).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">spargitur ardenti scintillans lumine</hi> Nodell (Not. crit. p. 86).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -17835,7 +17865,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">et</hi> νφηπθrs.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">et</hi> νφηπθrs.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -17910,7 +17940,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">natalis</hi> P (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">natalis</hi> P (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -17961,7 +17991,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">raptum</hi> θ.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">raptum</hi> θ.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -18012,7 +18042,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">induxit</hi> l<hi rend=\"superscript\">1</hi>.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">induxit</hi> l<hi rend=\"superscript\">1</hi>.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -18064,7 +18094,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">fatalis</hi> d<hi rend=\"superscript\">1</hi>.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">fatalis</hi> d<hi rend=\"superscript\">1</hi>.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -18116,7 +18146,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">scilicet sedis</hi> N (corr. m<hi rend=\"superscript\">2</hi>), <hi rend=\"italics\">sed Deus</hi> Gleeser L. Mueller (l. l. p. 1071).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">scilicet sedis</hi> N (corr. m<hi rend=\"superscript\">2</hi>), <hi rend=\"italic\">sed Deus</hi> Gleeser L. Mueller (l. l. p. 1071).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -18234,7 +18264,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">ipse</hi> P (<hi rend=\"italics\">ille</hi> suprascr. m<hi rend=\"superscript\">1</hi>).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">ipse</hi> P (<hi rend=\"italic\">ille</hi> suprascr. m<hi rend=\"superscript\">1</hi>).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -18286,7 +18316,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">mollis</hi> μb.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">mollis</hi> μb.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -18341,7 +18371,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">excipient</hi> P, <hi rend=\"italics\">accipiet</hi> G, <hi rend=\"italics\">excuciet</hi> N<hi rend=\"superscript\">2</hi>.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">excipient</hi> P, <hi rend=\"italic\">accipiet</hi> G, <hi rend=\"italic\">excuciet</hi> N<hi rend=\"superscript\">2</hi>.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -18455,7 +18485,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">uti</hi> N (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">uti</hi> N (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -18506,7 +18536,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">tralati</hi> Ai<hi rend=\"superscript\">1</hi>ph Ulit. Vienn. Kempfer Barth.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">tralati</hi> Ai<hi rend=\"superscript\">1</hi>ph Ulit. Vienn. Kempfer Barth.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -18582,7 +18612,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">sonitus</hi> sno.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">sonitus</hi> sno.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -18641,7 +18671,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">nec prius</hi> (cett. om.) γ.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">nec prius</hi> (cett. om.) γ.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -18694,7 +18724,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">ex meritis</hi> Pφπκχνρη edd., <hi rend=\"italics\">a meritis</hi> N (corr. m<hi rend=\"superscript\">2</hi>) G Ellis (Amer. Journ. of Philology VII p. 20), <hi rend=\"italics\">a! meritis</hi> Schenkl, <hi rend=\"italics\">et meritis</hi> Aαβελμeud Guid., <hi rend=\"italics\">ut meritis</hi> Leo (l.l. p. 616), <hi rend=\"italics\">emeritos</hi> Burm. L. Mueller (l.l. p. 1071), <hi rend=\"italics\">emeritis</hi> δ Barth. Glaeser, <hi rend=\"italics\">emeriti</hi> Gronov. (Obss. III 13) Haupt L. Mueller.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">ex meritis</hi> Pφπκχνρη edd., <hi rend=\"italic\">a meritis</hi> N (corr. m<hi rend=\"superscript\">2</hi>) G Ellis (Amer. Journ. of Philology VII p. 20), <hi rend=\"italic\">a! meritis</hi> Schenkl, <hi rend=\"italic\">et meritis</hi> Aαβελμeud Guid., <hi rend=\"italic\">ut meritis</hi> Leo (l.l. p. 616), <hi rend=\"italic\">emeritos</hi> Burm. L. Mueller (l.l. p. 1071), <hi rend=\"italic\">emeritis</hi> δ Barth. Glaeser, <hi rend=\"italic\">emeriti</hi> Gronov. (Obss. III 13) Haupt L. Mueller.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -19038,7 +19068,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">defuncti</hi> Burm. L. Mueller.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">defuncti</hi> Burm. L. Mueller.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -19089,7 +19119,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">parentis</hi> Gronov. Haupt L. Mueller.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">parentis</hi> Gronov. Haupt L. Mueller.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -19148,7 +19178,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">sentia</hi> Barth. Gronov. Burm. L. Mueller.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">sentia</hi> Barth. Gronov. Burm. L. Mueller.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -19199,7 +19229,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">ocasus</hi> P, <hi rend=\"italics\">occasum</hi> Kempfer.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">ocasus</hi> P, <hi rend=\"italic\">occasum</hi> Kempfer.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -19281,7 +19311,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">nisi iam</hi> Burm., <hi rend=\"italics\">gnati quam</hi> Gronov.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">nisi iam</hi> Burm., <hi rend=\"italic\">gnati quam</hi> Gronov.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -19363,7 +19393,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">resperserit</hi> G, <hi rend=\"italics\">aspexerit</hi> Gronv., <hi rend=\"italics\">suspexerit</hi> Haupt, <hi rend=\"italics\">despexerit</hi> Leo.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">resperserit</hi> G, <hi rend=\"italic\">aspexerit</hi> Gronv., <hi rend=\"italic\">suspexerit</hi> Haupt, <hi rend=\"italic\">despexerit</hi> Leo.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -19507,7 +19537,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">C</hi>. om. Gμπ.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">C</hi>. om. Gμπ.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -19566,7 +19596,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">Ornite</hi> ω.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">Ornite</hi> ω.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -19617,7 +19647,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">velud</hi> G, <hi rend=\"italics\">velit</hi> P.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">velud</hi> G, <hi rend=\"italic\">velit</hi> P.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -19699,7 +19729,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">plenum</hi> NGPρ<hi rend=\"superscript\">2</hi>t Barth. Burm. Kempfer Beck Baehr. Schenkl, <hi rend=\"italics\">plenus</hi> V edd.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">plenum</hi> NGPρ<hi rend=\"superscript\">2</hi>t Barth. Burm. Kempfer Beck Baehr. Schenkl, <hi rend=\"italic\">plenus</hi> V edd.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -19814,7 +19844,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">quatit</hi> PV edd., <hi rend=\"italics\">querit</hi> N, <hi rend=\"italics\">petit</hi> G, <hi rend=\"italics\">ferit</hi> Baehr.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">quatit</hi> PV edd., <hi rend=\"italic\">querit</hi> N, <hi rend=\"italic\">petit</hi> G, <hi rend=\"italic\">ferit</hi> Baehr.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -19962,7 +19992,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">mistus</hi> G.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">mistus</hi> G.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -20013,7 +20043,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">tremor</hi> κχ.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">tremor</hi> κχ.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -20068,7 +20098,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">Or.</hi> e.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">Or.</hi> e.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -20119,7 +20149,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">foecundi</hi> εγeubiplgon Barth., <hi rend=\"italics\">fecundi</hi> μρ<hi rend=\"superscript\">2</hi>, <hi rend=\"italics\">secundi</hi> δ.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">foecundi</hi> εγeubiplgon Barth., <hi rend=\"italic\">fecundi</hi> μρ<hi rend=\"superscript\">2</hi>, <hi rend=\"italic\">secundi</hi> δ.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -20277,7 +20307,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">veneramur</hi> θ.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">veneramur</hi> θ.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -20328,7 +20358,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">Fauni</hi>] <hi rend=\"italics\">Bacchi</hi> Heraldus (Adv. I c. 2).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">Fauni</hi>] <hi rend=\"italic\">Bacchi</hi> Heraldus (Adv. I c. 2).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -20379,7 +20409,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">O</hi>. om. ω rdson.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">O</hi>. om. ω rdson.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -20450,7 +20480,7 @@
         "source_page": 10,
         "source_image": "pdf-page-47",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">vobis</hi> b.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">vobis</hi> b.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -20501,7 +20531,7 @@
         "source_page": 11,
         "source_image": "pdf-page-48",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">ipsa</hi> N, om. G.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">ipsa</hi> N, om. G.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -20583,7 +20613,7 @@
         "source_page": 11,
         "source_image": "pdf-page-48",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">calenda</hi> i<hi rend=\"superscript\">1</hi>, <hi rend=\"italics\">colenda</hi> l<hi rend=\"superscript\">1</hi>.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">calenda</hi> i<hi rend=\"superscript\">1</hi>, <hi rend=\"italic\">colenda</hi> l<hi rend=\"superscript\">1</hi>.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -20667,7 +20697,7 @@
         "source_page": 11,
         "source_image": "pdf-page-48",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">discamus</hi> Barth. (Adv. 34,8).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">discamus</hi> Barth. (Adv. 34,8).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -20718,7 +20748,7 @@
         "source_page": 11,
         "source_image": "pdf-page-48",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">territique</hi> N, <hi rend=\"italics\">teretisque</hi> ρ<hi rend=\"superscript\">1</hi> Wernsd.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">territique</hi> N, <hi rend=\"italic\">teretisque</hi> ρ<hi rend=\"superscript\">1</hi> Wernsd.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -20805,7 +20835,7 @@
         "source_page": 11,
         "source_image": "pdf-page-48",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">sono modulemur avenae</hi> Wernsd.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">sono modulemur avenae</hi> Wernsd.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -20856,7 +20886,7 @@
         "source_page": 11,
         "source_image": "pdf-page-48",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">forsitā</hi> N.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">forsitā</hi> N.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -20907,7 +20937,7 @@
         "source_page": 11,
         "source_image": "pdf-page-48",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">angustas</hi> Nπφρ<hi rend=\"superscript\">1</hi>λ<hi rend=\"superscript\">1</hi>, <hi rend=\"italics\">agustas</hi> μ.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">angustas</hi> Nπφρ<hi rend=\"superscript\">1</hi>λ<hi rend=\"superscript\">1</hi>, <hi rend=\"italic\">agustas</hi> μ.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -21007,7 +21037,7 @@
         "source_page": 11,
         "source_image": "pdf-page-48",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">hoc</hi> P.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">hoc</hi> P.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -21058,7 +21088,7 @@
         "source_page": 11,
         "source_image": "pdf-page-48",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">meliboeus</hi> νε<hi rend=\"superscript\">2</hi>ρ<hi rend=\"superscript\">2</hi>, <hi rend=\"italics\">melibeus</hi> GPλπδ<hi rend=\"superscript\">1</hi>γρ<hi rend=\"superscript\">1</hi>αβ, <hi rend=\"italics\">melibes</hi> N (<hi rend=\"italics\">melibeus</hi> m<hi rend=\"superscript\">2</hi>), <hi rend=\"italics\">meiibaeus</hi> χφ, <hi rend=\"italics\">moelibeus</hi> η, <hi rend=\"italics\">moeliboeus</hi> ε<hi rend=\"superscript\">1</hi>, <hi rend=\"italics\">maelibaeus</hi> κ, <hi rend=\"italics\">me libens</hi> μ.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">meliboeus</hi> νε<hi rend=\"superscript\">2</hi>ρ<hi rend=\"superscript\">2</hi>, <hi rend=\"italic\">melibeus</hi> GPλπδ<hi rend=\"superscript\">1</hi>γρ<hi rend=\"superscript\">1</hi>αβ, <hi rend=\"italic\">melibes</hi> N (<hi rend=\"italic\">melibeus</hi> m<hi rend=\"superscript\">2</hi>), <hi rend=\"italic\">meiibaeus</hi> χφ, <hi rend=\"italic\">moelibeus</hi> η, <hi rend=\"italic\">moeliboeus</hi> ε<hi rend=\"superscript\">1</hi>, <hi rend=\"italic\">maelibaeus</hi> κ, <hi rend=\"italic\">me libens</hi> μ.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -21407,7 +21437,7 @@
         "source_page": 11,
         "source_image": "pdf-page-48",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italics\">auras</hi> P Ulit., <hi rend=\"italics\">auris</hi> νφρ<hi rend=\"superscript\">2</hi>θrsi<hi rend=\"superscript\">1</hi>on, <hi rend=\"italics\">aras</hi> ε, <hi rend=\"italics\">auraes</hi> π.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">auras</hi> P Ulit., <hi rend=\"italic\">auris</hi> νφρ<hi rend=\"superscript\">2</hi>θrsi<hi rend=\"superscript\">1</hi>on, <hi rend=\"italic\">aras</hi> ε, <hi rend=\"italic\">auraes</hi> π.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
