@@ -267,8 +267,8 @@
                 "evidence_match": true,
                 "status": "missing_data",
                 "reviewer": "SJH",
-                "reviewer_notes": null,
-                "review_status": "Failed"
+                "reviewer_notes": "Omission handled with `null` in the JSON representation.",
+                "review_status": "Passed"
             }
         ]
     },
@@ -313,7 +313,7 @@
                 "evidence_match": false,
                 "status": "mismatch",
                 "reviewer": "SJH",
-                "reviewer_notes": null,
+                "reviewer_notes": "No evidence was found in the transcription because 'V' is followed by 'plerique, edd. fere omnes ante Glaeser.' which is a group, and groups are handled differently in the JSON representation.",
                 "review_status": "Failed"
             }
         ]
@@ -343,8 +343,8 @@
                 "evidence_match": true,
                 "status": "mismatch",
                 "reviewer": "SJH",
-                "reviewer_notes": null,
-                "review_status": "Failed"
+                "reviewer_notes": "This failed automatic validation only because of case sensitivity. The readings are otherwise identical.",
+                "review_status": "Passed"
             },
             {
                 "reading": "ornite",
@@ -364,8 +364,8 @@
                 "evidence_match": false,
                 "status": "mismatch",
                 "reviewer": "SJH",
-                "reviewer_notes": null,
-                "review_status": "Failed"
+                "reviewer_notes": "Group",
+                "review_status": "Passed"
             },
             {
                 "reading": "ornyce",
@@ -435,8 +435,8 @@
                 "evidence_match": false,
                 "status": "mismatch",
                 "reviewer": "SJH",
-                "reviewer_notes": null,
-                "review_status": "Failed"
+                "reviewer_notes": "Group",
+                "review_status": "Passed"
             },
             {
                 "reading": "vacce",
@@ -524,8 +524,8 @@
                 "evidence_match": false,
                 "status": "mismatch",
                 "reviewer": "SJH",
-                "reviewer_notes": null,
-                "review_status": "Failed"
+                "reviewer_notes": "Group",
+                "review_status": "Passed"
             },
             {
                 "reading": "molliter",
@@ -568,7 +568,7 @@
                 "evidence_match": false,
                 "status": "mismatch",
                 "reviewer": "SJH",
-                "reviewer_notes": null,
+                "reviewer_notes": "The XML has Schenkl2, but the superscript failed to be captured.",
                 "review_status": "Failed"
             }
         ]
@@ -608,7 +608,7 @@
                 "evidence_match": false,
                 "status": "mismatch",
                 "reviewer": "SJH",
-                "reviewer_notes": null,
+                "reviewer_notes": "The XML has Schenkl2, but the superscript failed to be captured.",
                 "review_status": "Failed"
             }
         ]
@@ -640,7 +640,7 @@
                 "evidence_match": false,
                 "status": "mismatch",
                 "reviewer": "SJH",
-                "reviewer_notes": null,
+                "reviewer_notes": "The XML has λ1, but the superscript failed to be captured, and everything after that is missing.",
                 "review_status": "Failed"
             }
         ]

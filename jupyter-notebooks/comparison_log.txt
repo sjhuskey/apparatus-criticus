@@ -1,0 +1,1592 @@
+{
+    "transcription": [
+        {},
+        {
+            "transcription_reading": "ista",
+            "transcription_evidence": [
+                "N",
+                "G",
+                "Glaeser",
+                "sqq."
+            ]
+        },
+        {},
+        {
+            "transcription_reading": "antra",
+            "transcription_evidence": [
+                "P",
+                "V",
+                "edd. ante",
+                "Glaeser"
+            ]
+        }
+    ],
+    "claims": [
+        {
+            "claim_reading": {
+                "sequence": [
+                    {
+                        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.8@antra",
+                        "value": "antra"
+                    },
+                    {
+                        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.9@ista",
+                        "value": "ista"
+                    }
+                ]
+            },
+            "claim_evidence": [
+                "N",
+                "G"
+            ]
+        },
+        {
+            "claim_reading": {
+                "sequence": [
+                    {
+                        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.8@antra",
+                        "value": "ista"
+                    },
+                    {
+                        "target": "urn:cts:latinLit:phi0830.phi001.dll:1.9@ista",
+                        "value": "antra"
+                    }
+                ]
+            },
+            "claim_evidence": [
+                "P",
+                "V"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "Leuce",
+            "transcription_evidence": [
+                "N",
+                "G",
+                "A",
+                "P",
+                "π",
+                "ε",
+                "χ"
+            ]
+        },
+        {
+            "transcription_reading": "lene",
+            "transcription_evidence": [
+                "φ",
+                "η",
+                "ρ",
+                "ν",
+                "θ",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "transcription_reading": "lance",
+            "transcription_evidence": [
+                "γ",
+                "μ"
+            ]
+        },
+        {
+            "transcription_reading": "luce",
+            "transcription_evidence": [
+                "b"
+            ]
+        },
+        {
+            "transcription_reading": "lauce",
+            "transcription_evidence": [
+                "λ",
+                "δ",
+                "β"
+            ]
+        }
+    ],
+    "claims": [
+        {
+            "claim_reading": "Leuce",
+            "claim_evidence": [
+                "N",
+                "G",
+                "A",
+                "P",
+                "π",
+                "ε",
+                "χ2"
+            ]
+        },
+        {
+            "claim_reading": "leute",
+            "claim_evidence": [
+                "κ",
+                "α",
+                "χ1"
+            ]
+        },
+        {
+            "claim_reading": "lene",
+            "claim_evidence": [
+                "φ",
+                "η",
+                "ρ",
+                "ν",
+                "θ",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "claim_reading": "lance",
+            "claim_evidence": [
+                "γ",
+                "μ"
+            ]
+        },
+        {
+            "claim_reading": "luce",
+            "claim_evidence": [
+                "b"
+            ]
+        },
+        {
+            "claim_reading": "lauce",
+            "claim_evidence": [
+                "λ",
+                "δ",
+                "β"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [],
+    "claims": [
+        {
+            "claim_reading": null,
+            "claim_evidence": [
+                "b"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "mea",
+            "transcription_evidence": [
+                "ρ"
+            ]
+        },
+        {
+            "transcription_reading": "nova",
+            "transcription_evidence": [
+                "ν",
+                "φ",
+                "η",
+                "θ",
+                "r",
+                "s",
+                "o",
+                "n",
+                "Burm.",
+                "Beck"
+            ]
+        }
+    ],
+    "claims": [
+        {
+            "claim_reading": null,
+            "claim_evidence": [
+                "ρ"
+            ]
+        },
+        {
+            "claim_reading": "mea",
+            "claim_evidence": [
+                "A"
+            ]
+        },
+        {
+            "claim_reading": "nova",
+            "claim_evidence": [
+                "ν",
+                "φ",
+                "η",
+                "θ",
+                "r",
+                "s",
+                "o",
+                "n",
+                "Beck"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "docilis",
+            "transcription_evidence": [
+                "N"
+            ]
+        },
+        {},
+        {
+            "transcription_reading": "docilem",
+            "transcription_evidence": [
+                "Beck"
+            ]
+        }
+    ],
+    "claims": [
+        {
+            "claim_reading": "docilis",
+            "claim_evidence": [
+                "N"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "arundine",
+            "transcription_evidence": [
+                "G",
+                "ν",
+                "φ",
+                "λ",
+                "ρ",
+                "μ"
+            ]
+        }
+    ],
+    "claims": [
+        {
+            "claim_reading": "harundine",
+            "claim_evidence": [
+                "N",
+                "α",
+                "β",
+                "δ",
+                "η",
+                "μ2",
+                "π",
+                "χ",
+                "ε",
+                "γ",
+                "κ"
+            ]
+        },
+        {
+            "claim_reading": "arundine",
+            "claim_evidence": [
+                "G",
+                "ν",
+                "φ",
+                "λ",
+                "ρ",
+                "μ1"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "O.",
+            "transcription_evidence": [
+                "P",
+                "π",
+                "κ",
+                "χ",
+                "λ",
+                "α",
+                "Baehr.",
+                "Schenkl",
+                "r",
+                "e",
+                "l",
+                "l",
+                "codd.",
+                "e",
+                "t",
+                "edd."
+            ]
+        },
+        {
+            "transcription_reading": "C.",
+            "transcription_evidence": [
+                "d"
+            ]
+        }
+    ],
+    "claims": [
+        {
+            "claim_reading": "O.",
+            "claim_evidence": [
+                "P",
+                "π",
+                "κ",
+                "χ",
+                "λ",
+                "α",
+                "Baehr.",
+                "Schenkl"
+            ]
+        },
+        {
+            "claim_reading": null,
+            "claim_evidence": []
+        },
+        {
+            "claim_reading": "C.",
+            "claim_evidence": [
+                "d"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "captata",
+            "transcription_evidence": [
+                "G"
+            ]
+        }
+    ],
+    "claims": [
+        {
+            "claim_reading": "captata",
+            "claim_evidence": [
+                "G"
+            ]
+        },
+        {
+            "claim_reading": "captate",
+            "claim_evidence": [
+                "G"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "quis",
+            "transcription_evidence": []
+        },
+        {
+            "transcription_reading": "qui",
+            "transcription_evidence": [
+                "N"
+            ]
+        }
+    ],
+    "claims": [
+        {
+            "claim_reading": "qui",
+            "claim_evidence": [
+                "N"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "se laxat",
+            "transcription_evidence": [
+                "d"
+            ]
+        },
+        {}
+    ],
+    "claims": [
+        {
+            "claim_reading": "laxet",
+            "claim_evidence": [
+                "N"
+            ]
+        },
+        {
+            "claim_reading": "se laxat",
+            "claim_evidence": [
+                "d"
+            ]
+        },
+        {
+            "claim_reading": "laxetur",
+            "claim_evidence": [
+                "Schenkl"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {}
+    ],
+    "claims": [
+        {
+            "claim_reading": "§",
+            "claim_evidence": [
+                "G"
+            ]
+        },
+        {
+            "claim_reading": null,
+            "claim_evidence": [
+                "N",
+                "ε",
+                "ν",
+                "φ",
+                "γ",
+                "η"
+            ]
+        },
+        {
+            "claim_reading": "C.",
+            "claim_evidence": [
+                "P",
+                "α",
+                "β",
+                "κ",
+                "χ",
+                "λ",
+                "ρ",
+                "μ",
+                "π",
+                "δ",
+                "p",
+                "Glaeser",
+                "Keene",
+                "Baehr.",
+                "Schenkl"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "tua",
+            "transcription_evidence": []
+        },
+        {
+            "transcription_reading": "tu",
+            "transcription_evidence": [
+                "d"
+            ]
+        }
+    ],
+    "claims": [
+        {
+            "claim_reading": "tu",
+            "claim_evidence": [
+                "d"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "cortice",
+            "transcription_evidence": [
+                "N",
+                "P",
+                "V",
+                "edd."
+            ]
+        },
+        {
+            "transcription_reading": "codice",
+            "transcription_evidence": [
+                "G",
+                "A",
+                "Schenkl"
+            ]
+        }
+    ],
+    "claims": [
+        {
+            "claim_reading": "coice",
+            "claim_evidence": [
+                "N"
+            ]
+        },
+        {
+            "claim_reading": "codice",
+            "claim_evidence": [
+                "G",
+                "A",
+                "Schenkl"
+            ]
+        },
+        {
+            "claim_reading": "cortice",
+            "claim_evidence": [
+                "N2",
+                "P",
+                "V"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "O.",
+            "transcription_evidence": [
+                "G",
+                "P",
+                "φ",
+                "ε",
+                "μ",
+                "κ",
+                "χ",
+                "ρ"
+            ]
+        },
+        {
+            "transcription_reading": "C.",
+            "transcription_evidence": [
+                "N"
+            ]
+        }
+    ],
+    "claims": [
+        {
+            "claim_reading": null,
+            "claim_evidence": [
+                "λ",
+                "π",
+                "ρ1"
+            ]
+        },
+        {
+            "claim_reading": "C.",
+            "claim_evidence": [
+                "N"
+            ]
+        },
+        {
+            "claim_reading": "O.",
+            "claim_evidence": [
+                "G",
+                "P",
+                "φ",
+                "ε",
+                "μ",
+                "κ",
+                "χ",
+                "ρ2",
+                "ν",
+                "γ",
+                "α",
+                "β",
+                "η",
+                "δ"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [],
+    "claims": [
+        {
+            "claim_reading": null,
+            "claim_evidence": [
+                "G"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "distingunt",
+            "transcription_evidence": [
+                "N",
+                "P",
+                "ρ",
+                "γ",
+                "κ",
+                "μ",
+                "ε",
+                "π",
+                "φ",
+                "χ",
+                "δ"
+            ]
+        },
+        {
+            "transcription_reading": "destingunt",
+            "transcription_evidence": [
+                "β",
+                "s"
+            ]
+        },
+        {}
+    ],
+    "claims": [
+        {
+            "claim_reading": "distingunt",
+            "claim_evidence": [
+                "N",
+                "P",
+                "ρ",
+                "γ",
+                "κ",
+                "μ",
+                "ε",
+                "π",
+                "φ",
+                "χ",
+                "δ"
+            ]
+        },
+        {
+            "claim_reading": "destingunt",
+            "claim_evidence": [
+                "β",
+                "s"
+            ]
+        },
+        {
+            "claim_reading": "distinguit",
+            "claim_evidence": [
+                "λ",
+                "η"
+            ]
+        },
+        {
+            "claim_reading": "destringunt",
+            "claim_evidence": [
+                "Heins."
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "O.",
+            "transcription_evidence": [
+                "P",
+                "α",
+                "β",
+                "π",
+                "κ",
+                "ν",
+                "ρ",
+                "ε",
+                "χ",
+                "γ",
+                "φ",
+                "δ",
+                "η",
+                "edd.",
+                "N",
+                "λ",
+                "μ"
+            ]
+        },
+        {
+            "transcription_reading": "C.",
+            "transcription_evidence": [
+                "G"
+            ]
+        }
+    ],
+    "claims": [
+        {
+            "claim_reading": null,
+            "claim_evidence": [
+                "N",
+                "λ",
+                "μ"
+            ]
+        },
+        {
+            "claim_reading": "C.",
+            "claim_evidence": [
+                "G"
+            ]
+        },
+        {
+            "claim_reading": "O.",
+            "claim_evidence": [
+                "P",
+                "α",
+                "β",
+                "π",
+                "κ",
+                "ν",
+                "ρ",
+                "ε",
+                "χ",
+                "γ",
+                "φ",
+                "δ",
+                "η"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "cogaudete",
+            "transcription_evidence": [
+                "N"
+            ]
+        }
+    ],
+    "claims": [
+        {
+            "claim_reading": "cogaudete",
+            "claim_evidence": [
+                "N"
+            ]
+        },
+        {
+            "claim_reading": null,
+            "claim_evidence": [
+                "N2"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [],
+    "claims": [
+        {
+            "claim_reading": null,
+            "claim_evidence": [
+                "N",
+                "G"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "vicit",
+            "transcription_evidence": [
+                "N",
+                "P",
+                "Glaeser",
+                "sqq."
+            ]
+        },
+        {
+            "transcription_reading": "vīcit",
+            "transcription_evidence": [
+                "G"
+            ]
+        },
+        {
+            "transcription_reading": "ludit",
+            "transcription_evidence": [
+                "V",
+                "edd. ante",
+                "Glaeser"
+            ]
+        },
+        {
+            "transcription_reading": "visit",
+            "transcription_evidence": [
+                "μ",
+                "γ"
+            ]
+        }
+    ],
+    "claims": [
+        {
+            "claim_reading": "vīcit",
+            "claim_evidence": [
+                "G"
+            ]
+        },
+        {
+            "claim_reading": "ludit",
+            "claim_evidence": [
+                "d"
+            ]
+        },
+        {
+            "claim_reading": "lusit",
+            "claim_evidence": [
+                "V"
+            ]
+        },
+        {
+            "claim_reading": "visit",
+            "claim_evidence": [
+                "μ"
+            ]
+        },
+        {
+            "claim_reading": null,
+            "claim_evidence": [
+                "γ"
+            ]
+        },
+        {
+            "claim_reading": "vicit",
+            "claim_evidence": [
+                "N",
+                "P"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "iulis",
+            "transcription_evidence": [
+                "N",
+                "P",
+                "G",
+                "V",
+                "r",
+                "e",
+                "u",
+                "b",
+                "d",
+                "s",
+                "g",
+                "i"
+            ]
+        },
+        {
+            "transcription_reading": "iullis",
+            "transcription_evidence": [
+                "μ",
+                "γ"
+            ]
+        },
+        {
+            "transcription_reading": "in ulnis",
+            "transcription_evidence": [
+                "A",
+                "edd."
+            ]
+        }
+    ],
+    "claims": [
+        {
+            "claim_reading": "iullis",
+            "claim_evidence": [
+                "μ"
+            ]
+        },
+        {
+            "claim_reading": null,
+            "claim_evidence": [
+                "γ"
+            ]
+        },
+        {
+            "claim_reading": "in ulnis",
+            "claim_evidence": [
+                "A"
+            ]
+        },
+        {
+            "claim_reading": "Iulis",
+            "claim_evidence": [
+                "N",
+                "P",
+                "G",
+                "V",
+                "e",
+                "u",
+                "b",
+                "d",
+                "r",
+                "s",
+                "g",
+                "i2",
+                "l2",
+                "Baehr.",
+                "Schenkl"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "deus",
+            "transcription_evidence": []
+        },
+        {
+            "transcription_reading": "reget",
+            "transcription_evidence": [
+                "G"
+            ]
+        }
+    ],
+    "claims": [
+        {
+            "claim_reading": "reget",
+            "claim_evidence": [
+                "G"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "quaque",
+            "transcription_evidence": [
+                "G"
+            ]
+        }
+    ],
+    "claims": [
+        {
+            "claim_reading": "quaque",
+            "claim_evidence": [
+                "G"
+            ]
+        },
+        {
+            "claim_reading": "qua",
+            "claim_evidence": [
+                "G1"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [],
+    "claims": [
+        {
+            "claim_reading": null,
+            "claim_evidence": [
+                "V",
+                "e",
+                "d",
+                "r",
+                "s"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {},
+        {},
+        {
+            "transcription_reading": "ducum",
+            "transcription_evidence": [
+                "Heins."
+            ]
+        }
+    ],
+    "claims": [],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "cargicarcere",
+            "transcription_evidence": [
+                "G"
+            ]
+        }
+    ],
+    "claims": [
+        {
+            "claim_reading": "cargicarcere",
+            "claim_evidence": [
+                "G"
+            ]
+        },
+        {
+            "claim_reading": null,
+            "claim_evidence": [
+                "G"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {}
+    ],
+    "claims": [],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {},
+        {
+            "transcription_reading": "qualis",
+            "transcription_evidence": [
+                "Burm."
+            ]
+        }
+    ],
+    "claims": [],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "quae",
+            "transcription_evidence": []
+        },
+        {
+            "transcription_reading": "quum",
+            "transcription_evidence": [
+                "Beck"
+            ]
+        },
+        {
+            "transcription_reading": "ceu",
+            "transcription_evidence": [
+                "Baehr."
+            ]
+        },
+        {
+            "transcription_reading": "quam",
+            "transcription_evidence": [
+                "Barth",
+                "Heins.",
+                "Burm.",
+                "Wernsd."
+            ]
+        }
+    ],
+    "claims": [
+        {
+            "claim_reading": "quum",
+            "claim_evidence": [
+                "Beck"
+            ]
+        },
+        {
+            "claim_reading": "ceu",
+            "claim_evidence": [
+                "Baehr."
+            ]
+        },
+        {
+            "claim_reading": "quam",
+            "claim_evidence": [
+                "Heins.",
+                "Wernsd."
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [],
+    "claims": [
+        {
+            "claim_reading": null,
+            "claim_evidence": [
+                "λ"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "tamen",
+            "transcription_evidence": []
+        },
+        {
+            "transcription_reading": "palam",
+            "transcription_evidence": [
+                "Maehly"
+            ]
+        }
+    ],
+    "claims": [
+        {
+            "claim_reading": "palam",
+            "claim_evidence": [
+                "Maehly"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "tacita",
+            "transcription_evidence": [
+                "P"
+            ]
+        },
+        {},
+        {
+            "transcription_reading": "tacite",
+            "transcription_evidence": [
+                "Beck"
+            ]
+        }
+    ],
+    "claims": [
+        {
+            "claim_reading": "tacita",
+            "claim_evidence": [
+                "P"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "et inane",
+            "transcription_evidence": []
+        },
+        {
+            "transcription_reading": "etiamne",
+            "transcription_evidence": [
+                "κ",
+                "μ",
+                "ν",
+                "η",
+                "δ",
+                "β",
+                "φ",
+                "π"
+            ]
+        },
+        {
+            "transcription_reading": "etiamve",
+            "transcription_evidence": [
+                "λ",
+                "χ"
+            ]
+        },
+        {
+            "transcription_reading": "nec inane",
+            "transcription_evidence": [
+                "d"
+            ]
+        }
+    ],
+    "claims": [
+        {
+            "claim_reading": "etiamne",
+            "claim_evidence": [
+                "κ",
+                "μ",
+                "ν",
+                "η",
+                "δ",
+                "β",
+                "φ",
+                "π1",
+                "θ",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "claim_reading": "etiamve",
+            "claim_evidence": [
+                "λ"
+            ]
+        },
+        {
+            "claim_reading": "nec inane",
+            "claim_evidence": [
+                "d"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "numquid",
+            "transcription_evidence": [
+                "G",
+                "ε",
+                "γ",
+                "ρ",
+                "edd."
+            ]
+        },
+        {
+            "transcription_reading": "dumquid",
+            "transcription_evidence": [
+                "N"
+            ]
+        },
+        {
+            "transcription_reading": "non quod",
+            "transcription_evidence": [
+                "P",
+                "κ",
+                "β",
+                "λ",
+                "μ",
+                "π",
+                "δ",
+                "Barth"
+            ]
+        },
+        {
+            "transcription_reading": "non",
+            "transcription_evidence": [
+                "α"
+            ]
+        },
+        {
+            "transcription_reading": "non per",
+            "transcription_evidence": [
+                "η",
+                "φ",
+                "ν",
+                "r",
+                "s",
+                "o",
+                "n",
+                "i"
+            ]
+        },
+        {
+            "transcription_reading": "non quae",
+            "transcription_evidence": [
+                "χ"
+            ]
+        },
+        {},
+        {
+            "transcription_reading": "nunc nec",
+            "transcription_evidence": [
+                "Burm."
+            ]
+        }
+    ],
+    "claims": [
+        {
+            "claim_reading": "dumquid",
+            "claim_evidence": [
+                "N"
+            ]
+        },
+        {
+            "claim_reading": "non quod",
+            "claim_evidence": [
+                "P",
+                "κ",
+                "β",
+                "λ",
+                "μ",
+                "π",
+                "δ"
+            ]
+        },
+        {
+            "claim_reading": "non",
+            "claim_evidence": [
+                "α"
+            ]
+        },
+        {
+            "claim_reading": "non per",
+            "claim_evidence": [
+                "η",
+                "φ",
+                "ν",
+                "r",
+                "s",
+                "o",
+                "n",
+                "i1",
+                "l1",
+                "p",
+                "t",
+                "h",
+                "Guid.",
+                "Tit.",
+                "Vienn.",
+                "Kempfer"
+            ]
+        },
+        {
+            "claim_reading": "non quae",
+            "claim_evidence": [
+                "χ"
+            ]
+        },
+        {
+            "claim_reading": "numquid",
+            "claim_evidence": [
+                "N2",
+                "G",
+                "ε",
+                "γ",
+                "ρ"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "scilicet sedis",
+            "transcription_evidence": [
+                "N"
+            ]
+        },
+        {
+            "transcription_reading": "sed Deus",
+            "transcription_evidence": [
+                "G",
+                "l",
+                "e",
+                "e",
+                "s",
+                "e",
+                "r",
+                "L. Mueller"
+            ]
+        }
+    ],
+    "claims": [
+        {
+            "claim_reading": "scilicet sedis",
+            "claim_evidence": [
+                "N"
+            ]
+        },
+        {
+            "claim_reading": null,
+            "claim_evidence": [
+                "N2"
+            ]
+        },
+        {}
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "Fauni",
+            "transcription_evidence": []
+        },
+        {
+            "transcription_reading": "Bacchi",
+            "transcription_evidence": [
+                "Heraldus"
+            ]
+        }
+    ],
+    "claims": [
+        {
+            "claim_reading": "Bacchi",
+            "claim_evidence": [
+                "Heraldus"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "ipsa",
+            "transcription_evidence": [
+                "N",
+                "G"
+            ]
+        }
+    ],
+    "claims": [
+        {
+            "claim_reading": "ipsa",
+            "claim_evidence": [
+                "N"
+            ]
+        },
+        {
+            "claim_reading": null,
+            "claim_evidence": [
+                "G"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}
+{
+    "transcription": [
+        {
+            "transcription_reading": "meliboeus",
+            "transcription_evidence": [
+                "ν",
+                "ε"
+            ]
+        },
+        {
+            "transcription_reading": "melibeus",
+            "transcription_evidence": [
+                "G",
+                "P",
+                "λ",
+                "π",
+                "δ"
+            ]
+        },
+        {
+            "transcription_reading": "melibes",
+            "transcription_evidence": [
+                "N"
+            ]
+        },
+        {
+            "transcription_reading": "meiibaeus",
+            "transcription_evidence": [
+                "χ",
+                "φ"
+            ]
+        },
+        {
+            "transcription_reading": "moelibeus",
+            "transcription_evidence": [
+                "η"
+            ]
+        },
+        {
+            "transcription_reading": "moeliboeus",
+            "transcription_evidence": [
+                "ε"
+            ]
+        },
+        {
+            "transcription_reading": "maelibaeus",
+            "transcription_evidence": [
+                "κ"
+            ]
+        },
+        {
+            "transcription_reading": "me libens",
+            "transcription_evidence": [
+                "μ"
+            ]
+        }
+    ],
+    "claims": [
+        {
+            "claim_reading": "meliboeus",
+            "claim_evidence": [
+                "ν",
+                "ε2",
+                "ρ2"
+            ]
+        },
+        {
+            "claim_reading": "melibeus",
+            "claim_evidence": [
+                "G",
+                "P",
+                "λ",
+                "π",
+                "δ1",
+                "γ",
+                "ρ1",
+                "α",
+                "β"
+            ]
+        },
+        {
+            "claim_reading": "melibes",
+            "claim_evidence": [
+                "N"
+            ]
+        },
+        {
+            "claim_reading": "melibeus",
+            "claim_evidence": [
+                "N3"
+            ]
+        },
+        {
+            "claim_reading": "melibaeus",
+            "claim_evidence": [
+                "χ",
+                "φ"
+            ]
+        },
+        {
+            "claim_reading": "moelibeus",
+            "claim_evidence": [
+                "η"
+            ]
+        },
+        {
+            "claim_reading": "moeliboeus",
+            "claim_evidence": [
+                "ε1"
+            ]
+        },
+        {
+            "claim_reading": "maelibaeus",
+            "claim_evidence": [
+                "κ"
+            ]
+        },
+        {
+            "claim_reading": "me libens",
+            "claim_evidence": [
+                "μ"
+            ]
+        }
+    ],
+    "status": "count_mismatch"
+}

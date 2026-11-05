@@ -659,7 +659,7 @@
         "source_page": 5,
         "source_image": "pdf-page-42",
         "bbox_norm": [],
-        "transcription": "<ab>4.  <hi rend=\"italic\">C. </hi> V plerique, edd. fere omnes ante Glaeser.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">C. </hi> V plerique, edd. fere omnes ante Glaeser.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3980,7 +3980,7 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italic\">Ladon</hi> NGAHP Baer. Schenkl (qui proposuit <hi rend=\"italic\">Ladas</hi>), <hi rend=\"italic\">Lydon</hi> νφχγμδηθrs, <hi rend=\"italic\">Lidon</hi> κπβρ<hi rend=\"superscript\">1</hi>, <hi rend=\"italic\">Ligdon</hi> αλbn, <hi rend=\"italic\">Lygdon</hi> ερ<hi rend=\"superscript\">2</hi> edd. <hi rend=\"italic\">Lacon</hi> Wilamowitz (ind. lect. aest. Gott. 1884 p. 6).</ab>",
+        "transcription": "<ab><hi rend=\"italic\">Ladon</hi> NGAHP Baehr. Schenkl (qui proposuit <hi rend=\"italic\">Ladas</hi>), <hi rend=\"italic\">Lydon</hi> νφχγμδηθrs, <hi rend=\"italic\">Lidon</hi> κπβρ<hi rend=\"superscript\">1</hi>, <hi rend=\"italic\">Ligdon</hi> αλbn, <hi rend=\"italic\">Lygdon</hi> ερ<hi rend=\"superscript\">2</hi> edd. <hi rend=\"italic\">Lacon</hi> Wilamowitz (ind. lect. aest. Gott. 1884 p. 6).</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -7101,7 +7101,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italic\">nec</hi> NPκχΒνφλπρrson Guid. Beck Glaeser sqq., <hi rend=\"italic\">non</hi> Aεαγμηδedd. ante Glaeser.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">nec</hi> NPκχβνφλπρrson Guid. Beck Glaeser sqq., <hi rend=\"italic\">non</hi> Aεαγμηδedd. ante Glaeser.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -7267,7 +7267,7 @@
         "source_page": 7,
         "source_image": "pdf-page-44",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italic\">distingunt</hi> NPργκμεπφχδ, <hi rend=\"italic\">destingunt</hi> β s, <hi rend=\"italic\">distinguit</hi> λη, <hi rend=\"italic\">destringunt</hi> Heins.</ab>",
+        "transcription": "<ab><hi rend=\"italic\">distingunt</hi> NPργκμεπφχδ, <hi rend=\"italic\">destingunt</hi> β s, <hi rend=\"italic\">distinguit</hi> λη, <hi rend=\"italic\">destringunt</hi> * Heins.</ab>",
         "transcriber": "SJH",
         "extraction": {
             "model": null,
