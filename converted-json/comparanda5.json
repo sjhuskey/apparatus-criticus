@@ -137,8 +137,8 @@
                 "reading_match": true,
                 "evidence_match": true,
                 "status": "match",
-                "reviewer": null,
-                "reviewer_notes": null,
+                "reviewer": "SJH",
+                "reviewer_notes": "This is a match.",
                 "review_status": "Passed"
             }
         ]
@@ -167,8 +167,8 @@
                 "reading_match": true,
                 "evidence_match": true,
                 "status": "match",
-                "reviewer": null,
-                "reviewer_notes": null,
+                "reviewer": "SJH",
+                "reviewer_notes": "This is a match.",
                 "review_status": "Passed"
             },
             {
@@ -1065,7 +1065,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             }
         ]
     },
@@ -1212,7 +1212,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             }
         ]
     },
@@ -1939,7 +1939,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             },
             {
                 "reading": "Lacon",
@@ -2162,7 +2162,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             },
             {
                 "reading": "depicta",
@@ -2183,7 +2183,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             },
             {
                 "reading": "dipicta N",
@@ -2589,7 +2589,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             },
             {
                 "reading": "proprius",
@@ -2754,7 +2754,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             }
         ]
     },
@@ -2858,7 +2858,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             }
         ]
     },
@@ -3063,7 +3063,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             }
         ]
     },
@@ -3164,12 +3164,11 @@
                 "evidence_match": true,
                 "status": "needs_review",
                 "reviewer": "SJH",
-                "reviewer_notes": null,
+                "reviewer_notes": "Human error: the transcription has a typo.",
                 "review_status": "Reviewed"
             }
         ]
     },
-    <! Start HERE!>
     {
         "entry_id": "urn:uuid:97e75384-4939-4892-97a2-7a5a4bb52abc",
         "text_locus": [
@@ -3337,7 +3336,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             },
             {
                 "reading": "fagis",
@@ -3357,7 +3356,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             }
         ]
     },
@@ -4064,7 +4063,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             }
         ]
     },
@@ -4154,9 +4153,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "This was a total failure. The evidence is all over the place, and the claim evidence is not even a subset of the transcription evidence. Clearly the parser failed here.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "victas",
@@ -4201,9 +4200,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "Another failure, this time because of a typo in the transcription (`B` instead of `β`). The claim evidence is a superset of the transcription evidence, but the unrecognized evidence is not empty, so it fails.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "iunctas",
@@ -4228,9 +4227,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "This is a case of a failed match due to unrecognized evidence. But the unrecognized evidence is in the edition profile. This is a parser failure.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "victa",
@@ -4246,9 +4245,9 @@
                 "reading_match": true,
                 "evidence_match": true,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "I'm not sure why this is a needs_review. The evidence matches, and the reading matches.",
+                "review_status": "Passed"
             }
         ]
     },
@@ -4509,9 +4508,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "This is a case of a failed match due to unrecognized evidence. But the unrecognized evidence is in the edition profile. This is a parser failure.",
+                "review_status": "Passed"
             },
             {
                 "reading": "subiguntur",
@@ -4813,7 +4812,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             },
             {
                 "reading": "profuso",
@@ -4838,9 +4837,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "I'll bet this mismatch was caused by extra white space in the transcription. Otherwise, everything matches.",
+                "review_status": "Passed"
             },
             {
                 "reading": "profusso",
@@ -4897,9 +4896,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "This failed because of an improperly transcribed reading + evidence combination. In other words, a human error.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "et",
@@ -4963,7 +4962,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             },
             {
                 "reading": "grasantibus",
@@ -5002,9 +5001,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser failed to recognize the evidence `r`, `e`, and `d` in the transcription. This is a parser failure.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "cessantibus",
@@ -5161,7 +5160,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             },
             {
                 "reading": "confodit",
@@ -5295,9 +5294,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser has trouble with the evidence `r`, `s`, `o`, `n`, and `i1`. This is a parser failure.",
+                "review_status": "Reviewed"
             }
         ]
     },
@@ -5339,9 +5338,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser has trouble when there's an abbreviation marked with a period, as in `Barth.`. It parses the period as the end of the entry. This is a parser failure.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "condidit",
@@ -5371,7 +5370,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             },
             {
                 "reading": "contuli",
@@ -5417,9 +5416,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "Parser failure. It parsed `mg.` as `m` and `g` instead of `mg.` (margin). This is a parser failure.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "truderit",
@@ -5437,7 +5436,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             },
             {
                 "reading": "contulit",
@@ -5486,9 +5485,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "Parser failure: it failed to recognize the evidence `r`, `s`, `i1`, `p`, `n`, and `o`.",
+                "review_status": "Reviewed"
             }
         ]
     },
@@ -5530,9 +5529,9 @@
                 "reading_match": true,
                 "evidence_match": true,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser failed to recognize the Latin word `olim` and parsed it as unrecognized evidence. This is a parser failure.",
+                "review_status": "Reviewed"
             }
         ]
     },
@@ -5582,7 +5581,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             },
             {
                 "reading": "laxabit",
@@ -5602,9 +5601,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser failed to recognize the evidence `GP` as a single unit. This is a parser failure.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "lassabis",
@@ -5747,7 +5746,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             },
             {
                 "reading": "referent",
@@ -5783,9 +5782,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser failed to recognize the evidence `PV` as two separate units. This is a parser failure.",
+                "review_status": "Reviewed"
             }
         ]
     },
@@ -5853,9 +5852,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser failed to recognize the evidence `NP` as separate units. This is a parser failure.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "latralia",
@@ -6257,7 +6256,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             }
         ]
     },
@@ -6283,9 +6282,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser failed to recognize the evidence `N2P` as two separate units. This is a parser failure.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "asseret",
@@ -6303,7 +6302,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             }
         ]
     },
@@ -6403,9 +6402,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser failed to recognize the evidence `eugi2` as separate units. This is a parser failure.",
+                "review_status": "Reviewed"
             }
         ]
     },
@@ -6570,9 +6569,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "Total failure, probably caused by `edd.`.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "evectumque",
@@ -6730,9 +6729,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser failed to recognize the evidence `GPA` as separate units. This is a parser failure.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "servit",
@@ -6768,9 +6767,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser failed to recognize the evidence `NVreubdsgi2on` as separate units. This is a parser failure.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "fervet",
@@ -6791,7 +6790,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             }
         ]
     },
@@ -6823,9 +6822,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "Failure probably caused by lack of a white space before `Kempfer`. The parser failed to recognize the evidence `NPrKempfer` as separate units. This is a parser failure.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "vicessima",
@@ -6862,9 +6861,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser failed to recognize the evidence `GVP` as separate units. This is a parser failure.",
+                "review_status": "Reviewed"
             }
         ]
     },
@@ -6918,9 +6917,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "Total failure on both reading and evidence. The parser failed to recognize the evidence `NG` as separate units. Also, the editorial comment on the group is missing. This is a parser failure.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "et placidam radiantem",
@@ -6987,9 +6986,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser has trouble with the evidence `r`, `s`, `o`, and `n`. This is a parser failure.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "ut placidum radianti",
@@ -7058,9 +7057,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser failed to recognize the evidence `ph` as separate units. This is a parser failure.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "ut placida radiatum",
@@ -7246,9 +7245,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser failed to recognize the evidence `NG` as separate units. This is a parser failure.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "mittat",
@@ -7272,9 +7271,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser failed to recognize the evidence `pth` as separate units. It also failed to catch `Burm.` in the evidence. This is a parser failure.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "micat",
@@ -7331,9 +7330,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser failed to recognize the evidence `r`, `s`, `o`, and `n` as separate units. This is a parser failure.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "nutat",
@@ -7368,9 +7367,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser failed to recognize `deubi1` as separate units. This is a parser failure.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "mutet",
@@ -7546,9 +7545,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser failed to recognize the evidence `olim` as a Latin word. This is a parser failure.",
+                "review_status": "Reviewed"
             }
         ]
     },
@@ -7575,9 +7574,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser failed to recognize the evidence `res` as  separate units. This is a parser failure.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "comato",
@@ -7657,9 +7656,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser failed to recognize `eubd2` as separate units. This is a parser failure.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "sintilla",
@@ -7737,9 +7736,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser failed to recognize the evidence `rs` as separate units. This is a parser failure.",
+                "review_status": "Reviewed"
             }
         ]
     },
@@ -8023,9 +8022,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser failed to recognize the evidence `Ai1ph` as separate units. This is a parser failure.",
+                "review_status": "Reviewed"
             }
         ]
     },
@@ -8049,9 +8048,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser failed to recognize the evidence `sno` as separate units. This is a parser failure.",
+                "review_status": "Reviewed"
             }
         ]
     },
@@ -8117,7 +8116,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             },
             {
                 "reading": "a meritis",
@@ -8188,9 +8187,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser failed to recognize the evidence `eud` as separate units. This is a parser failure.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "ut meritis",
@@ -8227,7 +8226,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             },
             {
                 "reading": "emeritis",
@@ -8248,7 +8247,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             },
             {
                 "reading": "emeriti",
@@ -8266,9 +8265,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser failed to recognize the evidence `Haupt 1874` and `L. Mueller`. This is a parser failure.",
+                "review_status": "Reviewed"
             }
         ]
     },
@@ -8295,7 +8294,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             }
         ]
     },
@@ -8322,9 +8321,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser failed to recognize the evidence `Haupt 1874` and `L. Mueller`. This is a parser failure.",
+                "review_status": "Reviewed"
             }
         ]
     },
@@ -8485,9 +8484,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "This failed because of a typo: `Gronv` should be `Gronov.`. This is a human failure.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "suspexerit",
@@ -8501,9 +8500,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser failed to recognize the evidence `Haupt 1874`. This is a parser failure.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "despexerit",
@@ -8664,9 +8663,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "Human error: the transcription has a typo and the JSON was missing two witnesses.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "plenus",
@@ -8685,7 +8684,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             }
         ]
     },
@@ -8710,9 +8709,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "This failed because of the group `edd.`.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "querit",
@@ -8882,9 +8881,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "This failed because of `Barth.`.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "fecundi",
@@ -9081,7 +9080,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             }
         ]
     },
@@ -9213,7 +9212,7 @@
                 "status": "mismatch",
                 "reviewer": null,
                 "reviewer_notes": null,
-                "review_status": "Failed"
+                "review_status": "Reviewed"
             },
             {
                 "reading": "agustas",
@@ -9313,9 +9312,9 @@
                 "reading_match": true,
                 "evidence_match": false,
                 "status": "needs_review",
-                "reviewer": null,
-                "reviewer_notes": null,
-                "review_status": "Pending"
+                "reviewer": "SJH",
+                "reviewer_notes": "The parser has trouble with the evidence `r`, `s`, `o`, and `n`. This is a parser failure.",
+                "review_status": "Reviewed"
             },
             {
                 "reading": "aras",
