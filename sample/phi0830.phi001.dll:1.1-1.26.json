@@ -10,6 +10,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab>I 1 <hi rend=\"italic\">C</hi>. G P A φ Ulit. Wernsd. Glaeser sqq., <hi rend=\"italic\">om.</hi> Nπχ p, <hi rend=\"italic\">O</hi>. εβγμρ edd. ante Glaeser.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -183,6 +184,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">nundum</hi> G (corr. m<hi rend=\"superscript\">1</hi>) P.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -220,13 +222,12 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The apparatus unambiguously assigns 'nundum' to G and P and identifies a correction in G by m1.",
-                        "The corrected reading is inferred from the target text."
-                    ]
-                },
+                "comments": [
+                    {
+                        "text": "The apparatus unambiguously assigns 'nundum' to G and P and identifies a correction in G by m1.The corrected reading is inferred from the target text.",
+                        "responsibility": "SJH"
+                    }
+                ]
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -249,7 +250,12 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">declinis</hi> N Heins. Schenkl, <hi rend=\"italic\">declivis</hi> G V edd., <hi rend=\"italic\">declivus</hi> Pp, <hi rend=\"italic\">declives</hi> μ</ab>",
-        "transcription_notes": [{"text": "The witness for the reading 'declives' is unclear in the image; it has been transcribed as 'μ' based on comparison with other instances of the same witness in the text.", "responsibility": "SJH"}],
+        "transcription_notes": [
+            {
+                "text": "The witness for the reading 'declives' is unclear in the image; it has been transcribed as 'μ' based on comparison with other instances of the same witness in the text.",
+                "responsibility": "SJH"
+            }
+        ],
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -406,6 +412,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">quatinus</hi> φπηθ r.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -469,6 +476,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">praeda</hi> P.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -516,6 +524,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab>3.  <hi rend=\"italic\">om. </hi> κχ.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -567,6 +576,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">iniusta</hi> P.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -614,6 +624,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">C. </hi> V plerique, edd. fere omnes ante Glaeser.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -673,6 +684,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">ornyte</hi> Heins. Maehly Baehr. Schenkl, <hi rend=\"italic\">ornite</hi> N G V edd., <hi rend=\"italic\">ornyce</hi> P, <hi rend=\"italic\">ornithe</hi> s.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -829,6 +841,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">vaccae</hi> εχλβραηγ edd.,  <hi rend=\"italic\">vacce</hi> Nνφ πκμ rp,  <hi rend=\"italic\">bacce</hi> G,  <hi rend=\"italic\">vaccas</hi> δ.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -1021,6 +1034,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">molle sub</hi> P V edd., <hi rend=\"italic\">molliter</hi> N G A H Glaeser Keene Jacoby (Woch. f. kl. Phi. III p. 1290), <hi rend=\"italic\">molle per</hi> Schenkl<hi rend=\"superscript\">2</hi>.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -1136,12 +1150,7 @@
                 ],
                 "reporting_rank": 2,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -1164,6 +1173,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">yrsuta</hi> P, <hi rend=\"italic\">hirsutam</hi> Schenkl<hi rend=\"superscript\">2</hi></ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -1189,12 +1199,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -1222,12 +1227,7 @@
                 ],
                 "reporting_rank": 2,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -1250,6 +1250,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">explicare</hi> εγμλ<hi rend=\"superscript\">1</hi>δ e.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -1296,12 +1297,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -1324,6 +1320,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">genestra</hi> λ<hi rend=\"superscript\">1</hi>δ, <hi rend=\"italic\">genesta</hi> εγμλ<hi rend=\"superscript\">2</hi>χ<hi rend=\"superscript\">2</hi> e Beck, <hi rend=\"italic\">genistam</hi> Schenkl<hi rend=\"superscript\">2</hi>.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -1354,12 +1351,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -1413,12 +1405,7 @@
                 ],
                 "reporting_rank": 2,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -1446,12 +1433,7 @@
                 ],
                 "reporting_rank": 3,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -1474,6 +1456,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">subcedimus</hi> G.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -1499,12 +1482,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -1527,6 +1505,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">ulmis</hi> nonnulli apud Titium.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -1560,12 +1539,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -1588,6 +1562,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">O.</hi> om. N (add. m<hi rend=\"superscript\">1</hi>).</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -1621,13 +1596,10 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible.",
-                        "The reading is inferred from the context and the correction made by hand 1."
-                    ]
-                },
+                "comments": [{
+                    "text": "The reading is inferred from the context and the correction made by hand 1.",
+                    "responsibility": "SJH"
+                }],
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -1650,6 +1622,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">corydon</hi> χεδρ<hi rend=\"superscript\">2</hi> edd., <hi rend=\"italic\">coridon</hi> N G βνκλγμπρ<hi rend=\"superscript\">1</hi>φαηr Barth., <hi rend=\"italic\">corridon</hi> P.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -1696,12 +1669,7 @@
                 ],
                 "reporting_rank": null,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -1786,12 +1754,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -1819,12 +1782,7 @@
                 ],
                 "reporting_rank": 2,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -1847,6 +1805,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">nemora</hi> G (in mg.).</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -1874,12 +1833,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -1903,6 +1857,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">antra</hi> -9 <hi rend=\"italic\">ista</hi> N G Glaeser sqq., <hi rend=\"italic\">ista</hi> -9 <hi rend=\"italic\">antra</hi> P V edd. ante Glaeser</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -1955,10 +1910,7 @@
                     }
                 ],
                 "editorial_comments": [],
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": "Text and witness sigla are clearly legible."
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -2014,10 +1966,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": [],
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": "Text and witness sigla are clearly legible."
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -2040,6 +1989,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">gracilis</hi> V (edd. vett. accusativos eiusmodi fere semper in <hi rend=\"italic\">is</hi> exhibent).</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -2070,12 +2020,7 @@
                         "type": "orthographic_observation"
                     }
                 ],
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -2098,6 +2043,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">denset</hi> G A P λ<hi rend=\"superscript\">2</hi> Glaeser sqq., <hi rend=\"italic\">densent</hi> N, <hi rend=\"italic\">densat</hi> V edd. ante Glaeser.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -2148,12 +2094,7 @@
                 ],
                 "reporting_rank": null,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -2181,12 +2122,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -2226,12 +2162,7 @@
                 ],
                 "reporting_rank": 2,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -2254,6 +2185,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">rabidoque</hi> Baehr. (lect. lat. p. 35).</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -2279,12 +2211,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -2307,6 +2234,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">capud</hi> G.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -2332,12 +2260,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -2360,6 +2283,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">bullentes</hi> εδed<hi rend=\"superscript\">2</hi>, <hi rend=\"italic\">bullantis</hi> ηνφρ<hi rend=\"superscript\">2</hi> rs, <hi rend=\"italic\">palantes</hi> Heins.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -2397,12 +2321,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -2451,12 +2370,7 @@
                 ],
                 "reporting_rank": 2,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -2484,12 +2398,7 @@
                 ],
                 "reporting_rank": 3,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -2512,6 +2421,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">ubi</hi>] G (<hi rend=\"italic\">et</hi> in mg.).</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -2542,12 +2452,7 @@
                         "type": "witness_observation"
                     }
                 ],
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -2570,6 +2475,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">protegis</hi> G (corr. m<hi rend=\"superscript\">1</hi>).</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -2603,13 +2509,12 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible.",
-                        "The corrected reading is inferred from the target text."
-                    ]
-                },
+                "comments": [
+                    {
+                        "text": "The corrected reading is inferred from the target text.",
+                        "responsibility": "SJH"
+                    }
+                ],
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -2632,6 +2537,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">errantes</hi> G.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -2657,12 +2563,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -2685,6 +2586,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">vocas</hi> Pp.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -2714,12 +2616,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -2742,6 +2639,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">sequar</hi> N Glaeser Keene.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -2775,12 +2673,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -2803,6 +2696,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">Ornyte</hi> (<hi rend=\"italic\">or</hi> in ras. N).</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -2833,12 +2727,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -2861,6 +2750,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">Leuce</hi> NGAP πεχ<hi rend=\"superscript\">2</hi> (<hi rend=\"italic\">leute</hi> in ras. καχ<hi rend=\"superscript\">1</hi>), <hi rend=\"italic\">lene</hi> φηρνθrs, <hi rend=\"italic\">lance</hi> γμ, <hi rend=\"italic\">luce</hi> b (corr. Guid.), <hi rend=\"italic\">lauce</hi> λ δ β.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -2911,12 +2801,7 @@
                 ],
                 "reporting_rank": null,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -2953,12 +2838,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -3010,12 +2890,7 @@
                 ],
                 "reporting_rank": 2,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -3047,12 +2922,7 @@
                 ],
                 "reporting_rank": 3,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -3088,12 +2958,7 @@
                 ],
                 "reporting_rank": 4,
                 "editorial_comments": "corr. Guid.",
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -3129,12 +2994,7 @@
                 ],
                 "reporting_rank": 5,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -3157,6 +3017,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">noturnaque</hi> G,<hi rend=\"italic\">no<hi rend=\"superscript\">c</hi>turnaque</hi> N (<hi rend=\"italic\">no<hi rend=\"superscript\">c</hi>turna</hi> in ras.).</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3182,12 +3043,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -3215,14 +3071,10 @@
                 ],
                 "reporting_rank": 2,
                 "editorial_comments": "'nocturna' in ras.",
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible.",
-                        "The superscript 'c' in the reading is not relevant for the interpretation of the text.",
-                        "The reading is consistent with the target text."
-                    ]
-                },
+                "comments": [{
+                    "text": "The superscript 'c' in the reading is not relevant for the interpretation of the text. The reading is consistent with the target text.",
+                    "responsibility": "SJH"
+                }],
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -3245,6 +3097,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">previa</hi> P.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3270,12 +3123,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -3298,6 +3146,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">fanni</hi> P.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3323,12 +3172,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -3351,6 +3195,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab>post hunc versum Beck aliquid excidisse suspicatur</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3376,13 +3221,12 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": "post hunc versum Beck aliquid excidisse suspicatur",
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible.",
-                        "Giarratano's comment indicates that the omission in b and Beck's suspicion of an omission are relevant to the interpretation of the text."
-                    ]
-                },
+                "comments": [
+                    {
+                        "text": "Giarratano's comment indicates that the omission in b and Beck's suspicion of an omission are relevant to the interpretation of the text.",
+                        "responsibility": "SJH"
+                    }
+                ],
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -3405,6 +3249,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">O</hi>. φεγην edd. praeter Baehr. et Schenkl.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3462,12 +3307,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -3490,6 +3330,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">chalamos</hi> G.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3515,12 +3356,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -3543,6 +3379,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">mea</hi> om. ρ (add. A in mg.), <hi rend=\"italic\">nova</hi> νφηθrson Burm. Beck.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3568,10 +3405,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": null,
-                    "reasons": []
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": null,
                     "reading_correct": null,
@@ -3598,13 +3432,13 @@
                     }
                 ],
                 "reporting_rank": 2,
-                "editorial_comments": "added in mg. of ρ (urn:uuid:82f7ff13-d777-4606-a48f-a6b0a023298b), which omits the reading",
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Giarratano's preface explains that A is preserved in ρ (urn:uuid:82f7ff13-d777-4606-a48f-a6b0a023298b)"
-                    ]
-                },
+                "editorial_comments": "add. A in mg.",
+                "comments": [
+                    {
+                        "text": "Giarratano's preface explains that A is preserved in ρ (urn:uuid:82f7ff13-d777-4606-a48f-a6b0a023298b)",
+                        "responsibility": "SJH"
+                    }
+                ],
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -3664,12 +3498,7 @@
                 ],
                 "reporting_rank": 3,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -3692,6 +3521,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">natura</hi> Pp Kempfer.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3725,12 +3555,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -3753,6 +3578,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">docilis</hi> N (<hi rend=\"italic\">s</hi> eras.), <hi rend=\"italic\">docili</hi> vel <hi rend=\"italic\">docilem</hi> Beck.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3778,12 +3604,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": "'s' eras.",
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -3811,12 +3632,12 @@
                 ],
                 "reporting_rank": 2,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Giarratano indicates that Beck is indifferent between 'docili' and 'docilem'."
-                    ]
-                },
+                "comments": [
+                    {
+                        "text": "Giarratano indicates that Beck is indifferent between 'docili' and 'docilem'.",
+                        "responsibility": "SJH"
+                    }
+                ],
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -3844,12 +3665,12 @@
                 ],
                 "reporting_rank": 3,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Giarratano indicates that Beck is indifferent between 'docili' and 'docilem'."
-                    ]
-                },
+                "comments": [
+                    {
+                        "text": "Giarratano indicates that Beck is indifferent between 'docili' and 'docilem'.",
+                        "responsibility": "SJH"
+                    }
+                ],
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -3872,6 +3693,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">arundine</hi> G νφλρμ<hi rend=\"superscript\">1</hi>, <hi rend=\"italic\">harundine</hi> Nαβδημ<hi rend=\"superscript\">2</hi>πχεγκ.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3918,12 +3740,7 @@
                 ],
                 "reporting_rank": null,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -3992,12 +3809,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -4020,6 +3832,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">Ladon</hi> NGAHP Baehr. Schenkl (qui proposuit <hi rend=\"italic\">Ladas</hi>), <hi rend=\"italic\">Lydon</hi> νφχγμδηθrs, <hi rend=\"italic\">Lidon</hi> κπβρ<hi rend=\"superscript\">1</hi>, <hi rend=\"italic\">Ligdon</hi> αλbn, <hi rend=\"italic\">Lygdon</hi> ερ<hi rend=\"superscript\">2</hi> edd., <hi rend=\"italic\">Lacon</hi> Wilamowitz (ind. lect. aest. Gott. 1884 p. 6).</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4069,12 +3882,7 @@
                 ],
                 "reporting_rank": null,
                 "editorial_comments": "Schenkl proposuit 'Ladas'",
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -4138,12 +3946,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -4184,12 +3987,7 @@
                 ],
                 "reporting_rank": 2,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -4229,12 +4027,7 @@
                 ],
                 "reporting_rank": 3,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -4267,12 +4060,7 @@
                 ],
                 "reporting_rank": 4,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -4301,12 +4089,7 @@
                 ],
                 "reporting_rank": 5,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -4329,6 +4112,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">en</hi> Maehly.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4354,12 +4138,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -4382,6 +4161,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">O</hi>. Pπκχλα Baehr. Schenkl, om. rell. codd. et edd., <hi rend=\"italic\">C</hi>. d.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4434,12 +4214,7 @@
                     }
                 ],
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -4474,12 +4249,7 @@
                 ],
                 "reporting_rank": 2,
                 "editorial_comments": [],
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -4507,12 +4277,7 @@
                 ],
                 "reporting_rank": 3,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -4535,6 +4300,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">captata</hi> G (<hi rend=\"italic\">captate</hi> in mg.).</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4588,12 +4354,7 @@
                 ],
                 "reporting_rank": 2,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -4616,6 +4377,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">pariter</hi> om. Pp.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4667,6 +4429,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">subcessimus</hi> G.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4714,6 +4477,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">O</hi>. μρ, <hi rend=\"italic\">C</hi>. νφδηrson Ulit. Burm. Wernsd. Beck.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4810,12 +4574,7 @@
                 ],
                 "reporting_rank": 2,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -4838,6 +4597,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">sacro</hi> Gδ.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4867,12 +4627,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -4895,6 +4650,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">descripta</hi> P V N (m<hi rend=\"superscript\">2</hi> in mg.) edd., <hi rend=\"italic\">depicta</hi> G Jacoby (l. l. p. 1291), <hi rend=\"italic\">dipicta N</hi> (corr. m<hi rend=\"superscript\">1</hi> in <hi rend=\"italic\">depicta</hi>).</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4941,12 +4697,7 @@
                 ],
                 "reporting_rank": null,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -4983,13 +4734,12 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible.",
-                        "The inclusion of N for this reading is inferred from the next claim, which states that N has 'dipicta', but the same hand corrected it to 'depicta'."
-                    ]
-                },
+                "comments": [
+                    {
+                        "text": "The inclusion of N for this reading is inferred from the next claim, which states that N has 'dipicta', but the same hand corrected it to 'depicta'.",
+                        "responsibility": "SJH"
+                    }
+                ],
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -5047,6 +4797,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">est</hi> om. eu.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5076,12 +4827,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -5104,6 +4850,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">quis</hi>] <hi rend=\"italic\">qui</hi> N.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5129,13 +4876,12 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible.",
-                        "The closing square bracket is not part of the reading. It specifies the lemma 'quis' in the text, which is not part of the apparatus entry. The reading 'qui' is the variant reading attested by witness N."
-                    ]
-                },
+                "comments": [
+                    {
+                        "text": "The closing square bracket is not part of the reading. It specifies the lemma 'quis' in the text, which is not part of the apparatus entry.",
+                        "responsibility": "SJH"
+                    }
+                ],
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -5158,6 +4904,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">C</hi>. εγ edd. ante Glaeser. (except. rsond Ulit. Burm. Wernsd. Beck.).</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5253,6 +5000,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">aspicit</hi> ε.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5300,6 +5048,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">tunc</hi> Vienn.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5347,6 +5096,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">litera</hi> N (corr. m<hi rend=\"superscript\">2</hi>) P.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5384,14 +5134,13 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": "A second hand in N corrects the reading to 'littera'.",
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible.",
-                        "The correction to 'littera' is inferred from 'corr. m2'."
-                    ]
-                },
+                "editorial_comments": "corr. m2.",
+                "comments": [
+                    {
+                        "text": "The correction to 'littera' is inferred from 'corr. m2'.",
+                        "responsibility": "SJH"
+                    }
+                ],
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -5414,6 +5163,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">csorvet</hi> N (<hi rend=\"italic\">o</hi> et pars sup. litt. <hi rend=\"italic\">s</hi> in ras.).</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5461,6 +5211,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">arenti</hi> (ex <hi rend=\"italic\">arena</hi> N).</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5495,13 +5246,12 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "medium",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible.",
-                        "Giarratano's comment 'ex arena N' is opaque. It doesn't indicate whether 'arenti' is a correction or which hand made the correction. I have guessed that the primary hand wrote 'arena' and corrected it to 'arenti', but I am not certain of the details."
-                    ]
-                },
+                "comments": [
+                    {
+                        "text": "Giarratano's comment 'ex arena N' is opaque. It doesn't indicate whether 'arenti' is a correction or which hand made the correction. I have guessed that the primary hand wrote 'arena' and corrected it to 'arenti', but I am not certain of the details.",
+                        "responsibility": "SJH"
+                    }
+                ],                
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -5524,6 +5274,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">se</hi> om. N (add. m<hi rend=\"superscript\">1</hi>).</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5559,12 +5310,7 @@
                 "editorial_comments": [
                     "add. m1"
                 ],
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -5587,6 +5333,12 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">se laxat</hi> d, <hi rend=\"italic\">laxetur</hi> Schenkl olim.</ab>",
+        "transcription_notes": [
+            {
+                "text": "The reading 'se' is not clear in the copy, but it can be inferred that 'laxat' is the part that varies from the lemma.",
+                "responsibility": "SJH"
+            }
+        ],
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5612,12 +5364,7 @@
                 ],
                 "reporting_rank": 2,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "medium",
-                    "reasons": [
-                        "The reading 'se' is not clear in the copy, but it can be inferred that 'laxat' is the part that varies from the lemma."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -5645,12 +5392,7 @@
                 ],
                 "reporting_rank": 3,
                 "editorial_comments": "olim",
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -5673,6 +5415,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">hyatu</hi> Nλ.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5702,12 +5445,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -5730,6 +5468,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">C</hi>. Pαβκχλρμπδp Glaeser Keene Baehr. Schenkl, <hi rend=\"italic\">§</hi> G, om. Nενφγη edd.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5811,12 +5550,7 @@
                 ],
                 "reporting_rank": null,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -5844,12 +5578,12 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "medium",
-                    "reasons": [
-                        "It is not clear what Giarratano means by '§'."
-                    ]
-                },
+                "comments": [
+                    {
+                        "text": "The meaning of '§' is unclear. Giarratano does not explain what this symbol indicates.",
+                        "responsibility": "SJH"
+                    }
+                ],
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -5897,12 +5631,7 @@
                 ],
                 "reporting_rank": 2,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -5925,6 +5654,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">ornite</hi> ω.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5950,12 +5680,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -5978,6 +5703,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">propius</hi> P ρ<hi rend=\"superscript\">2</hi>εκχλβανγπηδedd., <hi rend=\"italic\">proprius</hi> N (<hi rend=\"italic\">r</hi> alt. exp. m<hi rend=\"superscript\"> </hi>) G φμρ<hi rend=\"superscript\">1</hi> θ i<hi rend=\"superscript\">2</hi> h Baehr.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6079,13 +5805,12 @@
                 ],
                 "reporting_rank": null,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible.",
-                        "Exceptions to the group of editions are inferred from the variant reading that follows."
-                    ]
-                },
+                "comments": [
+                    {
+                        "text": "Exceptions to the group of editions are inferred from the variant reading that follows.",
+                        "responsibility": "SJH"
+                    }
+                ],
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -6164,12 +5889,12 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Correction to ρ is inferred from the previous reading."
-                    ]
-                },
+                "comments": [
+                    {
+                        "text": "Correction to ρ is inferred from the previous reading.",
+                        "responsibility": "SJH"
+                    }
+                ],
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -6192,6 +5917,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">tua</hi>] <hi rend=\"italic\">tu</hi> d.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6217,12 +5943,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -6245,6 +5966,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">altos</hi> NG.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6274,12 +5996,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -6302,6 +6019,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">cortice</hi> N (<hi rend=\"italic\">rt</hi> in ras. m<hi rend=\"superscript\">2</hi>) PV edd. (probavit mihi per litteras F. Leo, coll. <hi rend=\"italic\">virides</hi> v. 22, Verg. Ecl. V 13, Naso II, 63 sq.), <hi rend=\"italic\">codice</hi> G A Schenkl.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6350,12 +6068,7 @@
                 ],
                 "reporting_rank": null,
                 "editorial_comments": "probavit mihi per litteras F. Leo, coll. 'virides' v. 22, Verg. Ecl. V 13, Naso II, 63 sq.",
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -6392,12 +6105,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -6433,12 +6141,7 @@
                 ],
                 "reporting_rank": 2,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -6461,6 +6164,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">destrictos</hi> G.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6486,12 +6190,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -6514,6 +6213,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">sycios</hi> P.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6539,12 +6239,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -6567,6 +6262,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">percurere</hi> N (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6601,12 +6297,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -6629,6 +6320,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">percurrere certius orsus</hi> Barth. (Adv. 34, 8).</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6654,12 +6346,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": "Adv. 34, 8",
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -6682,6 +6369,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">O</hi>. π.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6707,12 +6395,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -6735,6 +6418,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">namque</hi> (<hi rend=\"italic\">que</hi> del.) G.</ab>",
+        "transcription_notes": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6769,12 +6453,7 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "Reading and witnesses are clear and legible."
-                    ]
-                },
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
