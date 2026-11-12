@@ -2,7 +2,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:f2e93fa5-f815-4ff4-92ca-adaa365f8f20",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.1@C."
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -176,7 +176,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:37b666e6-9980-4776-81d9-d056936f49c5",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.1@Nondum"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -242,7 +242,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:fc07310e-e32e-42f5-b6b8-7915871f71bc",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.1@declinis"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -404,7 +404,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:c8f6d0a9-7c57-4a5e-9def-3ca62cf2e188",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.2@quamvis"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -468,7 +468,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:7757d8c7-4980-42be-bf21-28ccf1a2659f",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.2@praela"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -516,7 +516,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:022529cf-6b85-48c8-8dee-6b53245e3c44",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.3"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -568,7 +568,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:4817a744-94b3-4f6c-a2ec-d57ca52daef9",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.3@musta"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -616,7 +616,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:90c8a150-48bf-43e3-b9b2-8ae8d02b2d6f",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.4"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -676,7 +676,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:3f8dc9f9-4f40-4967-b101-191250643d35",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.4@Ornyte"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -833,7 +833,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:882ea6a9-53ad-4616-a73d-7831b4cdaa8a",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.4@vaccae"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -1026,7 +1026,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:e277cd21-386c-4766-8c6a-3852e41555e3",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.5@sub-molle"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -1165,7 +1165,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:167a8fc8-c3a8-4af7-8e61-a3c7a580d162",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.5@hirsuta"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -1242,7 +1242,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:505737b6-9187-4bfc-988c-babb1cc15efe",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.5@explicuere"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -1312,7 +1312,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:20714735-1595-4b9d-865a-fb071e3da43a",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.5@genista"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -1448,7 +1448,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:89cb821d-1254-472b-9a9e-f1c9899357a0",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.6@succedimus"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -1497,7 +1497,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:2a736434-b584-430d-b642-42d28de68370",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.5@umbris"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -1554,7 +1554,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:2c98e1e5-f190-4e8f-8c63-5c0b46988aed",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.8@O."
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -1596,10 +1596,12 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "comments": [{
-                    "text": "The reading is inferred from the context and the correction made by hand 1.",
-                    "responsibility": "SJH"
-                }],
+                "comments": [
+                    {
+                        "text": "The reading is inferred from the context and the correction made by hand 1.",
+                        "responsibility": "SJH"
+                    }
+                ],
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -1614,7 +1616,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:8dc7d691-2313-4ba9-affe-18915f61b9e5",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.8@Corydon"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -1797,7 +1799,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:bf201edd-3887-4459-8140-5262ce605aa7",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.8@nemus"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -1848,7 +1850,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:9d0a2c08-9e17-4dc5-b987-363db1accb16",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.8@antra",
             "urn:cts:latinLit:phi0830.phi001.dll:1.9@ista"
         ],
@@ -1981,7 +1983,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:c81cc2aa-aed7-446d-9846-17c7e2833db9",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.9@graciles"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -2035,7 +2037,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:1c86c6c2-e30a-49dc-8f75-b760bff290b4",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.9@denset"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -2177,7 +2179,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:d550467b-3e48-49ce-b525-a08462de92b0",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.10@rapido"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -2226,7 +2228,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:8b81f151-3650-4b05-8cfd-7ff4873ead67",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.10@caput"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -2275,7 +2277,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:d1dbcc88-a31d-4f4c-bc25-3ca700d9d5a8",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.11@bullantes"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -2413,7 +2415,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:abfa04d2-c723-4732-8274-e7efa574ff08",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.11@ubi"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -2467,7 +2469,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:3c293e2c-f4a5-48e9-909c-42652fb84404",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.12@protegit"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -2529,7 +2531,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:9a368dc2-c4d4-42d8-a7ed-6081b1a9dc8b",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.12@errantibus"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -2578,7 +2580,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:8f6dcca4-f3a6-40ba-a6e3-b30cf94123cb",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.13@vocas"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -2631,7 +2633,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:d7ac15b2-aa08-460c-bc0b-98d95be6cafb",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.13@sequor"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -2688,7 +2690,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:de22d8c6-eaed-464f-a84e-901589980420",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.13@Ornyte"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -2742,7 +2744,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:390d0c28-f0c2-47a7-a75d-f0fd1b9d5601",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.13@Leuce"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -3009,7 +3011,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:9de244d4-7413-47c6-a20d-ddc6c86ddefc",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.14@nocturnaque"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -3071,10 +3073,12 @@
                 ],
                 "reporting_rank": 2,
                 "editorial_comments": "'nocturna' in ras.",
-                "comments": [{
-                    "text": "The superscript 'c' in the reading is not relevant for the interpretation of the text. The reading is consistent with the target text.",
-                    "responsibility": "SJH"
-                }],
+                "comments": [
+                    {
+                        "text": "The superscript 'c' in the reading is not relevant for the interpretation of the text. The reading is consistent with the target text.",
+                        "responsibility": "SJH"
+                    }
+                ],
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -3089,7 +3093,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:bc016a02-5c44-4fc2-8b56-9273dc2e2bfd",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.15@pervia"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -3138,7 +3142,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:059560c1-2d15-4988-8320-0b81080d38a8",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.15@Fauni"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -3187,7 +3191,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:0380e1d1-ab68-4b6d-855d-89803f846b88",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.16;"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -3241,7 +3245,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:ac90f88d-aeb8-4389-ba83-b85092f1bfd8",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.16"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -3322,7 +3326,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:57e3c173-eb80-46e2-bc35-9370b845300b",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.16@calamos"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -3371,7 +3375,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:e2a07fea-bec4-4ffc-95d6-7c6400f35a5a",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.17@mea"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -3513,7 +3517,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:d8e1822f-c44f-4bb1-9a2a-5021c88d85ee",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.18@matura"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -3570,7 +3574,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:0ea128a6-7be0-4593-b782-6155e24fefa8",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.18@docilis"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -3685,7 +3689,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:effb1c79-6a78-4e71-b67f-94b28ab66e88",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.18@arundine"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -3824,7 +3828,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:b83e6c2c-6a51-4504-bf55-ca6fec68405a",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.18@Ladon"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -4104,7 +4108,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:c49e785b-e564-482a-9348-8da3092c0adf",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.19@Et"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -4153,7 +4157,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:1bf943f0-c283-40f1-9a55-4c684199c699",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.19@O."
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -4292,7 +4296,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:4be00ecf-ecdc-4e5e-ba79-3dc9c3ea12ff",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.19@captatae"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -4369,7 +4373,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:33791abe-8c8d-4e73-b219-620bc198e39b",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.19@pariter"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -4421,7 +4425,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:854c71f8-acd2-4a65-8ea9-5ff122c2526c",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.19@successimus"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -4469,7 +4473,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:772b55bf-f27f-4016-8452-e2a8a7064c42",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.20"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -4589,7 +4593,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:2f7cb4ea-0925-4eab-a04c-1cc3911853b5",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.20@sacra"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -4642,7 +4646,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:6d520f71-005e-4a97-838c-714d708ae8fe",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.20@descripta"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -4789,7 +4793,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:50b010cd-b110-422d-9e53-1dbb26f644d1",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.20@est"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -4842,7 +4846,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:550c3b9a-2bf4-49b5-92aa-d71c880b912f",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.21@quis"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -4896,7 +4900,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:14406301-778b-4580-ac52-816bab786387",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.22@"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -4992,7 +4996,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:fe313331-663a-4a86-8022-1ab03a5e9759",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.22@aspicis"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -5040,7 +5044,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:32db9dfb-2538-4970-b83c-f5aea9648c6b",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.22@nunc"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -5088,7 +5092,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:c8f512c7-9c9d-44e8-bbde-ffd9d91679ef",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.22@littera"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -5155,7 +5159,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:6411281c-c591-4f89-8401-caa3ff4c0dbd",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.23@servet"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -5203,7 +5207,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:bd21ded0-636a-4857-9d26-a5f717a3ce28",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.23@arenti"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -5251,7 +5255,7 @@
                         "text": "Giarratano's comment 'ex arena N' is opaque. It doesn't indicate whether 'arenti' is a correction or which hand made the correction. I have guessed that the primary hand wrote 'arena' and corrected it to 'arenti', but I am not certain of the details.",
                         "responsibility": "SJH"
                     }
-                ],                
+                ],
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -5266,7 +5270,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:58fc6dc5-af16-47b6-80b8-2eb13fa20945",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.23@se"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -5325,7 +5329,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:64de5bba-d578-493d-b9c3-0c52b33dd155",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.23@se-laxet"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -5407,7 +5411,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:c52cb9ad-6382-4785-a52b-5e3a8f30d9cd",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.23@hiatu"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -5460,7 +5464,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:5a773724-9732-4baa-a1e7-6ce6c8d3f400",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.24@C."
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -5646,7 +5650,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:f1cf2ae2-a2c1-4e30-93ca-f0178ce8d581",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.24@Ornyte"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -5695,7 +5699,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:87220fb7-7deb-467a-b32f-0ccd53c537b5",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.24@propius"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -5909,7 +5913,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:b61264a3-94b9-44ea-9a2a-5a84cc652da4",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.24@tua"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -5958,7 +5962,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:1b31c779-e056-4b91-b83a-e482f370015d",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.24@alto"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -6011,7 +6015,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:81fbfdad-5999-42ff-ade9-5bde4dd90b12",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.25@cortice"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -6156,7 +6160,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:d2d78ce8-ae8b-4e6f-be2b-e8b21ea4fce2",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.25@descriptos"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -6205,7 +6209,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:9c606485-9dad-43a4-b53c-aee69081ebb6",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.25@citius"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -6254,7 +6258,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:d634628b-b09e-4330-975a-e9aaa19a4012",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.25@percurrere"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -6312,7 +6316,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:935669b5-28b5-4fb5-8926-fc789fbda482",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.25@percurrerere-versus"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -6361,7 +6365,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:07e5c40b-02fd-46e8-ab27-60351dbaa2e6",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.26"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
@@ -6410,7 +6414,7 @@
     {
         "type": "apparatus_entry",
         "id": "urn:uuid:1853bd38-7e18-417b-8615-3a9430ab100c",
-        "text_locus": [
+        "target": [
             "urn:cts:latinLit:phi0830.phi001.dll:1.26@nam"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
