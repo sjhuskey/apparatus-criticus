@@ -173,7 +173,8 @@
             "type": "manuscript",
             "uuid": "urn:uuid:95b19ca1-7f6a-459b-a461-9697623d2284",
             "label": "A",
-            "id": "A"
+            "id": "A",
+            "note": "Readings from this manuscript are preserved in ρ (urn:uuid:82f7ff13-d777-4606-a48f-a6b0a023298b)"
         },
         {
             "siglum": "H",
