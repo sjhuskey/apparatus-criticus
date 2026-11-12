@@ -67,12 +67,6 @@
                 ],
                 "reporting_rank": null,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -112,12 +106,6 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -173,12 +161,6 @@
                 ],
                 "reporting_rank": 2,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -267,6 +249,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">declinis</hi> N Heins. Schenkl, <hi rend=\"italic\">declivis</hi> G V edd., <hi rend=\"italic\">declivus</hi> Pp, <hi rend=\"italic\">declives</hi> μ</ab>",
+        "transcription_notes": [{"text": "The witness for the reading 'declives' is unclear in the image; it has been transcribed as 'μ' based on comparison with other instances of the same witness in the text.", "responsibility": "SJH"}],
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -300,12 +283,6 @@
                 ],
                 "reporting_rank": null,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -349,12 +326,6 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -386,12 +357,6 @@
                 ],
                 "reporting_rank": 2,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -419,12 +384,6 @@
                 ],
                 "reporting_rank": 3,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible, aside from the misprint noted above."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -488,12 +447,6 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -541,12 +494,6 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -598,12 +545,6 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -651,12 +592,6 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -716,12 +651,6 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -781,12 +710,6 @@
                 ],
                 "reporting_rank": null,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -830,12 +753,6 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -863,12 +780,6 @@
                 ],
                 "reporting_rank": 2,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -896,12 +807,6 @@
                 ],
                 "reporting_rank": 3,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -985,12 +890,6 @@
                 ],
                 "reporting_rank": null,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -1046,12 +945,6 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -1079,12 +972,6 @@
                 ],
                 "reporting_rank": 2,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -1112,12 +999,6 @@
                 ],
                 "reporting_rank": 3,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -1177,12 +1058,6 @@
                 ],
                 "reporting_rank": null,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -1234,12 +1109,6 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": "Jacoby defendit (p. 1290 Wochenschrift für Klassische Philologie III, 1886)",
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -4691,12 +4560,6 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -4782,12 +4645,6 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -4835,12 +4692,6 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -4892,12 +4743,6 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -5180,12 +5025,6 @@
                 ],
                 "reporting_rank": 2,
                 "editorial_comments": "corr. m1 in depicta",
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -5392,12 +5231,6 @@
                 "editorial_comments": [
                     "(except. rsond Ulit. Burm. Wernsd. Beck.)"
                 ],
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -5445,12 +5278,6 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -5498,12 +5325,6 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": null,
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -5618,12 +5439,6 @@
                 ],
                 "reporting_rank": 1,
                 "editorial_comments": "'o' et pars. sup. litt. 's' in ras.",
-                "confidence": {
-                    "interpretation": "high",
-                    "reasons": [
-                        "The reading and witnesses are clear and legible."
-                    ]
-                },
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -6267,7 +6082,8 @@
                 "confidence": {
                     "interpretation": "high",
                     "reasons": [
-                        "Reading and witnesses are clear and legible.", "Exceptions to the group of editions are inferred from the variant reading that follows."
+                        "Reading and witnesses are clear and legible.",
+                        "Exceptions to the group of editions are inferred from the variant reading that follows."
                     ]
                 },
                 "evaluation": {
@@ -6350,7 +6166,9 @@
                 "editorial_comments": null,
                 "confidence": {
                     "interpretation": "high",
-                    "reasons": ["Correction to ρ is inferred from the previous reading."]
+                    "reasons": [
+                        "Correction to ρ is inferred from the previous reading."
+                    ]
                 },
                 "evaluation": {
                     "target_correct": true,
@@ -6401,7 +6219,9 @@
                 "editorial_comments": null,
                 "confidence": {
                     "interpretation": "high",
-                    "reasons": ["Reading and witnesses are clear and legible."]
+                    "reasons": [
+                        "Reading and witnesses are clear and legible."
+                    ]
                 },
                 "evaluation": {
                     "target_correct": true,
@@ -6456,7 +6276,9 @@
                 "editorial_comments": null,
                 "confidence": {
                     "interpretation": "high",
-                    "reasons": ["Reading and witnesses are clear and legible."]
+                    "reasons": [
+                        "Reading and witnesses are clear and legible."
+                    ]
                 },
                 "evaluation": {
                     "target_correct": true,
@@ -6530,7 +6352,9 @@
                 "editorial_comments": "probavit mihi per litteras F. Leo, coll. 'virides' v. 22, Verg. Ecl. V 13, Naso II, 63 sq.",
                 "confidence": {
                     "interpretation": "high",
-                    "reasons": ["Reading and witnesses are clear and legible."]
+                    "reasons": [
+                        "Reading and witnesses are clear and legible."
+                    ]
                 },
                 "evaluation": {
                     "target_correct": true,
@@ -6570,7 +6394,9 @@
                 "editorial_comments": null,
                 "confidence": {
                     "interpretation": "high",
-                    "reasons": ["Reading and witnesses are clear and legible."]
+                    "reasons": [
+                        "Reading and witnesses are clear and legible."
+                    ]
                 },
                 "evaluation": {
                     "target_correct": true,
@@ -6609,7 +6435,9 @@
                 "editorial_comments": null,
                 "confidence": {
                     "interpretation": "high",
-                    "reasons": ["Reading and witnesses are clear and legible."]
+                    "reasons": [
+                        "Reading and witnesses are clear and legible."
+                    ]
                 },
                 "evaluation": {
                     "target_correct": true,
@@ -6660,7 +6488,9 @@
                 "editorial_comments": null,
                 "confidence": {
                     "interpretation": "high",
-                    "reasons": ["Reading and witnesses are clear and legible."]
+                    "reasons": [
+                        "Reading and witnesses are clear and legible."
+                    ]
                 },
                 "evaluation": {
                     "target_correct": true,
@@ -6711,7 +6541,9 @@
                 "editorial_comments": null,
                 "confidence": {
                     "interpretation": "high",
-                    "reasons": ["Reading and witnesses are clear and legible."]
+                    "reasons": [
+                        "Reading and witnesses are clear and legible."
+                    ]
                 },
                 "evaluation": {
                     "target_correct": true,
@@ -6771,7 +6603,9 @@
                 "editorial_comments": null,
                 "confidence": {
                     "interpretation": "high",
-                    "reasons": ["Reading and witnesses are clear and legible."]
+                    "reasons": [
+                        "Reading and witnesses are clear and legible."
+                    ]
                 },
                 "evaluation": {
                     "target_correct": true,
@@ -6822,7 +6656,9 @@
                 "editorial_comments": "Adv. 34, 8",
                 "confidence": {
                     "interpretation": "high",
-                    "reasons": ["Reading and witnesses are clear and legible."]
+                    "reasons": [
+                        "Reading and witnesses are clear and legible."
+                    ]
                 },
                 "evaluation": {
                     "target_correct": true,
@@ -6873,7 +6709,9 @@
                 "editorial_comments": null,
                 "confidence": {
                     "interpretation": "high",
-                    "reasons": ["Reading and witnesses are clear and legible."]
+                    "reasons": [
+                        "Reading and witnesses are clear and legible."
+                    ]
                 },
                 "evaluation": {
                     "target_correct": true,
@@ -6933,7 +6771,9 @@
                 "editorial_comments": null,
                 "confidence": {
                     "interpretation": "high",
-                    "reasons": ["Reading and witnesses are clear and legible."]
+                    "reasons": [
+                        "Reading and witnesses are clear and legible."
+                    ]
                 },
                 "evaluation": {
                     "target_correct": true,
