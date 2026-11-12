@@ -227,7 +227,7 @@
                         "text": "The apparatus unambiguously assigns 'nundum' to G and P and identifies a correction in G by m1.The corrected reading is inferred from the target text.",
                         "responsibility": "SJH"
                     }
-                ]
+                ],
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
