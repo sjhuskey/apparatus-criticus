@@ -1,0 +1,507 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/schemas/apparatus-corpus.schema.json",
+  "title": "Apparatus corpus — candidate schema v0.1",
+  "description": "Working schema for an array of apparatus entries and their claims. Provisional choices are documented in the companion notes.",
+  "type": "array",
+  "items": {
+    "$ref": "#/$defs/apparatus_entry"
+  },
+  "$defs": {
+    "uuid_urn": {
+      "type": "string",
+      "pattern": "^urn:uuid:[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[1-8][0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}$"
+    },
+    "target": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 1
+    },
+    "agent": {
+      "description": "An agent responsible for a reading or correction, identified by a source-specific designation or by a reference to an entity in the edition profile.",
+      "oneOf": [
+        {
+          "type": "string",
+          "minLength": 1
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "$ref": "#/$defs/uuid_urn"
+            },
+            "label": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "id",
+            "label"
+          ],
+          "additionalProperties": false
+        }
+      ]
+    },
+    "attributed_note": {
+      "type": "object",
+      "properties": {
+        "text": {
+          "type": "string"
+        },
+        "responsibility": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "text",
+        "responsibility"
+      ],
+      "additionalProperties": false
+    },
+    "reading_sequence": {
+      "type": "object",
+      "properties": {
+        "sequence": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "target": {
+                "type": "string"
+              },
+              "value": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "target",
+              "value"
+            ],
+            "additionalProperties": false
+          },
+          "minItems": 1
+        }
+      },
+      "required": [
+        "sequence"
+      ],
+      "additionalProperties": false
+    },
+    "comments": {
+      "description": "Attributed comments concerning the object to which they are attached.",
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/attributed_note"
+          }
+        }
+      ]
+    },
+    "correction_reading": {
+      "type": "object",
+      "description": "A reading associated with a correction, either explicitly reported in the source apparatus or inferred during transcription.",
+      "properties": {
+        "value": {
+          "type": "string",
+          "minLength": 1
+        },
+        "status": {
+          "type": "string",
+          "enum": [
+            "explicit",
+            "inferred"
+          ]
+        },
+        "responsibility": {
+          "type": "string",
+          "minLength": 1,
+          "description": "The person responsible for identifying or inferring the reading, when known."
+        }
+      },
+      "required": [
+        "value",
+        "status"
+      ],
+      "additionalProperties": false
+    },
+    "correction": {
+      "type": "object",
+      "properties": {
+        "agent": {
+          "$ref": "#/$defs/agent"
+        },
+        "reading": {
+          "$ref": "#/$defs/correction_reading"
+        },
+        "comments": {
+          "$ref": "#/$defs/comments"
+        }
+      },
+      "required": ["reading"],
+      "additionalProperties": false
+    },
+    "group_boundary": {
+      "type": "object",
+      "properties": {
+        "relation": {
+          "type": "string",
+          "enum": [
+            "before",
+            "from"
+          ]
+        },
+        "id": {
+          "$ref": "#/$defs/uuid_urn"
+        },
+        "label": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "relation",
+        "label"
+      ],
+      "additionalProperties": false
+    },
+    "group": {
+      "type": "object",
+      "properties": {
+        "label": {
+          "type": "string"
+        },
+        "type": {
+          "oneOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "minItems": 1
+            }
+          ]
+        },
+        "quantity": {
+          "type": "string"
+        },
+        "boundary": {
+          "oneOf": [
+            {
+              "$ref": "#/$defs/group_boundary"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "exceptions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "$ref": "#/$defs/uuid_urn"
+              },
+              "label": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "id",
+              "label"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "id": {
+          "$ref": "#/$defs/uuid_urn"
+        }
+      },
+      "required": [
+        "label"
+      ],
+      "additionalProperties": false
+    },
+    "supporting_evidence": {
+      "oneOf": [
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "$ref": "#/$defs/uuid_urn"
+            },
+            "label": {
+              "type": "string"
+            },
+            "agent": {
+              "$ref": "#/$defs/agent"
+            },
+            "place": {
+              "type": "string"
+            },
+            "correction": {
+              "$ref": "#/$defs/correction"
+            },
+            "comments": {
+              "$ref": "#/$defs/comments"
+            }
+          },
+          "required": [
+            "id",
+            "label"
+          ],
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "properties": {
+            "group": {
+              "$ref": "#/$defs/group"
+            }
+          },
+          "required": [
+            "group"
+          ],
+          "additionalProperties": false
+        }
+      ]
+    },
+    "extraction": {
+      "type": "object",
+      "properties": {
+        "model": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "extracted_at": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date-time"
+        },
+        "extraction_image": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [],
+      "additionalProperties": false
+    },
+    "evaluation": {
+      "type": "object",
+      "properties": {
+        "target_correct": {
+          "type": [
+            "boolean",
+            "null"
+          ]
+        },
+        "reading_correct": {
+          "type": [
+            "boolean",
+            "null"
+          ]
+        },
+        "witnesses_correct": {
+          "type": [
+            "boolean",
+            "null"
+          ]
+        },
+        "interpretation_correct": {
+          "type": [
+            "boolean",
+            "null"
+          ]
+        },
+        "reviewer": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "review_status": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [],
+      "additionalProperties": false
+    },
+    "claim": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "const": "apparatus_claim"
+        },
+        "id": {
+          "$ref": "#/$defs/uuid_urn"
+        },
+        "apparatus_entry_id": {
+          "$ref": "#/$defs/uuid_urn"
+        },
+        "target": {
+          "$ref": "#/$defs/target"
+        },
+        "claim_type": {
+          "type": "string"
+        },
+        "reading_type": {
+          "type": "string",
+          "enum": [
+            "lemma",
+            "variant",
+            "omission",
+            "transposition"
+          ]
+        },
+        "reading": {
+          "oneOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            },
+            {
+              "$ref": "#/$defs/reading_sequence"
+            }
+          ]
+        },
+        "supporting_evidence": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/supporting_evidence"
+          }
+        },
+        "reporting_rank": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "comments": {
+          "$ref": "#/$defs/comments"
+        },
+        "evaluation": {
+          "$ref": "#/$defs/evaluation"
+        }
+      },
+      "required": [
+        "type",
+        "id",
+        "apparatus_entry_id",
+        "target",
+        "claim_type",
+        "reading_type",
+        "reading",
+        "supporting_evidence"
+      ],
+      "additionalProperties": false
+    },
+    "apparatus_entry": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "const": "apparatus_entry"
+        },
+        "id": {
+          "$ref": "#/$defs/uuid_urn"
+        },
+        "target": {
+          "$ref": "#/$defs/target"
+        },
+        "source_edition": {
+          "$ref": "#/$defs/uuid_urn"
+        },
+        "source_page": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "source_image": {
+          "type": "string"
+        },
+        "bbox_norm": {
+          "type": "array"
+        },
+        "transcription": {
+          "type": "string"
+        },
+        "comments": {
+          "$ref": "#/$defs/comments"
+        },
+        "transcriber": {
+          "type": "string"
+        },
+        "extraction": {
+          "$ref": "#/$defs/extraction"
+        },
+        "claims": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/claim"
+          },
+          "allOf": [
+            {
+              "if": {
+                "contains": {
+                  "type": "object",
+                  "properties": {
+                    "reading_type": {
+                      "const": "lemma"
+                    }
+                  },
+                  "required": [
+                    "reading_type"
+                  ]
+                }
+              },
+              "then": {
+                "prefixItems": [
+                  {
+                    "properties": {
+                      "reading_type": {
+                        "const": "lemma"
+                      }
+                    },
+                    "required": [
+                      "reading_type"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "required": [
+        "type",
+        "id",
+        "target",
+        "source_edition",
+        "source_page",
+        "transcription",
+        "claims"
+      ],
+      "additionalProperties": false
+    }
+  }
+}
