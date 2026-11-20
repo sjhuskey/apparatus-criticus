@@ -1,0 +1,569 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://digitallatin.org/schemas/edition-profile.schema.json",
+  "title": "Apparatus Criticus Edition Profile",
+  "description": "Candidate schema for edition profiles describing source entities, abbreviations, and printed conventions.",
+  "type": "object",
+  "required": [
+    "metadata",
+    "primary_sources",
+    "secondary_sources",
+    "people",
+    "groups",
+    "abbreviations",
+    "main_text",
+    "apparatus_criticus"
+  ],
+  "properties": {
+    "metadata": {
+      "$ref": "#/$defs/metadata"
+    },
+    "primary_sources": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/primarySource"
+      }
+    },
+    "secondary_sources": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/secondarySource"
+      }
+    },
+    "people": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/person"
+      }
+    },
+    "groups": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/group"
+      }
+    },
+    "abbreviations": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/abbreviation"
+      }
+    },
+    "main_text": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/descriptiveRule"
+      }
+    },
+    "apparatus_criticus": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/descriptiveRule"
+      }
+    }
+  },
+  "additionalProperties": false,
+  "$defs": {
+    "uuidUrn": {
+      "type": "string",
+      "pattern": "^urn:uuid:[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$",
+      "description": "Canonical lowercase UUID version 4 URN."
+    },
+    "nonEmptyString": {
+      "type": "string",
+      "minLength": 1
+    },
+    "uri": {
+      "type": "string",
+      "format": "uri"
+    },
+    "bibliographicCitation": {
+      "type": "object",
+      "required": [
+        "type"
+      ],
+      "properties": {
+        "type": {
+          "enum": [
+            "book",
+            "journal_article"
+          ]
+        },
+        "author": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "editor": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "title": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "article_title": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "journal_title": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "place": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "publisher": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "year": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "volume": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "pagination": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "uri": {
+          "$ref": "#/$defs/uri"
+        },
+        "note": {
+          "$ref": "#/$defs/nonEmptyString"
+        }
+      },
+      "additionalProperties": false,
+      "description": "Bibliographic details supplied within a person record; not necessarily a standalone indexed source."
+    },
+    "editionMetadata": {
+      "type": "object",
+      "required": [
+        "id",
+        "editor",
+        "title",
+        "year"
+      ],
+      "properties": {
+        "editor": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "title": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "publisher": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "year": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "place": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "uri": {
+          "$ref": "#/$defs/uri"
+        },
+        "id": {
+          "$ref": "#/$defs/uuidUrn"
+        }
+      },
+      "additionalProperties": false
+    },
+    "metadata": {
+      "type": "object",
+      "required": [
+        "id",
+        "cts_text_id",
+        "work_title",
+        "author",
+        "edition"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/uuidUrn"
+        },
+        "cts_text_id": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "work_title": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "author": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "edition": {
+          "$ref": "#/$defs/editionMetadata"
+        }
+      },
+      "additionalProperties": false
+    },
+    "manuscript": {
+      "type": "object",
+      "required": [
+        "id",
+        "label",
+        "type",
+        "name"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/uuidUrn"
+        },
+        "label": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "type": {
+          "const": "manuscript"
+        },
+        "name": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "note": {
+          "$ref": "#/$defs/nonEmptyString"
+        }
+      },
+      "additionalProperties": false
+    },
+    "manuscriptGroup": {
+      "type": "object",
+      "required": [
+        "id",
+        "label",
+        "type",
+        "name"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/uuidUrn"
+        },
+        "label": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "type": {
+          "const": "manuscript_group"
+        },
+        "name": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "meaning": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "members": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/uuidUrn"
+          },
+          "minItems": 1,
+          "uniqueItems": true
+        },
+        "note": {
+          "$ref": "#/$defs/nonEmptyString"
+        }
+      },
+      "additionalProperties": false,
+      "description": "Membership may be contextual and is therefore optional."
+    },
+    "edition": {
+      "type": "object",
+      "required": [
+        "id",
+        "label",
+        "type",
+        "title"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/uuidUrn"
+        },
+        "label": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "type": {
+          "const": "edition"
+        },
+        "editor": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "title": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "place": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "publisher": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "year": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "uri": {
+          "$ref": "#/$defs/uri"
+        },
+        "note": {
+          "$ref": "#/$defs/nonEmptyString"
+        }
+      },
+      "additionalProperties": false
+    },
+    "editionGroup": {
+      "type": "object",
+      "required": [
+        "id",
+        "label",
+        "type"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/uuidUrn"
+        },
+        "label": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "type": {
+          "const": "edition_group"
+        },
+        "members": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/uuidUrn"
+          },
+          "minItems": 1,
+          "uniqueItems": true
+        },
+        "note": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "meaning": {
+          "$ref": "#/$defs/nonEmptyString"
+        }
+      },
+      "additionalProperties": false
+    },
+    "primarySource": {
+      "oneOf": [
+        {
+          "$ref": "#/$defs/manuscript"
+        },
+        {
+          "$ref": "#/$defs/manuscriptGroup"
+        },
+        {
+          "$ref": "#/$defs/edition"
+        },
+        {
+          "$ref": "#/$defs/editionGroup"
+        }
+      ]
+    },
+    "book": {
+      "type": "object",
+      "required": [
+        "id",
+        "label",
+        "type",
+        "title"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/uuidUrn"
+        },
+        "label": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "type": {
+          "const": "book"
+        },
+        "author": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "editor": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "title": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "place": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "publisher": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "year": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "uri": {
+          "$ref": "#/$defs/uri"
+        },
+        "note": {
+          "$ref": "#/$defs/nonEmptyString"
+        }
+      },
+      "additionalProperties": false
+    },
+    "journalArticle": {
+      "type": "object",
+      "required": [
+        "id",
+        "label",
+        "type",
+        "article_title",
+        "journal_title"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/uuidUrn"
+        },
+        "label": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "type": {
+          "const": "journal_article"
+        },
+        "author": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "editor": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "article_title": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "journal_title": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "volume": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "pagination": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "year": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "uri": {
+          "$ref": "#/$defs/uri"
+        },
+        "note": {
+          "$ref": "#/$defs/nonEmptyString"
+        }
+      },
+      "additionalProperties": false
+    },
+    "secondarySource": {
+      "oneOf": [
+        {
+          "$ref": "#/$defs/book"
+        },
+        {
+          "$ref": "#/$defs/journalArticle"
+        }
+      ]
+    },
+    "alias": {
+      "type": "object",
+      "required": [
+        "form",
+        "type"
+      ],
+      "properties": {
+        "form": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "type": {
+          "enum": [
+            "pseudonym",
+            "variant_name",
+            "other"
+          ]
+        },
+        "uri": {
+          "$ref": "#/$defs/uri"
+        },
+        "note": {
+          "$ref": "#/$defs/nonEmptyString"
+        }
+      },
+      "additionalProperties": false
+    },
+    "person": {
+      "type": "object",
+      "required": [
+        "id",
+        "label",
+        "name"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/uuidUrn"
+        },
+        "label": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "name": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "uri": {
+          "$ref": "#/$defs/uri"
+        },
+        "note": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "citation": {
+          "$ref": "#/$defs/bibliographicCitation"
+        },
+        "aliases": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/alias"
+          },
+          "minItems": 1
+        }
+      },
+      "additionalProperties": false
+    },
+    "group": {
+      "type": "object",
+      "required": [
+        "id",
+        "label",
+        "meaning"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/uuidUrn"
+        },
+        "label": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "meaning": {
+          "$ref": "#/$defs/nonEmptyString"
+        }
+      },
+      "additionalProperties": false
+    },
+    "abbreviation": {
+      "type": "object",
+      "required": [
+        "text",
+        "meaning"
+      ],
+      "properties": {
+        "text": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "meaning": {
+          "$ref": "#/$defs/nonEmptyString"
+        }
+      },
+      "additionalProperties": false
+    },
+    "descriptiveRule": {
+      "type": "object",
+      "required": [
+        "scope",
+        "description"
+      ],
+      "properties": {
+        "scope": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "description": {
+          "$ref": "#/$defs/nonEmptyString"
+        }
+      },
+      "additionalProperties": false
+    }
+  }
+}
