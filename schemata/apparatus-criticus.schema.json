@@ -20,8 +20,8 @@
       },
       "minItems": 1
     },
-    "agent": {
-      "description": "An agent responsible for a reading or correction, identified by a source-specific designation or by a reference to an entity in the edition profile.",
+    "entity_reference": {
+      "description": "A reference to an entity, expressed as a source-specific designation or as an identifier and label.",
       "oneOf": [
         {
           "type": "string",
@@ -53,7 +53,8 @@
           "type": "string"
         },
         "responsibility": {
-          "type": "string"
+          "description": "The entity responsible for a statement, report, inference, or interpretation recorded in the data.",
+          "$ref": "#/$defs/entity_reference"
         }
       },
       "required": [
@@ -121,9 +122,8 @@
           ]
         },
         "responsibility": {
-          "type": "string",
-          "minLength": 1,
-          "description": "The person responsible for identifying or inferring the reading, when known."
+          "description": "The entity responsible for a statement, report, inference, or interpretation recorded in the data.",
+          "$ref": "#/$defs/entity_reference"
         }
       },
       "required": [
@@ -136,7 +136,8 @@
       "type": "object",
       "properties": {
         "agent": {
-          "$ref": "#/$defs/agent"
+          "description": "The entity responsible for an action or intervention affecting a textual witness or source.",
+          "$ref": "#/$defs/entity_reference"
         },
         "reading": {
           "$ref": "#/$defs/correction_reading"
@@ -245,7 +246,8 @@
               "type": "string"
             },
             "agent": {
-              "$ref": "#/$defs/agent"
+              "description": "The entity responsible for an action or intervention affecting a textual witness or source.",
+              "$ref": "#/$defs/entity_reference"
             },
             "place": {
               "type": "string"

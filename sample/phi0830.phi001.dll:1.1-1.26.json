@@ -10,7 +10,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab>I 1 <hi rend=\"italic\">C</hi>. G P A φ Ulit. Wernsd. Glaeser sqq., <hi rend=\"italic\">om.</hi> Nπχ p, <hi rend=\"italic\">O</hi>. εβγμρ edd. ante Glaeser.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -55,11 +55,11 @@
                     },
                     {
                         "group": {
+                            "id": "urn:uuid:6bf0a801-c5dd-444e-804c-3125ffe56e1e",
                             "label": "sqq.",
                             "type": "edition_group",
-                            "quantity": "some",
                             "boundary": {
-                                "relation": "after",
+                                "relation": "from",
                                 "id": "urn:uuid:475edb73-ed20-45ab-83c4-0bd344518a1b",
                                 "label": "Glaeser"
                             }
@@ -67,7 +67,7 @@
                     }
                 ],
                 "reporting_rank": null,
-                "editorial_comments": null,
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -106,7 +106,7 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -149,9 +149,9 @@
                     },
                     {
                         "group": {
-                            "label": "edd. ante",
+                            "id": "urn:uuid:4b8c192d-42d5-4d5b-97f0-c4f879e36dcc",
+                            "label": "edd.",
                             "type": "edition_group",
-                            "quantity": "all",
                             "boundary": {
                                 "relation": "before",
                                 "id": "urn:uuid:475edb73-ed20-45ab-83c4-0bd344518a1b",
@@ -161,7 +161,7 @@
                     }
                 ],
                 "reporting_rank": 2,
-                "editorial_comments": null,
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -184,7 +184,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">nundum</hi> G (corr. m<hi rend=\"superscript\">1</hi>) P.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -207,7 +207,7 @@
                         "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
                         "label": "G",
                         "correction": {
-                            "hand": "1",
+                            "agent": "m1",
                             "reading": {
                                 "value": "nondum",
                                 "status": "inferred",
@@ -221,7 +221,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": [
                     {
                         "text": "The apparatus unambiguously assigns 'nundum' to G and P and identifies a correction in G by m1.The corrected reading is inferred from the target text.",
@@ -250,7 +249,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">declinis</hi> N Heins. Schenkl, <hi rend=\"italic\">declivis</hi> G V edd., <hi rend=\"italic\">declivus</hi> Pp, <hi rend=\"italic\">declives</hi> μ</ab>",
-        "transcription_notes": [
+        "comments": [
             {
                 "text": "The witness for the reading 'declives' is unclear in the image; it has been transcribed as 'μ' based on comparison with other instances of the same witness in the text.",
                 "responsibility": "SJH"
@@ -288,7 +287,7 @@
                     }
                 ],
                 "reporting_rank": null,
-                "editorial_comments": null,
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -319,19 +318,15 @@
                     },
                     {
                         "group": {
+                            "id": "urn:uuid:4b8c192d-42d5-4d5b-97f0-c4f879e36dcc",
                             "label": "edd.",
                             "type": "edition_group",
-                            "quantity": "all",
-                            "boundary": {
-                                "relation": null,
-                                "id": null,
-                                "label": null
-                            }
+                            "boundary": null
                         }
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -362,7 +357,7 @@
                     }
                 ],
                 "reporting_rank": 2,
-                "editorial_comments": null,
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -389,7 +384,7 @@
                     }
                 ],
                 "reporting_rank": 3,
-                "editorial_comments": null,
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -412,7 +407,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">quatinus</hi> φπηθ r.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -453,7 +448,7 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -476,7 +471,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">praeda</hi> P.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -501,7 +496,7 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -524,7 +519,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab>3.  <hi rend=\"italic\">om. </hi> κχ.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -553,7 +548,7 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -576,7 +571,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">iniusta</hi> P.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -601,7 +596,7 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -624,7 +619,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">C. </hi> V plerique, edd. fere omnes ante Glaeser.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -651,7 +646,6 @@
                         "group": {
                             "label": "plerique edd. fere omnes ante",
                             "type": "edition_group",
-                            "quantity": "nearly_all",
                             "boundary": {
                                 "relation": "before",
                                 "id": "urn:uuid:475edb73-ed20-45ab-83c4-0bd344518a1b",
@@ -661,7 +655,7 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -684,7 +678,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">ornyte</hi> Heins. Maehly Baehr. Schenkl, <hi rend=\"italic\">ornite</hi> N G V edd., <hi rend=\"italic\">ornyce</hi> P, <hi rend=\"italic\">ornithe</hi> s.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -721,7 +715,7 @@
                     }
                 ],
                 "reporting_rank": null,
-                "editorial_comments": null,
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -756,15 +750,15 @@
                     },
                     {
                         "group": {
+                            "id": "urn:uuid:4b8c192d-42d5-4d5b-97f0-c4f879e36dcc",
                             "label": "edd.",
                             "type": "edition_group",
-                            "quantity": "all",
                             "boundary": null
                         }
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -791,7 +785,7 @@
                     }
                 ],
                 "reporting_rank": 2,
-                "editorial_comments": null,
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -818,7 +812,7 @@
                     }
                 ],
                 "reporting_rank": 3,
-                "editorial_comments": null,
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -841,7 +835,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">vaccae</hi> εχλβραηγ edd.,  <hi rend=\"italic\">vacce</hi> Nνφ πκμ rp,  <hi rend=\"italic\">bacce</hi> G,  <hi rend=\"italic\">vaccas</hi> δ.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -894,15 +888,15 @@
                     },
                     {
                         "group": {
+                            "id": "urn:uuid:4b8c192d-42d5-4d5b-97f0-c4f879e36dcc",
                             "label": "edd.",
                             "type": "edition_group",
-                            "quantity": "all",
                             "boundary": null
                         }
                     }
                 ],
                 "reporting_rank": null,
-                "editorial_comments": null,
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -957,7 +951,7 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -984,7 +978,7 @@
                     }
                 ],
                 "reporting_rank": 2,
-                "editorial_comments": null,
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -1011,7 +1005,7 @@
                     }
                 ],
                 "reporting_rank": 3,
-                "editorial_comments": null,
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -1034,7 +1028,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">molle sub</hi> P V edd., <hi rend=\"italic\">molliter</hi> N G A H Glaeser Keene Jacoby (Woch. f. kl. Phi. III p. 1290), <hi rend=\"italic\">molle per</hi> Schenkl<hi rend=\"superscript\">2</hi>.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -1063,15 +1057,15 @@
                     },
                     {
                         "group": {
+                            "id": "urn:uuid: 4b8c192d-42d5-4d5b-97f0-c4f879e36dcc",
                             "label": "edd.",
                             "type": "edition_group",
-                            "quantity": "all",
                             "boundary": null
                         }
                     }
                 ],
                 "reporting_rank": null,
-                "editorial_comments": null,
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -1122,7 +1116,12 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": "Jacoby defendit (p. 1290 Wochenschrift für Klassische Philologie III, 1886)",
+                "comments": [
+                    {
+                        "text": "Jacoby defendit (p. 1290 Wochenschrift für Klassische Philologie III, 1886)",
+                        "responsibility": "Giarratano"
+                    }
+                ],
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -1149,7 +1148,6 @@
                     }
                 ],
                 "reporting_rank": 2,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -1173,7 +1171,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">yrsuta</hi> P, <hi rend=\"italic\">hirsutam</hi> Schenkl<hi rend=\"superscript\">2</hi></ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -1198,7 +1196,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -1226,7 +1223,6 @@
                     }
                 ],
                 "reporting_rank": 2,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -1250,7 +1246,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">explicare</hi> εγμλ<hi rend=\"superscript\">1</hi>δ e.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -1284,7 +1280,7 @@
                     {
                         "id": "urn:uuid:11aa79cd-2dd4-4660-a32f-51307fcbbb18",
                         "label": "λ",
-                        "hand": "1"
+                        "agent": "m1"
                     },
                     {
                         "id": "urn:uuid:2e6148f0-40e8-49a7-9f3c-70d4091a2ac9",
@@ -1296,7 +1292,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -1320,7 +1315,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">genestra</hi> λ<hi rend=\"superscript\">1</hi>δ, <hi rend=\"italic\">genesta</hi> εγμλ<hi rend=\"superscript\">2</hi>χ<hi rend=\"superscript\">2</hi> e Beck, <hi rend=\"italic\">genistam</hi> Schenkl<hi rend=\"superscript\">2</hi>.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -1342,7 +1337,7 @@
                     {
                         "id": "urn:uuid:11aa79cd-2dd4-4660-a32f-51307fcbbb18",
                         "label": "λ",
-                        "hand": "1"
+                        "agent": "m1"
                     },
                     {
                         "id": "urn:uuid:2e6148f0-40e8-49a7-9f3c-70d4091a2ac9",
@@ -1350,7 +1345,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -1387,12 +1381,12 @@
                     {
                         "id": "urn:uuid:11aa79cd-2dd4-4660-a32f-51307fcbbb18",
                         "label": "λ",
-                        "hand": "2"
+                        "agent": "m2"
                     },
                     {
                         "id": "urn:uuid:8470035d-4a05-4b42-8cbc-98a14fa3f41d",
                         "label": "χ",
-                        "hand": "2"
+                        "agent": "m2"
                     },
                     {
                         "id": "urn:uuid:993d93e4-d3ab-48f1-9c94-ca00574da36b",
@@ -1404,7 +1398,6 @@
                     }
                 ],
                 "reporting_rank": 2,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -1432,7 +1425,6 @@
                     }
                 ],
                 "reporting_rank": 3,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -1456,7 +1448,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">subcedimus</hi> G.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -1481,7 +1473,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -1505,7 +1496,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">ulmis</hi> nonnulli apud Titium.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -1528,7 +1519,6 @@
                         "group": {
                             "label": "nonnulli apud Titium",
                             "type": "witness_group",
-                            "quantity": "some",
                             "boundary": {
                                 "relation": "before",
                                 "id": "urn:uuid:40977678-a515-42a1-a9b3-0990fafa56ff",
@@ -1538,7 +1528,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -1562,7 +1551,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">O.</hi> om. N (add. m<hi rend=\"superscript\">1</hi>).</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -1585,7 +1574,7 @@
                         "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
                         "label": "N",
                         "correction": {
-                            "hand": "1",
+                            "agent": "m1",
                             "reading": {
                                 "value": "O.",
                                 "status": "inferred",
@@ -1595,7 +1584,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": [
                     {
                         "text": "The reading is inferred from the context and the correction made by hand 1.",
@@ -1624,7 +1612,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">corydon</hi> χεδρ<hi rend=\"superscript\">2</hi> edd., <hi rend=\"italic\">coridon</hi> N G βνκλγμπρ<hi rend=\"superscript\">1</hi>φαηr Barth., <hi rend=\"italic\">corridon</hi> P.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -1658,19 +1646,18 @@
                     {
                         "id": "urn:uuid:82f7ff13-d777-4606-a48f-a6b0a023298b",
                         "label": "ρ",
-                        "hand": "2"
+                        "agent": "m2"
                     },
                     {
                         "group": {
+                            "id": "urn:uuid:4b8c192d-42d5-4d5b-97f0-c4f879e36dcc",
                             "label": "edd.",
                             "type": "edition_group",
-                            "quantity": "all",
                             "boundary": null
                         }
                     }
                 ],
                 "reporting_rank": null,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -1731,7 +1718,7 @@
                     {
                         "id": "urn:uuid:82f7ff13-d777-4606-a48f-a6b0a023298b",
                         "label": "ρ",
-                        "hand": "1"
+                        "agent": "m1"
                     },
                     {
                         "id": "urn:uuid:ea3aba4e-5a9d-4cd1-a782-724d50639fe5",
@@ -1755,7 +1742,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -1783,7 +1769,6 @@
                     }
                 ],
                 "reporting_rank": 2,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -1807,7 +1792,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">nemora</hi> G (in mg.).</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -1829,12 +1814,11 @@
                     {
                         "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
                         "label": "G",
-                        "hand": "1",
+                        "agent": "m1",
                         "place": "in mg."
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -1859,7 +1843,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">antra</hi> -9 <hi rend=\"italic\">ista</hi> N G Glaeser sqq., <hi rend=\"italic\">ista</hi> -9 <hi rend=\"italic\">antra</hi> P V edd. ante Glaeser</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -1900,18 +1884,17 @@
                     },
                     {
                         "group": {
+                            "id": "urn:uuid:6bf0a801-c5dd-444e-804c-3125ffe56e1e",
                             "label": "sqq.",
                             "type": "edition_group",
-                            "quantity": "all",
                             "boundary": {
-                                "relation": "after",
+                                "relation": "from",
                                 "id": "urn:uuid:475edb73-ed20-45ab-83c4-0bd344518a1b",
                                 "label": "Glaeser"
                             }
                         }
                     }
                 ],
-                "editorial_comments": [],
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -1955,9 +1938,9 @@
                     },
                     {
                         "group": {
-                            "label": "edd. ante",
+                            "id": "urn:uuid:4b8c192d-42d5-4d5b-97f0-c4f879e36dcc",
+                            "label": "edd.",
                             "type": "edition_group",
-                            "quantity": "all",
                             "boundary": {
                                 "relation": "before",
                                 "id": "urn:uuid:475edb73-ed20-45ab-83c4-0bd344518a1b",
@@ -1967,7 +1950,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": [],
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -1991,7 +1973,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">gracilis</hi> V (edd. vett. accusativos eiusmodi fere semper in <hi rend=\"italic\">is</hi> exhibent).</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -2016,13 +1998,12 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": [
+                "comments": [
                     {
                         "text": "edd. vett. accusativos eiusmodi fere semper in is exhibent",
-                        "type": "orthographic_observation"
+                        "responsibility": "Giarratano"
                     }
                 ],
-                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -2045,7 +2026,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">denset</hi> G A P λ<hi rend=\"superscript\">2</hi> Glaeser sqq., <hi rend=\"italic\">densent</hi> N, <hi rend=\"italic\">densat</hi> V edd. ante Glaeser.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -2079,15 +2060,15 @@
                     {
                         "id": "urn:uuid:11aa79cd-2dd4-4660-a32f-51307fcbbb18",
                         "label": "λ",
-                        "hand": "2"
+                        "agent": "m2"
                     },
                     {
                         "group": {
+                            "id": "urn:uuid:6bf0a801-c5dd-444e-804c-3125ffe56e1e",
                             "label": "sqq.",
                             "type": "edition_group",
-                            "quantity": "all",
                             "boundary": {
-                                "relation": "after",
+                                "relation": "from",
                                 "id": "urn:uuid:475edb73-ed20-45ab-83c4-0bd344518a1b",
                                 "label": "Glaeser"
                             }
@@ -2095,7 +2076,6 @@
                     }
                 ],
                 "reporting_rank": null,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -2123,7 +2103,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -2151,11 +2130,11 @@
                     },
                     {
                         "group": {
-                            "label": "edd. ante",
+                            "id": "urn:uuid:4b8c192d-42d5-4d5b-97f0-c4f879e36dcc",
+                            "label": "edd.",
                             "type": "edition_group",
-                            "quantity": "all",
                             "boundary": {
-                                "relation": "before",
+                                "relation": "from",
                                 "id": "urn:uuid:475edb73-ed20-45ab-83c4-0bd344518a1b",
                                 "label": "Glaeser"
                             }
@@ -2163,7 +2142,6 @@
                     }
                 ],
                 "reporting_rank": 2,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -2187,7 +2165,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">rabidoque</hi> Baehr. (lect. lat. p. 35).</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -2212,7 +2190,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -2236,7 +2213,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">capud</hi> G.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -2261,7 +2238,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -2285,7 +2261,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">bullentes</hi> εδed<hi rend=\"superscript\">2</hi>, <hi rend=\"italic\">bullantis</hi> ηνφρ<hi rend=\"superscript\">2</hi> rs, <hi rend=\"italic\">palantes</hi> Heins.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -2322,7 +2298,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -2359,7 +2334,7 @@
                     {
                         "id": "urn:uuid:82f7ff13-d777-4606-a48f-a6b0a023298b",
                         "label": "ρ",
-                        "hand": "2"
+                        "agent": "m2"
                     },
                     {
                         "id": "urn:uuid:bd1b0ef3-6a75-4927-b348-1c722cfafffd",
@@ -2371,7 +2346,6 @@
                     }
                 ],
                 "reporting_rank": 2,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -2399,7 +2373,6 @@
                     }
                 ],
                 "reporting_rank": 3,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -2423,7 +2396,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">ubi</hi>] G (<hi rend=\"italic\">et</hi> in mg.).</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -2448,13 +2421,12 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": [
+                "comments": [
                     {
                         "text": "'et' in mg.",
-                        "type": "witness_observation"
+                        "responsibility": "Giarratano"
                     }
                 ],
-                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -2477,7 +2449,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">protegis</hi> G (corr. m<hi rend=\"superscript\">1</hi>).</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -2500,7 +2472,7 @@
                         "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
                         "label": "G",
                         "correction": {
-                            "hand": "1",
+                            "agent": "m1",
                             "reading": {
                                 "value": "protegit",
                                 "status": "inferred",
@@ -2510,7 +2482,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": [
                     {
                         "text": "The corrected reading is inferred from the target text.",
@@ -2539,7 +2510,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">errantes</hi> G.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -2564,7 +2535,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -2588,7 +2558,7 @@
         "source_image": "pdf-page-42",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">vocas</hi> Pp.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -2617,7 +2587,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -2641,7 +2610,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">sequar</hi> N Glaeser Keene.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -2674,7 +2643,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -2698,7 +2666,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">Ornyte</hi> (<hi rend=\"italic\">or</hi> in ras. N).</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -2728,7 +2696,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -2752,7 +2719,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">Leuce</hi> NGAP πεχ<hi rend=\"superscript\">2</hi> (<hi rend=\"italic\">leute</hi> in ras. καχ<hi rend=\"superscript\">1</hi>), <hi rend=\"italic\">lene</hi> φηρνθrs, <hi rend=\"italic\">lance</hi> γμ, <hi rend=\"italic\">luce</hi> b (corr. Guid.), <hi rend=\"italic\">lauce</hi> λ δ β.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -2798,11 +2765,10 @@
                     {
                         "id": "urn:uuid:8470035d-4a05-4b42-8cbc-98a14fa3f41d",
                         "label": "χ",
-                        "hand": "2"
+                        "agent": "m2"
                     }
                 ],
                 "reporting_rank": null,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -2835,11 +2801,10 @@
                     {
                         "id": "urn:uuid:8470035d-4a05-4b42-8cbc-98a14fa3f41d",
                         "label": "χ",
-                        "hand": "1"
+                        "agent": "m1"
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -2891,7 +2856,6 @@
                     }
                 ],
                 "reporting_rank": 2,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -2923,7 +2887,6 @@
                     }
                 ],
                 "reporting_rank": 3,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -2959,8 +2922,12 @@
                     }
                 ],
                 "reporting_rank": 4,
-                "editorial_comments": "corr. Guid.",
-                "comments": null,
+                "comments": [
+                    {
+                        "text": "corr. Guid.",
+                        "responsibility": "Giarratano"
+                    }
+                ],
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -2995,7 +2962,6 @@
                     }
                 ],
                 "reporting_rank": 5,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -3019,7 +2985,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">noturnaque</hi> G,<hi rend=\"italic\">no<hi rend=\"superscript\">c</hi>turnaque</hi> N (<hi rend=\"italic\">no<hi rend=\"superscript\">c</hi>turna</hi> in ras.).</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3044,7 +3010,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -3072,8 +3037,11 @@
                     }
                 ],
                 "reporting_rank": 2,
-                "editorial_comments": "'nocturna' in ras.",
                 "comments": [
+                    {
+                        "text": "'nocturna' in ras.",
+                        "responsibility": "Giarratano"
+                    },
                     {
                         "text": "The superscript 'c' in the reading is not relevant for the interpretation of the text. The reading is consistent with the target text.",
                         "responsibility": "SJH"
@@ -3101,7 +3069,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">previa</hi> P.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3126,7 +3094,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -3150,7 +3117,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">fanni</hi> P.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3175,7 +3142,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -3199,7 +3165,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab>post hunc versum Beck aliquid excidisse suspicatur</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3224,8 +3190,11 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": "post hunc versum Beck aliquid excidisse suspicatur",
                 "comments": [
+                    {
+                        "text": "post hunc versum Beck aliquid excidisse suspicatur",
+                        "responsibility": "Giarratano"
+                    },
                     {
                         "text": "Giarratano's comment indicates that the omission in b and Beck's suspicion of an omission are relevant to the interpretation of the text.",
                         "responsibility": "SJH"
@@ -3253,7 +3222,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">O</hi>. φεγην edd. praeter Baehr. et Schenkl.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3305,12 +3274,17 @@
                                     "id": "urn:uuid:cb9bb02a-037b-40ba-9c76-b03555a5cd45",
                                     "label": "Schenkl"
                                 }
+                            ],
+                            "comments": [
+                                {
+                                    "text": "praeter Baehr. et Schenkl.",
+                                    "responsibility": "Giarratano"
+                                }
                             ]
                         }
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -3334,7 +3308,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">chalamos</hi> G.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3359,7 +3333,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -3383,7 +3356,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">mea</hi> om. ρ (add. A in mg.), <hi rend=\"italic\">nova</hi> νφηθrson Burm. Beck.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3408,7 +3381,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": null,
@@ -3436,8 +3408,11 @@
                     }
                 ],
                 "reporting_rank": 2,
-                "editorial_comments": "add. A in mg.",
                 "comments": [
+                    {
+                        "text": "add. A in mg.",
+                        "responsibility": "Giarratano"
+                    },
                     {
                         "text": "Giarratano's preface explains that A is preserved in ρ (urn:uuid:82f7ff13-d777-4606-a48f-a6b0a023298b)",
                         "responsibility": "SJH"
@@ -3501,7 +3476,6 @@
                     }
                 ],
                 "reporting_rank": 3,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -3525,7 +3499,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">natura</hi> Pp Kempfer.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3558,7 +3532,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -3582,7 +3555,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">docilis</hi> N (<hi rend=\"italic\">s</hi> eras.), <hi rend=\"italic\">docili</hi> vel <hi rend=\"italic\">docilem</hi> Beck.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3607,8 +3580,12 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": "'s' eras.",
-                "comments": null,
+                "comments": [
+                    {
+                        "text": "'s' eras.",
+                        "responsibility": "Giarratano"
+                    }
+                ],
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -3635,7 +3612,6 @@
                     }
                 ],
                 "reporting_rank": 2,
-                "editorial_comments": null,
                 "comments": [
                     {
                         "text": "Giarratano indicates that Beck is indifferent between 'docili' and 'docilem'.",
@@ -3668,7 +3644,6 @@
                     }
                 ],
                 "reporting_rank": 3,
-                "editorial_comments": null,
                 "comments": [
                     {
                         "text": "Giarratano indicates that Beck is indifferent between 'docili' and 'docilem'.",
@@ -3697,7 +3672,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">arundine</hi> G νφλρμ<hi rend=\"superscript\">1</hi>, <hi rend=\"italic\">harundine</hi> Nαβδημ<hi rend=\"superscript\">2</hi>πχεγκ.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3739,11 +3714,10 @@
                     {
                         "id": "urn:uuid:1a46fa97-d0c9-40e3-9e01-b2f702c29731",
                         "label": "μ",
-                        "hand": "1"
+                        "agent": "m1"
                     }
                 ],
                 "reporting_rank": null,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -3788,7 +3762,7 @@
                     {
                         "id": "urn:uuid:1a46fa97-d0c9-40e3-9e01-b2f702c29731",
                         "label": "μ",
-                        "hand": "2"
+                        "agent": "m2"
                     },
                     {
                         "id": "urn:uuid:87709584-1c61-421f-bbee-d76a8c94638e",
@@ -3812,7 +3786,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -3836,7 +3809,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">Ladon</hi> NGAHP Baehr. Schenkl (qui proposuit <hi rend=\"italic\">Ladas</hi>), <hi rend=\"italic\">Lydon</hi> νφχγμδηθrs, <hi rend=\"italic\">Lidon</hi> κπβρ<hi rend=\"superscript\">1</hi>, <hi rend=\"italic\">Ligdon</hi> αλbn, <hi rend=\"italic\">Lygdon</hi> ερ<hi rend=\"superscript\">2</hi> edd., <hi rend=\"italic\">Lacon</hi> Wilamowitz (ind. lect. aest. Gott. 1884 p. 6).</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -3885,8 +3858,12 @@
                     }
                 ],
                 "reporting_rank": null,
-                "editorial_comments": "Schenkl proposuit 'Ladas'",
-                "comments": null,
+                "comments": [
+                    {
+                        "text": "Schenkl proposuit 'Ladas'",
+                        "responsibility": "Giarratano"
+                    }
+                ],
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -3949,7 +3926,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -3986,11 +3962,10 @@
                     {
                         "id": "urn:uuid:82f7ff13-d777-4606-a48f-a6b0a023298b",
                         "label": "ρ",
-                        "hand": "1"
+                        "agent": "m1"
                     }
                 ],
                 "reporting_rank": 2,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -4030,7 +4005,6 @@
                     }
                 ],
                 "reporting_rank": 3,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -4059,11 +4033,10 @@
                     {
                         "id": "urn:uuid:82f7ff13-d777-4606-a48f-a6b0a023298b",
                         "label": "ρ",
-                        "hand": "2"
+                        "agent": "m2"
                     }
                 ],
                 "reporting_rank": 4,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -4092,7 +4065,6 @@
                     }
                 ],
                 "reporting_rank": 5,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -4116,7 +4088,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">en</hi> Maehly.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4141,7 +4113,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -4165,7 +4136,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">O</hi>. Pπκχλα Baehr. Schenkl, om. rell. codd. et edd., <hi rend=\"italic\">C</hi>. d.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4217,7 +4188,6 @@
                         "label": "Schenkl"
                     }
                 ],
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -4246,13 +4216,11 @@
                                 "manuscript_group",
                                 "edition_group"
                             ],
-                            "quantity": "some",
                             "boundary": null
                         }
                     }
                 ],
                 "reporting_rank": 2,
-                "editorial_comments": [],
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -4280,7 +4248,6 @@
                     }
                 ],
                 "reporting_rank": 3,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -4304,7 +4271,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">captata</hi> G (<hi rend=\"italic\">captate</hi> in mg.).</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4329,7 +4296,7 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -4357,7 +4324,6 @@
                     }
                 ],
                 "reporting_rank": 2,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -4381,7 +4347,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">pariter</hi> om. Pp.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4410,7 +4376,7 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -4433,7 +4399,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">subcessimus</hi> G.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4458,7 +4424,7 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -4481,7 +4447,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">O</hi>. μρ, <hi rend=\"italic\">C</hi>. νφδηrson Ulit. Burm. Wernsd. Beck.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4510,7 +4476,7 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -4577,7 +4543,6 @@
                     }
                 ],
                 "reporting_rank": 2,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -4601,7 +4566,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">sacro</hi> Gδ.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4630,7 +4595,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -4654,7 +4618,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">descripta</hi> P V N (m<hi rend=\"superscript\">2</hi> in mg.) edd., <hi rend=\"italic\">depicta</hi> G Jacoby (l. l. p. 1291), <hi rend=\"italic\">dipicta N</hi> (corr. m<hi rend=\"superscript\">1</hi> in <hi rend=\"italic\">depicta</hi>).</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4684,7 +4648,7 @@
                     {
                         "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
                         "label": "N",
-                        "hand": "2",
+                        "agent": "m2",
                         "place": "in mg."
                     },
                     {
@@ -4694,13 +4658,11 @@
                             "type": [
                                 "edition_group"
                             ],
-                            "quantity": "some",
                             "boundary": null
                         }
                     }
                 ],
                 "reporting_rank": null,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -4729,7 +4691,7 @@
                     {
                         "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
                         "label": "N",
-                        "hand": "1"
+                        "agent": "m1"
                     },
                     {
                         "id": "urn:uuid:8797eeb0-9edd-434c-9d3c-52dff999e35c",
@@ -4737,7 +4699,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": [
                     {
                         "text": "The inclusion of N for this reading is inferred from the next claim, which states that N has 'dipicta', but the same hand corrected it to 'depicta'.",
@@ -4768,17 +4729,23 @@
                         "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
                         "label": "N",
                         "correction": {
-                            "hand": "1",
+                            "agent": "m1",
                             "reading": {
                                 "value": "depicta",
                                 "status": "explicit",
                                 "responsibility": "Giarratano"
-                            }
+                            },
+                            "comments": [
+                                {
+                                    "text": "corr. m1 in depicta",
+                                    "responsibility": "Giarratano"
+                                }
+                            ]
                         }
                     }
                 ],
                 "reporting_rank": 2,
-                "editorial_comments": "corr. m1 in depicta",
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -4801,7 +4768,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">est</hi> om. eu.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4830,7 +4797,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -4854,7 +4820,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">quis</hi>] <hi rend=\"italic\">qui</hi> N.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4879,7 +4845,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": [
                     {
                         "text": "The closing square bracket is not part of the reading. It specifies the lemma 'quis' in the text, which is not part of the apparatus entry.",
@@ -4908,7 +4873,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">C</hi>. εγ edd. ante Glaeser. (except. rsond Ulit. Burm. Wernsd. Beck.).</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -4937,11 +4902,11 @@
                     },
                     {
                         "group": {
+                            "id": "urn:uuid:4b8c192d-42d5-4d5b-97f0-c4f879e36dcc",
                             "label": "edd.",
                             "type": "edition_group",
-                            "quantity": "some",
                             "boundary": {
-                                "relation": "before",
+                                "relation": "from",
                                 "id": "urn:uuid:475edb73-ed20-45ab-83c4-0bd344518a1b",
                                 "label": "Glaeser"
                             },
@@ -4963,8 +4928,16 @@
                                     "label": "n"
                                 },
                                 {
+                                    "id": "urn:uuid:65bc0a7e-4593-4ebb-96ac-cb70dc13ee33",
+                                    "label": "d"
+                                },
+                                {
                                     "id": "urn:uuid:47e5f301-0070-4036-99c6-11bdd756559a",
                                     "label": "Ulit."
+                                },
+                                {
+                                    "id": "urn:uuid:79419300-6c6f-4b9c-988d-be2fc9645392",
+                                    "label": "Burm."
                                 },
                                 {
                                     "id": "urn:uuid:8e9640ff-7b06-41ce-87a9-3e66001ca8cc",
@@ -4974,14 +4947,18 @@
                                     "id": "urn:uuid:a24b23f6-e144-41e7-badb-52790e195e60",
                                     "label": "Beck"
                                 }
+                            ],
+                            "comments": [
+                                {
+                                    "text": "except. rsond Ulit. Burm. Wernsd. Beck.",
+                                    "responsibility": "Giarratano"
+                                }
                             ]
                         }
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": [
-                    "(except. rsond Ulit. Burm. Wernsd. Beck.)"
-                ],
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -5004,7 +4981,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">aspicit</hi> ε.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5029,7 +5006,7 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -5052,7 +5029,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">tunc</hi> Vienn.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5077,7 +5054,7 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
+                "comments": null,
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -5100,7 +5077,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">litera</hi> N (corr. m<hi rend=\"superscript\">2</hi>) P.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5122,9 +5099,9 @@
                     {
                         "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
                         "label": "N",
-                        "hand": "1",
+                        "agent": "m1",
                         "correction": {
-                            "hand": "1",
+                            "agent": "m1",
                             "reading": {
                                 "value": "littera",
                                 "status": "inferred",
@@ -5138,8 +5115,11 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": "corr. m2.",
                 "comments": [
+                    {
+                        "text": "corr. m2.",
+                        "responsibility": "Giarratano"
+                    },
                     {
                         "text": "The correction to 'littera' is inferred from 'corr. m2'.",
                         "responsibility": "SJH"
@@ -5167,7 +5147,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">csorvet</hi> N (<hi rend=\"italic\">o</hi> et pars sup. litt. <hi rend=\"italic\">s</hi> in ras.).</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5192,7 +5172,12 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": "'o' et pars. sup. litt. 's' in ras.",
+                "comments": [
+                    {
+                        "text": "'o' et pars. sup. litt. 's' in ras.",
+                        "responsibility": "Giarratano"
+                    }
+                ],
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -5215,7 +5200,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">arenti</hi> (ex <hi rend=\"italic\">arena</hi> N).</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5237,9 +5222,9 @@
                     {
                         "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
                         "label": "N",
-                        "hand": "1",
+                        "agent": "m1",
                         "correction": {
-                            "hand": "1",
+                            "agent": "m1",
                             "reading": {
                                 "value": "arenti",
                                 "status": "explicit",
@@ -5249,7 +5234,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": [
                     {
                         "text": "Giarratano's comment 'ex arena N' is opaque. It doesn't indicate whether 'arenti' is a correction or which hand made the correction. I have guessed that the primary hand wrote 'arena' and corrected it to 'arenti', but I am not certain of the details.",
@@ -5278,7 +5262,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">se</hi> om. N (add. m<hi rend=\"superscript\">1</hi>).</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5301,19 +5285,22 @@
                         "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
                         "label": "N",
                         "correction": {
-                            "hand": "1",
+                            "agent": "m1",
                             "reading": {
                                 "value": "se",
                                 "status": "inferred",
                                 "responsibility": "SJH"
-                            }
+                            },
+                            "comments": [
+                                {
+                                    "text": "add. m1",
+                                    "responsibility": "Giarratano"
+                                }
+                            ]
                         }
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": [
-                    "add. m1"
-                ],
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -5337,7 +5324,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">se laxat</hi> d, <hi rend=\"italic\">laxetur</hi> Schenkl olim.</ab>",
-        "transcription_notes": [
+        "comments": [
             {
                 "text": "The reading 'se' is not clear in the copy, but it can be inferred that 'laxat' is the part that varies from the lemma.",
                 "responsibility": "SJH"
@@ -5367,7 +5354,6 @@
                     }
                 ],
                 "reporting_rank": 2,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -5391,11 +5377,16 @@
                 "supporting_evidence": [
                     {
                         "id": "urn:uuid:cb9bb02a-037b-40ba-9c76-b03555a5cd45",
-                        "label": "Schenkl"
+                        "label": "Schenkl",
+                        "comments": [
+                            {
+                                "text": "olim",
+                                "responsibility": "Giarratano"
+                            }
+                        ]
                     }
                 ],
                 "reporting_rank": 3,
-                "editorial_comments": "olim",
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -5419,7 +5410,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">hyatu</hi> Nλ.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5448,7 +5439,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -5472,7 +5462,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">C</hi>. Pαβκχλρμπδp Glaeser Keene Baehr. Schenkl, <hi rend=\"italic\">§</hi> G, om. Nενφγη edd.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5553,7 +5543,6 @@
                     }
                 ],
                 "reporting_rank": null,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -5581,7 +5570,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": [
                     {
                         "text": "The meaning of '§' is unclear. Giarratano does not explain what this symbol indicates.",
@@ -5634,7 +5622,6 @@
                     }
                 ],
                 "reporting_rank": 2,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -5658,7 +5645,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">ornite</hi> ω.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5683,7 +5670,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -5706,8 +5692,8 @@
         "source_page": 6,
         "source_image": "pdf-page-43",
         "bbox_norm": [],
-        "transcription": "<ab><hi rend=\"italic\">propius</hi> P ρ<hi rend=\"superscript\">2</hi>εκχλβανγπηδedd., <hi rend=\"italic\">proprius</hi> N (<hi rend=\"italic\">r</hi> alt. exp. m<hi rend=\"superscript\"> </hi>) G φμρ<hi rend=\"superscript\">1</hi> θ i<hi rend=\"superscript\">2</hi> h Baehr.</ab>",
-        "transcription_notes": null,
+        "transcription": "<ab><hi rend=\"italic\">propius</hi> P ρ<hi rend=\"superscript\">2</hi>εκχλβανγπηδ edd., <hi rend=\"italic\">proprius</hi> N (<hi rend=\"italic\">r</hi> alt. exp. m<hi rend=\"superscript\">1</hi>) G φμρ<hi rend=\"superscript\">1</hi> θ i<hi rend=\"superscript\">2</hi> h Baehr.</ab>",
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5729,7 +5715,7 @@
                     {
                         "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
                         "label": "N",
-                        "hand": "1"
+                        "agent": "m1"
                     },
                     {
                         "id": "urn:uuid:813d3a5f-1fb8-4905-b10a-8dca34d64509",
@@ -5738,7 +5724,7 @@
                     {
                         "id": "urn:uuid:82f7ff13-d777-4606-a48f-a6b0a023298b",
                         "label": "ρ",
-                        "hand": "2"
+                        "agent": "m2"
                     },
                     {
                         "id": "urn:uuid:ef896838-a18f-415d-9e5e-fb44ba27abd2",
@@ -5786,35 +5772,14 @@
                     },
                     {
                         "group": {
-                            "label": "sqq.",
+                            "id": "urn:uuid:4b8c192d-42d5-4d5b-97f0-c4f879e36dcc",
+                            "label": "edd.",
                             "type": "edition_group",
-                            "quantity": "some",
-                            "boundary": null,
-                            "exceptions": [
-                                {
-                                    "id": "urn:uuid:ecdfab6c-0668-4fb9-bda6-f532e514756a",
-                                    "label": "h"
-                                },
-                                {
-                                    "id": "urn:uuid:5987ccec-58c3-4a16-9dab-fcccb6fb21af",
-                                    "label": "i2"
-                                },
-                                {
-                                    "id": "urn:uuid:cfc80e76-a9ce-498e-969d-cfe3c8bf70cc",
-                                    "label": "Baehr."
-                                }
-                            ]
+                            "boundary": null
                         }
                     }
                 ],
                 "reporting_rank": null,
-                "editorial_comments": null,
-                "comments": [
-                    {
-                        "text": "Exceptions to the group of editions are inferred from the variant reading that follows.",
-                        "responsibility": "SJH"
-                    }
-                ],
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -5839,13 +5804,18 @@
                         "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
                         "label": "N",
                         "correction": {
-                            "hand": "1",
+                            "agent": "m1",
                             "reading": {
                                 "value": "proprius",
                                 "status": "explicit",
-                                "responsibility": "Giarratano",
-                                "note": "'r' alt. exp. m1"
-                            }
+                                "responsibility": "Giarratano"
+                            },
+                            "comments": [
+                                {
+                                    "text": "'r' alt. exp. m1",
+                                    "responsibility": "Giarratano"
+                                }
+                            ]
                         }
                     },
                     {
@@ -5863,9 +5833,9 @@
                     {
                         "id": "urn:uuid:82f7ff13-d777-4606-a48f-a6b0a023298b",
                         "label": "ρ",
-                        "hand": "1",
+                        "agent": "m1",
                         "correction": {
-                            "hand": "2",
+                            "agent": "m2",
                             "reading": {
                                 "value": "propius",
                                 "status": "inferred",
@@ -5878,9 +5848,8 @@
                         "label": "θ"
                     },
                     {
-                        "id": "urn:uuid:3648f9ea-1f10-4711-aba3-235ad1e80df1",
-                        "label": "i",
-                        "hand": "2"
+                        "id": "urn:uuid:5987ccec-58c3-4a16-9dab-fcccb6fb21af",
+                        "label": "i2"
                     },
                     {
                         "id": "urn:uuid:ecdfab6c-0668-4fb9-bda6-f532e514756a",
@@ -5892,7 +5861,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": [
                     {
                         "text": "Correction to ρ is inferred from the previous reading.",
@@ -5921,7 +5889,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">tua</hi>] <hi rend=\"italic\">tu</hi> d.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5946,7 +5914,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -5970,7 +5937,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">altos</hi> NG.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -5999,7 +5966,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -6023,7 +5989,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">cortice</hi> N (<hi rend=\"italic\">rt</hi> in ras. m<hi rend=\"superscript\">2</hi>) PV edd. (probavit mihi per litteras F. Leo, coll. <hi rend=\"italic\">virides</hi> v. 22, Verg. Ecl. V 13, Naso II, 63 sq.), <hi rend=\"italic\">codice</hi> G A Schenkl.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6045,7 +6011,7 @@
                     {
                         "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
                         "label": "N",
-                        "hand": "2"
+                        "agent": "m2"
                     },
                     {
                         "id": "urn:uuid:813d3a5f-1fb8-4905-b10a-8dca34d64509",
@@ -6059,20 +6025,17 @@
                         "group": {
                             "label": "edd.",
                             "type": "edition_group",
-                            "quantity": "most",
-                            "boundary": null,
-                            "exceptions": [
-                                {
-                                    "id": "urn:uuid:cb9bb02a-037b-40ba-9c76-b03555a5cd45",
-                                    "label": "Schenkl"
-                                }
-                            ]
+                            "boundary": null
                         }
                     }
                 ],
                 "reporting_rank": null,
-                "editorial_comments": "probavit mihi per litteras F. Leo, coll. 'virides' v. 22, Verg. Ecl. V 13, Naso II, 63 sq.",
-                "comments": null,
+                "comments": [
+                    {
+                        "text": "probavit mihi per litteras F. Leo, coll. 'virides' v. 22, Verg. Ecl. V 13, Naso II, 63 sq.",
+                        "responsibility": "Giarratano"
+                    }
+                ],
                 "evaluation": {
                     "target_correct": true,
                     "reading_correct": true,
@@ -6097,18 +6060,22 @@
                         "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
                         "label": "N",
                         "correction": {
-                            "hand": "2",
+                            "agent": "m2",
                             "reading": {
                                 "value": "cortice",
                                 "status": "explicit",
-                                "responsibility": "Giarratano",
-                                "note": "'rt' in ras. m2"
-                            }
+                                "responsibility": "Giarratano"
+                            },
+                            "comments": [
+                                {
+                                    "text": "'rt' in ras. m2",
+                                    "responsibility": "Giarratano"
+                                }
+                            ]
                         }
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -6144,7 +6111,6 @@
                     }
                 ],
                 "reporting_rank": 2,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -6168,7 +6134,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">destrictos</hi> G.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6193,7 +6159,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -6217,7 +6182,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">sycios</hi> P.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6242,7 +6207,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -6266,7 +6230,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">percurere</hi> N (corr. m<hi rend=\"superscript\">2</hi>).</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6289,18 +6253,22 @@
                         "id": "urn:uuid:df0c6a41-bf05-456a-b449-30722c41fdf2",
                         "label": "N",
                         "correction": {
-                            "hand": "2",
+                            "agent": "m2",
                             "reading": {
                                 "value": "percurrere",
                                 "status": "explicit",
-                                "responsibility": "Giarratano",
-                                "note": "corr. m2"
-                            }
+                                "responsibility": "Giarratano"
+                            },
+                            "comments": [
+                                {
+                                    "text": "corr. m2",
+                                    "responsibility": "Giarratano"
+                                }
+                            ]
                         }
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -6324,7 +6292,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">percurrere certius orsus</hi> Barth. (Adv. 34, 8).</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6345,11 +6313,16 @@
                 "supporting_evidence": [
                     {
                         "id": "urn:uuid:8e4a51b8-49b9-44ea-a752-fc32d13ed481",
-                        "label": "Barth 1624"
+                        "label": "Barth 1624",
+                        "comments": [
+                            {
+                                "text": "Adv. 34, 8",
+                                "responsibility": "Giarratano"
+                            }
+                        ]
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": "Adv. 34, 8",
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -6373,7 +6346,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">O</hi>. π.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6398,7 +6371,6 @@
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
@@ -6422,7 +6394,7 @@
         "source_image": "pdf-page-43",
         "bbox_norm": [],
         "transcription": "<ab><hi rend=\"italic\">namque</hi> (<hi rend=\"italic\">que</hi> del.) G.</ab>",
-        "transcription_notes": null,
+        "comments": null,
         "transcriber": "SJH",
         "extraction": {
             "model": null,
@@ -6445,18 +6417,22 @@
                         "id": "urn:uuid:5c542460-a47b-4ec5-8cb5-61c2a1b3bd39",
                         "label": "G",
                         "correction": {
-                            "hand": "2",
+                            "agent": "m2",
                             "reading": {
                                 "value": "nam",
                                 "status": "explicit",
-                                "responsibility": "Giarratano",
-                                "note": "'que' del."
-                            }
+                                "responsibility": "Giarratano"
+                            },
+                            "comments": [
+                                {
+                                    "text": "'que' del.",
+                                    "responsibility": "Giarratano"
+                                }
+                            ]
                         }
                     }
                 ],
                 "reporting_rank": 1,
-                "editorial_comments": null,
                 "comments": null,
                 "evaluation": {
                     "target_correct": true,
