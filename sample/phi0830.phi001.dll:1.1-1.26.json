@@ -985,7 +985,7 @@
                     "witnesses_correct": true,
                     "interpretation_correct": true,
                     "reviewer": "SJH",
-                    "review_status": "Reivewed"
+                    "review_status": "reviewed"
                 }
             },
             {
@@ -1057,7 +1057,7 @@
                     },
                     {
                         "group": {
-                            "id": "urn:uuid: 4b8c192d-42d5-4d5b-97f0-c4f879e36dcc",
+                            "id": "urn:uuid:4b8c192d-42d5-4d5b-97f0-c4f879e36dcc",
                             "label": "edd.",
                             "type": "edition_group",
                             "boundary": null
@@ -1489,7 +1489,7 @@
         "type": "apparatus_entry",
         "id": "urn:uuid:2a736434-b584-430d-b642-42d28de68370",
         "target": [
-            "urn:cts:latinLit:phi0830.phi001.dll:1.5@umbris"
+            "urn:cts:latinLit:phi0830.phi001.dll:1.6@umbris"
         ],
         "source_edition": "urn:uuid:062e759d-619b-4549-b50b-e73f421609e3",
         "source_page": 5,
@@ -2134,7 +2134,7 @@
                             "label": "edd.",
                             "type": "edition_group",
                             "boundary": {
-                                "relation": "from",
+                                "relation": "before",
                                 "id": "urn:uuid:475edb73-ed20-45ab-83c4-0bd344518a1b",
                                 "label": "Glaeser"
                             }
